@@ -1,0 +1,92 @@
+{
+    "bwa_config": {
+        "default_parameters": {
+            "mem": {
+                "threads": 8,
+                "min_seed_length": 19,
+                "band_width": 100,
+                "dropoff": 100,
+                "reseed_ratio": 1.5,
+                "max_occ": 500,
+                "chain_drop_ratio": 0.50,
+                "min_chain_length": 0,
+                "max_alignments": 5,
+                "match_score": 1,
+                "mismatch_penalty": 4,
+                "gap_open_penalty": 6,
+                "gap_extend_penalty": 1,
+                "clipping_penalty": 5,
+                "unpaired_penalty": 17,
+                "min_score": 30,
+                "max_hits": 5
+            },
+            "aln": {
+                "threads": 8,
+                "max_mismatches": 0.04,
+                "max_gap_opens": 1,
+                "max_gap_extensions": -1,
+                "max_deletion_length": 16,
+                "max_indel_length": 5,
+                "seed_length": 32,
+                "max_edit_distance": 2,
+                "mismatch_penalty": 3,
+                "gap_open_penalty": 11,
+                "gap_extend_penalty": 4,
+                "max_best_hits": 0,
+                "quality_threshold": 0
+            }
+        },
+        "container_config": {
+            "bwa_image": "biocontainers/bwa:0.7.17-1-deb_cv1",
+            "samtools_image": "biocontainers/samtools:1.15-1-deb_cv1"
+        },
+        "resource_requirements": {
+            "index": {
+                "cpus": 4,
+                "memory": "8GB",
+                "time": "2h"
+            },
+            "mem_alignment": {
+                "cpus": 8,
+                "memory": "16GB",
+                "time": "4h"
+            },
+            "aln_alignment": {
+                "cpus": 8,
+                "memory": "16GB",
+                "time": "4h"
+            }
+        },
+        "file_extensions": {
+            "index": [
+                ".amb",
+                ".ann",
+                ".bwt",
+                ".pac",
+                ".sa",
+                ".fai"
+            ],
+            "alignment": [
+                ".sam",
+                ".bam",
+                ".bai",
+                ".sai",
+                ".log"
+            ]
+        },
+        "supported_formats": {
+            "reference": [
+                ".fa",
+                ".fasta",
+                ".fa.gz",
+                ".fasta.gz"
+            ],
+            "reads": [
+                ".fq",
+                ".fastq",
+                ".fq.gz",
+                ".fastq.gz"
+            ]
+        }
+    }
+}

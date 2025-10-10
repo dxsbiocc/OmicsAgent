@@ -1,0 +1,289 @@
+/* 全局动画样式文件 */
+
+/* 消息按钮左右晃动效果 */
+.messageButtonShake {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  position: relative;
+  overflow: hidden;
+}
+
+.messageButtonShake:hover {
+  animation: message-shake 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+@keyframes message-shake {
+  0% {
+    transform: translateX(0);
+  }
+  10% {
+    transform: translateX(-3px);
+  }
+  20% {
+    transform: translateX(3px);
+  }
+  30% {
+    transform: translateX(-2px);
+  }
+  40% {
+    transform: translateX(2px);
+  }
+  50% {
+    transform: translateX(-1px);
+  }
+  60% {
+    transform: translateX(1px);
+  }
+  70% {
+    transform: translateX(-0.5px);
+  }
+  80% {
+    transform: translateX(0.5px);
+  }
+  90% {
+    transform: translateX(-0.2px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* 消息按钮脉冲效果 */
+.messageButtonPulse {
+  position: relative;
+}
+
+.messageButtonPulse::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(25, 118, 210, 0.3);
+  transform: translate(-50%, -50%);
+  animation: message-pulse 2s ease-in-out infinite;
+}
+
+@keyframes message-pulse {
+  0% {
+    width: 0;
+    height: 0;
+    opacity: 1;
+  }
+  50% {
+    width: 20px;
+    height: 20px;
+    opacity: 0.5;
+  }
+  100% {
+    width: 0;
+    height: 0;
+    opacity: 0;
+  }
+}
+
+/* 设置按钮旋转效果 - 悬停后不停旋转 */
+.settingsButtonRotate {
+  transition: all 0.3s ease-out;
+  transform-origin: center;
+}
+
+.settingsButtonRotate:hover {
+  animation: settings-rotate-continuous 1s linear infinite;
+}
+
+/* 自定义旋转动画 - 不停旋转 */
+@keyframes settings-rotate-continuous {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* 设置按钮齿轮效果 */
+.settingsButtonGear {
+  position: relative;
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.settingsButtonGear::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  border: 2px solid transparent;
+  border-top: 2px solid currentColor;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  animation: gear-rotate 3s linear infinite;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.settingsButtonGear:hover::before {
+  opacity: 0.6;
+}
+
+@keyframes gear-rotate {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+/* 登录按钮亮条滑动效果 */
+.loginButtonMask {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease-out;
+}
+
+.loginButtonMask::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.8), transparent);
+  transition: transform 0.4s ease-out;
+  transform: translateX(-100%);
+}
+
+.loginButtonMask:hover::before {
+  transform: translateX(100%);
+}
+
+/* 按钮缩放效果 - 悬停放大，点击缩小 */
+.buttonScale {
+  transition: all 0.3s ease-out;
+}
+
+.buttonScale:hover {
+  transform: scale(1.05);
+}
+
+.buttonScale:active {
+  transform: scale(0.95);
+}
+
+/* 按钮发光效果 - 悬停时蓝色发光 */
+.buttonGlow {
+  transition: all 0.3s ease-out;
+}
+
+.buttonGlow:hover {
+  box-shadow: 0 0 20px rgba(25, 118, 210, 0.4);
+}
+
+/* 按钮弹跳效果 */
+.buttonBounce {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.buttonBounce:hover {
+  animation: button-bounce 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+@keyframes button-bounce {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+/* 按钮摇摆效果 */
+.buttonWobble {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.buttonWobble:hover {
+  animation: button-wobble 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+@keyframes button-wobble {
+  0% {
+    transform: rotate(0deg);
+  }
+  15% {
+    transform: rotate(-5deg);
+  }
+  30% {
+    transform: rotate(3deg);
+  }
+  45% {
+    transform: rotate(-3deg);
+  }
+  60% {
+    transform: rotate(2deg);
+  }
+  75% {
+    transform: rotate(-1deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+/* 按钮闪烁效果 */
+.buttonBlink {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.buttonBlink:hover {
+  animation: button-blink 0.8s ease-in-out;
+}
+
+@keyframes button-blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* 按钮心跳效果 */
+.buttonHeartbeat {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.buttonHeartbeat:hover {
+  animation: button-heartbeat 1s ease-in-out infinite;
+}
+
+@keyframes button-heartbeat {
+  0% {
+    transform: scale(1);
+  }
+  14% {
+    transform: scale(1.1);
+  }
+  28% {
+    transform: scale(1);
+  }
+  42% {
+    transform: scale(1.1);
+  }
+  70% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

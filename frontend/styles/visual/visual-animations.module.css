@@ -1,0 +1,327 @@
+.cardEnter {
+  animation: card-enter 500ms ease;
+}
+
+@keyframes card-enter {
+  0% {
+    transform: translateY(12px);
+    opacity: 0;
+  }
+  60% {
+    transform: translateY(-2px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.cardHover {
+  transition: transform 300ms ease, box-shadow 300ms ease;
+}
+
+.cardHover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.cardBounceHover:hover {
+  animation: card-bounce 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* 一次性跳动：JS 触发，鼠标移走也会播放完 */
+.cardBounceOnce {
+  animation: card-bounce 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+@keyframes card-bounce {
+  0% { transform: translateY(0); }
+  15% { transform: translateY(-12px); }
+  30% { transform: translateY(-18px); }
+  45% { transform: translateY(-12px); }
+  60% { transform: translateY(0); }
+  75% { transform: translateY(-6px); }
+  90% { transform: translateY(0); }
+  100% { transform: translateY(0); }
+}
+
+.wiggleHover:hover {
+  animation: wiggle 600ms ease-in-out;
+}
+
+@keyframes wiggle {
+  0% { transform: rotate(0deg); }
+  20% { transform: rotate(-12deg); }
+  40% { transform: rotate(12deg); }
+  60% { transform: rotate(-8deg); }
+  80% { transform: rotate(8deg); }
+  100% { transform: rotate(0deg); }
+}
+
+/* 分组标题动画：先出现 */
+.sectionTitleEnter {
+  animation: section-title-enter 600ms ease-out;
+}
+
+@keyframes section-title-enter {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 卡片网格动画：延迟出现，逐渐往上添加 */
+.cardsGridEnter {
+  animation: cards-grid-enter 800ms ease-out;
+  animation-delay: 300ms;
+  animation-fill-mode: both;
+}
+
+@keyframes cards-grid-enter {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 单个卡片错开动画 */
+.cardStagger {
+  animation: card-stagger 600ms ease-out;
+  animation-fill-mode: both;
+}
+
+@keyframes card-stagger {
+  0% {
+    opacity: 0;
+    transform: translateY(20px) scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* 左侧工具栏从左往右拉出动画 */
+.sidebarSlideIn {
+  animation: sidebar-slide-in 600ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+@keyframes sidebar-slide-in {
+  0% {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* 左侧工具栏内容错开动画 */
+.sidebarContentStagger {
+  animation: sidebar-content-stagger 500ms ease-out;
+  animation-fill-mode: both;
+}
+
+@keyframes sidebar-content-stagger {
+  0% {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* 播放按钮脉冲动画 */
+.playButtonPulse {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.playButtonPulse:hover {
+  animation: play-pulse 1.5s ease-in-out infinite;
+  transform: scale(1.1);
+}
+
+@keyframes play-pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(25, 118, 210, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgba(25, 118, 210, 0.1);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(25, 118, 210, 0);
+  }
+}
+
+/* 绘制按钮旋转动画 */
+.drawButtonRotate {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.drawButtonRotate:hover {
+  animation: draw-rotate 0.6s ease-in-out;
+  transform: scale(1.1);
+}
+
+@keyframes draw-rotate {
+  0% {
+    transform: scale(1.1) rotate(0deg);
+  }
+  25% {
+    transform: scale(1.1) rotate(-5deg);
+  }
+  75% {
+    transform: scale(1.1) rotate(5deg);
+  }
+  100% {
+    transform: scale(1.1) rotate(0deg);
+  }
+}
+
+/* 左侧工具栏按钮悬停动画 */
+.sidebarButtonHover {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  position: relative;
+  overflow: hidden;
+}
+
+.sidebarButtonHover::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: left 0.5s;
+}
+
+.sidebarButtonHover:hover::before {
+  left: 100%;
+}
+
+.sidebarButtonHover:hover {
+  transform: translateX(8px) scale(1.02);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* 左侧工具栏按钮图标动画 */
+.sidebarButtonIcon {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  display: inline-block;
+}
+
+.sidebarButtonHover:hover .sidebarButtonIcon {
+  transform: scale(1.15) rotate(8deg) translateX(2px);
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+}
+
+/* 左侧工具栏按钮文字动画 */
+.sidebarButtonText {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  display: inline-block;
+}
+
+.sidebarButtonHover:hover .sidebarButtonText {
+  transform: translateX(4px) scale(1.05);
+  font-weight: 600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* 左侧工具栏按钮内容容器动画 */
+.sidebarButtonContent {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.sidebarButtonHover:hover .sidebarButtonContent {
+  transform: translateX(2px);
+}
+
+/* 分组标题悬停动画 */
+.sectionTitleHover {
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  position: relative;
+  overflow: hidden;
+}
+
+.sectionTitleHover::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+  transition: left 0.6s;
+}
+
+.sectionTitleHover:hover::before {
+  left: 100%;
+}
+
+.sectionTitleHover:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* 分组标题图标动画 */
+.sectionTitleIcon {
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  display: inline-block;
+}
+
+.sectionTitleHover:hover .sectionTitleIcon {
+  transform: scale(1.2) rotate(10deg);
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));
+}
+
+/* 分组标题文字动画 */
+.sectionTitleText {
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  display: inline-block;
+}
+
+.sectionTitleHover:hover .sectionTitleText {
+  transform: translateY(-1px) scale(1.05);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* 分组标题标签动画 */
+.sectionTitleChip {
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  display: inline-block;
+}
+
+.sectionTitleHover:hover .sectionTitleChip {
+  transform: translateY(-1px) scale(1.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* 分组标题内容容器动画 */
+.sectionTitleContent {
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.sectionTitleHover:hover .sectionTitleContent {
+  transform: translateY(-1px);
+}
+
+

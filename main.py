@@ -2,6 +2,9 @@ from langchain.chat_models import init_chat_model
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from dotenv import load_dotenv
+from pydantic import BaseModel, Field
+from typing import Optional
+from typing_extensions import Annotated, TypedDict
 import os
 
 load_dotenv()
@@ -18,9 +21,21 @@ model = init_chat_model(
     base_url=base_url,
 )
 
+
+class Joke(BaseModel):
+
+    setup: str = Field(description="The setup of the joke")
+    punchline: str = Field(description="The punchline of the joke")
+    rating: Optional[int] = Field(description="The rating of the joke, from 1 to 10", ge=1, le=10)
+
+class JokeDict(TypedDict):
+    setup: Annotated[str, ..., "The setup of the joke"]
+    punchline: Annotated[str, ..., "The punchline of the joke"]
+    rating: Annotated[Optional[int], ..., "The rating of the joke, from 1 to 10"]
+
+
 prompt = ChatPromptTemplate.from_template("tell me a short joke about {topic}")
-output_parser = StrOutputParser()
 
-chain = prompt | model | output_parser
+structured_model = model.with_structured_output(JokeDict)
 
-print(chain.invoke({"topic": "ice cream"}))
+print(structured_model.invoke("Tell me a joke about cats"))

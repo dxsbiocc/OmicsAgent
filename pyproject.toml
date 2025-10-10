@@ -5,7 +5,22 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "fastmcp>=2.12.2",
+    # langchain
     "langchain-community>=0.3.29",
+    "langchain-mcp-adapters>=0.1.9",
     "langchain[openai]>=0.3.27",
+    "langgraph>=0.6.6",
+    "langserve[all]>=0.3.1",
+    # MCP
+    "mcp>=1.0.0",
+    # others
+    "pydantic>=2.11.7",
     "python-dotenv>=1.1.1",
+    "httpx>=0.27.0",
+]
+
+[tool.uv.workspace]
+members = [
+    "omicsagent/backend",
 ]

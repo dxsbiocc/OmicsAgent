@@ -1,0 +1,248 @@
+/* 博客页面动画样式 */
+
+/* 页面整体进入动画 */
+.pageEnter {
+  animation: page-enter 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+@keyframes page-enter {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 标题浮入动画 */
+.titleFloatIn {
+  animation: title-float-in 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  animation-fill-mode: both;
+}
+
+@keyframes title-float-in {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 卡片浮入动画 */
+.cardFloatIn {
+  animation: card-float-in 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  animation-fill-mode: both;
+}
+
+@keyframes card-float-in {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 卡片错开动画 */
+.cardStagger {
+  animation: card-stagger 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  animation-fill-mode: both;
+}
+
+@keyframes card-stagger {
+  0% {
+    opacity: 0;
+    transform: translateY(60px) scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* 卡片悬停动画 */
+.cardHover {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.cardHover:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* 按钮浮入动画 */
+.buttonFloatIn {
+  animation: button-float-in 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  animation-fill-mode: both;
+}
+
+@keyframes button-float-in {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 按钮悬停动画 */
+.buttonHover {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.buttonHover:hover {
+  transform: translateY(-2px) scale(1.05);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+/* 图片浮入动画 */
+.imageFloatIn {
+  animation: image-float-in 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  animation-fill-mode: both;
+}
+
+@keyframes image-float-in {
+  0% {
+    opacity: 0;
+    transform: translateY(40px) scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* 文本浮入动画 */
+.textFloatIn {
+  animation: text-float-in 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  animation-fill-mode: both;
+}
+
+@keyframes text-float-in {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 标签浮入动画 */
+.chipFloatIn {
+  animation: chip-float-in 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  animation-fill-mode: both;
+}
+
+@keyframes chip-float-in {
+  0% {
+    opacity: 0;
+    transform: translateY(15px) scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* 容器浮入动画 */
+.containerFloatIn {
+  animation: container-float-in 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  animation-fill-mode: both;
+}
+
+@keyframes container-float-in {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 延迟动画类 */
+.delay100 { animation-delay: 0.1s; }
+.delay200 { animation-delay: 0.2s; }
+.delay300 { animation-delay: 0.3s; }
+.delay400 { animation-delay: 0.4s; }
+.delay500 { animation-delay: 0.5s; }
+.delay600 { animation-delay: 0.6s; }
+.delay700 { animation-delay: 0.7s; }
+.delay800 { animation-delay: 0.8s; }
+
+/* --- react-pageflip 翻页效果样式 --- */
+.blog-card-flipbook {
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.blog-card-flipbook .page {
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.blog-card-flipbook .page-wrapper {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* 翻页时的阴影效果 */
+.blog-card-flipbook .page-shadow {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* 翻页时的页面角标 */
+.blog-card-flipbook .page-corner {
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.1) 0%, transparent 50%);
+}
+
+/* Fab 按钮动画样式 */
+.fabButton {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  animation: fabFloat 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+.fabButton:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  animation-play-state: paused; /* 悬停时暂停跳动 */
+}
+
+/* Fab 缓慢跳动动画 - 吸引点击 */
+@keyframes fabFloat {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-100%);
+  }
+}
+
+/* Fab 脉冲动画 */
+@keyframes fabPulse {
+  0% {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  50% {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  }
+  100% {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+}
+

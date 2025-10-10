@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>认证调试测试</title>
+</head>
+<body>
+    <h1>认证调试测试</h1>
+    <button onclick="testLogin()">测试登录</button>
+    <button onclick="testMe()">测试获取用户信息</button>
+    <button onclick="testPresetAvatar()">测试设置预设头像</button>
+    <div id="result"></div>
+
+    <script>
+        const API_BASE_URL = 'http://localhost:8000/api/v1';
+        
+        function log(message) {
+            const result = document.getElementById('result');
+            result.innerHTML += '<p>' + message + '</p>';
+            console.log(message);
+        }
+        
+        async function testLogin() {
+            try {
+                log('开始测试登录...');
+                const response = await fetch(`${API_BASE_URL}/auth/login-json`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    credentials: 'include', // 重要：包含cookies
+                    body: JSON.stringify({
+                        username: 'testuser2',
+                        password: 'TestPass123!'
+                    })
+                });
+                
+                log(`登录响应状态: ${response.status}`);
+                const data = await response.json();
+                log(`登录响应数据: ${JSON.stringify(data)}`);
+                
+                // 检查cookies
+                log(`当前cookies: ${document.cookie}`);
+                
+            } catch (error) {
+                log(`登录错误: ${error.message}`);
+            }
+        }
+        
+        async function testMe() {
+            try {
+                log('开始测试获取用户信息...');
+                const response = await fetch(`${API_BASE_URL}/auth/me`, {
+                    method: 'GET',
+                    credentials: 'include', // 重要：包含cookies
+                });
+                
+                log(`用户信息响应状态: ${response.status}`);
+                const data = await response.json();
+                log(`用户信息响应数据: ${JSON.stringify(data)}`);
+                
+            } catch (error) {
+                log(`获取用户信息错误: ${error.message}`);
+            }
+        }
+        
+        async function testPresetAvatar() {
+            try {
+                log('开始测试设置预设头像...');
+                const response = await fetch(`${API_BASE_URL}/auth/avatar/preset`, {
+                    method: 'PUT',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    credentials: 'include', // 重要：包含cookies
+                    body: JSON.stringify({
+                        avatar_url: '/images/avatar/peeps-avatar-alpha-1.png'
+                    })
+                });
+                
+                log(`设置头像响应状态: ${response.status}`);
+                const data = await response.json();
+                log(`设置头像响应数据: ${JSON.stringify(data)}`);
+                
+            } catch (error) {
+                log(`设置头像错误: ${error.message}`);
+            }
+        }
+    </script>
+</body>
+</html>

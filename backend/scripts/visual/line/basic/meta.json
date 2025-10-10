@@ -1,0 +1,25 @@
+{
+  "name": "Basic Line",
+  "description": "Render a basic line plot using ggplot2.",
+  "params_schema": {
+    "data": {"type": "string", "description": "CSV file path"},
+    "x_col": {"type": "string"},
+    "y_col": {"type": "string"},
+    "color_col": {"type": ["string", "null"]},
+    "point_size": {"type": "number"},
+    "width": {"type": "integer"},
+    "height": {"type": "integer"},
+    "title": {"type": "string"}
+  },
+  "defaults": {
+    "x_col": "x",
+    "y_col": "y",
+    "color_col": null,
+    "point_size": 2.0,
+    "width": 800,
+    "height": 600,
+    "title": "Basic Line"
+  }
+}
+
+
