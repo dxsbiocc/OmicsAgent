@@ -1,0 +1,91 @@
+{
+  "name": "点阵图",
+  "description": "通过点阵图展示两组变量之间的相关性矩阵",
+  "ggplot2": {
+    "mapping": {
+      "x": "cell",
+      "y": "gene",
+      "colour": "count"
+    },
+    "layers": [
+      {
+        "type": "geom_point",
+        "mapping": {
+          "size": "count"
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_size_continuous",
+        "arguments": {
+          "range": [
+            2,
+            12
+          ],
+          "breaks": [
+            1000,
+            3000,
+            5000
+          ]
+        }
+      },
+      {
+        "type": "scale_colour_gradient2",
+        "arguments": {
+          "low": "#E8F2D1",
+          "high": "#437F79"
+        }
+      }
+    ],
+    "guides": {
+      "size": {
+        "type": "guide_legend",
+        "arguments": {
+          "override.aes": {
+            "type": "list",
+            "arguments": {
+              "size": [
+                2,
+                4,
+                6
+              ]
+            }
+          }
+        }
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.text.x": {
+            "type": "element_text",
+            "arguments": {
+              "angle": 90,
+              "hjust": 1,
+              "vjust": 0.5
+            }
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": false
+}

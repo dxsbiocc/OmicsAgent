@@ -1,0 +1,144 @@
+{
+  "name": "蜂巢图",
+  "description": "蜂巢图（Beeswarm Plot） 是一种数据可视化工具，通过智能排列数据点来避免重叠，直观展示数据的分布形态、密度和个体差异",
+  "ggplot2": {
+    "mapping": {
+      "x": "name",
+      "y": "value",
+      "colour": "group"
+    },
+    "layers": [
+      {
+        "type": "geom_quasirandom",
+        "arguments": {
+          "width": 0.15,
+          "size": 3,
+          "dodge.width": 0.8,
+          "alpha": 0.6
+        }
+      },
+      {
+        "type": "geom_errorbar",
+        "mapping": {
+          "x": "name",
+          "ymin": "first",
+          "ymax": "third",
+          "group": "group"
+        },
+        "arguments": {
+          "width": 0,
+          "position": {
+            "type": "position_dodge",
+            "arguments": {
+              "width": 0.8
+            }
+          },
+          "linewidth": 1,
+          "inherit.aes": false
+        }
+      },
+      {
+        "type": "geom_point",
+        "mapping": {
+          "x": "name",
+          "y": "second"
+        },
+        "arguments": {
+          "position": {
+            "type": "position_dodge2",
+            "arguments": {
+              "width": 0.8
+            }
+          },
+          "size": 5,
+          "shape": 21,
+          "fill": "white",
+          "stroke": 1,
+          "inherit.aes": false
+        }
+      },
+      {
+        "type": "geom_point",
+        "mapping": {
+          "x": "name",
+          "y": "second",
+          "fill": "group"
+        },
+        "arguments": {
+          "position": {
+            "type": "position_dodge2",
+            "arguments": {
+              "width": 0.8
+            }
+          },
+          "size": 4,
+          "shape": 21,
+          "stroke": 0,
+          "inherit.aes": false
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": "Expression level (log2 TPM)"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#f784b6",
+            "#79ceb8"
+          ]
+        }
+      },
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#f784b6",
+            "#79ceb8"
+          ]
+        }
+      }
+    ],
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "legend.position": "inside",
+          "legend.position.inside": [
+            0.9,
+            0.8
+          ],
+          "legend.background": {
+            "type": "element_round_rect"
+          },
+          "axis.line": {
+            "type": "element_blank"
+          },
+          "panel.border": {
+            "type": "element_rect",
+            "arguments": {
+              "fill": "transparent",
+              "colour": "black"
+            }
+          },
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": false
+}

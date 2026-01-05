@@ -1,0 +1,6002 @@
+[
+    {
+        "WT": 228.6667,
+        "KO": 178.8647,
+        "group": "None",
+        "symbol": "Hsd17b11"
+    },
+    {
+        "WT": 40.172,
+        "KO": 36.4472,
+        "group": "None",
+        "symbol": "Vamp7"
+    },
+    {
+        "WT": 7.0042,
+        "KO": 15.4931,
+        "group": "None",
+        "symbol": "Rsad2"
+    },
+    {
+        "WT": 12.2042,
+        "KO": 18.157,
+        "group": "None",
+        "symbol": "Pold3"
+    },
+    {
+        "WT": 777.5466,
+        "KO": 545.7349,
+        "group": "None",
+        "symbol": "Pcbd1"
+    },
+    {
+        "WT": 0.8902,
+        "KO": 2.7362,
+        "group": "Up",
+        "symbol": "Mcm5"
+    },
+    {
+        "WT": 6.2722,
+        "KO": 7.0079,
+        "group": "None",
+        "symbol": "Rasal2"
+    },
+    {
+        "WT": 7.6164,
+        "KO": 3.9421,
+        "group": "None",
+        "symbol": "Snrpe"
+    },
+    {
+        "WT": 2639.0106,
+        "KO": 2368.2053,
+        "group": "None",
+        "symbol": "Pgrmc1"
+    },
+    {
+        "WT": 17.6747,
+        "KO": 18.7368,
+        "group": "None",
+        "symbol": "Rgl3"
+    },
+    {
+        "WT": 0.052,
+        "KO": 0.5717,
+        "group": "None",
+        "symbol": "Lexm"
+    },
+    {
+        "WT": 22.6794,
+        "KO": 70.3582,
+        "group": "None",
+        "symbol": "Ifrd1"
+    },
+    {
+        "WT": 8.2942,
+        "KO": 10.2419,
+        "group": "None",
+        "symbol": "Dmap1"
+    },
+    {
+        "WT": 57.3415,
+        "KO": 110.2465,
+        "group": "None",
+        "symbol": "Rab32"
+    },
+    {
+        "WT": 166.4458,
+        "KO": 115.4759,
+        "group": "None",
+        "symbol": "Cyc1"
+    },
+    {
+        "WT": 5.4623,
+        "KO": 15.9367,
+        "group": "Up",
+        "symbol": "Cmklr1"
+    },
+    {
+        "WT": 7.6631,
+        "KO": 9.6175,
+        "group": "None",
+        "symbol": "Ncoa1"
+    },
+    {
+        "WT": 2.4323,
+        "KO": 2.9502,
+        "group": "None",
+        "symbol": "Slco3a1"
+    },
+    {
+        "WT": 12.3164,
+        "KO": 13.4684,
+        "group": "None",
+        "symbol": "Trim23"
+    },
+    {
+        "WT": 11.0113,
+        "KO": 7.3804,
+        "group": "None",
+        "symbol": "Nrp2"
+    },
+    {
+        "WT": 31.6847,
+        "KO": 34.9026,
+        "group": "None",
+        "symbol": "Fbxo8"
+    },
+    {
+        "WT": 610.7393,
+        "KO": 1458.265,
+        "group": "Up",
+        "symbol": "Actb"
+    },
+    {
+        "WT": 7.2196,
+        "KO": 17.1641,
+        "group": "Up",
+        "symbol": "Gm11437"
+    },
+    {
+        "WT": 2.0333,
+        "KO": 12.2348,
+        "group": "Up",
+        "symbol": "Fblim1"
+    },
+    {
+        "WT": 0.1642,
+        "KO": 1.4114,
+        "group": "None",
+        "symbol": "2700099C18Rik"
+    },
+    {
+        "WT": 20.2498,
+        "KO": 18.065,
+        "group": "None",
+        "symbol": "Cmtr1"
+    },
+    {
+        "WT": 1.7738,
+        "KO": 3.673,
+        "group": "None",
+        "symbol": "Gm15270"
+    },
+    {
+        "WT": 3.7715,
+        "KO": 6.8875,
+        "group": "None",
+        "symbol": "Prkd2"
+    },
+    {
+        "WT": 27.7852,
+        "KO": 33.7594,
+        "group": "None",
+        "symbol": "Cpne1"
+    },
+    {
+        "WT": 18.8361,
+        "KO": 25.3477,
+        "group": "None",
+        "symbol": "Imp4"
+    },
+    {
+        "WT": 38.7091,
+        "KO": 30.1057,
+        "group": "None",
+        "symbol": "Cdk18"
+    },
+    {
+        "WT": 1.2527,
+        "KO": 3.4232,
+        "group": "None",
+        "symbol": "Gm14207"
+    },
+    {
+        "WT": 1.775,
+        "KO": 0.1406,
+        "group": "Down",
+        "symbol": "Slc13a2"
+    },
+    {
+        "WT": 6.1278,
+        "KO": 7.2415,
+        "group": "None",
+        "symbol": "Vps13b"
+    },
+    {
+        "WT": 0.4871,
+        "KO": 0.787,
+        "group": "None",
+        "symbol": "BC049352"
+    },
+    {
+        "WT": 8.0538,
+        "KO": 16.6327,
+        "group": "None",
+        "symbol": "Epn2"
+    },
+    {
+        "WT": 6.1857,
+        "KO": 7.6189,
+        "group": "None",
+        "symbol": "Hic1"
+    },
+    {
+        "WT": 10.1335,
+        "KO": 9.9635,
+        "group": "None",
+        "symbol": "Phf10"
+    },
+    {
+        "WT": 9.7639,
+        "KO": 11.9503,
+        "group": "None",
+        "symbol": "Ccz1"
+    },
+    {
+        "WT": 8.9818,
+        "KO": 12.5201,
+        "group": "None",
+        "symbol": "Klhdc4"
+    },
+    {
+        "WT": 46.6937,
+        "KO": 42.7286,
+        "group": "None",
+        "symbol": "Eif2s2"
+    },
+    {
+        "WT": 29.4529,
+        "KO": 39.18,
+        "group": "None",
+        "symbol": "Ppp2r2d"
+    },
+    {
+        "WT": 0.2684,
+        "KO": 0.6686,
+        "group": "None",
+        "symbol": "4931403G20Rik"
+    },
+    {
+        "WT": 5.2674,
+        "KO": 4.2795,
+        "group": "None",
+        "symbol": "Gm16675"
+    },
+    {
+        "WT": 183.8971,
+        "KO": 331.1708,
+        "group": "None",
+        "symbol": "Entpd5"
+    },
+    {
+        "WT": 55.9451,
+        "KO": 51.744,
+        "group": "None",
+        "symbol": "Keap1"
+    },
+    {
+        "WT": 208.1998,
+        "KO": 230.1338,
+        "group": "None",
+        "symbol": "Mrps34"
+    },
+    {
+        "WT": 9.3011,
+        "KO": 12.8259,
+        "group": "None",
+        "symbol": "Papss1"
+    },
+    {
+        "WT": 1496.7505,
+        "KO": 984.8328,
+        "group": "None",
+        "symbol": "Cat"
+    },
+    {
+        "WT": 2.0585,
+        "KO": 2.0662,
+        "group": "None",
+        "symbol": "A330069E16Rik"
+    },
+    {
+        "WT": 8.0157,
+        "KO": 6.4419,
+        "group": "None",
+        "symbol": "Zfp938"
+    },
+    {
+        "WT": 5.1731,
+        "KO": 11.0096,
+        "group": "None",
+        "symbol": "Mir6956"
+    },
+    {
+        "WT": 198.2581,
+        "KO": 138.055,
+        "group": "None",
+        "symbol": "Fcgrt"
+    },
+    {
+        "WT": 13.6805,
+        "KO": 14.5728,
+        "group": "None",
+        "symbol": "Swsap1"
+    },
+    {
+        "WT": 22.2612,
+        "KO": 26.9612,
+        "group": "None",
+        "symbol": "Nup62"
+    },
+    {
+        "WT": 5.1547,
+        "KO": 13.7256,
+        "group": "Up",
+        "symbol": "Myef2"
+    },
+    {
+        "WT": 5.729,
+        "KO": 6.1006,
+        "group": "None",
+        "symbol": "Etaa1"
+    },
+    {
+        "WT": 7.3753,
+        "KO": 3.5286,
+        "group": "Down",
+        "symbol": "Cpsf4l"
+    },
+    {
+        "WT": 183.4797,
+        "KO": 172.237,
+        "group": "None",
+        "symbol": "Gns"
+    },
+    {
+        "WT": 0.0367,
+        "KO": 0.3189,
+        "group": "None",
+        "symbol": "Prdm5"
+    },
+    {
+        "WT": 2.3501,
+        "KO": 1.3834,
+        "group": "None",
+        "symbol": "Gm14434"
+    },
+    {
+        "WT": 35.0118,
+        "KO": 79.1354,
+        "group": "Up",
+        "symbol": "Cotl1"
+    },
+    {
+        "WT": 27.1022,
+        "KO": 30.4499,
+        "group": "None",
+        "symbol": "Ppp2cb"
+    },
+    {
+        "WT": 1.0962,
+        "KO": 0.5199,
+        "group": "None",
+        "symbol": "H3c6"
+    },
+    {
+        "WT": 0.2269,
+        "KO": 0.5939,
+        "group": "None",
+        "symbol": "Rtl6"
+    },
+    {
+        "WT": 150.2703,
+        "KO": 139.9668,
+        "group": "None",
+        "symbol": "Dnajc3"
+    },
+    {
+        "WT": 52.0269,
+        "KO": 62.6242,
+        "group": "None",
+        "symbol": "Fam234a"
+    },
+    {
+        "WT": 0.3898,
+        "KO": 1.313,
+        "group": "None",
+        "symbol": "Sprr2a1"
+    },
+    {
+        "WT": 117.2875,
+        "KO": 135.9663,
+        "group": "None",
+        "symbol": "Bzw1"
+    },
+    {
+        "WT": 0.1889,
+        "KO": 0.1984,
+        "group": "None",
+        "symbol": "Grin2d"
+    },
+    {
+        "WT": 43.205,
+        "KO": 38.7999,
+        "group": "None",
+        "symbol": "Dda1"
+    },
+    {
+        "WT": 121.5047,
+        "KO": 79.6371,
+        "group": "None",
+        "symbol": "Bphl"
+    },
+    {
+        "WT": 2.6575,
+        "KO": 2.2975,
+        "group": "None",
+        "symbol": "Helq"
+    },
+    {
+        "WT": 37.2345,
+        "KO": 23.3488,
+        "group": "None",
+        "symbol": "1700066M21Rik"
+    },
+    {
+        "WT": 1.9848,
+        "KO": 4.1419,
+        "group": "None",
+        "symbol": "Ngp"
+    },
+    {
+        "WT": 4.9584,
+        "KO": 3.2927,
+        "group": "None",
+        "symbol": "Elp6"
+    },
+    {
+        "WT": 26.2037,
+        "KO": 35.2305,
+        "group": "None",
+        "symbol": "Bbc3"
+    },
+    {
+        "WT": 3.5171,
+        "KO": 14.2586,
+        "group": "Up",
+        "symbol": "Ms4a6c"
+    },
+    {
+        "WT": 50.5563,
+        "KO": 32.574,
+        "group": "None",
+        "symbol": "Snora70"
+    },
+    {
+        "WT": 0.0181,
+        "KO": 0.1747,
+        "group": "None",
+        "symbol": "Pcdha5"
+    },
+    {
+        "WT": 16.1312,
+        "KO": 20.6076,
+        "group": "None",
+        "symbol": "Map3k10"
+    },
+    {
+        "WT": 45.7377,
+        "KO": 35.3865,
+        "group": "None",
+        "symbol": "Car8"
+    },
+    {
+        "WT": 17.3211,
+        "KO": 16.902,
+        "group": "None",
+        "symbol": "Get4"
+    },
+    {
+        "WT": 3.741,
+        "KO": 2.8111,
+        "group": "None",
+        "symbol": "2700097O09Rik"
+    },
+    {
+        "WT": 38.8547,
+        "KO": 29.6535,
+        "group": "None",
+        "symbol": "Tfam"
+    },
+    {
+        "WT": 297.4569,
+        "KO": 179.5639,
+        "group": "None",
+        "symbol": "Chchd10"
+    },
+    {
+        "WT": 0.9527,
+        "KO": 3.2823,
+        "group": "Up",
+        "symbol": "Atp1b2"
+    },
+    {
+        "WT": 0.3286,
+        "KO": 0.1402,
+        "group": "None",
+        "symbol": "Edaradd"
+    },
+    {
+        "WT": 70.0642,
+        "KO": 56.1047,
+        "group": "None",
+        "symbol": "Anpep"
+    },
+    {
+        "WT": 76.7555,
+        "KO": 65.0048,
+        "group": "None",
+        "symbol": "LTO1"
+    },
+    {
+        "WT": 25.086,
+        "KO": 27.8284,
+        "group": "None",
+        "symbol": "Zyg11b"
+    },
+    {
+        "WT": 14.6607,
+        "KO": 31.4475,
+        "group": "None",
+        "symbol": "Ptgs1"
+    },
+    {
+        "WT": 12.4365,
+        "KO": 19.4302,
+        "group": "None",
+        "symbol": "Tsc22d2"
+    },
+    {
+        "WT": 0.5388,
+        "KO": 1.2271,
+        "group": "None",
+        "symbol": "Hspb7"
+    },
+    {
+        "WT": 15.7892,
+        "KO": 14.5869,
+        "group": "None",
+        "symbol": "Phf2"
+    },
+    {
+        "WT": 44.1889,
+        "KO": 32.1523,
+        "group": "None",
+        "symbol": "Prkaa2"
+    },
+    {
+        "WT": 10.849,
+        "KO": 13.8196,
+        "group": "None",
+        "symbol": "Fam160b2"
+    },
+    {
+        "WT": 42.3614,
+        "KO": 33.5004,
+        "group": "None",
+        "symbol": "Ift20"
+    },
+    {
+        "WT": 16.5406,
+        "KO": 23.5903,
+        "group": "None",
+        "symbol": "Pop4"
+    },
+    {
+        "WT": 78.0723,
+        "KO": 89.1764,
+        "group": "None",
+        "symbol": "Acp1"
+    },
+    {
+        "WT": 0.1026,
+        "KO": 0.0732,
+        "group": "None",
+        "symbol": "Stxbp5l"
+    },
+    {
+        "WT": 29.6537,
+        "KO": 37.7033,
+        "group": "None",
+        "symbol": "Msantd4"
+    },
+    {
+        "WT": 20.6677,
+        "KO": 30.0528,
+        "group": "None",
+        "symbol": "Zmiz1"
+    },
+    {
+        "WT": 10.1682,
+        "KO": 16.1768,
+        "group": "None",
+        "symbol": "Septin10"
+    },
+    {
+        "WT": 34.1621,
+        "KO": 65.2645,
+        "group": "None",
+        "symbol": "Dsp"
+    },
+    {
+        "WT": 0.34,
+        "KO": 0.4453,
+        "group": "None",
+        "symbol": "Zfp462"
+    },
+    {
+        "WT": 3.1437,
+        "KO": 3.7301,
+        "group": "None",
+        "symbol": "Smn1"
+    },
+    {
+        "WT": 1.1029,
+        "KO": 1.1729,
+        "group": "None",
+        "symbol": "Nova2"
+    },
+    {
+        "WT": 28.104,
+        "KO": 46.7708,
+        "group": "None",
+        "symbol": "Kras"
+    },
+    {
+        "WT": 12.2721,
+        "KO": 14.1776,
+        "group": "None",
+        "symbol": "Stoml2"
+    },
+    {
+        "WT": 7.0339,
+        "KO": 2.5629,
+        "group": "None",
+        "symbol": "AY074887"
+    },
+    {
+        "WT": 13.4425,
+        "KO": 18.2336,
+        "group": "None",
+        "symbol": "Tmem165"
+    },
+    {
+        "WT": 19.3798,
+        "KO": 14.7764,
+        "group": "None",
+        "symbol": "Zfp574"
+    },
+    {
+        "WT": 0.4048,
+        "KO": 0.9882,
+        "group": "None",
+        "symbol": "Dnaaf3"
+    },
+    {
+        "WT": 18.9999,
+        "KO": 1.2798,
+        "group": "None",
+        "symbol": "Mir3112"
+    },
+    {
+        "WT": 9.3611,
+        "KO": 8.0852,
+        "group": "None",
+        "symbol": "Fbxo7"
+    },
+    {
+        "WT": 7.2046,
+        "KO": 9.4267,
+        "group": "None",
+        "symbol": "Thop1"
+    },
+    {
+        "WT": 6.9297,
+        "KO": 1.95,
+        "group": "Down",
+        "symbol": "Sult1c2"
+    },
+    {
+        "WT": 0.6732,
+        "KO": 0.4929,
+        "group": "None",
+        "symbol": "Ttc6"
+    },
+    {
+        "WT": 1.1582,
+        "KO": 1.7907,
+        "group": "None",
+        "symbol": "6430571L13Rik"
+    },
+    {
+        "WT": 2.4298,
+        "KO": 68.281,
+        "group": "Up",
+        "symbol": "Serpinb6b"
+    },
+    {
+        "WT": 6.3355,
+        "KO": 11.1842,
+        "group": "None",
+        "symbol": "Mr1"
+    },
+    {
+        "WT": 52.2832,
+        "KO": 50.1933,
+        "group": "None",
+        "symbol": "Hnrnpa3"
+    },
+    {
+        "WT": 18.8597,
+        "KO": 16.2191,
+        "group": "None",
+        "symbol": "Mrpl17"
+    },
+    {
+        "WT": 3.2543,
+        "KO": 11.0839,
+        "group": "Up",
+        "symbol": "Plin4"
+    },
+    {
+        "WT": 0.0993,
+        "KO": 0.0535,
+        "group": "None",
+        "symbol": "9330182L06Rik"
+    },
+    {
+        "WT": 3.0727,
+        "KO": 5.6451,
+        "group": "None",
+        "symbol": "Thoc6"
+    },
+    {
+        "WT": 1.9429,
+        "KO": 2.2733,
+        "group": "None",
+        "symbol": "Cdkal1"
+    },
+    {
+        "WT": 0.0639,
+        "KO": 0.4183,
+        "group": "None",
+        "symbol": "Dlg2"
+    },
+    {
+        "WT": 0.5045,
+        "KO": 1.0752,
+        "group": "None",
+        "symbol": "Tspan5"
+    },
+    {
+        "WT": 41.7368,
+        "KO": 36.3998,
+        "group": "None",
+        "symbol": "Rbm25"
+    },
+    {
+        "WT": 0.7724,
+        "KO": 2.1505,
+        "group": "None",
+        "symbol": "Gm14295"
+    },
+    {
+        "WT": 8.6029,
+        "KO": 9.7303,
+        "group": "None",
+        "symbol": "Scrib"
+    },
+    {
+        "WT": 1.7664,
+        "KO": 2.034,
+        "group": "None",
+        "symbol": "Il4i1"
+    },
+    {
+        "WT": 0.9622,
+        "KO": 0.2442,
+        "group": "None",
+        "symbol": "Mesp2"
+    },
+    {
+        "WT": 6.498,
+        "KO": 8.3409,
+        "group": "None",
+        "symbol": "Smg9"
+    },
+    {
+        "WT": 14.1528,
+        "KO": 12.317,
+        "group": "None",
+        "symbol": "Lsm6"
+    },
+    {
+        "WT": 9.3333,
+        "KO": 10.3674,
+        "group": "None",
+        "symbol": "Gps2"
+    },
+    {
+        "WT": 37.3158,
+        "KO": 43.3808,
+        "group": "None",
+        "symbol": "Mreg"
+    },
+    {
+        "WT": 12.7355,
+        "KO": 20.1525,
+        "group": "None",
+        "symbol": "Cic"
+    },
+    {
+        "WT": 52.1147,
+        "KO": 48.2018,
+        "group": "None",
+        "symbol": "Abce1"
+    },
+    {
+        "WT": 4.7848,
+        "KO": 6.1262,
+        "group": "None",
+        "symbol": "Camsap1"
+    },
+    {
+        "WT": 11.4172,
+        "KO": 15.4443,
+        "group": "None",
+        "symbol": "Camsap3"
+    },
+    {
+        "WT": 9.6118,
+        "KO": 12.6149,
+        "group": "None",
+        "symbol": "Smarca4"
+    },
+    {
+        "WT": 0.3742,
+        "KO": 5.4211,
+        "group": "Up",
+        "symbol": "Slc1a1"
+    },
+    {
+        "WT": 14.2461,
+        "KO": 20.4948,
+        "group": "None",
+        "symbol": "Rps23"
+    },
+    {
+        "WT": 27.746,
+        "KO": 31.8004,
+        "group": "None",
+        "symbol": "Gm5643"
+    },
+    {
+        "WT": 7.9082,
+        "KO": 10.2829,
+        "group": "None",
+        "symbol": "Slc9a6"
+    },
+    {
+        "WT": 8.4189,
+        "KO": 16.9588,
+        "group": "None",
+        "symbol": "Lrsam1"
+    },
+    {
+        "WT": 11.1491,
+        "KO": 10.1879,
+        "group": "None",
+        "symbol": "Gripap1"
+    },
+    {
+        "WT": 25.659,
+        "KO": 20.2424,
+        "group": "None",
+        "symbol": "Rcc1l"
+    },
+    {
+        "WT": 39.5978,
+        "KO": 40.9999,
+        "group": "None",
+        "symbol": "Trappc1"
+    },
+    {
+        "WT": 1.1441,
+        "KO": 0.6922,
+        "group": "None",
+        "symbol": "Ccdc73"
+    },
+    {
+        "WT": 50.8668,
+        "KO": 63.4268,
+        "group": "None",
+        "symbol": "Gm21188"
+    },
+    {
+        "WT": 22.9611,
+        "KO": 47.5014,
+        "group": "None",
+        "symbol": "Tpst2"
+    },
+    {
+        "WT": 4.1664,
+        "KO": 4.7753,
+        "group": "None",
+        "symbol": "Gm10509"
+    },
+    {
+        "WT": 14.4459,
+        "KO": 18.5071,
+        "group": "None",
+        "symbol": "Kdm6b"
+    },
+    {
+        "WT": 8.2567,
+        "KO": 8.0875,
+        "group": "None",
+        "symbol": "Atg2b"
+    },
+    {
+        "WT": 3.9716,
+        "KO": 5.965,
+        "group": "None",
+        "symbol": "Tmem273"
+    },
+    {
+        "WT": 1.2187,
+        "KO": 8.0807,
+        "group": "None",
+        "symbol": "H4c11"
+    },
+    {
+        "WT": 48.4441,
+        "KO": 35.1316,
+        "group": "None",
+        "symbol": "Mzt2"
+    },
+    {
+        "WT": 1.0602,
+        "KO": 0.8408,
+        "group": "None",
+        "symbol": "Lck"
+    },
+    {
+        "WT": 23.368,
+        "KO": 19.6405,
+        "group": "None",
+        "symbol": "Gtf2h1"
+    },
+    {
+        "WT": 0.5742,
+        "KO": 3.2043,
+        "group": "Up",
+        "symbol": "Adamts15"
+    },
+    {
+        "WT": 4.2353,
+        "KO": 4.8326,
+        "group": "None",
+        "symbol": "Ago4"
+    },
+    {
+        "WT": 1.5073,
+        "KO": 1.928,
+        "group": "None",
+        "symbol": "4930594M22Rik"
+    },
+    {
+        "WT": 34.3267,
+        "KO": 38.5598,
+        "group": "None",
+        "symbol": "Stx12"
+    },
+    {
+        "WT": 399.5898,
+        "KO": 182.4858,
+        "group": "Down",
+        "symbol": "Pipox"
+    },
+    {
+        "WT": 10.3798,
+        "KO": 15.5934,
+        "group": "None",
+        "symbol": "Chst15"
+    },
+    {
+        "WT": 0.9528,
+        "KO": 3.5419,
+        "group": "None",
+        "symbol": "Tbxas1"
+    },
+    {
+        "WT": 2342.8233,
+        "KO": 1504.0449,
+        "group": "None",
+        "symbol": "Rdh7"
+    },
+    {
+        "WT": 77.6757,
+        "KO": 98.3146,
+        "group": "None",
+        "symbol": "Tmem30b"
+    },
+    {
+        "WT": 7.1804,
+        "KO": 6.355,
+        "group": "None",
+        "symbol": "Actr10"
+    },
+    {
+        "WT": 0.5774,
+        "KO": 0.0507,
+        "group": "None",
+        "symbol": "Wnt6"
+    },
+    {
+        "WT": 25.919,
+        "KO": 24.0723,
+        "group": "None",
+        "symbol": "Tmem33"
+    },
+    {
+        "WT": 2.7691,
+        "KO": 3.3871,
+        "group": "None",
+        "symbol": "Chrd"
+    },
+    {
+        "WT": 0.1274,
+        "KO": 0.1941,
+        "group": "None",
+        "symbol": "Dlk1"
+    },
+    {
+        "WT": 17.3737,
+        "KO": 20.867,
+        "group": "None",
+        "symbol": "Efcab14"
+    },
+    {
+        "WT": 43.0492,
+        "KO": 40.9696,
+        "group": "None",
+        "symbol": "Mrps18b"
+    },
+    {
+        "WT": 14.5306,
+        "KO": 15.5048,
+        "group": "None",
+        "symbol": "Zfp830"
+    },
+    {
+        "WT": 1.5822,
+        "KO": 1.0197,
+        "group": "None",
+        "symbol": "Dlgap1"
+    },
+    {
+        "WT": 32.1516,
+        "KO": 29.9016,
+        "group": "None",
+        "symbol": "Snx9"
+    },
+    {
+        "WT": 3.6489,
+        "KO": 8.9892,
+        "group": "Up",
+        "symbol": "Meis1"
+    },
+    {
+        "WT": 544.0105,
+        "KO": 426.6722,
+        "group": "None",
+        "symbol": "Pcyt2"
+    },
+    {
+        "WT": 10.6913,
+        "KO": 6.7328,
+        "group": "None",
+        "symbol": "Ggnbp1"
+    },
+    {
+        "WT": 38.7278,
+        "KO": 40.5243,
+        "group": "None",
+        "symbol": "Fam114a2"
+    },
+    {
+        "WT": 1.2505,
+        "KO": 1.1056,
+        "group": "None",
+        "symbol": "Igf1r"
+    },
+    {
+        "WT": 0.8077,
+        "KO": 0.0351,
+        "group": "Down",
+        "symbol": "Chst1"
+    },
+    {
+        "WT": 33.2808,
+        "KO": 35.3962,
+        "group": "None",
+        "symbol": "Bace1"
+    },
+    {
+        "WT": 70.0134,
+        "KO": 60.939,
+        "group": "None",
+        "symbol": "Epb41"
+    },
+    {
+        "WT": 74.5452,
+        "KO": 122.5018,
+        "group": "None",
+        "symbol": "Stat3"
+    },
+    {
+        "WT": 11.6288,
+        "KO": 17.3778,
+        "group": "None",
+        "symbol": "Mier2"
+    },
+    {
+        "WT": 7.9426,
+        "KO": 6.9962,
+        "group": "None",
+        "symbol": "Pdia5"
+    },
+    {
+        "WT": 3.1499,
+        "KO": 1.8015,
+        "group": "None",
+        "symbol": "Rps15a"
+    },
+    {
+        "WT": 1.5131,
+        "KO": 0.7721,
+        "group": "None",
+        "symbol": "Nfe2l3"
+    },
+    {
+        "WT": 26.3095,
+        "KO": 37.6605,
+        "group": "None",
+        "symbol": "Rabep1"
+    },
+    {
+        "WT": 72.029,
+        "KO": 83.0629,
+        "group": "None",
+        "symbol": "Ncoa4"
+    },
+    {
+        "WT": 26.149,
+        "KO": 26.0861,
+        "group": "None",
+        "symbol": "Txlna"
+    },
+    {
+        "WT": 36.7371,
+        "KO": 64.8956,
+        "group": "None",
+        "symbol": "Rcan1"
+    },
+    {
+        "WT": 47.3087,
+        "KO": 63.3516,
+        "group": "None",
+        "symbol": "Csk"
+    },
+    {
+        "WT": 0.9203,
+        "KO": 3.2768,
+        "group": "Up",
+        "symbol": "Kcnk13"
+    },
+    {
+        "WT": 1.2492,
+        "KO": 1.023,
+        "group": "None",
+        "symbol": "Art2b"
+    },
+    {
+        "WT": 6.2919,
+        "KO": 9.6862,
+        "group": "None",
+        "symbol": "Camk1"
+    },
+    {
+        "WT": 14.0681,
+        "KO": 17.3819,
+        "group": "None",
+        "symbol": "Arhgap12"
+    },
+    {
+        "WT": 0.5135,
+        "KO": 0.2748,
+        "group": "None",
+        "symbol": "Fbxl12os"
+    },
+    {
+        "WT": 11.0861,
+        "KO": 20.5258,
+        "group": "None",
+        "symbol": "Uhrf1bp1"
+    },
+    {
+        "WT": 0.0954,
+        "KO": 0.748,
+        "group": "None",
+        "symbol": "Ttk"
+    },
+    {
+        "WT": 27.4607,
+        "KO": 36.9375,
+        "group": "None",
+        "symbol": "Ubxn2a"
+    },
+    {
+        "WT": 0.2194,
+        "KO": 0.4729,
+        "group": "None",
+        "symbol": "Zfp459"
+    },
+    {
+        "WT": 100.8272,
+        "KO": 104.4065,
+        "group": "None",
+        "symbol": "Vcp"
+    },
+    {
+        "WT": 23.093,
+        "KO": 30.1858,
+        "group": "None",
+        "symbol": "Vps36"
+    },
+    {
+        "WT": 0.1076,
+        "KO": 0.2504,
+        "group": "None",
+        "symbol": "C920009B18Rik"
+    },
+    {
+        "WT": 15.6949,
+        "KO": 15.2935,
+        "group": "None",
+        "symbol": "Klhl2"
+    },
+    {
+        "WT": 4.6873,
+        "KO": 5.0175,
+        "group": "None",
+        "symbol": "Xrcc4"
+    },
+    {
+        "WT": 2.6665,
+        "KO": 2.5532,
+        "group": "None",
+        "symbol": "Cfap126"
+    },
+    {
+        "WT": 1.8761,
+        "KO": 0.6419,
+        "group": "None",
+        "symbol": "Awat2"
+    },
+    {
+        "WT": 1.0646,
+        "KO": 2.2889,
+        "group": "None",
+        "symbol": "Plxna4"
+    },
+    {
+        "WT": 16.7718,
+        "KO": 11.6983,
+        "group": "None",
+        "symbol": "Ppm1m"
+    },
+    {
+        "WT": 0.3963,
+        "KO": 0.7257,
+        "group": "None",
+        "symbol": "Etv1"
+    },
+    {
+        "WT": 357.044,
+        "KO": 467.647,
+        "group": "None",
+        "symbol": "Pnpo"
+    },
+    {
+        "WT": 11.0865,
+        "KO": 12.5244,
+        "group": "None",
+        "symbol": "Pmpcb"
+    },
+    {
+        "WT": 3.5604,
+        "KO": 3.5818,
+        "group": "None",
+        "symbol": "Nox1"
+    },
+    {
+        "WT": 32.9375,
+        "KO": 35.7234,
+        "group": "None",
+        "symbol": "Snord22"
+    },
+    {
+        "WT": 4.3989,
+        "KO": 4.2621,
+        "group": "None",
+        "symbol": "Ell3"
+    },
+    {
+        "WT": 43.7204,
+        "KO": 128.0576,
+        "group": "Up",
+        "symbol": "Vat1"
+    },
+    {
+        "WT": 1138.3093,
+        "KO": 818.4349,
+        "group": "None",
+        "symbol": "Crp"
+    },
+    {
+        "WT": 2.6316,
+        "KO": 18.5395,
+        "group": "Up",
+        "symbol": "2310034O05Rik"
+    },
+    {
+        "WT": 36.2979,
+        "KO": 37.4494,
+        "group": "None",
+        "symbol": "Mrpl40"
+    },
+    {
+        "WT": 182.9333,
+        "KO": 178.0362,
+        "group": "None",
+        "symbol": "F5"
+    },
+    {
+        "WT": 0.2925,
+        "KO": 0.06,
+        "group": "None",
+        "symbol": "Rassf10"
+    },
+    {
+        "WT": 7.805,
+        "KO": 3.3012,
+        "group": "Down",
+        "symbol": "Rdm1"
+    },
+    {
+        "WT": 21.1812,
+        "KO": 22.87,
+        "group": "None",
+        "symbol": "Ncoa2"
+    },
+    {
+        "WT": 36.4555,
+        "KO": 15.4004,
+        "group": "Down",
+        "symbol": "Mme"
+    },
+    {
+        "WT": 8.2059,
+        "KO": 18.2552,
+        "group": "None",
+        "symbol": "Pdzrn3"
+    },
+    {
+        "WT": 11.9241,
+        "KO": 20.7177,
+        "group": "None",
+        "symbol": "Cnn2"
+    },
+    {
+        "WT": 18.2272,
+        "KO": 35.9429,
+        "group": "None",
+        "symbol": "Rnf141"
+    },
+    {
+        "WT": 18.1742,
+        "KO": 14.1984,
+        "group": "None",
+        "symbol": "Riox1"
+    },
+    {
+        "WT": 0.0771,
+        "KO": 0.2015,
+        "group": "None",
+        "symbol": "Klri2"
+    },
+    {
+        "WT": 32.2876,
+        "KO": 40.108,
+        "group": "None",
+        "symbol": "Pisd"
+    },
+    {
+        "WT": 6.0913,
+        "KO": 8.723,
+        "group": "None",
+        "symbol": "Med30"
+    },
+    {
+        "WT": 0.6947,
+        "KO": 0.314,
+        "group": "None",
+        "symbol": "4930509G22Rik"
+    },
+    {
+        "WT": 15.5613,
+        "KO": 27.5955,
+        "group": "None",
+        "symbol": "Chic2"
+    },
+    {
+        "WT": 2.6403,
+        "KO": 6.2572,
+        "group": "Up",
+        "symbol": "Gas2l3"
+    },
+    {
+        "WT": 0.0523,
+        "KO": 0.6635,
+        "group": "None",
+        "symbol": "Tpbg"
+    },
+    {
+        "WT": 25.1944,
+        "KO": 23.123,
+        "group": "None",
+        "symbol": "Lsm14a"
+    },
+    {
+        "WT": 0.5723,
+        "KO": 0.6485,
+        "group": "None",
+        "symbol": "Mgarp"
+    },
+    {
+        "WT": 261.0148,
+        "KO": 314.7129,
+        "group": "None",
+        "symbol": "Eif4h"
+    },
+    {
+        "WT": 12.1841,
+        "KO": 10.7967,
+        "group": "None",
+        "symbol": "Eapp"
+    },
+    {
+        "WT": 30.1253,
+        "KO": 50.4717,
+        "group": "None",
+        "symbol": "Marcks"
+    },
+    {
+        "WT": 2.3452,
+        "KO": 5.1867,
+        "group": "None",
+        "symbol": "Arhgef6"
+    },
+    {
+        "WT": 2.5362,
+        "KO": 5.1528,
+        "group": "None",
+        "symbol": "Kif3a"
+    },
+    {
+        "WT": 10.0393,
+        "KO": 11.1983,
+        "group": "None",
+        "symbol": "Exph5"
+    },
+    {
+        "WT": 10.2035,
+        "KO": 25.1885,
+        "group": "Up",
+        "symbol": "Dpp7"
+    },
+    {
+        "WT": 107.1183,
+        "KO": 127.7331,
+        "group": "None",
+        "symbol": "Pabpc1"
+    },
+    {
+        "WT": 9.6962,
+        "KO": 18.3364,
+        "group": "None",
+        "symbol": "Dhrs13"
+    },
+    {
+        "WT": 36.4229,
+        "KO": 85.452,
+        "group": "Up",
+        "symbol": "Mafk"
+    },
+    {
+        "WT": 1.1627,
+        "KO": 1.4159,
+        "group": "None",
+        "symbol": "Cyfip2"
+    },
+    {
+        "WT": 19.3173,
+        "KO": 41.1512,
+        "group": "None",
+        "symbol": "Vasp"
+    },
+    {
+        "WT": 0.3338,
+        "KO": 0.1893,
+        "group": "None",
+        "symbol": "Cyb5r2"
+    },
+    {
+        "WT": 0.5193,
+        "KO": 1.2983,
+        "group": "None",
+        "symbol": "Fbxl16"
+    },
+    {
+        "WT": 43.0686,
+        "KO": 37.5695,
+        "group": "None",
+        "symbol": "Nrbp2"
+    },
+    {
+        "WT": 0.2336,
+        "KO": 0.3325,
+        "group": "None",
+        "symbol": "Klrb1b"
+    },
+    {
+        "WT": 6.6171,
+        "KO": 6.0166,
+        "group": "None",
+        "symbol": "Med14"
+    },
+    {
+        "WT": 42.5853,
+        "KO": 40.5135,
+        "group": "None",
+        "symbol": "Dusp11"
+    },
+    {
+        "WT": 1.8545,
+        "KO": 6.2405,
+        "group": "Up",
+        "symbol": "Arhgap11a"
+    },
+    {
+        "WT": 16.6355,
+        "KO": 28.4998,
+        "group": "None",
+        "symbol": "Bloc1s3"
+    },
+    {
+        "WT": 0.9232,
+        "KO": 1.467,
+        "group": "None",
+        "symbol": "Cd200"
+    },
+    {
+        "WT": 1.5268,
+        "KO": 4.625,
+        "group": "None",
+        "symbol": "Ncf4"
+    },
+    {
+        "WT": 5.4378,
+        "KO": 8.7346,
+        "group": "None",
+        "symbol": "Rapgef5"
+    },
+    {
+        "WT": 0.1837,
+        "KO": 0.696,
+        "group": "None",
+        "symbol": "Lgi3"
+    },
+    {
+        "WT": 323.2669,
+        "KO": 0.2327,
+        "group": "Down",
+        "symbol": "Mup1"
+    },
+    {
+        "WT": 8.6394,
+        "KO": 15.8313,
+        "group": "None",
+        "symbol": "Particl"
+    },
+    {
+        "WT": 7.7088,
+        "KO": 8.4027,
+        "group": "None",
+        "symbol": "Pwwp3a"
+    },
+    {
+        "WT": 1.6967,
+        "KO": 1.1394,
+        "group": "None",
+        "symbol": "Kcnk3"
+    },
+    {
+        "WT": 1.0808,
+        "KO": 1.3631,
+        "group": "None",
+        "symbol": "Katnb1"
+    },
+    {
+        "WT": 53.4148,
+        "KO": 80.8186,
+        "group": "None",
+        "symbol": "Chmp1b"
+    },
+    {
+        "WT": 0.8445,
+        "KO": 1.4124,
+        "group": "None",
+        "symbol": "Gpm6b"
+    },
+    {
+        "WT": 20.5313,
+        "KO": 19.3561,
+        "group": "None",
+        "symbol": "Tbce"
+    },
+    {
+        "WT": 0.6519,
+        "KO": 0.5982,
+        "group": "None",
+        "symbol": "4930513N10Rik"
+    },
+    {
+        "WT": 5.5026,
+        "KO": 3.0895,
+        "group": "Down",
+        "symbol": "Efna5"
+    },
+    {
+        "WT": 127.9134,
+        "KO": 110.8651,
+        "group": "None",
+        "symbol": "Acnat1"
+    },
+    {
+        "WT": 0.6497,
+        "KO": 1.1025,
+        "group": "None",
+        "symbol": "Epcam"
+    },
+    {
+        "WT": 1.6625,
+        "KO": 2.9448,
+        "group": "None",
+        "symbol": "Adamts6"
+    },
+    {
+        "WT": 3.7819,
+        "KO": 8.2147,
+        "group": "None",
+        "symbol": "Plp2"
+    },
+    {
+        "WT": 10.4246,
+        "KO": 11.5682,
+        "group": "None",
+        "symbol": "Fbxo28"
+    },
+    {
+        "WT": 223.8067,
+        "KO": 155.8382,
+        "group": "None",
+        "symbol": "Cpt2"
+    },
+    {
+        "WT": 3.8192,
+        "KO": 2.7353,
+        "group": "None",
+        "symbol": "Dclre1c"
+    },
+    {
+        "WT": 3.2548,
+        "KO": 2.3339,
+        "group": "None",
+        "symbol": "Psph"
+    },
+    {
+        "WT": 86.3177,
+        "KO": 85.5381,
+        "group": "None",
+        "symbol": "Tex264"
+    },
+    {
+        "WT": 64.9363,
+        "KO": 66.9372,
+        "group": "None",
+        "symbol": "Fam168b"
+    },
+    {
+        "WT": 0.2809,
+        "KO": 0.3021,
+        "group": "None",
+        "symbol": "Bnipl"
+    },
+    {
+        "WT": 12.1692,
+        "KO": 10.5701,
+        "group": "None",
+        "symbol": "Rpusd3"
+    },
+    {
+        "WT": 37.0759,
+        "KO": 46.5986,
+        "group": "None",
+        "symbol": "Slc3a2"
+    },
+    {
+        "WT": 15.9304,
+        "KO": 15.3983,
+        "group": "None",
+        "symbol": "Zfp672"
+    },
+    {
+        "WT": 158.2921,
+        "KO": 85.3755,
+        "group": "Down",
+        "symbol": "Hgfac"
+    },
+    {
+        "WT": 13.8917,
+        "KO": 21.0144,
+        "group": "None",
+        "symbol": "Pak4"
+    },
+    {
+        "WT": 1.1104,
+        "KO": 2.3069,
+        "group": "None",
+        "symbol": "Nodal"
+    },
+    {
+        "WT": 502.9009,
+        "KO": 315.0613,
+        "group": "None",
+        "symbol": "Vkorc1"
+    },
+    {
+        "WT": 55.7813,
+        "KO": 28.9877,
+        "group": "Down",
+        "symbol": "Pex11g"
+    },
+    {
+        "WT": 12.2236,
+        "KO": 12.0735,
+        "group": "None",
+        "symbol": "Usp45"
+    },
+    {
+        "WT": 54.2909,
+        "KO": 56.8061,
+        "group": "None",
+        "symbol": "Bccip"
+    },
+    {
+        "WT": 40.0007,
+        "KO": 35.4083,
+        "group": "None",
+        "symbol": "Atg13"
+    },
+    {
+        "WT": 7.6811,
+        "KO": 21.0678,
+        "group": "Up",
+        "symbol": "Pigf"
+    },
+    {
+        "WT": 0.2427,
+        "KO": 0.8285,
+        "group": "None",
+        "symbol": "Hsh2d"
+    },
+    {
+        "WT": 5.4976,
+        "KO": 4.0044,
+        "group": "None",
+        "symbol": "Psme2"
+    },
+    {
+        "WT": 0.5809,
+        "KO": 0.6818,
+        "group": "None",
+        "symbol": "Setbp1"
+    },
+    {
+        "WT": 19.7595,
+        "KO": 1.1844,
+        "group": "Down",
+        "symbol": "A930033H14Rik"
+    },
+    {
+        "WT": 31.6567,
+        "KO": 34.2821,
+        "group": "None",
+        "symbol": "Rchy1"
+    },
+    {
+        "WT": 434.6643,
+        "KO": 14.6861,
+        "group": "Down",
+        "symbol": "Cyp2c40"
+    },
+    {
+        "WT": 6.0219,
+        "KO": 10.8029,
+        "group": "None",
+        "symbol": "Sema4b"
+    },
+    {
+        "WT": 5.2009,
+        "KO": 5.2279,
+        "group": "None",
+        "symbol": "Zscan12"
+    },
+    {
+        "WT": 20.606,
+        "KO": 10.0085,
+        "group": "Down",
+        "symbol": "A230083G16Rik"
+    },
+    {
+        "WT": 10.8157,
+        "KO": 9.7353,
+        "group": "None",
+        "symbol": "Micos10"
+    },
+    {
+        "WT": 23.6243,
+        "KO": 25.0275,
+        "group": "None",
+        "symbol": "Angel2"
+    },
+    {
+        "WT": 18.5021,
+        "KO": 20.9936,
+        "group": "None",
+        "symbol": "Ube3c"
+    },
+    {
+        "WT": 10.6032,
+        "KO": 19.2539,
+        "group": "None",
+        "symbol": "Atp9a"
+    },
+    {
+        "WT": 3.1133,
+        "KO": 4.1357,
+        "group": "None",
+        "symbol": "1700030C10Rik"
+    },
+    {
+        "WT": 0.5375,
+        "KO": 0.7011,
+        "group": "None",
+        "symbol": "Fut7"
+    },
+    {
+        "WT": 41.1207,
+        "KO": 52.5984,
+        "group": "None",
+        "symbol": "Oga"
+    },
+    {
+        "WT": 3.5405,
+        "KO": 7.129,
+        "group": "None",
+        "symbol": "Rab34"
+    },
+    {
+        "WT": 0.057,
+        "KO": 0.0789,
+        "group": "None",
+        "symbol": "Nwd2"
+    },
+    {
+        "WT": 0.1614,
+        "KO": 0.5319,
+        "group": "None",
+        "symbol": "Trim72"
+    },
+    {
+        "WT": 47.9811,
+        "KO": 47.5868,
+        "group": "None",
+        "symbol": "4932702P03Rik"
+    },
+    {
+        "WT": 284.7132,
+        "KO": 235.2898,
+        "group": "None",
+        "symbol": "Lactb2"
+    },
+    {
+        "WT": 7.0279,
+        "KO": 6.8457,
+        "group": "None",
+        "symbol": "Meaf6"
+    },
+    {
+        "WT": 23.62,
+        "KO": 26.5951,
+        "group": "None",
+        "symbol": "Ssrp1"
+    },
+    {
+        "WT": 89.1549,
+        "KO": 83.8883,
+        "group": "None",
+        "symbol": "Rpl15"
+    },
+    {
+        "WT": 0.4872,
+        "KO": 1.2525,
+        "group": "None",
+        "symbol": "Lingo1"
+    },
+    {
+        "WT": 11.8189,
+        "KO": 17.3877,
+        "group": "None",
+        "symbol": "Setd2"
+    },
+    {
+        "WT": 10.9506,
+        "KO": 12.3178,
+        "group": "None",
+        "symbol": "Cep57"
+    },
+    {
+        "WT": 41.8314,
+        "KO": 382.4044,
+        "group": "Up",
+        "symbol": "Saa2"
+    },
+    {
+        "WT": 2.6451,
+        "KO": 3.0877,
+        "group": "None",
+        "symbol": "Mapk11"
+    },
+    {
+        "WT": 25.0525,
+        "KO": 15.2314,
+        "group": "None",
+        "symbol": "Gas5"
+    },
+    {
+        "WT": 5.1399,
+        "KO": 3.8808,
+        "group": "None",
+        "symbol": "Rbis"
+    },
+    {
+        "WT": 35.436,
+        "KO": 28.6051,
+        "group": "None",
+        "symbol": "Prr14"
+    },
+    {
+        "WT": 8.9773,
+        "KO": 14.3933,
+        "group": "None",
+        "symbol": "Tmem263"
+    },
+    {
+        "WT": 0.4745,
+        "KO": 0.8627,
+        "group": "None",
+        "symbol": "Nup93"
+    },
+    {
+        "WT": 46.7824,
+        "KO": 39.6161,
+        "group": "None",
+        "symbol": "Tomm40"
+    },
+    {
+        "WT": 229.8311,
+        "KO": 260.1697,
+        "group": "None",
+        "symbol": "Cnn3"
+    },
+    {
+        "WT": 0.311,
+        "KO": 1.0463,
+        "group": "None",
+        "symbol": "Hoxb7"
+    },
+    {
+        "WT": 0.3557,
+        "KO": 2.3288,
+        "group": "Up",
+        "symbol": "Rasl10b"
+    },
+    {
+        "WT": 15.0508,
+        "KO": 5.3759,
+        "group": "Down",
+        "symbol": "4931403E22Rik"
+    },
+    {
+        "WT": 46.5756,
+        "KO": 42.5744,
+        "group": "None",
+        "symbol": "Dtx3l"
+    },
+    {
+        "WT": 1.1764,
+        "KO": 1.0309,
+        "group": "None",
+        "symbol": "A930006K02Rik"
+    },
+    {
+        "WT": 3.7977,
+        "KO": 3.8242,
+        "group": "None",
+        "symbol": "Sox17"
+    },
+    {
+        "WT": 0.5962,
+        "KO": 1.6539,
+        "group": "None",
+        "symbol": "Slc7a1"
+    },
+    {
+        "WT": 0.0752,
+        "KO": 0.8108,
+        "group": "None",
+        "symbol": "Csf3"
+    },
+    {
+        "WT": 61.2402,
+        "KO": 61.5878,
+        "group": "None",
+        "symbol": "Cops7a"
+    },
+    {
+        "WT": 90.9949,
+        "KO": 154.111,
+        "group": "None",
+        "symbol": "Dusp6"
+    },
+    {
+        "WT": 225.2355,
+        "KO": 1019.3749,
+        "group": "Up",
+        "symbol": "H3f3b"
+    },
+    {
+        "WT": 0.9523,
+        "KO": 0.9732,
+        "group": "None",
+        "symbol": "Gjc1"
+    },
+    {
+        "WT": 169.7413,
+        "KO": 239.4937,
+        "group": "None",
+        "symbol": "Tmem150a"
+    },
+    {
+        "WT": 3.6882,
+        "KO": 4.6693,
+        "group": "None",
+        "symbol": "Mir1668"
+    },
+    {
+        "WT": 0.0825,
+        "KO": 0.3883,
+        "group": "None",
+        "symbol": "Meox2"
+    },
+    {
+        "WT": 42.4116,
+        "KO": 41.1981,
+        "group": "None",
+        "symbol": "Lsm4"
+    },
+    {
+        "WT": 21.3824,
+        "KO": 17.4351,
+        "group": "None",
+        "symbol": "Uspl1"
+    },
+    {
+        "WT": 1.139,
+        "KO": 2.5209,
+        "group": "None",
+        "symbol": "Tspan32"
+    },
+    {
+        "WT": 46.2631,
+        "KO": 42.2165,
+        "group": "None",
+        "symbol": "Abca3"
+    },
+    {
+        "WT": 0.1536,
+        "KO": 0.4275,
+        "group": "None",
+        "symbol": "Kcna3"
+    },
+    {
+        "WT": 53.1481,
+        "KO": 42.8894,
+        "group": "None",
+        "symbol": "Pex7"
+    },
+    {
+        "WT": 0.9061,
+        "KO": 1.8762,
+        "group": "None",
+        "symbol": "Wdr60"
+    },
+    {
+        "WT": 12.7694,
+        "KO": 12.6761,
+        "group": "None",
+        "symbol": "Polg"
+    },
+    {
+        "WT": 3.6609,
+        "KO": 38.4304,
+        "group": "Up",
+        "symbol": "Tuba8"
+    },
+    {
+        "WT": 14.531,
+        "KO": 15.3191,
+        "group": "None",
+        "symbol": "Clns1a"
+    },
+    {
+        "WT": 5.7174,
+        "KO": 4.1563,
+        "group": "None",
+        "symbol": "Mettl22"
+    },
+    {
+        "WT": 1.6309,
+        "KO": 0.562,
+        "group": "None",
+        "symbol": "9630013K17Rik"
+    },
+    {
+        "WT": 13.7672,
+        "KO": 15.5816,
+        "group": "None",
+        "symbol": "Tmem87a"
+    },
+    {
+        "WT": 18.9387,
+        "KO": 5.4496,
+        "group": "None",
+        "symbol": "Snord37"
+    },
+    {
+        "WT": 13.1411,
+        "KO": 8.9622,
+        "group": "None",
+        "symbol": "Cfhr3"
+    },
+    {
+        "WT": 10.2636,
+        "KO": 12.7364,
+        "group": "None",
+        "symbol": "R3hcc1l"
+    },
+    {
+        "WT": 51.8903,
+        "KO": 52.022,
+        "group": "None",
+        "symbol": "Dnajc14"
+    },
+    {
+        "WT": 9.9101,
+        "KO": 14.0782,
+        "group": "None",
+        "symbol": "Rcn1"
+    },
+    {
+        "WT": 6.0558,
+        "KO": 8.0295,
+        "group": "None",
+        "symbol": "Blzf1"
+    },
+    {
+        "WT": 0.4995,
+        "KO": 0.0106,
+        "group": "Down",
+        "symbol": "Col25a1"
+    },
+    {
+        "WT": 0.4715,
+        "KO": 1.1506,
+        "group": "None",
+        "symbol": "Ccl4"
+    },
+    {
+        "WT": 75.1063,
+        "KO": 26.2216,
+        "group": "Down",
+        "symbol": "Mfsd4b1"
+    },
+    {
+        "WT": 44.1136,
+        "KO": 42.9496,
+        "group": "None",
+        "symbol": "Tm6sf2"
+    },
+    {
+        "WT": 2.7919,
+        "KO": 5.9752,
+        "group": "None",
+        "symbol": "Itprip"
+    },
+    {
+        "WT": 0.7051,
+        "KO": 1.7163,
+        "group": "None",
+        "symbol": "4930415O20Rik"
+    },
+    {
+        "WT": 0.7117,
+        "KO": 2.6352,
+        "group": "Up",
+        "symbol": "Vav1"
+    },
+    {
+        "WT": 41.9537,
+        "KO": 47.8989,
+        "group": "None",
+        "symbol": "Cd99l2"
+    },
+    {
+        "WT": 8.3519,
+        "KO": 67.3995,
+        "group": "Up",
+        "symbol": "Olfml3"
+    },
+    {
+        "WT": 15.4317,
+        "KO": 16.0629,
+        "group": "None",
+        "symbol": "Zc3h10"
+    },
+    {
+        "WT": 1.2419,
+        "KO": 0.7184,
+        "group": "None",
+        "symbol": "Gm19395"
+    },
+    {
+        "WT": 11.4161,
+        "KO": 6.5148,
+        "group": "None",
+        "symbol": "Acyp1"
+    },
+    {
+        "WT": 21.1419,
+        "KO": 35.633,
+        "group": "None",
+        "symbol": "Mocos"
+    },
+    {
+        "WT": 13.2539,
+        "KO": 26.993,
+        "group": "None",
+        "symbol": "Ednrb"
+    },
+    {
+        "WT": 31.7983,
+        "KO": 31.1648,
+        "group": "None",
+        "symbol": "Crb3"
+    },
+    {
+        "WT": 17.5143,
+        "KO": 16.4908,
+        "group": "None",
+        "symbol": "E2f6"
+    },
+    {
+        "WT": 6.2905,
+        "KO": 7.9253,
+        "group": "None",
+        "symbol": "Bbs10"
+    },
+    {
+        "WT": 4.0297,
+        "KO": 1.8932,
+        "group": "None",
+        "symbol": "H2ac8"
+    },
+    {
+        "WT": 25.511,
+        "KO": 27.7072,
+        "group": "None",
+        "symbol": "Pank2"
+    },
+    {
+        "WT": 0.5596,
+        "KO": 16.5573,
+        "group": "Up",
+        "symbol": "Thbs1"
+    },
+    {
+        "WT": 896.247,
+        "KO": 458.2062,
+        "group": "Down",
+        "symbol": "Fads1"
+    },
+    {
+        "WT": 83.4928,
+        "KO": 68.9799,
+        "group": "None",
+        "symbol": "Bet1"
+    },
+    {
+        "WT": 65.1242,
+        "KO": 85.3719,
+        "group": "None",
+        "symbol": "Rtf2"
+    },
+    {
+        "WT": 4.8903,
+        "KO": 6.7873,
+        "group": "None",
+        "symbol": "Wars2"
+    },
+    {
+        "WT": 1.273,
+        "KO": 1.2436,
+        "group": "None",
+        "symbol": "Gjc3"
+    },
+    {
+        "WT": 21.8445,
+        "KO": 112.5801,
+        "group": "Up",
+        "symbol": "Ccn1"
+    },
+    {
+        "WT": 90.256,
+        "KO": 63.3021,
+        "group": "None",
+        "symbol": "Atl2"
+    },
+    {
+        "WT": 32.0764,
+        "KO": 31.3344,
+        "group": "None",
+        "symbol": "Zfp110"
+    },
+    {
+        "WT": 14.877,
+        "KO": 11.5758,
+        "group": "None",
+        "symbol": "Yif1a"
+    },
+    {
+        "WT": 8.8518,
+        "KO": 9.8876,
+        "group": "None",
+        "symbol": "Rtl8c"
+    },
+    {
+        "WT": 30.1337,
+        "KO": 29.3913,
+        "group": "None",
+        "symbol": "Pgam5"
+    },
+    {
+        "WT": 92.3513,
+        "KO": 86.0849,
+        "group": "None",
+        "symbol": "Psmd3"
+    },
+    {
+        "WT": 9.7981,
+        "KO": 11.3539,
+        "group": "None",
+        "symbol": "Alkbh1"
+    },
+    {
+        "WT": 20.306,
+        "KO": 20.0953,
+        "group": "None",
+        "symbol": "Aasdhppt"
+    },
+    {
+        "WT": 13.6207,
+        "KO": 101.4429,
+        "group": "Up",
+        "symbol": "Phospho1"
+    },
+    {
+        "WT": 0.5533,
+        "KO": 0.5126,
+        "group": "None",
+        "symbol": "Adipoq"
+    },
+    {
+        "WT": 9.4487,
+        "KO": 12.5611,
+        "group": "None",
+        "symbol": "Cyb5r1"
+    },
+    {
+        "WT": 0.0813,
+        "KO": 0.1646,
+        "group": "None",
+        "symbol": "Lrrc2"
+    },
+    {
+        "WT": 84.3083,
+        "KO": 85.5794,
+        "group": "None",
+        "symbol": "Utp3"
+    },
+    {
+        "WT": 32.118,
+        "KO": 27.4676,
+        "group": "None",
+        "symbol": "Dars"
+    },
+    {
+        "WT": 16.2156,
+        "KO": 18.5892,
+        "group": "None",
+        "symbol": "Klf11"
+    },
+    {
+        "WT": 285.9231,
+        "KO": 270.001,
+        "group": "None",
+        "symbol": "Hsp90b1"
+    },
+    {
+        "WT": 0.1954,
+        "KO": 0.2468,
+        "group": "None",
+        "symbol": "Sptbn5"
+    },
+    {
+        "WT": 3.1905,
+        "KO": 9.0933,
+        "group": "Up",
+        "symbol": "Pdlim7"
+    },
+    {
+        "WT": 12.3128,
+        "KO": 17.2108,
+        "group": "None",
+        "symbol": "AU040320"
+    },
+    {
+        "WT": 2.3961,
+        "KO": 3.7729,
+        "group": "None",
+        "symbol": "Zfp28"
+    },
+    {
+        "WT": 8.7761,
+        "KO": 4.9782,
+        "group": "None",
+        "symbol": "Slc25a21"
+    },
+    {
+        "WT": 11.0277,
+        "KO": 14.7831,
+        "group": "None",
+        "symbol": "Usp48"
+    },
+    {
+        "WT": 9.9631,
+        "KO": 7.6816,
+        "group": "None",
+        "symbol": "Blvra"
+    },
+    {
+        "WT": 3.275,
+        "KO": 3.6414,
+        "group": "None",
+        "symbol": "Snrpn"
+    },
+    {
+        "WT": 14.1838,
+        "KO": 19.7837,
+        "group": "None",
+        "symbol": "Scaf8"
+    },
+    {
+        "WT": 0.233,
+        "KO": 0.1635,
+        "group": "None",
+        "symbol": "Cdc45"
+    },
+    {
+        "WT": 65.6606,
+        "KO": 94.4902,
+        "group": "None",
+        "symbol": "Evi5"
+    },
+    {
+        "WT": 3.7954,
+        "KO": 3.6643,
+        "group": "None",
+        "symbol": "Zfp40"
+    },
+    {
+        "WT": 1.6056,
+        "KO": 4.8453,
+        "group": "Up",
+        "symbol": "Ripk3"
+    },
+    {
+        "WT": 4.0989,
+        "KO": 5.0249,
+        "group": "None",
+        "symbol": "2810002D19Rik"
+    },
+    {
+        "WT": 6.8152,
+        "KO": 7.3512,
+        "group": "None",
+        "symbol": "Ndufv2"
+    },
+    {
+        "WT": 3.6137,
+        "KO": 4.0898,
+        "group": "None",
+        "symbol": "Zfp54"
+    },
+    {
+        "WT": 30.9872,
+        "KO": 27.9622,
+        "group": "None",
+        "symbol": "Nudc"
+    },
+    {
+        "WT": 2.3159,
+        "KO": 2.7818,
+        "group": "None",
+        "symbol": "Cpm"
+    },
+    {
+        "WT": 135.5067,
+        "KO": 159.813,
+        "group": "None",
+        "symbol": "Ywhab"
+    },
+    {
+        "WT": 1.7362,
+        "KO": 2.8274,
+        "group": "None",
+        "symbol": "Gpatch1"
+    },
+    {
+        "WT": 1.7628,
+        "KO": 3.1865,
+        "group": "None",
+        "symbol": "Jaml"
+    },
+    {
+        "WT": 24.8371,
+        "KO": 24.3582,
+        "group": "None",
+        "symbol": "Nub1"
+    },
+    {
+        "WT": 14.2989,
+        "KO": 15.017,
+        "group": "None",
+        "symbol": "Rnf8"
+    },
+    {
+        "WT": 6.2976,
+        "KO": 7.3198,
+        "group": "None",
+        "symbol": "Rnf113a1"
+    },
+    {
+        "WT": 6.4023,
+        "KO": 122.2619,
+        "group": "Up",
+        "symbol": "Nr4a1"
+    },
+    {
+        "WT": 2.2387,
+        "KO": 1.7452,
+        "group": "None",
+        "symbol": "Ctnnbl1"
+    },
+    {
+        "WT": 5.9364,
+        "KO": 2.1409,
+        "group": "None",
+        "symbol": "Gm35549"
+    },
+    {
+        "WT": 72.3622,
+        "KO": 74.6013,
+        "group": "None",
+        "symbol": "Sgta"
+    },
+    {
+        "WT": 41.9137,
+        "KO": 48.9358,
+        "group": "None",
+        "symbol": "Rnf115"
+    },
+    {
+        "WT": 28.1686,
+        "KO": 31.6543,
+        "group": "None",
+        "symbol": "Taok2"
+    },
+    {
+        "WT": 17.7796,
+        "KO": 17.7341,
+        "group": "None",
+        "symbol": "Wdr73"
+    },
+    {
+        "WT": 0.2315,
+        "KO": 1.1222,
+        "group": "None",
+        "symbol": "Mis18bp1"
+    },
+    {
+        "WT": 0.4705,
+        "KO": 0.2135,
+        "group": "None",
+        "symbol": "Hormad2"
+    },
+    {
+        "WT": 41.9431,
+        "KO": 57.135,
+        "group": "None",
+        "symbol": "Akirin1"
+    },
+    {
+        "WT": 0.2912,
+        "KO": 0.2126,
+        "group": "None",
+        "symbol": "Apol11b"
+    },
+    {
+        "WT": 16.9406,
+        "KO": 12.4836,
+        "group": "None",
+        "symbol": "Ptdss2"
+    },
+    {
+        "WT": 1.107,
+        "KO": 3.829,
+        "group": "Up",
+        "symbol": "Pkia"
+    },
+    {
+        "WT": 0.3911,
+        "KO": 4.2861,
+        "group": "Up",
+        "symbol": "Gm4907"
+    },
+    {
+        "WT": 1.5958,
+        "KO": 3.2042,
+        "group": "None",
+        "symbol": "Zfp202"
+    },
+    {
+        "WT": 57.0445,
+        "KO": 83.8223,
+        "group": "None",
+        "symbol": "Rragc"
+    },
+    {
+        "WT": 70.8356,
+        "KO": 60.8518,
+        "group": "None",
+        "symbol": "Atad1"
+    },
+    {
+        "WT": 4.4226,
+        "KO": 2.3991,
+        "group": "None",
+        "symbol": "5830454E08Rik"
+    },
+    {
+        "WT": 9.7883,
+        "KO": 7.939,
+        "group": "None",
+        "symbol": "Tnfsf10"
+    },
+    {
+        "WT": 2.7039,
+        "KO": 19.018,
+        "group": "Up",
+        "symbol": "Pdgfc"
+    },
+    {
+        "WT": 17.5148,
+        "KO": 20.7479,
+        "group": "None",
+        "symbol": "Taok1"
+    },
+    {
+        "WT": 8.7958,
+        "KO": 10.0562,
+        "group": "None",
+        "symbol": "Sipa1"
+    },
+    {
+        "WT": 3.8464,
+        "KO": 3.9272,
+        "group": "None",
+        "symbol": "Haus7"
+    },
+    {
+        "WT": 0.4164,
+        "KO": 0.328,
+        "group": "None",
+        "symbol": "Nap1l5"
+    },
+    {
+        "WT": 22.1454,
+        "KO": 22.2151,
+        "group": "None",
+        "symbol": "Pnpla7"
+    },
+    {
+        "WT": 63.6481,
+        "KO": 159.1025,
+        "group": "None",
+        "symbol": "Nfkbia"
+    },
+    {
+        "WT": 49.464,
+        "KO": 40.4974,
+        "group": "None",
+        "symbol": "0610030E20Rik"
+    },
+    {
+        "WT": 49.195,
+        "KO": 34.42,
+        "group": "None",
+        "symbol": "Hyi"
+    },
+    {
+        "WT": 12.8786,
+        "KO": 21.9697,
+        "group": "None",
+        "symbol": "Mib2"
+    },
+    {
+        "WT": 13.1612,
+        "KO": 34.9956,
+        "group": "Up",
+        "symbol": "Rhoq"
+    },
+    {
+        "WT": 2.1246,
+        "KO": 2.503,
+        "group": "None",
+        "symbol": "Ccdc102a"
+    },
+    {
+        "WT": 75.2388,
+        "KO": 76.4423,
+        "group": "None",
+        "symbol": "Pcbp2"
+    },
+    {
+        "WT": 47.3196,
+        "KO": 40.6411,
+        "group": "None",
+        "symbol": "Fdx1"
+    },
+    {
+        "WT": 31.1461,
+        "KO": 34.3041,
+        "group": "None",
+        "symbol": "Usp47"
+    },
+    {
+        "WT": 3.5133,
+        "KO": 2.6523,
+        "group": "None",
+        "symbol": "Tmem138"
+    },
+    {
+        "WT": 16.1279,
+        "KO": 13.476,
+        "group": "None",
+        "symbol": "Eef1d"
+    },
+    {
+        "WT": 0.4446,
+        "KO": 0.4668,
+        "group": "None",
+        "symbol": "Thbs3"
+    },
+    {
+        "WT": 13.8819,
+        "KO": 20.8416,
+        "group": "None",
+        "symbol": "Slc35e3"
+    },
+    {
+        "WT": 4.8161,
+        "KO": 8.1636,
+        "group": "None",
+        "symbol": "Hdac7"
+    },
+    {
+        "WT": 38.2702,
+        "KO": 27.5419,
+        "group": "None",
+        "symbol": "Flad1"
+    },
+    {
+        "WT": 337.4742,
+        "KO": 467.7298,
+        "group": "None",
+        "symbol": "Gpd1"
+    },
+    {
+        "WT": 1.9305,
+        "KO": 3.7228,
+        "group": "None",
+        "symbol": "Scai"
+    },
+    {
+        "WT": 14.1818,
+        "KO": 13.6445,
+        "group": "None",
+        "symbol": "Tshz1"
+    },
+    {
+        "WT": 16.715,
+        "KO": 11.1791,
+        "group": "None",
+        "symbol": "Bco2"
+    },
+    {
+        "WT": 0.3623,
+        "KO": 0.3645,
+        "group": "None",
+        "symbol": "5730507C01Rik"
+    },
+    {
+        "WT": 1.1681,
+        "KO": 0.462,
+        "group": "None",
+        "symbol": "G630016G05Rik"
+    },
+    {
+        "WT": 42.5495,
+        "KO": 32.4629,
+        "group": "None",
+        "symbol": "Il6ra"
+    },
+    {
+        "WT": 42.1833,
+        "KO": 29.7312,
+        "group": "None",
+        "symbol": "BC003965"
+    },
+    {
+        "WT": 33.3792,
+        "KO": 40.4329,
+        "group": "None",
+        "symbol": "Plekhg3"
+    },
+    {
+        "WT": 8.9591,
+        "KO": 10.4354,
+        "group": "None",
+        "symbol": "Prr14l"
+    },
+    {
+        "WT": 0.827,
+        "KO": 0.8295,
+        "group": "None",
+        "symbol": "Ovgp1"
+    },
+    {
+        "WT": 0.0481,
+        "KO": 0.0492,
+        "group": "None",
+        "symbol": "Dnah8"
+    },
+    {
+        "WT": 23.6424,
+        "KO": 23.294,
+        "group": "None",
+        "symbol": "Zc3h18"
+    },
+    {
+        "WT": 115.1854,
+        "KO": 27.3832,
+        "group": "Down",
+        "symbol": "Pdk1"
+    },
+    {
+        "WT": 20.1658,
+        "KO": 22.8241,
+        "group": "None",
+        "symbol": "Ankrd33b"
+    },
+    {
+        "WT": 16.5117,
+        "KO": 13.9332,
+        "group": "None",
+        "symbol": "Mettl2"
+    },
+    {
+        "WT": 2.5318,
+        "KO": 5.2139,
+        "group": "None",
+        "symbol": "Msl3l2"
+    },
+    {
+        "WT": 15.9602,
+        "KO": 14.9591,
+        "group": "None",
+        "symbol": "Ccpg1os"
+    },
+    {
+        "WT": 3.8033,
+        "KO": 4.1204,
+        "group": "None",
+        "symbol": "Ktn1"
+    },
+    {
+        "WT": 20.5947,
+        "KO": 20.0608,
+        "group": "None",
+        "symbol": "Fbxw2"
+    },
+    {
+        "WT": 21.2911,
+        "KO": 16.819,
+        "group": "None",
+        "symbol": "Ndufa12"
+    },
+    {
+        "WT": 3.0023,
+        "KO": 4.0588,
+        "group": "None",
+        "symbol": "Haus6"
+    },
+    {
+        "WT": 50.8759,
+        "KO": 74.5605,
+        "group": "None",
+        "symbol": "Gbe1"
+    },
+    {
+        "WT": 10.2539,
+        "KO": 7.8054,
+        "group": "None",
+        "symbol": "Lyar"
+    },
+    {
+        "WT": 87.5341,
+        "KO": 323.2717,
+        "group": "Up",
+        "symbol": "Urml"
+    },
+    {
+        "WT": 21.0741,
+        "KO": 31.7307,
+        "group": "None",
+        "symbol": "Spata13"
+    },
+    {
+        "WT": 5.2702,
+        "KO": 6.9121,
+        "group": "None",
+        "symbol": "Ocrl"
+    },
+    {
+        "WT": 5.4159,
+        "KO": 6.1209,
+        "group": "None",
+        "symbol": "Nbn"
+    },
+    {
+        "WT": 22.73,
+        "KO": 23.7845,
+        "group": "None",
+        "symbol": "Brpf3"
+    },
+    {
+        "WT": 209.8803,
+        "KO": 83.5381,
+        "group": "Down",
+        "symbol": "Aspdh"
+    },
+    {
+        "WT": 14.2151,
+        "KO": 19.1107,
+        "group": "None",
+        "symbol": "Elk4"
+    },
+    {
+        "WT": 75.4695,
+        "KO": 62.4305,
+        "group": "None",
+        "symbol": "Gpr146"
+    },
+    {
+        "WT": 55.4358,
+        "KO": 74.6955,
+        "group": "None",
+        "symbol": "Gm7367"
+    },
+    {
+        "WT": 0.2544,
+        "KO": 0.4013,
+        "group": "None",
+        "symbol": "Aff3"
+    },
+    {
+        "WT": 0.6609,
+        "KO": 2.1986,
+        "group": "None",
+        "symbol": "Gm16159"
+    },
+    {
+        "WT": 0.0416,
+        "KO": 1.4725,
+        "group": "Up",
+        "symbol": "Adcy1"
+    },
+    {
+        "WT": 13.4938,
+        "KO": 18.4924,
+        "group": "None",
+        "symbol": "Ctr9"
+    },
+    {
+        "WT": 3.4177,
+        "KO": 4.8071,
+        "group": "None",
+        "symbol": "Zfp7"
+    },
+    {
+        "WT": 172.1264,
+        "KO": 143.4067,
+        "group": "None",
+        "symbol": "Acsf2"
+    },
+    {
+        "WT": 147.0727,
+        "KO": 129.3333,
+        "group": "None",
+        "symbol": "Coasy"
+    },
+    {
+        "WT": 2.994,
+        "KO": 4.0014,
+        "group": "None",
+        "symbol": "5730480H06Rik"
+    },
+    {
+        "WT": 8.2422,
+        "KO": 6.2882,
+        "group": "None",
+        "symbol": "Tmem39a"
+    },
+    {
+        "WT": 1.202,
+        "KO": 2.0997,
+        "group": "None",
+        "symbol": "Dnajc2"
+    },
+    {
+        "WT": 19.1948,
+        "KO": 10.2873,
+        "group": "Down",
+        "symbol": "Smyd2"
+    },
+    {
+        "WT": 11.2464,
+        "KO": 9.5594,
+        "group": "None",
+        "symbol": "Proser1"
+    },
+    {
+        "WT": 0.3555,
+        "KO": 0.1195,
+        "group": "None",
+        "symbol": "Sgpp2"
+    },
+    {
+        "WT": 1.1725,
+        "KO": 1.5486,
+        "group": "None",
+        "symbol": "Tnfrsf13b"
+    },
+    {
+        "WT": 14.2422,
+        "KO": 33.7931,
+        "group": "Up",
+        "symbol": "Foxp4"
+    },
+    {
+        "WT": 200.9296,
+        "KO": 179.5512,
+        "group": "None",
+        "symbol": "Dlst"
+    },
+    {
+        "WT": 63.2809,
+        "KO": 57.0291,
+        "group": "None",
+        "symbol": "St3gal3"
+    },
+    {
+        "WT": 44.7809,
+        "KO": 74.0663,
+        "group": "None",
+        "symbol": "Trafd1"
+    },
+    {
+        "WT": 1.4648,
+        "KO": 1.474,
+        "group": "None",
+        "symbol": "Tyms"
+    },
+    {
+        "WT": 40.2431,
+        "KO": 45.9113,
+        "group": "None",
+        "symbol": "Mir130c"
+    },
+    {
+        "WT": 33.555,
+        "KO": 32.0977,
+        "group": "None",
+        "symbol": "Wbp11"
+    },
+    {
+        "WT": 99.525,
+        "KO": 107.9914,
+        "group": "None",
+        "symbol": "Tmed9"
+    },
+    {
+        "WT": 0.4271,
+        "KO": 1.2423,
+        "group": "None",
+        "symbol": "Rftn2"
+    },
+    {
+        "WT": 13.4451,
+        "KO": 12.9243,
+        "group": "None",
+        "symbol": "Ino80e"
+    },
+    {
+        "WT": 2.8868,
+        "KO": 18.1629,
+        "group": "Up",
+        "symbol": "Dusp14"
+    },
+    {
+        "WT": 1.051,
+        "KO": 1.1338,
+        "group": "None",
+        "symbol": "B4galnt3"
+    },
+    {
+        "WT": 42.9867,
+        "KO": 47.9723,
+        "group": "None",
+        "symbol": "Papola"
+    },
+    {
+        "WT": 15.0282,
+        "KO": 17.9805,
+        "group": "None",
+        "symbol": "Rab28"
+    },
+    {
+        "WT": 212.2742,
+        "KO": 239.9078,
+        "group": "None",
+        "symbol": "Cenpb"
+    },
+    {
+        "WT": 0.3635,
+        "KO": 0.727,
+        "group": "None",
+        "symbol": "Ankrd55"
+    },
+    {
+        "WT": 10.3347,
+        "KO": 13.7881,
+        "group": "None",
+        "symbol": "B9d2"
+    },
+    {
+        "WT": 6.6934,
+        "KO": 6.0479,
+        "group": "None",
+        "symbol": "Cfap298"
+    },
+    {
+        "WT": 122.1838,
+        "KO": 79.5722,
+        "group": "None",
+        "symbol": "Phb2"
+    },
+    {
+        "WT": 10.0201,
+        "KO": 11.9577,
+        "group": "None",
+        "symbol": "Cpeb3"
+    },
+    {
+        "WT": 17.5136,
+        "KO": 17.0565,
+        "group": "None",
+        "symbol": "Sbno1"
+    },
+    {
+        "WT": 0.2066,
+        "KO": 0.1355,
+        "group": "None",
+        "symbol": "Gpr52"
+    },
+    {
+        "WT": 7.0306,
+        "KO": 7.735,
+        "group": "None",
+        "symbol": "Trrap"
+    },
+    {
+        "WT": 3.003,
+        "KO": 9.6073,
+        "group": "Up",
+        "symbol": "Pamr1"
+    },
+    {
+        "WT": 23.3167,
+        "KO": 10.5563,
+        "group": "Down",
+        "symbol": "Clcn2"
+    },
+    {
+        "WT": 31.2137,
+        "KO": 38.2238,
+        "group": "None",
+        "symbol": "Gm11837"
+    },
+    {
+        "WT": 27.9843,
+        "KO": 26.9448,
+        "group": "None",
+        "symbol": "Cptp"
+    },
+    {
+        "WT": 0.6377,
+        "KO": 3.2296,
+        "group": "Up",
+        "symbol": "Cd33"
+    },
+    {
+        "WT": 50.7465,
+        "KO": 59.909,
+        "group": "None",
+        "symbol": "Ccdc124"
+    },
+    {
+        "WT": 9.0057,
+        "KO": 18.8283,
+        "group": "None",
+        "symbol": "Nans"
+    },
+    {
+        "WT": 0.5896,
+        "KO": 1.4194,
+        "group": "None",
+        "symbol": "Gm16523"
+    },
+    {
+        "WT": 0.0581,
+        "KO": 0.3723,
+        "group": "None",
+        "symbol": "Brinp1"
+    },
+    {
+        "WT": 3.6107,
+        "KO": 3.5945,
+        "group": "None",
+        "symbol": "Letm2"
+    },
+    {
+        "WT": 2.0585,
+        "KO": 7.0148,
+        "group": "Up",
+        "symbol": "Rcan3"
+    },
+    {
+        "WT": 8.7129,
+        "KO": 8.957,
+        "group": "None",
+        "symbol": "Ecpas"
+    },
+    {
+        "WT": 11.844,
+        "KO": 13.7357,
+        "group": "None",
+        "symbol": "Wipi1"
+    },
+    {
+        "WT": 0.6595,
+        "KO": 1.0833,
+        "group": "None",
+        "symbol": "Vstm5"
+    },
+    {
+        "WT": 18.6442,
+        "KO": 20.5385,
+        "group": "None",
+        "symbol": "Smg6"
+    },
+    {
+        "WT": 16.7383,
+        "KO": 13.4763,
+        "group": "None",
+        "symbol": "Tm2d3"
+    },
+    {
+        "WT": 0.4254,
+        "KO": 0.744,
+        "group": "None",
+        "symbol": "Arhgap28"
+    },
+    {
+        "WT": 29.9993,
+        "KO": 30.5421,
+        "group": "None",
+        "symbol": "Ncl"
+    },
+    {
+        "WT": 32.6784,
+        "KO": 56.3298,
+        "group": "None",
+        "symbol": "Prg4"
+    },
+    {
+        "WT": 15.6703,
+        "KO": 18.5059,
+        "group": "None",
+        "symbol": "Klc3"
+    },
+    {
+        "WT": 14.6947,
+        "KO": 14.1124,
+        "group": "None",
+        "symbol": "Snx2"
+    },
+    {
+        "WT": 104.9913,
+        "KO": 112.8402,
+        "group": "None",
+        "symbol": "Habp2"
+    },
+    {
+        "WT": 11.9565,
+        "KO": 8.9813,
+        "group": "None",
+        "symbol": "Atp6v1h"
+    },
+    {
+        "WT": 2.2775,
+        "KO": 4.4412,
+        "group": "None",
+        "symbol": "Slfn9"
+    },
+    {
+        "WT": 1.4756,
+        "KO": 14.3108,
+        "group": "None",
+        "symbol": "Mir122"
+    },
+    {
+        "WT": 357.103,
+        "KO": 264.9189,
+        "group": "None",
+        "symbol": "Serpinf1"
+    },
+    {
+        "WT": 16.2538,
+        "KO": 17.2633,
+        "group": "None",
+        "symbol": "Ppig"
+    },
+    {
+        "WT": 0.1151,
+        "KO": 0.0853,
+        "group": "None",
+        "symbol": "Nlrp10"
+    },
+    {
+        "WT": 0.7293,
+        "KO": 2.0324,
+        "group": "None",
+        "symbol": "Spon1"
+    },
+    {
+        "WT": 0.3556,
+        "KO": 0.4851,
+        "group": "None",
+        "symbol": "Zfp979"
+    },
+    {
+        "WT": 1.7134,
+        "KO": 4.1567,
+        "group": "None",
+        "symbol": "Gdpd1"
+    },
+    {
+        "WT": 84.2334,
+        "KO": 85.4688,
+        "group": "None",
+        "symbol": "H2-T22"
+    },
+    {
+        "WT": 21.5764,
+        "KO": 26.3563,
+        "group": "None",
+        "symbol": "Mtmr3"
+    },
+    {
+        "WT": 5.5082,
+        "KO": 9.2544,
+        "group": "None",
+        "symbol": "Trip11"
+    },
+    {
+        "WT": 120.7612,
+        "KO": 38.2524,
+        "group": "Down",
+        "symbol": "Retsat"
+    },
+    {
+        "WT": 312.0951,
+        "KO": 0.329,
+        "group": "Down",
+        "symbol": "Mup15"
+    },
+    {
+        "WT": 23.2006,
+        "KO": 312.769,
+        "group": "Up",
+        "symbol": "Mup20"
+    },
+    {
+        "WT": 6.2072,
+        "KO": 2.6306,
+        "group": "Down",
+        "symbol": "Crybg3"
+    },
+    {
+        "WT": 78.9621,
+        "KO": 111.9323,
+        "group": "None",
+        "symbol": "Tex2"
+    },
+    {
+        "WT": 15.9108,
+        "KO": 54.1213,
+        "group": "Up",
+        "symbol": "Cebpd"
+    },
+    {
+        "WT": 0.3954,
+        "KO": 16.0431,
+        "group": "Up",
+        "symbol": "Osbpl3"
+    },
+    {
+        "WT": 2.8826,
+        "KO": 1.856,
+        "group": "None",
+        "symbol": "Tbc1d4"
+    },
+    {
+        "WT": 1117.5896,
+        "KO": 1060.7326,
+        "group": "None",
+        "symbol": "Mir135a-1"
+    },
+    {
+        "WT": 1.1948,
+        "KO": 1.553,
+        "group": "None",
+        "symbol": "Taf9b"
+    },
+    {
+        "WT": 9.5004,
+        "KO": 11.7829,
+        "group": "None",
+        "symbol": "Zfp644"
+    },
+    {
+        "WT": 166.5354,
+        "KO": 175.9065,
+        "group": "None",
+        "symbol": "Amdhd1"
+    },
+    {
+        "WT": 30.7719,
+        "KO": 58.703,
+        "group": "None",
+        "symbol": "Ifngr2"
+    },
+    {
+        "WT": 0.7823,
+        "KO": 0.9177,
+        "group": "None",
+        "symbol": "Ssbp2"
+    },
+    {
+        "WT": 687.0559,
+        "KO": 64.0981,
+        "group": "Down",
+        "symbol": "Cyp2c37"
+    },
+    {
+        "WT": 8.3903,
+        "KO": 9.1875,
+        "group": "None",
+        "symbol": "Kiz"
+    },
+    {
+        "WT": 3.4197,
+        "KO": 2.5213,
+        "group": "None",
+        "symbol": "Trmt10a"
+    },
+    {
+        "WT": 0.0341,
+        "KO": 0.5947,
+        "group": "Up",
+        "symbol": "Ldb3"
+    },
+    {
+        "WT": 59.4667,
+        "KO": 53.3865,
+        "group": "None",
+        "symbol": "Tmem134"
+    },
+    {
+        "WT": 4.5562,
+        "KO": 2.8054,
+        "group": "None",
+        "symbol": "Trmt61b"
+    },
+    {
+        "WT": 19.6362,
+        "KO": 20.3732,
+        "group": "None",
+        "symbol": "Vps54"
+    },
+    {
+        "WT": 1.0324,
+        "KO": 0.7895,
+        "group": "None",
+        "symbol": "Col4a3"
+    },
+    {
+        "WT": 32.8123,
+        "KO": 39.2062,
+        "group": "None",
+        "symbol": "Phf23"
+    },
+    {
+        "WT": 138.8082,
+        "KO": 107.4675,
+        "group": "None",
+        "symbol": "Slc25a42"
+    },
+    {
+        "WT": 11.8195,
+        "KO": 13.5188,
+        "group": "None",
+        "symbol": "Mir7087"
+    },
+    {
+        "WT": 11.2171,
+        "KO": 8.0138,
+        "group": "None",
+        "symbol": "Fam185a"
+    },
+    {
+        "WT": 63.5027,
+        "KO": 74.1331,
+        "group": "None",
+        "symbol": "Ubald1"
+    },
+    {
+        "WT": 58.5213,
+        "KO": 90.1671,
+        "group": "None",
+        "symbol": "Naglu"
+    },
+    {
+        "WT": 0.7164,
+        "KO": 1.6228,
+        "group": "None",
+        "symbol": "Cdon"
+    },
+    {
+        "WT": 1.2172,
+        "KO": 3.1602,
+        "group": "None",
+        "symbol": "Trim62"
+    },
+    {
+        "WT": 23.7326,
+        "KO": 34.8145,
+        "group": "None",
+        "symbol": "Nicn1"
+    },
+    {
+        "WT": 22.6752,
+        "KO": 20.427,
+        "group": "None",
+        "symbol": "Btf3l4"
+    },
+    {
+        "WT": 0.1199,
+        "KO": 2.2293,
+        "group": "Up",
+        "symbol": "B4galt2"
+    },
+    {
+        "WT": 0.5997,
+        "KO": 2.6885,
+        "group": "Up",
+        "symbol": "Corin"
+    },
+    {
+        "WT": 1.7522,
+        "KO": 6.8875,
+        "group": "Up",
+        "symbol": "Zc2hc1a"
+    },
+    {
+        "WT": 7.6874,
+        "KO": 5.7233,
+        "group": "None",
+        "symbol": "5430405H02Rik"
+    },
+    {
+        "WT": 0.7137,
+        "KO": 1.6277,
+        "group": "None",
+        "symbol": "Rad51"
+    },
+    {
+        "WT": 1.9539,
+        "KO": 1.7773,
+        "group": "None",
+        "symbol": "Chgb"
+    },
+    {
+        "WT": 35.3998,
+        "KO": 63.1701,
+        "group": "None",
+        "symbol": "Ikbkg"
+    },
+    {
+        "WT": 49.0194,
+        "KO": 33.3414,
+        "group": "None",
+        "symbol": "Rgp1"
+    },
+    {
+        "WT": 37.4584,
+        "KO": 33.294,
+        "group": "None",
+        "symbol": "Tango2"
+    },
+    {
+        "WT": 11.5526,
+        "KO": 27.6471,
+        "group": "Up",
+        "symbol": "Ntn1"
+    },
+    {
+        "WT": 432.7929,
+        "KO": 0.3448,
+        "group": "Down",
+        "symbol": "Mup8"
+    },
+    {
+        "WT": 3.3955,
+        "KO": 3.1353,
+        "group": "None",
+        "symbol": "Gm12500"
+    },
+    {
+        "WT": 26.736,
+        "KO": 24.9102,
+        "group": "None",
+        "symbol": "Psmd12"
+    },
+    {
+        "WT": 8.5733,
+        "KO": 8.0264,
+        "group": "None",
+        "symbol": "Lrrc29"
+    },
+    {
+        "WT": 0.0994,
+        "KO": 0.0241,
+        "group": "None",
+        "symbol": "Fcgbp"
+    },
+    {
+        "WT": 319.175,
+        "KO": 519.7302,
+        "group": "None",
+        "symbol": "Serpina10"
+    },
+    {
+        "WT": 32.2507,
+        "KO": 35.4961,
+        "group": "None",
+        "symbol": "Laptm4b"
+    },
+    {
+        "WT": 1.5809,
+        "KO": 1.9827,
+        "group": "None",
+        "symbol": "Mrvi1"
+    },
+    {
+        "WT": 5.0539,
+        "KO": 6.4738,
+        "group": "None",
+        "symbol": "Krtcap3"
+    },
+    {
+        "WT": 16.8564,
+        "KO": 10.8717,
+        "group": "None",
+        "symbol": "Eif1ad"
+    },
+    {
+        "WT": 0.1881,
+        "KO": 0.0118,
+        "group": "None",
+        "symbol": "Unc79"
+    },
+    {
+        "WT": 0.0352,
+        "KO": 1.0535,
+        "group": "Up",
+        "symbol": "Arsi"
+    },
+    {
+        "WT": 5.8609,
+        "KO": 2.129,
+        "group": "Down",
+        "symbol": "Jpx"
+    },
+    {
+        "WT": 0.879,
+        "KO": 0.7907,
+        "group": "None",
+        "symbol": "4933406I18Rik"
+    },
+    {
+        "WT": 20.8078,
+        "KO": 36.9875,
+        "group": "None",
+        "symbol": "Acox2"
+    },
+    {
+        "WT": 20.8448,
+        "KO": 25.7114,
+        "group": "None",
+        "symbol": "Uba2"
+    },
+    {
+        "WT": 62.0282,
+        "KO": 51.0051,
+        "group": "None",
+        "symbol": "Rnf167"
+    },
+    {
+        "WT": 5.9588,
+        "KO": 8.8236,
+        "group": "None",
+        "symbol": "Smc5"
+    },
+    {
+        "WT": 2.3145,
+        "KO": 3.0742,
+        "group": "None",
+        "symbol": "Pcnt"
+    },
+    {
+        "WT": 0.1444,
+        "KO": 0.1749,
+        "group": "None",
+        "symbol": "Pnmal2"
+    },
+    {
+        "WT": 0.223,
+        "KO": 0.7213,
+        "group": "None",
+        "symbol": "Mcoln2"
+    },
+    {
+        "WT": 67.8392,
+        "KO": 71.0191,
+        "group": "None",
+        "symbol": "Eif3j2"
+    },
+    {
+        "WT": 77.3632,
+        "KO": 60.9443,
+        "group": "None",
+        "symbol": "Pemt"
+    },
+    {
+        "WT": 3.6105,
+        "KO": 8.7489,
+        "group": "None",
+        "symbol": "Mirt2"
+    },
+    {
+        "WT": 4.9481,
+        "KO": 6.8702,
+        "group": "None",
+        "symbol": "Fam199x"
+    },
+    {
+        "WT": 0.3787,
+        "KO": 0.4196,
+        "group": "None",
+        "symbol": "Gabrd"
+    },
+    {
+        "WT": 12.8015,
+        "KO": 343.9758,
+        "group": "Up",
+        "symbol": "Lpl"
+    },
+    {
+        "WT": 20.3077,
+        "KO": 17.6439,
+        "group": "None",
+        "symbol": "Upf3b"
+    },
+    {
+        "WT": 47.3659,
+        "KO": 63.7178,
+        "group": "None",
+        "symbol": "Osbp"
+    },
+    {
+        "WT": 0.4066,
+        "KO": 0.4833,
+        "group": "None",
+        "symbol": "5730522E02Rik"
+    },
+    {
+        "WT": 34.554,
+        "KO": 25.2788,
+        "group": "None",
+        "symbol": "Oard1"
+    },
+    {
+        "WT": 30.8418,
+        "KO": 25.2167,
+        "group": "None",
+        "symbol": "Cobll1"
+    },
+    {
+        "WT": 8.1272,
+        "KO": 65.4227,
+        "group": "Up",
+        "symbol": "Myc"
+    },
+    {
+        "WT": 47.6057,
+        "KO": 45.5296,
+        "group": "None",
+        "symbol": "Nudt2"
+    },
+    {
+        "WT": 5.5261,
+        "KO": 5.2176,
+        "group": "None",
+        "symbol": "Zmym1"
+    },
+    {
+        "WT": 13.5844,
+        "KO": 13.5126,
+        "group": "None",
+        "symbol": "Aven"
+    },
+    {
+        "WT": 32.5729,
+        "KO": 48.7528,
+        "group": "None",
+        "symbol": "Cmtm4"
+    },
+    {
+        "WT": 16.6515,
+        "KO": 15.8628,
+        "group": "None",
+        "symbol": "Dcaf10"
+    },
+    {
+        "WT": 3.3895,
+        "KO": 4.0564,
+        "group": "None",
+        "symbol": "Casp8ap2"
+    },
+    {
+        "WT": 0.4163,
+        "KO": 0.3053,
+        "group": "None",
+        "symbol": "Asphd1"
+    },
+    {
+        "WT": 0.9843,
+        "KO": 2.3592,
+        "group": "None",
+        "symbol": "Siglech"
+    },
+    {
+        "WT": 8.147,
+        "KO": 10.4593,
+        "group": "None",
+        "symbol": "Atg4a"
+    },
+    {
+        "WT": 4.1634,
+        "KO": 4.5276,
+        "group": "None",
+        "symbol": "Ndufaf6"
+    },
+    {
+        "WT": 1.1635,
+        "KO": 1.1502,
+        "group": "None",
+        "symbol": "Cks1brt"
+    },
+    {
+        "WT": 1.1775,
+        "KO": 1.9884,
+        "group": "None",
+        "symbol": "Spn"
+    },
+    {
+        "WT": 4.4817,
+        "KO": 5.5215,
+        "group": "None",
+        "symbol": "Rab13"
+    },
+    {
+        "WT": 51.2359,
+        "KO": 55.6967,
+        "group": "None",
+        "symbol": "Gtf2h5"
+    },
+    {
+        "WT": 7.8183,
+        "KO": 7.8508,
+        "group": "None",
+        "symbol": "Klhl3"
+    },
+    {
+        "WT": 150.1644,
+        "KO": 114.1814,
+        "group": "None",
+        "symbol": "Zfand6"
+    },
+    {
+        "WT": 28.1552,
+        "KO": 24.4743,
+        "group": "None",
+        "symbol": "Fam20b"
+    },
+    {
+        "WT": 11.0032,
+        "KO": 24.5664,
+        "group": "Up",
+        "symbol": "Slc2a1"
+    },
+    {
+        "WT": 18.1626,
+        "KO": 12.0332,
+        "group": "None",
+        "symbol": "Wee1"
+    },
+    {
+        "WT": 14.296,
+        "KO": 32.893,
+        "group": "Up",
+        "symbol": "Marveld2"
+    },
+    {
+        "WT": 252.1568,
+        "KO": 318.9678,
+        "group": "None",
+        "symbol": "Col18a1"
+    },
+    {
+        "WT": 0.9719,
+        "KO": 0.616,
+        "group": "None",
+        "symbol": "Gp5"
+    },
+    {
+        "WT": 275.611,
+        "KO": 157.5177,
+        "group": "None",
+        "symbol": "Mpst"
+    },
+    {
+        "WT": 10.5873,
+        "KO": 12.8873,
+        "group": "None",
+        "symbol": "Ep400"
+    },
+    {
+        "WT": 0.2421,
+        "KO": 0.4184,
+        "group": "None",
+        "symbol": "Phox2a"
+    },
+    {
+        "WT": 0.3111,
+        "KO": 1.744,
+        "group": "None",
+        "symbol": "Fcamr"
+    },
+    {
+        "WT": 38.0439,
+        "KO": 25.7125,
+        "group": "None",
+        "symbol": "Foxq1"
+    },
+    {
+        "WT": 8.0154,
+        "KO": 17.7116,
+        "group": "None",
+        "symbol": "Fscn1"
+    },
+    {
+        "WT": 49.7532,
+        "KO": 64.9276,
+        "group": "None",
+        "symbol": "Scamp4"
+    },
+    {
+        "WT": 730.4045,
+        "KO": 1299.9519,
+        "group": "None",
+        "symbol": "Mir1892"
+    },
+    {
+        "WT": 2.9911,
+        "KO": 1.565,
+        "group": "None",
+        "symbol": "Asb2"
+    },
+    {
+        "WT": 33.6834,
+        "KO": 40.7201,
+        "group": "None",
+        "symbol": "Fkbp9"
+    },
+    {
+        "WT": 5.497,
+        "KO": 3.6961,
+        "group": "None",
+        "symbol": "Tm2d1"
+    },
+    {
+        "WT": 0.3587,
+        "KO": 0.2337,
+        "group": "None",
+        "symbol": "Rmi2"
+    },
+    {
+        "WT": 211.2804,
+        "KO": 636.8061,
+        "group": "None",
+        "symbol": "Mt1"
+    },
+    {
+        "WT": 28.0266,
+        "KO": 32.0688,
+        "group": "None",
+        "symbol": "Arrdc4"
+    },
+    {
+        "WT": 0.1448,
+        "KO": 0.6603,
+        "group": "None",
+        "symbol": "Rassf9"
+    },
+    {
+        "WT": 2.4329,
+        "KO": 5.6793,
+        "group": "None",
+        "symbol": "P2ry12"
+    },
+    {
+        "WT": 0.0328,
+        "KO": 0.0991,
+        "group": "None",
+        "symbol": "Faxc"
+    },
+    {
+        "WT": 3.9772,
+        "KO": 2.6803,
+        "group": "None",
+        "symbol": "Qtrt1"
+    },
+    {
+        "WT": 6.1483,
+        "KO": 5.8599,
+        "group": "None",
+        "symbol": "Kmt2c"
+    },
+    {
+        "WT": 10.401,
+        "KO": 5.2653,
+        "group": "None",
+        "symbol": "Zcrb1"
+    },
+    {
+        "WT": 0.0384,
+        "KO": 0.2123,
+        "group": "None",
+        "symbol": "Nav3"
+    },
+    {
+        "WT": 0.0586,
+        "KO": 0.6001,
+        "group": "None",
+        "symbol": "Clspn"
+    },
+    {
+        "WT": 4.4458,
+        "KO": 3.7107,
+        "group": "None",
+        "symbol": "Fgd5"
+    },
+    {
+        "WT": 34.1114,
+        "KO": 36.202,
+        "group": "None",
+        "symbol": "Pfdn1"
+    },
+    {
+        "WT": 73.0461,
+        "KO": 55.494,
+        "group": "None",
+        "symbol": "Mocs2"
+    },
+    {
+        "WT": 26.0008,
+        "KO": 28.0874,
+        "group": "None",
+        "symbol": "Glod4"
+    },
+    {
+        "WT": 6.5367,
+        "KO": 7.7962,
+        "group": "None",
+        "symbol": "Sec23ip"
+    },
+    {
+        "WT": 0.8632,
+        "KO": 0.2923,
+        "group": "None",
+        "symbol": "1700061I17Rik"
+    },
+    {
+        "WT": 6.4704,
+        "KO": 12.9033,
+        "group": "None",
+        "symbol": "Plekho2"
+    },
+    {
+        "WT": 120.637,
+        "KO": 92.7666,
+        "group": "None",
+        "symbol": "Slco1a4"
+    },
+    {
+        "WT": 0.2733,
+        "KO": 0.2164,
+        "group": "None",
+        "symbol": "Gm6583"
+    },
+    {
+        "WT": 1.7941,
+        "KO": 1.783,
+        "group": "None",
+        "symbol": "Hspa12a"
+    },
+    {
+        "WT": 166.1755,
+        "KO": 145.2877,
+        "group": "None",
+        "symbol": "Pxmp4"
+    },
+    {
+        "WT": 6.5974,
+        "KO": 10.1768,
+        "group": "None",
+        "symbol": "Dcaf12l1"
+    },
+    {
+        "WT": 37.2333,
+        "KO": 29.5423,
+        "group": "None",
+        "symbol": "Clk1"
+    },
+    {
+        "WT": 3.6441,
+        "KO": 5.5698,
+        "group": "None",
+        "symbol": "Dip2b"
+    },
+    {
+        "WT": 4.0684,
+        "KO": 3.6696,
+        "group": "None",
+        "symbol": "Spef1"
+    },
+    {
+        "WT": 37.6285,
+        "KO": 74.7995,
+        "group": "None",
+        "symbol": "Irs2"
+    },
+    {
+        "WT": 2.4518,
+        "KO": 2.3312,
+        "group": "None",
+        "symbol": "Ccne2"
+    },
+    {
+        "WT": 22.711,
+        "KO": 31.8462,
+        "group": "None",
+        "symbol": "Afdn"
+    },
+    {
+        "WT": 3.8108,
+        "KO": 4.1631,
+        "group": "None",
+        "symbol": "Pot1b"
+    },
+    {
+        "WT": 3.8328,
+        "KO": 3.0506,
+        "group": "None",
+        "symbol": "Nrarp"
+    },
+    {
+        "WT": 1.9994,
+        "KO": 2.5513,
+        "group": "None",
+        "symbol": "Cep97"
+    },
+    {
+        "WT": 68.8472,
+        "KO": 83.2268,
+        "group": "None",
+        "symbol": "Clptm1l"
+    },
+    {
+        "WT": 11.6658,
+        "KO": 23.674,
+        "group": "None",
+        "symbol": "Ctcflos"
+    },
+    {
+        "WT": 3.6251,
+        "KO": 3.6535,
+        "group": "None",
+        "symbol": "Mcrs1"
+    },
+    {
+        "WT": 20.725,
+        "KO": 21.5281,
+        "group": "None",
+        "symbol": "Stt3a"
+    },
+    {
+        "WT": 79.1202,
+        "KO": 56.0852,
+        "group": "None",
+        "symbol": "Nr1h3"
+    },
+    {
+        "WT": 171.6161,
+        "KO": 165.8989,
+        "group": "None",
+        "symbol": "Stub1"
+    },
+    {
+        "WT": 1.5371,
+        "KO": 0.4371,
+        "group": "Down",
+        "symbol": "Rgr"
+    },
+    {
+        "WT": 18.9094,
+        "KO": 20.821,
+        "group": "None",
+        "symbol": "Zer1"
+    },
+    {
+        "WT": 3.2247,
+        "KO": 3.5971,
+        "group": "None",
+        "symbol": "Osgep"
+    },
+    {
+        "WT": 86.0406,
+        "KO": 61.2378,
+        "group": "None",
+        "symbol": "Tmem19"
+    },
+    {
+        "WT": 0.9745,
+        "KO": 1.4321,
+        "group": "None",
+        "symbol": "Uggt2"
+    },
+    {
+        "WT": 13.3543,
+        "KO": 13.5169,
+        "group": "None",
+        "symbol": "Tcf3"
+    },
+    {
+        "WT": 118.4522,
+        "KO": 136.0475,
+        "group": "None",
+        "symbol": "Sfxn1"
+    },
+    {
+        "WT": 7.8604,
+        "KO": 3.0567,
+        "group": "None",
+        "symbol": "Mirlet7d"
+    },
+    {
+        "WT": 54.0002,
+        "KO": 54.5294,
+        "group": "None",
+        "symbol": "Rpl27a"
+    },
+    {
+        "WT": 3.3249,
+        "KO": 4.3923,
+        "group": "None",
+        "symbol": "Cd79b"
+    },
+    {
+        "WT": 40.0467,
+        "KO": 66.0377,
+        "group": "None",
+        "symbol": "Snord2"
+    },
+    {
+        "WT": 55.1334,
+        "KO": 46.4868,
+        "group": "None",
+        "symbol": "Zfp445"
+    },
+    {
+        "WT": 4.6062,
+        "KO": 4.8767,
+        "group": "None",
+        "symbol": "Afp"
+    },
+    {
+        "WT": 0.0237,
+        "KO": 0.3209,
+        "group": "Up",
+        "symbol": "Fzd3"
+    },
+    {
+        "WT": 20.6792,
+        "KO": 20.866,
+        "group": "None",
+        "symbol": "Ccnk"
+    },
+    {
+        "WT": 9.6772,
+        "KO": 12.2368,
+        "group": "None",
+        "symbol": "Dync1h1"
+    },
+    {
+        "WT": 20.272,
+        "KO": 10.2153,
+        "group": "Down",
+        "symbol": "Gbp7"
+    },
+    {
+        "WT": 1.3729,
+        "KO": 6.2465,
+        "group": "Up",
+        "symbol": "Miga1"
+    },
+    {
+        "WT": 1.0739,
+        "KO": 0.78,
+        "group": "None",
+        "symbol": "Gm867"
+    },
+    {
+        "WT": 0.7249,
+        "KO": 0.7802,
+        "group": "None",
+        "symbol": "Cd209f"
+    },
+    {
+        "WT": 26.541,
+        "KO": 25.3796,
+        "group": "None",
+        "symbol": "Abhd17b"
+    },
+    {
+        "WT": 12.7338,
+        "KO": 17.4594,
+        "group": "None",
+        "symbol": "Mtmr9"
+    },
+    {
+        "WT": 1.6973,
+        "KO": 7.6657,
+        "group": "Up",
+        "symbol": "Synj2"
+    },
+    {
+        "WT": 462.5684,
+        "KO": 393.6165,
+        "group": "None",
+        "symbol": "Apcs"
+    },
+    {
+        "WT": 0.1535,
+        "KO": 0.2588,
+        "group": "None",
+        "symbol": "Jag2"
+    },
+    {
+        "WT": 4.0456,
+        "KO": 9.3475,
+        "group": "Up",
+        "symbol": "Pmepa1"
+    },
+    {
+        "WT": 10.8156,
+        "KO": 0.4123,
+        "group": "Down",
+        "symbol": "Ar"
+    },
+    {
+        "WT": 63.0135,
+        "KO": 92.2089,
+        "group": "None",
+        "symbol": "Mrpl16"
+    },
+    {
+        "WT": 18.1455,
+        "KO": 14.54,
+        "group": "None",
+        "symbol": "Ddhd2"
+    },
+    {
+        "WT": 11.6889,
+        "KO": 8.6141,
+        "group": "None",
+        "symbol": "Rpl27"
+    },
+    {
+        "WT": 94.8305,
+        "KO": 78.1866,
+        "group": "None",
+        "symbol": "Mir5116"
+    },
+    {
+        "WT": 20.1189,
+        "KO": 30.0192,
+        "group": "None",
+        "symbol": "Chd4"
+    },
+    {
+        "WT": 193.277,
+        "KO": 195.2898,
+        "group": "None",
+        "symbol": "Ppib"
+    },
+    {
+        "WT": 11.5623,
+        "KO": 12.7497,
+        "group": "None",
+        "symbol": "1300002E11Rik"
+    },
+    {
+        "WT": 2.5119,
+        "KO": 1.8644,
+        "group": "None",
+        "symbol": "Heatr1"
+    },
+    {
+        "WT": 3.4791,
+        "KO": 3.7151,
+        "group": "None",
+        "symbol": "Fbxo32"
+    },
+    {
+        "WT": 30.4225,
+        "KO": 14.425,
+        "group": "None",
+        "symbol": "Mir7670"
+    },
+    {
+        "WT": 25.7193,
+        "KO": 19.305,
+        "group": "None",
+        "symbol": "Thrb"
+    },
+    {
+        "WT": 2.8556,
+        "KO": 19.7325,
+        "group": "Up",
+        "symbol": "5730416F02Rik"
+    },
+    {
+        "WT": 9.4247,
+        "KO": 6.4657,
+        "group": "None",
+        "symbol": "Zfp790"
+    },
+    {
+        "WT": 5.3749,
+        "KO": 8.6961,
+        "group": "None",
+        "symbol": "Kctd18"
+    },
+    {
+        "WT": 35.0068,
+        "KO": 52.4543,
+        "group": "None",
+        "symbol": "Spag9"
+    },
+    {
+        "WT": 13.8252,
+        "KO": 13.3805,
+        "group": "None",
+        "symbol": "Nsun4"
+    },
+    {
+        "WT": 7.103,
+        "KO": 7.1983,
+        "group": "None",
+        "symbol": "Armh3"
+    },
+    {
+        "WT": 5.9583,
+        "KO": 8.8318,
+        "group": "None",
+        "symbol": "Zfp51"
+    },
+    {
+        "WT": 0.5001,
+        "KO": 0.8186,
+        "group": "None",
+        "symbol": "Zfp382"
+    },
+    {
+        "WT": 4.7828,
+        "KO": 7.8535,
+        "group": "None",
+        "symbol": "Rrm2"
+    },
+    {
+        "WT": 20.3594,
+        "KO": 30.3198,
+        "group": "None",
+        "symbol": "Stk24"
+    },
+    {
+        "WT": 1.9048,
+        "KO": 1.8247,
+        "group": "None",
+        "symbol": "Arhgef9"
+    },
+    {
+        "WT": 2.9553,
+        "KO": 2.8281,
+        "group": "None",
+        "symbol": "Hic2"
+    },
+    {
+        "WT": 25.304,
+        "KO": 725.3881,
+        "group": "Up",
+        "symbol": "Btg2"
+    },
+    {
+        "WT": 161.4668,
+        "KO": 105.1075,
+        "group": "None",
+        "symbol": "Smim10l1"
+    },
+    {
+        "WT": 12.0543,
+        "KO": 9.3742,
+        "group": "None",
+        "symbol": "Adck2"
+    },
+    {
+        "WT": 859.1619,
+        "KO": 768.4911,
+        "group": "None",
+        "symbol": "Kng1"
+    },
+    {
+        "WT": 1.7943,
+        "KO": 3.3694,
+        "group": "None",
+        "symbol": "Zfp41"
+    },
+    {
+        "WT": 0.6443,
+        "KO": 1.5573,
+        "group": "None",
+        "symbol": "H3c11"
+    },
+    {
+        "WT": 1.4955,
+        "KO": 0.8165,
+        "group": "None",
+        "symbol": "Zfp968"
+    },
+    {
+        "WT": 6.7955,
+        "KO": 9.2499,
+        "group": "None",
+        "symbol": "Traf3ip1"
+    },
+    {
+        "WT": 9.3918,
+        "KO": 12.6305,
+        "group": "None",
+        "symbol": "Ppp1r21"
+    },
+    {
+        "WT": 163.066,
+        "KO": 233.1664,
+        "group": "None",
+        "symbol": "Gclc"
+    },
+    {
+        "WT": 3.0098,
+        "KO": 3.5722,
+        "group": "None",
+        "symbol": "Prex2"
+    },
+    {
+        "WT": 0.6372,
+        "KO": 0.7531,
+        "group": "None",
+        "symbol": "Tns4"
+    },
+    {
+        "WT": 5.2115,
+        "KO": 10.925,
+        "group": "None",
+        "symbol": "Nfam1"
+    },
+    {
+        "WT": 0.4136,
+        "KO": 2.1631,
+        "group": "Up",
+        "symbol": "Slc8a1"
+    },
+    {
+        "WT": 73.8073,
+        "KO": 90.4959,
+        "group": "None",
+        "symbol": "Mfsd2a"
+    },
+    {
+        "WT": 16.7048,
+        "KO": 20.2064,
+        "group": "None",
+        "symbol": "Cnot2"
+    },
+    {
+        "WT": 1.3497,
+        "KO": 2.0648,
+        "group": "None",
+        "symbol": "Pabpc6"
+    },
+    {
+        "WT": 4.7221,
+        "KO": 4.6631,
+        "group": "None",
+        "symbol": "Trnau1ap"
+    },
+    {
+        "WT": 4.2118,
+        "KO": 5.8901,
+        "group": "None",
+        "symbol": "D930015M05Rik"
+    },
+    {
+        "WT": 3.9851,
+        "KO": 3.713,
+        "group": "None",
+        "symbol": "Prox2"
+    },
+    {
+        "WT": 60.5777,
+        "KO": 63.8322,
+        "group": "None",
+        "symbol": "Dctn2"
+    },
+    {
+        "WT": 9.1675,
+        "KO": 10.4694,
+        "group": "None",
+        "symbol": "Dhrs13os"
+    },
+    {
+        "WT": 169.0092,
+        "KO": 174.3912,
+        "group": "None",
+        "symbol": "Trir"
+    },
+    {
+        "WT": 95.2237,
+        "KO": 82.8922,
+        "group": "None",
+        "symbol": "Ttc38"
+    },
+    {
+        "WT": 82.6604,
+        "KO": 207.4041,
+        "group": "Up",
+        "symbol": "Tmem176a"
+    },
+    {
+        "WT": 0.6459,
+        "KO": 0.4004,
+        "group": "None",
+        "symbol": "4930451G09Rik"
+    },
+    {
+        "WT": 2.1102,
+        "KO": 1.9745,
+        "group": "None",
+        "symbol": "Nrap"
+    },
+    {
+        "WT": 1.0046,
+        "KO": 2.0214,
+        "group": "None",
+        "symbol": "Prr15"
+    },
+    {
+        "WT": 22.2242,
+        "KO": 14.6627,
+        "group": "None",
+        "symbol": "Ncald"
+    },
+    {
+        "WT": 50.8853,
+        "KO": 56.4716,
+        "group": "None",
+        "symbol": "Api5"
+    },
+    {
+        "WT": 1.3001,
+        "KO": 0.5117,
+        "group": "None",
+        "symbol": "A930019D19Rik"
+    },
+    {
+        "WT": 12.769,
+        "KO": 6.3291,
+        "group": "Down",
+        "symbol": "Akr1c13"
+    },
+    {
+        "WT": 46.8738,
+        "KO": 64.5874,
+        "group": "None",
+        "symbol": "Cep85"
+    },
+    {
+        "WT": 4.3627,
+        "KO": 2.8797,
+        "group": "None",
+        "symbol": "P4ha2"
+    },
+    {
+        "WT": 68.8284,
+        "KO": 45.2493,
+        "group": "None",
+        "symbol": "Dgcr6"
+    },
+    {
+        "WT": 1.4031,
+        "KO": 1.595,
+        "group": "None",
+        "symbol": "Pde3a"
+    },
+    {
+        "WT": 161.625,
+        "KO": 148.611,
+        "group": "None",
+        "symbol": "Manf"
+    },
+    {
+        "WT": 11.9583,
+        "KO": 17.791,
+        "group": "None",
+        "symbol": "Cobl"
+    },
+    {
+        "WT": 137.9825,
+        "KO": 86.2742,
+        "group": "None",
+        "symbol": "Inhbc"
+    },
+    {
+        "WT": 3.8354,
+        "KO": 4.3158,
+        "group": "None",
+        "symbol": "Atp7a"
+    },
+    {
+        "WT": 0.0841,
+        "KO": 0.1863,
+        "group": "None",
+        "symbol": "Sobp"
+    },
+    {
+        "WT": 0.9432,
+        "KO": 2.8999,
+        "group": "None",
+        "symbol": "Prss2"
+    },
+    {
+        "WT": 0.3068,
+        "KO": 0.7007,
+        "group": "None",
+        "symbol": "Ptges"
+    },
+    {
+        "WT": 12.7005,
+        "KO": 12.2175,
+        "group": "None",
+        "symbol": "Cbarp"
+    },
+    {
+        "WT": 8.7881,
+        "KO": 10.3219,
+        "group": "None",
+        "symbol": "Rps10"
+    },
+    {
+        "WT": 38.2518,
+        "KO": 40.3421,
+        "group": "None",
+        "symbol": "Eif3c"
+    },
+    {
+        "WT": 23.6238,
+        "KO": 18.4708,
+        "group": "None",
+        "symbol": "Tent4a"
+    },
+    {
+        "WT": 2.6485,
+        "KO": 5.2774,
+        "group": "None",
+        "symbol": "Pde4a"
+    },
+    {
+        "WT": 1.3363,
+        "KO": 0.9182,
+        "group": "None",
+        "symbol": "LOC115487084"
+    },
+    {
+        "WT": 12.1047,
+        "KO": 5.3978,
+        "group": "Down",
+        "symbol": "Tpd52l1"
+    },
+    {
+        "WT": 3.6443,
+        "KO": 1.0385,
+        "group": "Down",
+        "symbol": "Sprn"
+    },
+    {
+        "WT": 2.5133,
+        "KO": 12.7287,
+        "group": "Up",
+        "symbol": "C3ar1"
+    },
+    {
+        "WT": 0.1082,
+        "KO": 1.2507,
+        "group": "Up",
+        "symbol": "Cenpf"
+    },
+    {
+        "WT": 0.7309,
+        "KO": 0.5228,
+        "group": "None",
+        "symbol": "Lrrd1"
+    },
+    {
+        "WT": 11.4942,
+        "KO": 15.1132,
+        "group": "None",
+        "symbol": "4931406P16Rik"
+    },
+    {
+        "WT": 16.3728,
+        "KO": 10.4263,
+        "group": "None",
+        "symbol": "Fbxo36"
+    },
+    {
+        "WT": 9.9416,
+        "KO": 7.314,
+        "group": "None",
+        "symbol": "Jmjd4"
+    },
+    {
+        "WT": 212.1653,
+        "KO": 375.0363,
+        "group": "None",
+        "symbol": "C4b"
+    },
+    {
+        "WT": 0.232,
+        "KO": 0.2853,
+        "group": "None",
+        "symbol": "Tnfsf8"
+    },
+    {
+        "WT": 23.5122,
+        "KO": 25.16,
+        "group": "None",
+        "symbol": "Bnip2"
+    },
+    {
+        "WT": 6.789,
+        "KO": 10.5208,
+        "group": "None",
+        "symbol": "2310022A10Rik"
+    },
+    {
+        "WT": 35.1086,
+        "KO": 32.2174,
+        "group": "None",
+        "symbol": "Yeats4"
+    },
+    {
+        "WT": 1.4297,
+        "KO": 2.103,
+        "group": "None",
+        "symbol": "Chek2"
+    },
+    {
+        "WT": 31.8482,
+        "KO": 30.996,
+        "group": "None",
+        "symbol": "Fam98a"
+    },
+    {
+        "WT": 0.5175,
+        "KO": 0.9725,
+        "group": "None",
+        "symbol": "1700030J22Rik"
+    },
+    {
+        "WT": 1.0855,
+        "KO": 2.3745,
+        "group": "None",
+        "symbol": "Atl1"
+    },
+    {
+        "WT": 0.2676,
+        "KO": 0.0759,
+        "group": "None",
+        "symbol": "Unc93a"
+    },
+    {
+        "WT": 9.1899,
+        "KO": 6.2307,
+        "group": "None",
+        "symbol": "Lrpprc"
+    },
+    {
+        "WT": 8.5091,
+        "KO": 11.8577,
+        "group": "None",
+        "symbol": "Fbxo42"
+    },
+    {
+        "WT": 33.5205,
+        "KO": 44.5097,
+        "group": "None",
+        "symbol": "Eefsec"
+    },
+    {
+        "WT": 6.2862,
+        "KO": 4.2276,
+        "group": "None",
+        "symbol": "Gm15417"
+    },
+    {
+        "WT": 16.1773,
+        "KO": 18.5766,
+        "group": "None",
+        "symbol": "Uap1"
+    },
+    {
+        "WT": 0.9406,
+        "KO": 0.8129,
+        "group": "None",
+        "symbol": "Inha"
+    },
+    {
+        "WT": 11.4543,
+        "KO": 16.1446,
+        "group": "None",
+        "symbol": "Rnf38"
+    },
+    {
+        "WT": 0.9962,
+        "KO": 3.1693,
+        "group": "Up",
+        "symbol": "Chaf1a"
+    },
+    {
+        "WT": 31.2476,
+        "KO": 30.0258,
+        "group": "None",
+        "symbol": "Lamtor3"
+    },
+    {
+        "WT": 1.9677,
+        "KO": 3.8994,
+        "group": "None",
+        "symbol": "Dtx1"
+    },
+    {
+        "WT": 3.1285,
+        "KO": 15.0925,
+        "group": "Up",
+        "symbol": "Loxl2"
+    },
+    {
+        "WT": 13.1107,
+        "KO": 12.7763,
+        "group": "None",
+        "symbol": "Ttll4"
+    },
+    {
+        "WT": 9.4737,
+        "KO": 14.2612,
+        "group": "None",
+        "symbol": "Zfp568"
+    },
+    {
+        "WT": 6.1097,
+        "KO": 4.538,
+        "group": "None",
+        "symbol": "Exoc3l"
+    },
+    {
+        "WT": 1753.6371,
+        "KO": 904.6559,
+        "group": "Down",
+        "symbol": "Ndrg2"
+    },
+    {
+        "WT": 70.6701,
+        "KO": 53.8082,
+        "group": "None",
+        "symbol": "Mrps26"
+    },
+    {
+        "WT": 10.5157,
+        "KO": 12.7511,
+        "group": "None",
+        "symbol": "Sec24b"
+    },
+    {
+        "WT": 0.2967,
+        "KO": 0.9635,
+        "group": "None",
+        "symbol": "H2-Oa"
+    },
+    {
+        "WT": 1.2309,
+        "KO": 1.7385,
+        "group": "None",
+        "symbol": "Ifi208"
+    },
+    {
+        "WT": 9.8272,
+        "KO": 20.7363,
+        "group": "None",
+        "symbol": "Megf9"
+    },
+    {
+        "WT": 14.1392,
+        "KO": 16.4505,
+        "group": "None",
+        "symbol": "Ik"
+    },
+    {
+        "WT": 62.9609,
+        "KO": 70.6855,
+        "group": "None",
+        "symbol": "Wbp1"
+    },
+    {
+        "WT": 79.908,
+        "KO": 78.0895,
+        "group": "None",
+        "symbol": "Tollip"
+    },
+    {
+        "WT": 12.637,
+        "KO": 15.0258,
+        "group": "None",
+        "symbol": "Phf20l1"
+    },
+    {
+        "WT": 1.5409,
+        "KO": 2.733,
+        "group": "None",
+        "symbol": "Gpr162"
+    },
+    {
+        "WT": 73.0488,
+        "KO": 98.9778,
+        "group": "None",
+        "symbol": "Etf1"
+    },
+    {
+        "WT": 0.1946,
+        "KO": 0.0991,
+        "group": "None",
+        "symbol": "Cr2"
+    },
+    {
+        "WT": 28.7496,
+        "KO": 35.6577,
+        "group": "None",
+        "symbol": "Tmem219"
+    },
+    {
+        "WT": 4.1297,
+        "KO": 4.0941,
+        "group": "None",
+        "symbol": "Gm9958"
+    },
+    {
+        "WT": 28.5595,
+        "KO": 26.0255,
+        "group": "None",
+        "symbol": "Ranbp1"
+    },
+    {
+        "WT": 0.1698,
+        "KO": 21.0464,
+        "group": "Up",
+        "symbol": "Gldn"
+    },
+    {
+        "WT": 10.5023,
+        "KO": 5.889,
+        "group": "None",
+        "symbol": "Tmem253"
+    },
+    {
+        "WT": 1.7744,
+        "KO": 2.7496,
+        "group": "None",
+        "symbol": "Kitl"
+    },
+    {
+        "WT": 9.7873,
+        "KO": 11.7586,
+        "group": "None",
+        "symbol": "1600020E01Rik"
+    },
+    {
+        "WT": 18.3306,
+        "KO": 62.0439,
+        "group": "None",
+        "symbol": "Csrnp1"
+    },
+    {
+        "WT": 2.3055,
+        "KO": 0.3098,
+        "group": "Down",
+        "symbol": "Camk4"
+    },
+    {
+        "WT": 17.886,
+        "KO": 13.7492,
+        "group": "None",
+        "symbol": "H2az2"
+    },
+    {
+        "WT": 2.7489,
+        "KO": 1.2769,
+        "group": "Down",
+        "symbol": "Zfp560"
+    },
+    {
+        "WT": 0.027,
+        "KO": 7.937,
+        "group": "Up",
+        "symbol": "Gpnmb"
+    },
+    {
+        "WT": 77.9675,
+        "KO": 97.5539,
+        "group": "None",
+        "symbol": "Sdr39u1"
+    },
+    {
+        "WT": 20.238,
+        "KO": 26.3061,
+        "group": "None",
+        "symbol": "Pptc7"
+    },
+    {
+        "WT": 0.5023,
+        "KO": 3.5399,
+        "group": "Up",
+        "symbol": "Aoah"
+    },
+    {
+        "WT": 0.6297,
+        "KO": 0.0991,
+        "group": "None",
+        "symbol": "Penk"
+    },
+    {
+        "WT": 1.2936,
+        "KO": 5.2362,
+        "group": "Up",
+        "symbol": "Spidr"
+    },
+    {
+        "WT": 1.2947,
+        "KO": 3.4208,
+        "group": "None",
+        "symbol": "Tlr6"
+    },
+    {
+        "WT": 0.2688,
+        "KO": 0.2225,
+        "group": "None",
+        "symbol": "Serpinb7"
+    },
+    {
+        "WT": 138.9349,
+        "KO": 86.6038,
+        "group": "None",
+        "symbol": "Bbox1"
+    },
+    {
+        "WT": 0.8835,
+        "KO": 0.1526,
+        "group": "None",
+        "symbol": "Rnf212b"
+    },
+    {
+        "WT": 3.2852,
+        "KO": 7.7101,
+        "group": "Up",
+        "symbol": "Tnfaip8"
+    },
+    {
+        "WT": 39.1806,
+        "KO": 39.3966,
+        "group": "None",
+        "symbol": "Taf15"
+    },
+    {
+        "WT": 17.4377,
+        "KO": 18.7285,
+        "group": "None",
+        "symbol": "Nav2"
+    },
+    {
+        "WT": 73.4722,
+        "KO": 78.305,
+        "group": "None",
+        "symbol": "Gnas"
+    },
+    {
+        "WT": 3.2924,
+        "KO": 25.2116,
+        "group": "Up",
+        "symbol": "Il22ra1"
+    },
+    {
+        "WT": 0.7138,
+        "KO": 0.8485,
+        "group": "None",
+        "symbol": "Zfp458"
+    },
+    {
+        "WT": 89.6751,
+        "KO": 94.8944,
+        "group": "None",
+        "symbol": "Tmem70"
+    },
+    {
+        "WT": 0.0533,
+        "KO": 0.2368,
+        "group": "None",
+        "symbol": "Skint3"
+    },
+    {
+        "WT": 51.7744,
+        "KO": 38.9927,
+        "group": "None",
+        "symbol": "Tmem222"
+    },
+    {
+        "WT": 51.925,
+        "KO": 57.4858,
+        "group": "None",
+        "symbol": "Cpq"
+    },
+    {
+        "WT": 1.9396,
+        "KO": 2.3766,
+        "group": "None",
+        "symbol": "Nup37"
+    },
+    {
+        "WT": 69.237,
+        "KO": 76.2363,
+        "group": "None",
+        "symbol": "Wsb2"
+    },
+    {
+        "WT": 7.551,
+        "KO": 9.2775,
+        "group": "None",
+        "symbol": "Mgp"
+    },
+    {
+        "WT": 2.179,
+        "KO": 1.0847,
+        "group": "None",
+        "symbol": "Clec3b"
+    },
+    {
+        "WT": 2.0956,
+        "KO": 1.3779,
+        "group": "None",
+        "symbol": "D030028A08Rik"
+    },
+    {
+        "WT": 19.3723,
+        "KO": 20.429,
+        "group": "None",
+        "symbol": "Mpg"
+    },
+    {
+        "WT": 0.3764,
+        "KO": 1.163,
+        "group": "None",
+        "symbol": "BC147527"
+    },
+    {
+        "WT": 46.9597,
+        "KO": 48.3089,
+        "group": "None",
+        "symbol": "Khsrp"
+    },
+    {
+        "WT": 1.4051,
+        "KO": 1.3573,
+        "group": "None",
+        "symbol": "Fam189a2"
+    },
+    {
+        "WT": 20.8237,
+        "KO": 13.4785,
+        "group": "None",
+        "symbol": "Gng5"
+    },
+    {
+        "WT": 1.5353,
+        "KO": 1.0257,
+        "group": "None",
+        "symbol": "Tmem252"
+    },
+    {
+        "WT": 1.48,
+        "KO": 6.0759,
+        "group": "Up",
+        "symbol": "Fbln2"
+    },
+    {
+        "WT": 9.1947,
+        "KO": 0.722,
+        "group": "Down",
+        "symbol": "Meg3"
+    },
+    {
+        "WT": 4.0786,
+        "KO": 6.3055,
+        "group": "None",
+        "symbol": "Chp2"
+    },
+    {
+        "WT": 57.9345,
+        "KO": 68.5831,
+        "group": "None",
+        "symbol": "Erlin1"
+    },
+    {
+        "WT": 33.8552,
+        "KO": 33.2048,
+        "group": "None",
+        "symbol": "Bad"
+    },
+    {
+        "WT": 38.8539,
+        "KO": 551.6351,
+        "group": "Up",
+        "symbol": "Orm2"
+    },
+    {
+        "WT": 1.3679,
+        "KO": 2.3625,
+        "group": "None",
+        "symbol": "Jrk"
+    },
+    {
+        "WT": 0.7799,
+        "KO": 0.6806,
+        "group": "None",
+        "symbol": "2610206C17Rik"
+    },
+    {
+        "WT": 90.9459,
+        "KO": 88.4583,
+        "group": "None",
+        "symbol": "Nsmf"
+    },
+    {
+        "WT": 0.0502,
+        "KO": 0.1354,
+        "group": "None",
+        "symbol": "Plxnb3"
+    },
+    {
+        "WT": 15.462,
+        "KO": 9.8533,
+        "group": "None",
+        "symbol": "Rps27a"
+    },
+    {
+        "WT": 8.6613,
+        "KO": 4.5295,
+        "group": "None",
+        "symbol": "Vamp1"
+    },
+    {
+        "WT": 9.7822,
+        "KO": 9.3965,
+        "group": "None",
+        "symbol": "Zbtb38"
+    },
+    {
+        "WT": 2.7947,
+        "KO": 7.5954,
+        "group": "Up",
+        "symbol": "Ikbip"
+    },
+    {
+        "WT": 4.0129,
+        "KO": 6.2979,
+        "group": "None",
+        "symbol": "2500004C02Rik"
+    },
+    {
+        "WT": 55.961,
+        "KO": 60.6598,
+        "group": "None",
+        "symbol": "Kcnk5"
+    },
+    {
+        "WT": 161.512,
+        "KO": 167.181,
+        "group": "None",
+        "symbol": "Ube2l6"
+    },
+    {
+        "WT": 0.0706,
+        "KO": 0.0548,
+        "group": "None",
+        "symbol": "Myo18b"
+    },
+    {
+        "WT": 76.9543,
+        "KO": 67.9371,
+        "group": "None",
+        "symbol": "Srsf1"
+    },
+    {
+        "WT": 7845.9126,
+        "KO": 6748.1983,
+        "group": "None",
+        "symbol": "Gpx1"
+    },
+    {
+        "WT": 0.8887,
+        "KO": 0.3086,
+        "group": "None",
+        "symbol": "Gm4432"
+    },
+    {
+        "WT": 10.1569,
+        "KO": 11.3522,
+        "group": "None",
+        "symbol": "Wdr33"
+    },
+    {
+        "WT": 4.6273,
+        "KO": 6.7183,
+        "group": "None",
+        "symbol": "Stk11ip"
+    },
+    {
+        "WT": 580.1297,
+        "KO": 467.6141,
+        "group": "None",
+        "symbol": "Msmo1"
+    },
+    {
+        "WT": 6.0258,
+        "KO": 8.6687,
+        "group": "None",
+        "symbol": "Cd24a"
+    },
+    {
+        "WT": 0.0833,
+        "KO": 0.359,
+        "group": "None",
+        "symbol": "Angpt4"
+    },
+    {
+        "WT": 18.9615,
+        "KO": 9.3211,
+        "group": "None",
+        "symbol": "Mir1901"
+    },
+    {
+        "WT": 12.8868,
+        "KO": 15.3553,
+        "group": "None",
+        "symbol": "Ep300"
+    },
+    {
+        "WT": 1.1256,
+        "KO": 2.4915,
+        "group": "None",
+        "symbol": "Mgat4a"
+    },
+    {
+        "WT": 6.1645,
+        "KO": 10.9055,
+        "group": "None",
+        "symbol": "Tlr3"
+    },
+    {
+        "WT": 4.723,
+        "KO": 1.4911,
+        "group": "Down",
+        "symbol": "Nat8"
+    },
+    {
+        "WT": 4.1223,
+        "KO": 1.0482,
+        "group": "None",
+        "symbol": "1700120K04Rik"
+    },
+    {
+        "WT": 1.0791,
+        "KO": 2.1755,
+        "group": "None",
+        "symbol": "Ccnb2"
+    },
+    {
+        "WT": 1.8263,
+        "KO": 2.2153,
+        "group": "None",
+        "symbol": "Jam3"
+    },
+    {
+        "WT": 16.1273,
+        "KO": 19.0088,
+        "group": "None",
+        "symbol": "Atg2a"
+    },
+    {
+        "WT": 4.6353,
+        "KO": 5.5912,
+        "group": "None",
+        "symbol": "Serf1"
+    },
+    {
+        "WT": 0.4185,
+        "KO": 0.6557,
+        "group": "None",
+        "symbol": "Eif5a2"
+    },
+    {
+        "WT": 5.9734,
+        "KO": 7.0523,
+        "group": "None",
+        "symbol": "Ntmt1"
+    },
+    {
+        "WT": 13.7143,
+        "KO": 19.8588,
+        "group": "None",
+        "symbol": "Tmem199"
+    },
+    {
+        "WT": 13.5801,
+        "KO": 15.1956,
+        "group": "None",
+        "symbol": "Mageh1"
+    },
+    {
+        "WT": 5.9476,
+        "KO": 11.2245,
+        "group": "None",
+        "symbol": "Atp13a2"
+    },
+    {
+        "WT": 39.221,
+        "KO": 38.5994,
+        "group": "None",
+        "symbol": "Rsl1d1"
+    },
+    {
+        "WT": 1.46,
+        "KO": 3.8683,
+        "group": "None",
+        "symbol": "Hey1"
+    },
+    {
+        "WT": 11.4201,
+        "KO": 6.94,
+        "group": "None",
+        "symbol": "Mccc1"
+    },
+    {
+        "WT": 40.2461,
+        "KO": 43.2812,
+        "group": "None",
+        "symbol": "Nme1"
+    },
+    {
+        "WT": 651.5925,
+        "KO": 151.6783,
+        "group": "Down",
+        "symbol": "Cyp2c50"
+    },
+    {
+        "WT": 7.9156,
+        "KO": 9.2579,
+        "group": "None",
+        "symbol": "Zfp113"
+    },
+    {
+        "WT": 0.3485,
+        "KO": 5.167,
+        "group": "Up",
+        "symbol": "Tmem139"
+    },
+    {
+        "WT": 3.7471,
+        "KO": 8.2613,
+        "group": "None",
+        "symbol": "E230016M11Rik"
+    },
+    {
+        "WT": 95.2056,
+        "KO": 90.738,
+        "group": "None",
+        "symbol": "Mmp19"
+    },
+    {
+        "WT": 8.9372,
+        "KO": 9.6827,
+        "group": "None",
+        "symbol": "Sumf2"
+    },
+    {
+        "WT": 101.8867,
+        "KO": 90.6559,
+        "group": "None",
+        "symbol": "Dhrs1"
+    },
+    {
+        "WT": 34.5002,
+        "KO": 29.2044,
+        "group": "None",
+        "symbol": "Adprm"
+    },
+    {
+        "WT": 13.0949,
+        "KO": 20.7212,
+        "group": "None",
+        "symbol": "Pcdhga8"
+    },
+    {
+        "WT": 61.6064,
+        "KO": 46.2534,
+        "group": "None",
+        "symbol": "Mtln"
+    },
+    {
+        "WT": 14.8188,
+        "KO": 25.1462,
+        "group": "None",
+        "symbol": "Map7"
+    },
+    {
+        "WT": 14.234,
+        "KO": 15.8307,
+        "group": "None",
+        "symbol": "Zfp523"
+    },
+    {
+        "WT": 19.7565,
+        "KO": 17.4142,
+        "group": "None",
+        "symbol": "Abcb8"
+    },
+    {
+        "WT": 8.7947,
+        "KO": 33.5569,
+        "group": "Up",
+        "symbol": "Gltp"
+    },
+    {
+        "WT": 0.0562,
+        "KO": 0.2369,
+        "group": "None",
+        "symbol": "Adam7"
+    },
+    {
+        "WT": 17.4556,
+        "KO": 16.4069,
+        "group": "None",
+        "symbol": "Foxk2"
+    },
+    {
+        "WT": 1.8833,
+        "KO": 9.1867,
+        "group": "Up",
+        "symbol": "Rftn1"
+    },
+    {
+        "WT": 20.9553,
+        "KO": 40.8412,
+        "group": "None",
+        "symbol": "Plec"
+    },
+    {
+        "WT": 0.3743,
+        "KO": 0.1433,
+        "group": "None",
+        "symbol": "LOC100861978"
+    },
+    {
+        "WT": 0.5698,
+        "KO": 2.0759,
+        "group": "None",
+        "symbol": "Cd300ld5"
+    },
+    {
+        "WT": 0.1657,
+        "KO": 0.7683,
+        "group": "None",
+        "symbol": "Pstpip1"
+    },
+    {
+        "WT": 19.4913,
+        "KO": 21.8961,
+        "group": "None",
+        "symbol": "4833420G17Rik"
+    },
+    {
+        "WT": 18.5686,
+        "KO": 17.2224,
+        "group": "None",
+        "symbol": "Psmb2"
+    },
+    {
+        "WT": 8.0853,
+        "KO": 4.6192,
+        "group": "None",
+        "symbol": "Npr1"
+    },
+    {
+        "WT": 0.5353,
+        "KO": 0.4353,
+        "group": "None",
+        "symbol": "Reep2"
+    },
+    {
+        "WT": 2.631,
+        "KO": 3.6363,
+        "group": "None",
+        "symbol": "Smarcal1"
+    },
+    {
+        "WT": 8.7219,
+        "KO": 3.1997,
+        "group": "Down",
+        "symbol": "Fn3k"
+    },
+    {
+        "WT": 35.5357,
+        "KO": 46.7102,
+        "group": "None",
+        "symbol": "Mbnl2"
+    },
+    {
+        "WT": 30.7928,
+        "KO": 35.8814,
+        "group": "None",
+        "symbol": "Ric8a"
+    },
+    {
+        "WT": 0.8178,
+        "KO": 1.4296,
+        "group": "None",
+        "symbol": "4931431C16Rik"
+    },
+    {
+        "WT": 767.8844,
+        "KO": 679.2895,
+        "group": "None",
+        "symbol": "F2"
+    },
+    {
+        "WT": 1.8475,
+        "KO": 0.805,
+        "group": "None",
+        "symbol": "Gm13872"
+    },
+    {
+        "WT": 4.2116,
+        "KO": 4.9604,
+        "group": "None",
+        "symbol": "Cdan1"
+    },
+    {
+        "WT": 4.7231,
+        "KO": 6.6778,
+        "group": "None",
+        "symbol": "Slc25a48"
+    },
+    {
+        "WT": 12.2919,
+        "KO": 16.0357,
+        "group": "None",
+        "symbol": "A630066F11Rik"
+    },
+    {
+        "WT": 28.1799,
+        "KO": 36.7761,
+        "group": "None",
+        "symbol": "Rcc2"
+    },
+    {
+        "WT": 11.6877,
+        "KO": 13.3793,
+        "group": "None",
+        "symbol": "Zscan25"
+    },
+    {
+        "WT": 4.5839,
+        "KO": 6.4672,
+        "group": "None",
+        "symbol": "Ntn4"
+    },
+    {
+        "WT": 26.5671,
+        "KO": 27.2457,
+        "group": "None",
+        "symbol": "Ppp4r3b"
+    },
+    {
+        "WT": 5.1755,
+        "KO": 11.3714,
+        "group": "None",
+        "symbol": "Arl4c"
+    }
+]

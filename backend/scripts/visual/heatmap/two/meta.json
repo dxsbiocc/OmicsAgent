@@ -1,0 +1,84 @@
+{
+  "name": "ggcor 版热图",
+  "description": "相关性热图用于展示两组变量之间的相关性分布",
+  "ggplot2": {
+    "qcorrplot": {
+      "arguments": {}
+    },
+    "correlate": {
+      "x": [
+        "YAP1",
+        "WWTR1",
+        "TEAD1",
+        "TEAD2",
+        "TEAD3",
+        "TEAD4",
+        "SMAD1",
+        "SMAD2",
+        "SMAD3",
+        "SMAD4"
+      ],
+      "method": "spearman",
+      "engine": "default",
+      "cor.test": true
+    },
+    "layers": [
+      {
+        "type": "geom_star"
+      },
+      {
+        "type": "geom_cross",
+        "arguments": {
+          "colour": "#f5e797"
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_gradientn",
+        "arguments": {
+          "name": "Correlation",
+          "colours": [
+            "#009dd3",
+            "#ffffffff",
+            "#f29c98"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.title": {
+            "type": "element_blank"
+          },
+          "axis.ticks": {
+            "type": "element_blank"
+          },
+          "legend.background": {
+            "type": "element_blank"
+          },
+          "panel.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 600,
+    "height": 500
+  },
+  "has_js": false,
+  "has_r": true
+}

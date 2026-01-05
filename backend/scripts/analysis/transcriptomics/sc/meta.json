@@ -1,0 +1,33 @@
+{
+    "name": "单细胞转录组分析",
+    "description": "单细胞RNA测序（scRNA-seq）数据分析，包括细胞类型识别、细胞轨迹推断、差异表达分析等。",
+    "type": "analysis",
+    "category": "transcriptomics",
+    "tools": [
+        {
+            "name": "cell_type_identification",
+            "title": "细胞类型识别",
+            "description": "细胞类型识别，包括细胞类型识别的算法、细胞类型识别的模型、细胞类型识别的评价等。"
+        },
+        {
+            "name": "cell_trajectory_inference",
+            "title": "细胞轨迹推断",
+            "description": "细胞轨迹推断，包括细胞轨迹推断的算法、细胞轨迹推断的模型、细胞轨迹推断的评价等。"
+        },
+        {
+            "name": "differential_expression",
+            "title": "差异表达分析",
+            "description": "差异表达分析，包括差异表达基因的筛选、差异表达基因的富集分析、差异表达基因的通路分析等。"
+        },
+        {
+            "name": "cell_cycle_analysis",
+            "title": "细胞周期分析",
+            "description": "细胞周期分析，包括细胞周期分析的算法、细胞周期分析的模型、细胞周期分析的评价等。"
+        },
+        {
+            "name": "cell_communication_analysis",
+            "title": "细胞通讯分析",
+            "description": "细胞通讯分析，包括细胞通讯分析的算法、细胞通讯分析的模型、细胞通讯分析的评价等。"
+        }
+    ]
+}

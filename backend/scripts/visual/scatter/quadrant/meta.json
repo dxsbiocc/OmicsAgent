@@ -1,0 +1,163 @@
+{
+    "name": "象限散点图",
+    "description": "象限散点图用于展示两个变量之间的差异",
+    "ggplot2": {
+        "mapping": {
+            "x": "OE",
+            "y": "KO",
+            "group": "group"
+        },
+        "layers": [
+            {
+                "type": "geom_point",
+                "arguments": {
+                    "size": 1,
+                    "alpha": 0.5,
+                    "colour": "grey50"
+                }
+            },
+            {
+                "type": "geom_vline",
+                "arguments": {
+                    "xintercept": [
+                        -1,
+                        1
+                    ],
+                    "colour": "grey50",
+                    "linetype": 2,
+                    "linewidth": 0.6
+                }
+            },
+            {
+                "type": "geom_hline",
+                "arguments": {
+                    "yintercept": [
+                        -1,
+                        1
+                    ],
+                    "colour": "grey50",
+                    "linetype": 2,
+                    "linewidth": 0.6
+                }
+            },
+            {
+                "type": "geom_rect",
+                "mapping": {
+                    "xmin": "xmin",
+                    "xmax": "xmax",
+                    "ymin": "ymin",
+                    "ymax": "ymax",
+                    "fill": "group"
+                },
+                "arguments": {
+                    "alpha": 0.4,
+                    "show.legend": false,
+                    "inherit.aes": false
+                }
+            },
+            {
+                "type": "geom_point",
+                "mapping": {
+                    "fill": "group",
+                    "size": "abs(OE) + abs(KO)",
+                    "stroke": 0
+                },
+                "arguments": {
+                    "shape": 21,
+                    "show.legend": false
+                }
+            },
+            {
+                "type": "geom_text_repel",
+                "mapping": {
+                    "label": "symbol"
+                },
+                "arguments": {
+                    "top.k": 5,
+                    "size": 4,
+                    "max.overlaps": 1000
+                }
+            }
+        ],
+        "labs": {
+            "type": "labs",
+            "arguments": {
+                "title": "Yap1 Overexpression and Knockout",
+                "x": "Overexpression log2FC",
+                "y": "Knockout log2FC"
+            }
+        },
+        "scales": [
+            {
+                "type": "scale_fill_manual",
+                "arguments": {
+                    "values": [
+                        "#3288bd",
+                        "#66c2a5",
+                        "#f46d43",
+                        "#d53e4f"
+                    ]
+                }
+            },
+            {
+                "type": "scale_size_continuous",
+                "arguments": {
+                    "range": [
+                        2,
+                        6
+                    ]
+                }
+            },
+            {
+                "type": "scale_x_continuous",
+                "arguments": {
+                    "expand": {
+                        "type": "expansion",
+                        "arguments": {
+                            "mult": [
+                                0.1,
+                                0.1
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "type": "scale_y_continuous",
+                "arguments": {
+                    "expand": {
+                        "type": "expansion",
+                        "arguments": {
+                            "mult": [
+                                0.1,
+                                0.1
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "themes": [
+            {
+                "type": "theme_prism"
+            },
+            {
+                "type": "theme",
+                "arguments": {
+                    "plot.background": {
+                        "type": "element_blank"
+                    },
+                    "legend.title": {
+                        "type": "element_text",
+                        "arguments": {
+                            "size": 12
+                        }
+                    }
+                }
+            }
+        ],
+        "width": 600,
+        "height": 600
+    },
+    "has_js": false
+}

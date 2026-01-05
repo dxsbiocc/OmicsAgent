@@ -1,0 +1,242 @@
+[
+  {
+    "hours": "12a",
+    "Saturday": 5,
+    "Friday": 7,
+    "Thursday": 1,
+    "Wednesday": 7,
+    "Tuesday": 1,
+    "Monday": 2,
+    "Sunday": 1
+  },
+  {
+    "hours": "1a",
+    "Saturday": 1,
+    "Friday": 0,
+    "Thursday": 1,
+    "Wednesday": 3,
+    "Tuesday": 3,
+    "Monday": 1,
+    "Sunday": 0
+  },
+  {
+    "hours": "2a",
+    "Saturday": 0,
+    "Friday": 0,
+    "Thursday": 0,
+    "Wednesday": 0,
+    "Tuesday": 0,
+    "Monday": 0,
+    "Sunday": 0
+  },
+  {
+    "hours": "3a",
+    "Saturday": 0,
+    "Friday": 0,
+    "Thursday": 0,
+    "Wednesday": 0,
+    "Tuesday": 0,
+    "Monday": 3,
+    "Sunday": 0
+  },
+  {
+    "hours": "4a",
+    "Saturday": 0,
+    "Friday": 0,
+    "Thursday": 0,
+    "Wednesday": 0,
+    "Tuesday": 0,
+    "Monday": 0,
+    "Sunday": 0
+  },
+  {
+    "hours": "5a",
+    "Saturday": 0,
+    "Friday": 0,
+    "Thursday": 0,
+    "Wednesday": 0,
+    "Tuesday": 1,
+    "Monday": 0,
+    "Sunday": 0
+  },
+  {
+    "hours": "6a",
+    "Saturday": 0,
+    "Friday": 0,
+    "Thursday": 0,
+    "Wednesday": 0,
+    "Tuesday": 0,
+    "Monday": 0,
+    "Sunday": 0
+  },
+  {
+    "hours": "7a",
+    "Saturday": 0,
+    "Friday": 0,
+    "Thursday": 0,
+    "Wednesday": 0,
+    "Tuesday": 0,
+    "Monday": 0,
+    "Sunday": 0
+  },
+  {
+    "hours": "8a",
+    "Saturday": 0,
+    "Friday": 0,
+    "Thursday": 0,
+    "Wednesday": 1,
+    "Tuesday": 0,
+    "Monday": 2,
+    "Sunday": 0
+  },
+  {
+    "hours": "9a",
+    "Saturday": 0,
+    "Friday": 0,
+    "Thursday": 0,
+    "Wednesday": 0,
+    "Tuesday": 2,
+    "Monday": 0,
+    "Sunday": 0
+  },
+  {
+    "hours": "10a",
+    "Saturday": 0,
+    "Friday": 5,
+    "Thursday": 3,
+    "Wednesday": 5,
+    "Tuesday": 4,
+    "Monday": 4,
+    "Sunday": 1
+  },
+  {
+    "hours": "11a",
+    "Saturday": 2,
+    "Friday": 2,
+    "Thursday": 2,
+    "Wednesday": 4,
+    "Tuesday": 4,
+    "Monday": 1,
+    "Sunday": 0
+  },
+  {
+    "hours": "12p",
+    "Saturday": 4,
+    "Friday": 2,
+    "Thursday": 1,
+    "Wednesday": 7,
+    "Tuesday": 2,
+    "Monday": 5,
+    "Sunday": 2
+  },
+  {
+    "hours": "1p",
+    "Saturday": 1,
+    "Friday": 6,
+    "Thursday": 9,
+    "Wednesday": 14,
+    "Tuesday": 4,
+    "Monday": 10,
+    "Sunday": 1
+  },
+  {
+    "hours": "2p",
+    "Saturday": 1,
+    "Friday": 9,
+    "Thursday": 8,
+    "Wednesday": 13,
+    "Tuesday": 4,
+    "Monday": 5,
+    "Sunday": 3
+  },
+  {
+    "hours": "3p",
+    "Saturday": 3,
+    "Friday": 11,
+    "Thursday": 10,
+    "Wednesday": 12,
+    "Tuesday": 14,
+    "Monday": 7,
+    "Sunday": 4
+  },
+  {
+    "hours": "4p",
+    "Saturday": 4,
+    "Friday": 6,
+    "Thursday": 6,
+    "Wednesday": 9,
+    "Tuesday": 12,
+    "Monday": 11,
+    "Sunday": 0
+  },
+  {
+    "hours": "5p",
+    "Saturday": 6,
+    "Friday": 7,
+    "Thursday": 5,
+    "Wednesday": 5,
+    "Tuesday": 1,
+    "Monday": 6,
+    "Sunday": 0
+  },
+  {
+    "hours": "6p",
+    "Saturday": 4,
+    "Friday": 8,
+    "Thursday": 5,
+    "Wednesday": 5,
+    "Tuesday": 8,
+    "Monday": 0,
+    "Sunday": 0
+  },
+  {
+    "hours": "7p",
+    "Saturday": 4,
+    "Friday": 12,
+    "Thursday": 5,
+    "Wednesday": 10,
+    "Tuesday": 5,
+    "Monday": 5,
+    "Sunday": 0
+  },
+  {
+    "hours": "8p",
+    "Saturday": 3,
+    "Friday": 5,
+    "Thursday": 7,
+    "Wednesday": 6,
+    "Tuesday": 3,
+    "Monday": 3,
+    "Sunday": 1
+  },
+  {
+    "hours": "9p",
+    "Saturday": 3,
+    "Friday": 5,
+    "Thursday": 4,
+    "Wednesday": 4,
+    "Tuesday": 7,
+    "Monday": 4,
+    "Sunday": 2
+  },
+  {
+    "hours": "10p",
+    "Saturday": 2,
+    "Friday": 7,
+    "Thursday": 2,
+    "Wednesday": 4,
+    "Tuesday": 3,
+    "Monday": 2,
+    "Sunday": 2
+  },
+  {
+    "hours": "11p",
+    "Saturday": 5,
+    "Friday": 2,
+    "Thursday": 4,
+    "Wednesday": 1,
+    "Tuesday": 0,
+    "Monday": 0,
+    "Sunday": 6
+  }
+]

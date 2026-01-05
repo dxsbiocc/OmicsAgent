@@ -1,0 +1,203 @@
+{
+    "name": "分组蜂巢图",
+    "description": "分组蜂巢图用于展示分组数据的分布",
+    "ggplot2": {
+        "mapping": {
+            "x": "cate",
+            "y": "logFC",
+            "colour": "sign"
+        },
+        "layers": [
+            {
+                "type": "geom_round_tile",
+                "mapping": {
+                    "y": 0,
+                    "fill": "cate"
+                },
+                "arguments": {
+                    "height": 1.5,
+                    "colour": "black",
+                    "width": 0.9,
+                    "show.legend": false
+                }
+            },
+            {
+                "type": "geom_quasirandom",
+                "mapping": {
+                    "size": "-log10(adj.P.Val)"
+                },
+                "arguments": {
+                    "width": 0.4,
+                    "alpha": 0.5
+                }
+            },
+            {
+                "type": "geom_text",
+                "mapping": {
+                    "x": "cate",
+                    "y": 0,
+                    "label": "cate",
+                    "colour": "cate"
+                },
+                "arguments": {
+                    "size": 4,
+                    "show.legend": false,
+                    "inherit.aes": false
+                }
+            },
+            {
+                "type": "geom_text_repel",
+                "mapping": {
+                    "x": "cate",
+                    "y": "logFC",
+                    "label": "symbol"
+                },
+                "arguments": {
+                    "top": "logFC",
+                    "top.k": 5,
+                    "force": 2,
+                    "size": 3,
+                    "arrow": {
+                        "type": "arrow",
+                        "arguments": {
+                            "length": {
+                                "type": "unit",
+                                "arguments": {
+                                    "x": 0.008,
+                                    "units": "npc"
+                                }
+                            },
+                            "type": "open",
+                            "ends": "last"
+                        }
+                    }
+                }
+            }
+        ],
+        "scales": [
+            {
+                "type": "scale_colour_manual",
+                "arguments": {
+                    "name": "Change",
+                    "values": [
+                        "#2dde98",
+                        "#ff6c5f"
+                    ],
+                    "labels": [
+                        "Down",
+                        "Up"
+                    ]
+                }
+            },
+            {
+                "type": "new_scale_colour",
+                "layer": 2
+            },
+            {
+                "type": "scale_fill_manual",
+                "arguments": {
+                    "values": [
+                        "#a8dbd9",
+                        "#85c4c9",
+                        "#68abb8",
+                        "#4f90a6",
+                        "#3b738f"
+                    ]
+                }
+            },
+            {
+                "type": "scale_color_manual",
+                "arguments": {
+                    "values": [
+                        "#595d7a",
+                        "#595d7a",
+                        "#595d7a",
+                        "#c5c5c5",
+                        "#c5c5c5"
+                    ]
+                }
+            },
+            {
+                "type": "scale_size_binned",
+                "arguments": {
+                    "range": [
+                        1,
+                        4
+                    ]
+                }
+            }
+        ],
+        "guides": {
+            "size": {
+                "type": "guide_bins",
+                "arguments": {
+                    "show.limits": true
+                }
+            }
+        },
+        "labs": {
+            "type": "labs",
+            "arguments": {
+                "title": "",
+                "x": "",
+                "y": "log2FC"
+            }
+        },
+        "themes": [
+            {
+                "type": "theme_prism"
+            },
+            {
+                "type": "theme",
+                "arguments": {
+                    "plot.background": {
+                        "type": "element_blank"
+                    },
+                    "legend.title": {
+                        "type": "element_text",
+                        "arguments": {
+                            "size": 12,
+                            "face": "bold"
+                        }
+                    },
+                    "legend.text": {
+                        "type": "element_text",
+                        "arguments": {
+                            "size": 12
+                        }
+                    },
+                    "axis.title": {
+                        "type": "element_text",
+                        "arguments": {
+                            "size": 13,
+                            "colour": "black",
+                            "face": "bold"
+                        }
+                    },
+                    "axis.line.y": {
+                        "type": "element_line",
+                        "arguments": {
+                            "colour": "black",
+                            "linewidth": 1
+                        }
+                    },
+                    "axis.line.x": {
+                        "type": "element_blank"
+                    },
+                    "axis.text.x": {
+                        "type": "element_blank"
+                    },
+                    "axis.ticks.x": {
+                        "type": "element_blank"
+                    },
+                    "panel.grid": {
+                        "type": "element_blank"
+                    }
+                }
+            }
+        ],
+        "width": 800,
+        "height": 600
+    },
+    "has_js": false
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "desc": "Starting Cash",
+    "amount": 2000
+  },
+  {
+    "desc": "Sales",
+    "amount": 3400
+  },
+  {
+    "desc": "Refunds",
+    "amount": -1100
+  },
+  {
+    "desc": "Payouts",
+    "amount": -100
+  },
+  {
+    "desc": "Court Losses",
+    "amount": -6600
+  },
+  {
+    "desc": "Court Wins",
+    "amount": 3800
+  },
+  {
+    "desc": "Contracts",
+    "amount": 1400
+  },
+  {
+    "desc": "End Cash",
+    "amount": 2800
+  }
+]

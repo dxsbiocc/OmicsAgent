@@ -1,0 +1,25 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <g id="panda-base">
+      <circle cx="50" cy="50" r="18" fill="#334155" />
+      <circle cx="150" cy="50" r="18" fill="#334155" />
+      <path d="M50,160 C30,160 20,130 25,100 C30,50 60,40 100,40 C140,40 170,50 175,100 C180,130 170,160 150,160 L50,160 Z" fill="#F8FAFC" stroke="#e2e8f0" stroke-width="1"/>
+      <ellipse cx="45" cy="155" rx="18" ry="12" fill="#334155" />
+      <ellipse cx="155" cy="155" rx="18" ry="12" fill="#334155" />
+      <ellipse cx="70" cy="85" rx="16" ry="20" fill="#334155" transform="rotate(-15, 70, 85)" />
+      <ellipse cx="130" cy="85" rx="16" ry="20" fill="#334155" transform="rotate(15, 130, 85)" />
+      <path d="M94,102 Q100,106 106,102 L100,110 Z" fill="#334155" />
+    </g>
+  </defs>
+  <use href="#panda-base" />
+  <path d="M60,85 L80,85 M120,85 L140,85 M80,85 Q100,80 120,85" stroke="#334155" stroke-width="2" fill="none"/>
+  <circle cx="70" cy="85" r="12" stroke="#334155" stroke-width="2" fill="#334155"/>
+  <circle cx="130" cy="85" r="12" stroke="#334155" stroke-width="2" fill="#334155"/>
+  <path d="M66,85 L74,85" stroke="#10B981" stroke-width="2" opacity="0.8"/>
+  <path d="M126,85 L134,85" stroke="#10B981" stroke-width="2" opacity="0.8"/>
+  <path d="M30,150 L170,150 L160,140 L40,140 Z" fill="#64748B"/>
+  <rect x="35" y="80" width="130" height="70" rx="4" fill="#94a3b8" stroke="#64748B" stroke-width="1"/>
+  <circle cx="100" cy="115" r="8" fill="#F8FAFC" opacity="0.5"/>
+  <path d="M100,107 L100,113" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+</svg>
+

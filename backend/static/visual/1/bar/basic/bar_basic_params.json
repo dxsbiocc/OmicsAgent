@@ -1,0 +1,51 @@
+{
+  "chart_type": "bar_basic",
+  "engine": "r",
+  "data": "/Users/dengxsh/Downloads/Work/OmicsAgent/backend/static/visual/1/bar/basic/bar_basic_data.json",
+  "ggplot2": {
+    "mapping": {
+      "x": "day",
+      "y": "direct"
+    },
+    "layers": [
+      {
+        "type": "geom_col",
+        "arguments": {
+          "fill": "lightblue"
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Basic Bar Chart",
+        "x": "Day",
+        "y": "Direct"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_x_discrete",
+        "arguments": {
+          "limits": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ]
+        }
+      }
+    ],
+    "themes": [
+      {
+        "type": "theme_minimal"
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "heatmap": {}
+}

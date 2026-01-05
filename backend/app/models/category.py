@@ -45,7 +45,6 @@ class Category(Base):
     parent = relationship("Category", remote_side=[id], back_populates="children")
     children = relationship("Category", back_populates="parent")
     blog_posts = relationship("BlogPost", back_populates="category")
-    visual_tools = relationship("VisualTool", back_populates="category")
 
     def __repr__(self):
         return f"<Category(id={self.id}, name='{self.name}', content_type='{self.content_type}')>"

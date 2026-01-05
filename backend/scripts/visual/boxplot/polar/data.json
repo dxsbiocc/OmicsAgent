@@ -1,0 +1,338 @@
+[
+    {
+        "month": "Jan",
+        "shap": 0.8709
+    },
+    {
+        "month": "Feb",
+        "shap": 1.0869
+    },
+    {
+        "month": "Mar",
+        "shap": 0.1908
+    },
+    {
+        "month": "Apr",
+        "shap": 0.9901
+    },
+    {
+        "month": "May",
+        "shap": 1.0454
+    },
+    {
+        "month": "Jun",
+        "shap": 1.7969
+    },
+    {
+        "month": "Jul",
+        "shap": 2.2208
+    },
+    {
+        "month": "Aug",
+        "shap": 2.9231
+    },
+    {
+        "month": "Sep",
+        "shap": 2.1392
+    },
+    {
+        "month": "Oct",
+        "shap": 1.9378
+    },
+    {
+        "month": "Nov",
+        "shap": 1.8854
+    },
+    {
+        "month": "Dec",
+        "shap": 1.1961
+    },
+    {
+        "month": "Jan",
+        "shap": 1.455
+    },
+    {
+        "month": "Feb",
+        "shap": 0.8293
+    },
+    {
+        "month": "Mar",
+        "shap": 1.071
+    },
+    {
+        "month": "Apr",
+        "shap": 1.0211
+    },
+    {
+        "month": "May",
+        "shap": 0.9867
+    },
+    {
+        "month": "Jun",
+        "shap": 2.1609
+    },
+    {
+        "month": "Jul",
+        "shap": 2.2592
+    },
+    {
+        "month": "Aug",
+        "shap": 2.1944
+    },
+    {
+        "month": "Sep",
+        "shap": 2.8483
+    },
+    {
+        "month": "Oct",
+        "shap": 2.5614
+    },
+    {
+        "month": "Nov",
+        "shap": 1.8435
+    },
+    {
+        "month": "Dec",
+        "shap": 1.0185
+    },
+    {
+        "month": "Jan",
+        "shap": 1.159
+    },
+    {
+        "month": "Feb",
+        "shap": 0.8178
+    },
+    {
+        "month": "Mar",
+        "shap": 0.5006
+    },
+    {
+        "month": "Apr",
+        "shap": 1.4582
+    },
+    {
+        "month": "May",
+        "shap": 1.886
+    },
+    {
+        "month": "Jun",
+        "shap": 1.7022
+    },
+    {
+        "month": "Jul",
+        "shap": 2.1262
+    },
+    {
+        "month": "Aug",
+        "shap": 2.6741
+    },
+    {
+        "month": "Sep",
+        "shap": 3.0734
+    },
+    {
+        "month": "Oct",
+        "shap": 2.2786
+    },
+    {
+        "month": "Nov",
+        "shap": 2.0078
+    },
+    {
+        "month": "Dec",
+        "shap": 0.8611
+    },
+    {
+        "month": "Jan",
+        "shap": 1.7164
+    },
+    {
+        "month": "Feb",
+        "shap": 1.4013
+    },
+    {
+        "month": "Mar",
+        "shap": 0.3799
+    },
+    {
+        "month": "Apr",
+        "shap": 1.203
+    },
+    {
+        "month": "May",
+        "shap": 1.9086
+    },
+    {
+        "month": "Jun",
+        "shap": 1.8873
+    },
+    {
+        "month": "Jul",
+        "shap": 2.1959
+    },
+    {
+        "month": "Aug",
+        "shap": 3.1142
+    },
+    {
+        "month": "Sep",
+        "shap": 2.6362
+    },
+    {
+        "month": "Oct",
+        "shap": 2.7235
+    },
+    {
+        "month": "Nov",
+        "shap": 1.3815
+    },
+    {
+        "month": "Dec",
+        "shap": 1.077
+    },
+    {
+        "month": "Jan",
+        "shap": 1.8571
+    },
+    {
+        "month": "Feb",
+        "shap": 0.9812
+    },
+    {
+        "month": "Mar",
+        "shap": 0.7491
+    },
+    {
+        "month": "Apr",
+        "shap": 1.3391
+    },
+    {
+        "month": "May",
+        "shap": 1.7803
+    },
+    {
+        "month": "Jun",
+        "shap": 1.8841
+    },
+    {
+        "month": "Jul",
+        "shap": 2.3734
+    },
+    {
+        "month": "Aug",
+        "shap": 2.5205
+    },
+    {
+        "month": "Sep",
+        "shap": 3.0101
+    },
+    {
+        "month": "Oct",
+        "shap": 2.8091
+    },
+    {
+        "month": "Nov",
+        "shap": 1.9396
+    },
+    {
+        "month": "Dec",
+        "shap": 1.5847
+    },
+    {
+        "month": "Jan",
+        "shap": 1.0456
+    },
+    {
+        "month": "Feb",
+        "shap": 1.2887
+    },
+    {
+        "month": "Mar",
+        "shap": 1.459
+    },
+    {
+        "month": "Apr",
+        "shap": 1.258
+    },
+    {
+        "month": "May",
+        "shap": 1.9684
+    },
+    {
+        "month": "Jun",
+        "shap": 1.8786
+    },
+    {
+        "month": "Jul",
+        "shap": 2.6897
+    },
+    {
+        "month": "Aug",
+        "shap": 3.0429
+    },
+    {
+        "month": "Sep",
+        "shap": 2.5232
+    },
+    {
+        "month": "Oct",
+        "shap": 2.8744
+    },
+    {
+        "month": "Nov",
+        "shap": 1.7677
+    },
+    {
+        "month": "Dec",
+        "shap": 1.4176
+    },
+    {
+        "month": "Jan",
+        "shap": 1.6114
+    },
+    {
+        "month": "Feb",
+        "shap": 1.2671
+    },
+    {
+        "month": "Mar",
+        "shap": 1.4774
+    },
+    {
+        "month": "Apr",
+        "shap": 1.3914
+    },
+    {
+        "month": "May",
+        "shap": 1.2809
+    },
+    {
+        "month": "Jun",
+        "shap": 2.2336
+    },
+    {
+        "month": "Jul",
+        "shap": 2.573
+    },
+    {
+        "month": "Aug",
+        "shap": 2.7718
+    },
+    {
+        "month": "Sep",
+        "shap": 2.8957
+    },
+    {
+        "month": "Oct",
+        "shap": 2.6032
+    },
+    {
+        "month": "Nov",
+        "shap": 2.0107
+    },
+    {
+        "month": "Dec",
+        "shap": 1.8715
+    }
+]

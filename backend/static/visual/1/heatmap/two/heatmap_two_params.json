@@ -1,0 +1,79 @@
+{
+  "chart_type": "heatmap_two",
+  "engine": "r",
+  "ggplot2": {
+    "mapping": {},
+    "layers": [
+      {
+        "type": "geom_pie2",
+        "arguments": {}
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_gradientn",
+        "arguments": {
+          "name": "Correlation",
+          "colours": [
+            "#009dd3",
+            "#ffffffff",
+            "#f29c98"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.title": {
+            "type": "element_blank"
+          },
+          "axis.ticks": {
+            "type": "element_blank"
+          },
+          "legend.background": {
+            "type": "element_blank"
+          },
+          "panel.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "correlate": {
+      "x": [
+        "YAP1",
+        "WWTR1",
+        "TEAD1",
+        "TEAD2",
+        "TEAD3",
+        "TEAD4",
+        "SMAD1",
+        "SMAD2",
+        "SMAD3",
+        "SMAD4"
+      ],
+      "method": "spearman",
+      "engine": "default",
+      "cor.test": true
+    },
+    "qcorrplot": {
+      "arguments": {}
+    },
+    "width": 600,
+    "height": 500
+  },
+  "data": "/Users/dengxsh/Downloads/Work/OmicsAgent/backend/static/visual/1/heatmap/two/heatmap_two_data.csv"
+}

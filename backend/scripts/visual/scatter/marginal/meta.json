@@ -1,0 +1,90 @@
+{
+  "name": "边际分布散点图",
+  "description": "边际分布散点图用于展示两个变量之间的边际分布",
+  "ggplot2": {
+    "mapping": {
+      "x": "x",
+      "y": "y",
+      "colour": "group",
+      "fill": "group"
+    },
+    "layers": [
+      {
+        "type": "geom_point",
+        "arguments": {
+          "alpha": 0.7,
+          "size": 2
+        }
+      },
+      {
+        "type": "geom_smooth",
+        "arguments": {
+          "method": "lm",
+          "se": true,
+          "alpha": 0.2,
+          "linewidth": 0.8
+        }
+      },
+      {
+        "type": "stat_cor",
+        "arguments": {
+          "method": "pearson"
+        }
+      },
+      {
+        "type": "ggMarginal",
+        "arguments": {
+          "type": "boxplot",
+          "groupFill": true,
+          "margins": "both",
+          "groupColour": true
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#333463",
+            "#079C9C"
+          ]
+        }
+      },
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#333463",
+            "#079C9C"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "X value",
+        "y": "Y value"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "legend.position": "none"
+        }
+      }
+    ],
+    "width": 650,
+    "height": 600
+  },
+  "has_js": false
+}

@@ -1,0 +1,1122 @@
+[
+    {
+        "patient": "TCGA-A7-A0CE",
+        "sample_type": "Tumor",
+        "BRCA1": 4.0549
+    },
+    {
+        "patient": "TCGA-A7-A0CE",
+        "sample_type": "Normal",
+        "BRCA1": 1.5758
+    },
+    {
+        "patient": "TCGA-A7-A0CH",
+        "sample_type": "Tumor",
+        "BRCA1": 2.3981
+    },
+    {
+        "patient": "TCGA-A7-A0CH",
+        "sample_type": "Normal",
+        "BRCA1": 1.1641
+    },
+    {
+        "patient": "TCGA-A7-A0D9",
+        "sample_type": "Normal",
+        "BRCA1": 1.6466
+    },
+    {
+        "patient": "TCGA-A7-A0D9",
+        "sample_type": "Tumor",
+        "BRCA1": 2.2144
+    },
+    {
+        "patient": "TCGA-A7-A0DB",
+        "sample_type": "Normal",
+        "BRCA1": 1.8564
+    },
+    {
+        "patient": "TCGA-A7-A0DB",
+        "sample_type": "Tumor",
+        "BRCA1": 1.5481130368
+    },
+    {
+        "patient": "TCGA-A7-A0DC",
+        "sample_type": "Normal",
+        "BRCA1": 1.7316
+    },
+    {
+        "patient": "TCGA-A7-A0DC",
+        "sample_type": "Tumor",
+        "BRCA1": 2.1191302723
+    },
+    {
+        "patient": "TCGA-A7-A13E",
+        "sample_type": "Normal",
+        "BRCA1": 1.5216
+    },
+    {
+        "patient": "TCGA-A7-A13E",
+        "sample_type": "Tumor",
+        "BRCA1": 2.3713881663
+    },
+    {
+        "patient": "TCGA-A7-A13F",
+        "sample_type": "Tumor",
+        "BRCA1": 4.6154
+    },
+    {
+        "patient": "TCGA-A7-A13F",
+        "sample_type": "Normal",
+        "BRCA1": 1.5902
+    },
+    {
+        "patient": "TCGA-A7-A13G",
+        "sample_type": "Tumor",
+        "BRCA1": 2.2579171186
+    },
+    {
+        "patient": "TCGA-A7-A13G",
+        "sample_type": "Normal",
+        "BRCA1": 1.2516
+    },
+    {
+        "patient": "TCGA-AC-A23H",
+        "sample_type": "Normal",
+        "BRCA1": 1.412
+    },
+    {
+        "patient": "TCGA-AC-A23H",
+        "sample_type": "Tumor",
+        "BRCA1": 2.7826
+    },
+    {
+        "patient": "TCGA-AC-A2FB",
+        "sample_type": "Tumor",
+        "BRCA1": 3.4739
+    },
+    {
+        "patient": "TCGA-AC-A2FB",
+        "sample_type": "Normal",
+        "BRCA1": 1.6695
+    },
+    {
+        "patient": "TCGA-AC-A2FF",
+        "sample_type": "Normal",
+        "BRCA1": 2.5036
+    },
+    {
+        "patient": "TCGA-AC-A2FF",
+        "sample_type": "Tumor",
+        "BRCA1": 2.3451
+    },
+    {
+        "patient": "TCGA-AC-A2FM",
+        "sample_type": "Normal",
+        "BRCA1": 0.058
+    },
+    {
+        "patient": "TCGA-AC-A2FM",
+        "sample_type": "Tumor",
+        "BRCA1": 3.5779
+    },
+    {
+        "patient": "TCGA-BH-A0AU",
+        "sample_type": "Tumor",
+        "BRCA1": 3.6669
+    },
+    {
+        "patient": "TCGA-BH-A0AU",
+        "sample_type": "Normal",
+        "BRCA1": 2.0111
+    },
+    {
+        "patient": "TCGA-BH-A0AZ",
+        "sample_type": "Tumor",
+        "BRCA1": 1.9786
+    },
+    {
+        "patient": "TCGA-BH-A0AZ",
+        "sample_type": "Normal",
+        "BRCA1": 2.004
+    },
+    {
+        "patient": "TCGA-BH-A0B3",
+        "sample_type": "Normal",
+        "BRCA1": 2.1345
+    },
+    {
+        "patient": "TCGA-BH-A0B3",
+        "sample_type": "Tumor",
+        "BRCA1": 2.6783
+    },
+    {
+        "patient": "TCGA-BH-A0B5",
+        "sample_type": "Tumor",
+        "BRCA1": 3.652
+    },
+    {
+        "patient": "TCGA-BH-A0B5",
+        "sample_type": "Normal",
+        "BRCA1": 0.2998
+    },
+    {
+        "patient": "TCGA-BH-A0B7",
+        "sample_type": "Tumor",
+        "BRCA1": 1.6093
+    },
+    {
+        "patient": "TCGA-BH-A0B7",
+        "sample_type": "Normal",
+        "BRCA1": 2.4857
+    },
+    {
+        "patient": "TCGA-BH-A0B8",
+        "sample_type": "Tumor",
+        "BRCA1": 2.9071
+    },
+    {
+        "patient": "TCGA-BH-A0B8",
+        "sample_type": "Normal",
+        "BRCA1": 1.0779
+    },
+    {
+        "patient": "TCGA-BH-A0BA",
+        "sample_type": "Tumor",
+        "BRCA1": 2.9747
+    },
+    {
+        "patient": "TCGA-BH-A0BA",
+        "sample_type": "Normal",
+        "BRCA1": 2.0535
+    },
+    {
+        "patient": "TCGA-BH-A0BC",
+        "sample_type": "Tumor",
+        "BRCA1": 1.5165
+    },
+    {
+        "patient": "TCGA-BH-A0BC",
+        "sample_type": "Normal",
+        "BRCA1": 1.3846
+    },
+    {
+        "patient": "TCGA-BH-A0BJ",
+        "sample_type": "Normal",
+        "BRCA1": 2.004
+    },
+    {
+        "patient": "TCGA-BH-A0BJ",
+        "sample_type": "Tumor",
+        "BRCA1": 2.0325
+    },
+    {
+        "patient": "TCGA-BH-A0BM",
+        "sample_type": "Tumor",
+        "BRCA1": 0.8647
+    },
+    {
+        "patient": "TCGA-BH-A0BM",
+        "sample_type": "Normal",
+        "BRCA1": 1.5115
+    },
+    {
+        "patient": "TCGA-BH-A0BQ",
+        "sample_type": "Normal",
+        "BRCA1": 2.4727
+    },
+    {
+        "patient": "TCGA-BH-A0BQ",
+        "sample_type": "Tumor",
+        "BRCA1": 2.5658
+    },
+    {
+        "patient": "TCGA-BH-A0BS",
+        "sample_type": "Normal",
+        "BRCA1": 1.7229
+    },
+    {
+        "patient": "TCGA-BH-A0BS",
+        "sample_type": "Tumor",
+        "BRCA1": 2.5756
+    },
+    {
+        "patient": "TCGA-BH-A0BT",
+        "sample_type": "Normal",
+        "BRCA1": 1.5998
+    },
+    {
+        "patient": "TCGA-BH-A0BT",
+        "sample_type": "Tumor",
+        "BRCA1": 1.5998
+    },
+    {
+        "patient": "TCGA-BH-A0BV",
+        "sample_type": "Normal",
+        "BRCA1": 1.9527
+    },
+    {
+        "patient": "TCGA-BH-A0BV",
+        "sample_type": "Tumor",
+        "BRCA1": 3.3105
+    },
+    {
+        "patient": "TCGA-BH-A0BW",
+        "sample_type": "Normal",
+        "BRCA1": 2.8661
+    },
+    {
+        "patient": "TCGA-BH-A0BW",
+        "sample_type": "Tumor",
+        "BRCA1": 3.9012
+    },
+    {
+        "patient": "TCGA-BH-A0BZ",
+        "sample_type": "Normal",
+        "BRCA1": 1.7995
+    },
+    {
+        "patient": "TCGA-BH-A0BZ",
+        "sample_type": "Tumor",
+        "BRCA1": 3.2127
+    },
+    {
+        "patient": "TCGA-BH-A0C0",
+        "sample_type": "Normal",
+        "BRCA1": 1.4441
+    },
+    {
+        "patient": "TCGA-BH-A0C0",
+        "sample_type": "Tumor",
+        "BRCA1": 0.8805
+    },
+    {
+        "patient": "TCGA-BH-A0C3",
+        "sample_type": "Tumor",
+        "BRCA1": 3.1011
+    },
+    {
+        "patient": "TCGA-BH-A0C3",
+        "sample_type": "Normal",
+        "BRCA1": 1.642
+    },
+    {
+        "patient": "TCGA-BH-A0DD",
+        "sample_type": "Tumor",
+        "BRCA1": 4.5964
+    },
+    {
+        "patient": "TCGA-BH-A0DD",
+        "sample_type": "Normal",
+        "BRCA1": 2.1147
+    },
+    {
+        "patient": "TCGA-BH-A0DG",
+        "sample_type": "Tumor",
+        "BRCA1": 1.5465
+    },
+    {
+        "patient": "TCGA-BH-A0DG",
+        "sample_type": "Normal",
+        "BRCA1": 2.0289
+    },
+    {
+        "patient": "TCGA-BH-A0DH",
+        "sample_type": "Tumor",
+        "BRCA1": 2.5213
+    },
+    {
+        "patient": "TCGA-BH-A0DH",
+        "sample_type": "Normal",
+        "BRCA1": 0.4125
+    },
+    {
+        "patient": "TCGA-BH-A0DK",
+        "sample_type": "Tumor",
+        "BRCA1": 1.2209
+    },
+    {
+        "patient": "TCGA-BH-A0DK",
+        "sample_type": "Normal",
+        "BRCA1": 2.3451
+    },
+    {
+        "patient": "TCGA-BH-A0DL",
+        "sample_type": "Tumor",
+        "BRCA1": 3.3264
+    },
+    {
+        "patient": "TCGA-BH-A0DL",
+        "sample_type": "Normal",
+        "BRCA1": 2.3164
+    },
+    {
+        "patient": "TCGA-BH-A0DO",
+        "sample_type": "Normal",
+        "BRCA1": 1.7617
+    },
+    {
+        "patient": "TCGA-BH-A0DO",
+        "sample_type": "Tumor",
+        "BRCA1": 2.0569
+    },
+    {
+        "patient": "TCGA-BH-A0DP",
+        "sample_type": "Normal",
+        "BRCA1": 1.6281
+    },
+    {
+        "patient": "TCGA-BH-A0DP",
+        "sample_type": "Tumor",
+        "BRCA1": 2.5561
+    },
+    {
+        "patient": "TCGA-BH-A0DQ",
+        "sample_type": "Tumor",
+        "BRCA1": 2.9784
+    },
+    {
+        "patient": "TCGA-BH-A0DQ",
+        "sample_type": "Normal",
+        "BRCA1": 1.9675
+    },
+    {
+        "patient": "TCGA-BH-A0DT",
+        "sample_type": "Tumor",
+        "BRCA1": 2.3251
+    },
+    {
+        "patient": "TCGA-BH-A0DT",
+        "sample_type": "Normal",
+        "BRCA1": 1.9302
+    },
+    {
+        "patient": "TCGA-BH-A0DV",
+        "sample_type": "Tumor",
+        "BRCA1": 1.6374
+    },
+    {
+        "patient": "TCGA-BH-A0DV",
+        "sample_type": "Normal",
+        "BRCA1": 1.8918
+    },
+    {
+        "patient": "TCGA-BH-A0DZ",
+        "sample_type": "Tumor",
+        "BRCA1": 1.5266
+    },
+    {
+        "patient": "TCGA-BH-A0DZ",
+        "sample_type": "Normal",
+        "BRCA1": 1.7185
+    },
+    {
+        "patient": "TCGA-BH-A0E0",
+        "sample_type": "Tumor",
+        "BRCA1": 1.8918
+    },
+    {
+        "patient": "TCGA-BH-A0E0",
+        "sample_type": "Normal",
+        "BRCA1": 0.8327
+    },
+    {
+        "patient": "TCGA-BH-A0E1",
+        "sample_type": "Tumor",
+        "BRCA1": 3.5584
+    },
+    {
+        "patient": "TCGA-BH-A0E1",
+        "sample_type": "Normal",
+        "BRCA1": 1.0503
+    },
+    {
+        "patient": "TCGA-BH-A0H5",
+        "sample_type": "Tumor",
+        "BRCA1": 2.1702
+    },
+    {
+        "patient": "TCGA-BH-A0H5",
+        "sample_type": "Normal",
+        "BRCA1": 1.9264
+    },
+    {
+        "patient": "TCGA-BH-A0H7",
+        "sample_type": "Tumor",
+        "BRCA1": 2.3019
+    },
+    {
+        "patient": "TCGA-BH-A0H7",
+        "sample_type": "Normal",
+        "BRCA1": 1.9895
+    },
+    {
+        "patient": "TCGA-BH-A0H9",
+        "sample_type": "Normal",
+        "BRCA1": 0.6699
+    },
+    {
+        "patient": "TCGA-BH-A0H9",
+        "sample_type": "Tumor",
+        "BRCA1": 3.0323
+    },
+    {
+        "patient": "TCGA-BH-A0HA",
+        "sample_type": "Tumor",
+        "BRCA1": 1.3567
+    },
+    {
+        "patient": "TCGA-BH-A0HA",
+        "sample_type": "Normal",
+        "BRCA1": 2.2543
+    },
+    {
+        "patient": "TCGA-BH-A0HK",
+        "sample_type": "Tumor",
+        "BRCA1": 1.3454
+    },
+    {
+        "patient": "TCGA-BH-A0HK",
+        "sample_type": "Normal",
+        "BRCA1": 1.766
+    },
+    {
+        "patient": "TCGA-BH-A18J",
+        "sample_type": "Normal",
+        "BRCA1": 2.2299
+    },
+    {
+        "patient": "TCGA-BH-A18J",
+        "sample_type": "Tumor",
+        "BRCA1": 1.9675
+    },
+    {
+        "patient": "TCGA-BH-A18K",
+        "sample_type": "Tumor",
+        "BRCA1": 2.2452
+    },
+    {
+        "patient": "TCGA-BH-A18K",
+        "sample_type": "Normal",
+        "BRCA1": 1.816
+    },
+    {
+        "patient": "TCGA-BH-A18L",
+        "sample_type": "Tumor",
+        "BRCA1": 4.327
+    },
+    {
+        "patient": "TCGA-BH-A18L",
+        "sample_type": "Normal",
+        "BRCA1": 1.4911
+    },
+    {
+        "patient": "TCGA-BH-A18M",
+        "sample_type": "Tumor",
+        "BRCA1": 3.0876
+    },
+    {
+        "patient": "TCGA-BH-A18M",
+        "sample_type": "Normal",
+        "BRCA1": 2.0673
+    },
+    {
+        "patient": "TCGA-BH-A18N",
+        "sample_type": "Normal",
+        "BRCA1": 1.8484
+    },
+    {
+        "patient": "TCGA-BH-A18N",
+        "sample_type": "Tumor",
+        "BRCA1": 3.1327
+    },
+    {
+        "patient": "TCGA-BH-A18P",
+        "sample_type": "Tumor",
+        "BRCA1": 3.2766
+    },
+    {
+        "patient": "TCGA-BH-A18P",
+        "sample_type": "Normal",
+        "BRCA1": 0.6145
+    },
+    {
+        "patient": "TCGA-BH-A18Q",
+        "sample_type": "Normal",
+        "BRCA1": 1.9638
+    },
+    {
+        "patient": "TCGA-BH-A18Q",
+        "sample_type": "Tumor",
+        "BRCA1": 2.8361
+    },
+    {
+        "patient": "TCGA-BH-A18R",
+        "sample_type": "Tumor",
+        "BRCA1": 2.8361
+    },
+    {
+        "patient": "TCGA-BH-A18R",
+        "sample_type": "Normal",
+        "BRCA1": 1.6187
+    },
+    {
+        "patient": "TCGA-BH-A18S",
+        "sample_type": "Normal",
+        "BRCA1": 1.1316
+    },
+    {
+        "patient": "TCGA-BH-A18S",
+        "sample_type": "Tumor",
+        "BRCA1": 2.8055
+    },
+    {
+        "patient": "TCGA-BH-A18U",
+        "sample_type": "Tumor",
+        "BRCA1": 4.5167
+    },
+    {
+        "patient": "TCGA-BH-A18U",
+        "sample_type": "Normal",
+        "BRCA1": 1.9149
+    },
+    {
+        "patient": "TCGA-BH-A18V",
+        "sample_type": "Tumor",
+        "BRCA1": 4.3119
+    },
+    {
+        "patient": "TCGA-BH-A18V",
+        "sample_type": "Normal",
+        "BRCA1": 0.3907
+    },
+    {
+        "patient": "TCGA-BH-A1EN",
+        "sample_type": "Normal",
+        "BRCA1": 0.9191
+    },
+    {
+        "patient": "TCGA-BH-A1EN",
+        "sample_type": "Tumor",
+        "BRCA1": 1.9859
+    },
+    {
+        "patient": "TCGA-BH-A1EO",
+        "sample_type": "Normal",
+        "BRCA1": 1.2147
+    },
+    {
+        "patient": "TCGA-BH-A1EO",
+        "sample_type": "Tumor",
+        "BRCA1": 2.8402
+    },
+    {
+        "patient": "TCGA-BH-A1ET",
+        "sample_type": "Normal",
+        "BRCA1": 1.3397
+    },
+    {
+        "patient": "TCGA-BH-A1ET",
+        "sample_type": "Tumor",
+        "BRCA1": 2.4117
+    },
+    {
+        "patient": "TCGA-BH-A1EU",
+        "sample_type": "Tumor",
+        "BRCA1": 2.2901
+    },
+    {
+        "patient": "TCGA-BH-A1EU",
+        "sample_type": "Normal",
+        "BRCA1": 1.4859
+    },
+    {
+        "patient": "TCGA-BH-A1EV",
+        "sample_type": "Normal",
+        "BRCA1": 2.5828
+    },
+    {
+        "patient": "TCGA-BH-A1EV",
+        "sample_type": "Tumor",
+        "BRCA1": 3.3321
+    },
+    {
+        "patient": "TCGA-BH-A1EW",
+        "sample_type": "Tumor",
+        "BRCA1": 3.7539
+    },
+    {
+        "patient": "TCGA-BH-A1EW",
+        "sample_type": "Normal",
+        "BRCA1": 2.8137
+    },
+    {
+        "patient": "TCGA-BH-A1F0",
+        "sample_type": "Tumor",
+        "BRCA1": 3.7475
+    },
+    {
+        "patient": "TCGA-BH-A1F0",
+        "sample_type": "Normal",
+        "BRCA1": 1.0915
+    },
+    {
+        "patient": "TCGA-BH-A1F2",
+        "sample_type": "Normal",
+        "BRCA1": 1.5165
+    },
+    {
+        "patient": "TCGA-BH-A1F2",
+        "sample_type": "Tumor",
+        "BRCA1": 2.6828
+    },
+    {
+        "patient": "TCGA-BH-A1F6",
+        "sample_type": "Tumor",
+        "BRCA1": 2.4171
+    },
+    {
+        "patient": "TCGA-BH-A1F6",
+        "sample_type": "Normal",
+        "BRCA1": 1.4704
+    },
+    {
+        "patient": "TCGA-BH-A1F8",
+        "sample_type": "Tumor",
+        "BRCA1": 3.7039
+    },
+    {
+        "patient": "TCGA-BH-A1F8",
+        "sample_type": "Normal",
+        "BRCA1": 1.9786
+    },
+    {
+        "patient": "TCGA-BH-A1FB",
+        "sample_type": "Tumor",
+        "BRCA1": 2.2543
+    },
+    {
+        "patient": "TCGA-BH-A1FB",
+        "sample_type": "Normal",
+        "BRCA1": 1.7185
+    },
+    {
+        "patient": "TCGA-BH-A1FC",
+        "sample_type": "Tumor",
+        "BRCA1": 3.2602
+    },
+    {
+        "patient": "TCGA-BH-A1FC",
+        "sample_type": "Normal",
+        "BRCA1": 1.2085
+    },
+    {
+        "patient": "TCGA-BH-A1FD",
+        "sample_type": "Tumor",
+        "BRCA1": 2.6487
+    },
+    {
+        "patient": "TCGA-BH-A1FD",
+        "sample_type": "Normal",
+        "BRCA1": 0.7321
+    },
+    {
+        "patient": "TCGA-BH-A1FE",
+        "sample_type": "Normal",
+        "BRCA1": 2.4649
+    },
+    {
+        "patient": "TCGA-BH-A1FE",
+        "sample_type": "Tumor",
+        "BRCA1": 4.0662
+    },
+    {
+        "patient": "TCGA-BH-A1FG",
+        "sample_type": "Tumor",
+        "BRCA1": 1.816
+    },
+    {
+        "patient": "TCGA-BH-A1FG",
+        "sample_type": "Normal",
+        "BRCA1": 0.4552
+    },
+    {
+        "patient": "TCGA-BH-A1FH",
+        "sample_type": "Tumor",
+        "BRCA1": 1.3956
+    },
+    {
+        "patient": "TCGA-BH-A1FH",
+        "sample_type": "Normal",
+        "BRCA1": 1.2875
+    },
+    {
+        "patient": "TCGA-BH-A1FJ",
+        "sample_type": "Normal",
+        "BRCA1": 1.196
+    },
+    {
+        "patient": "TCGA-BH-A1FJ",
+        "sample_type": "Tumor",
+        "BRCA1": 4.5964
+    },
+    {
+        "patient": "TCGA-BH-A1FM",
+        "sample_type": "Tumor",
+        "BRCA1": 2.4063
+    },
+    {
+        "patient": "TCGA-BH-A1FM",
+        "sample_type": "Normal",
+        "BRCA1": 2.0569
+    },
+    {
+        "patient": "TCGA-BH-A1FN",
+        "sample_type": "Normal",
+        "BRCA1": 1.7185
+    },
+    {
+        "patient": "TCGA-BH-A1FN",
+        "sample_type": "Tumor",
+        "BRCA1": 3.4048
+    },
+    {
+        "patient": "TCGA-BH-A1FR",
+        "sample_type": "Tumor",
+        "BRCA1": 3.0446
+    },
+    {
+        "patient": "TCGA-BH-A1FR",
+        "sample_type": "Normal",
+        "BRCA1": 1.642
+    },
+    {
+        "patient": "TCGA-BH-A1FU",
+        "sample_type": "Normal",
+        "BRCA1": 1.9149
+    },
+    {
+        "patient": "TCGA-BH-A1FU",
+        "sample_type": "Tumor",
+        "BRCA1": 2.0147
+    },
+    {
+        "patient": "TCGA-BH-A203",
+        "sample_type": "Tumor",
+        "BRCA1": 2.1894
+    },
+    {
+        "patient": "TCGA-BH-A203",
+        "sample_type": "Normal",
+        "BRCA1": 1.9302
+    },
+    {
+        "patient": "TCGA-BH-A204",
+        "sample_type": "Tumor",
+        "BRCA1": 4.588
+    },
+    {
+        "patient": "TCGA-BH-A204",
+        "sample_type": "Normal",
+        "BRCA1": 0.7664
+    },
+    {
+        "patient": "TCGA-BH-A208",
+        "sample_type": "Normal",
+        "BRCA1": 1.595
+    },
+    {
+        "patient": "TCGA-BH-A208",
+        "sample_type": "Tumor",
+        "BRCA1": 0.3907
+    },
+    {
+        "patient": "TCGA-BH-A209",
+        "sample_type": "Tumor",
+        "BRCA1": 2.7292
+    },
+    {
+        "patient": "TCGA-BH-A209",
+        "sample_type": "Normal",
+        "BRCA1": 1.46
+    },
+    {
+        "patient": "TCGA-E2-A153",
+        "sample_type": "Tumor",
+        "BRCA1": 1.9675
+    },
+    {
+        "patient": "TCGA-E2-A153",
+        "sample_type": "Normal",
+        "BRCA1": 1.8323
+    },
+    {
+        "patient": "TCGA-E2-A158",
+        "sample_type": "Normal",
+        "BRCA1": 0.4016
+    },
+    {
+        "patient": "TCGA-E2-A158",
+        "sample_type": "Tumor",
+        "BRCA1": 0.3796
+    },
+    {
+        "patient": "TCGA-E2-A15I",
+        "sample_type": "Tumor",
+        "BRCA1": 2.6693
+    },
+    {
+        "patient": "TCGA-E2-A15I",
+        "sample_type": "Normal",
+        "BRCA1": 1.2085
+    },
+    {
+        "patient": "TCGA-E2-A15K",
+        "sample_type": "Normal",
+        "BRCA1": 0.2881
+    },
+    {
+        "patient": "TCGA-E2-A15K",
+        "sample_type": "Tumor",
+        "BRCA1": 3.8759
+    },
+    {
+        "patient": "TCGA-E2-A15M",
+        "sample_type": "Tumor",
+        "BRCA1": 2.7161
+    },
+    {
+        "patient": "TCGA-E2-A15M",
+        "sample_type": "Normal",
+        "BRCA1": 1.1897
+    },
+    {
+        "patient": "TCGA-E2-A1BC",
+        "sample_type": "Normal",
+        "BRCA1": -0.0877
+    },
+    {
+        "patient": "TCGA-E2-A1BC",
+        "sample_type": "Tumor",
+        "BRCA1": 1.6374
+    },
+    {
+        "patient": "TCGA-E2-A1IG",
+        "sample_type": "Normal",
+        "BRCA1": 1.7912
+    },
+    {
+        "patient": "TCGA-E2-A1IG",
+        "sample_type": "Tumor",
+        "BRCA1": 3.6254
+    },
+    {
+        "patient": "TCGA-E2-A1L7",
+        "sample_type": "Normal",
+        "BRCA1": 2.3871
+    },
+    {
+        "patient": "TCGA-E2-A1L7",
+        "sample_type": "Tumor",
+        "BRCA1": 1.7316
+    },
+    {
+        "patient": "TCGA-E2-A1LB",
+        "sample_type": "Normal",
+        "BRCA1": 1.9601
+    },
+    {
+        "patient": "TCGA-E2-A1LB",
+        "sample_type": "Tumor",
+        "BRCA1": 1.7954
+    },
+    {
+        "patient": "TCGA-E2-A1LH",
+        "sample_type": "Tumor",
+        "BRCA1": 1.1316
+    },
+    {
+        "patient": "TCGA-E2-A1LH",
+        "sample_type": "Normal",
+        "BRCA1": 1.7446
+    },
+    {
+        "patient": "TCGA-E2-A1LS",
+        "sample_type": "Tumor",
+        "BRCA1": -0.4325
+    },
+    {
+        "patient": "TCGA-E2-A1LS",
+        "sample_type": "Normal",
+        "BRCA1": 1.1184
+    },
+    {
+        "patient": "TCGA-E9-A1N4",
+        "sample_type": "Tumor",
+        "BRCA1": 2.9356
+    },
+    {
+        "patient": "TCGA-E9-A1N4",
+        "sample_type": "Normal",
+        "BRCA1": 2.1509
+    },
+    {
+        "patient": "TCGA-E9-A1N5",
+        "sample_type": "Normal",
+        "BRCA1": 3.0074
+    },
+    {
+        "patient": "TCGA-E9-A1N5",
+        "sample_type": "Tumor",
+        "BRCA1": 2.9765
+    },
+    {
+        "patient": "TCGA-E9-A1N6",
+        "sample_type": "Tumor",
+        "BRCA1": 2.7594
+    },
+    {
+        "patient": "TCGA-E9-A1N6",
+        "sample_type": "Normal",
+        "BRCA1": 2.1638
+    },
+    {
+        "patient": "TCGA-E9-A1N9",
+        "sample_type": "Tumor",
+        "BRCA1": 3.4371
+    },
+    {
+        "patient": "TCGA-E9-A1N9",
+        "sample_type": "Normal",
+        "BRCA1": 2.3164
+    },
+    {
+        "patient": "TCGA-E9-A1NA",
+        "sample_type": "Normal",
+        "BRCA1": 1.8444
+    },
+    {
+        "patient": "TCGA-E9-A1NA",
+        "sample_type": "Tumor",
+        "BRCA1": 1.5316
+    },
+    {
+        "patient": "TCGA-E9-A1ND",
+        "sample_type": "Tumor",
+        "BRCA1": 2.5363
+    },
+    {
+        "patient": "TCGA-E9-A1ND",
+        "sample_type": "Normal",
+        "BRCA1": 1.334
+    },
+    {
+        "patient": "TCGA-E9-A1NF",
+        "sample_type": "Tumor",
+        "BRCA1": 1.334
+    },
+    {
+        "patient": "TCGA-E9-A1NF",
+        "sample_type": "Normal",
+        "BRCA1": 2.0395
+    },
+    {
+        "patient": "TCGA-E9-A1NG",
+        "sample_type": "Tumor",
+        "BRCA1": 2.6067
+    },
+    {
+        "patient": "TCGA-E9-A1NG",
+        "sample_type": "Normal",
+        "BRCA1": 1.683
+    },
+    {
+        "patient": "TCGA-E9-A1R7",
+        "sample_type": "Tumor",
+        "BRCA1": 3.866
+    },
+    {
+        "patient": "TCGA-E9-A1R7",
+        "sample_type": "Normal",
+        "BRCA1": 1.7053
+    },
+    {
+        "patient": "TCGA-E9-A1RB",
+        "sample_type": "Tumor",
+        "BRCA1": 3.7138
+    },
+    {
+        "patient": "TCGA-E9-A1RB",
+        "sample_type": "Normal",
+        "BRCA1": 2.0707
+    },
+    {
+        "patient": "TCGA-E9-A1RC",
+        "sample_type": "Tumor",
+        "BRCA1": 3.6172
+    },
+    {
+        "patient": "TCGA-E9-A1RC",
+        "sample_type": "Normal",
+        "BRCA1": 1.3454
+    },
+    {
+        "patient": "TCGA-E9-A1RD",
+        "sample_type": "Tumor",
+        "BRCA1": 2.8955
+    },
+    {
+        "patient": "TCGA-E9-A1RD",
+        "sample_type": "Normal",
+        "BRCA1": 1.5854
+    },
+    {
+        "patient": "TCGA-E9-A1RF",
+        "sample_type": "Tumor",
+        "BRCA1": 1.2815
+    },
+    {
+        "patient": "TCGA-E9-A1RF",
+        "sample_type": "Normal",
+        "BRCA1": 1.7575
+    },
+    {
+        "patient": "TCGA-E9-A1RH",
+        "sample_type": "Tumor",
+        "BRCA1": 3.6006
+    },
+    {
+        "patient": "TCGA-E9-A1RH",
+        "sample_type": "Normal",
+        "BRCA1": 1.125
+    },
+    {
+        "patient": "TCGA-E9-A1RI",
+        "sample_type": "Normal",
+        "BRCA1": 1.8484
+    },
+    {
+        "patient": "TCGA-E9-A1RI",
+        "sample_type": "Tumor",
+        "BRCA1": 3.2112
+    },
+    {
+        "patient": "TCGA-GI-A2C8",
+        "sample_type": "Tumor",
+        "BRCA1": 0.3115
+    },
+    {
+        "patient": "TCGA-GI-A2C8",
+        "sample_type": "Normal",
+        "BRCA1": 0.7058
+    },
+    {
+        "patient": "TCGA-GI-A2C9",
+        "sample_type": "Normal",
+        "BRCA1": 1.3846
+    },
+    {
+        "patient": "TCGA-GI-A2C9",
+        "sample_type": "Tumor",
+        "BRCA1": -0.8599
+    }
+]

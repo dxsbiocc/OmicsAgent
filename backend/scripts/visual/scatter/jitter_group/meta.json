@@ -1,0 +1,235 @@
+{
+    "name": "分组抖动散点图",
+    "description": "分组抖动散点图用于展示分组数据的分布",
+    "ggplot2": {
+        "mapping": {
+            "x": "cate",
+            "y": "logFC",
+            "colour": "sign"
+        },
+        "layers": [
+            {
+                "type": "geom_round_col",
+                "mapping": {
+                    "x": "cate",
+                    "y": "hight"
+                },
+                "arguments": {
+                    "fill": "#ebf3f5ff",
+                    "alpha": 0.6,
+                    "width": 0.8,
+                    "inherit.aes": false,
+                    "show.legend": false
+                }
+            },
+            {
+                "type": "geom_point",
+                "mapping": {
+                    "fill": "factor(sign)",
+                    "group": "cate"
+                },
+                "arguments": {
+                    "position": {
+                        "type": "position_jitter",
+                        "arguments": {
+                            "width": 0.4,
+                            "height": 0,
+                            "seed": 1234
+                        }
+                    },
+                    "colour": "#8a8b8c",
+                    "shape": 21,
+                    "stroke": 0
+                }
+            },
+            {
+                "type": "geom_round_tile",
+                "mapping": {
+                    "y": 0,
+                    "fill": "cate"
+                },
+                "arguments": {
+                    "height": 1.4,
+                    "colour": "black",
+                    "alpha": 0.6,
+                    "width": 0.8,
+                    "show.legend": false
+                }
+            },
+            {
+                "type": "geom_text",
+                "mapping": {
+                    "x": "cate",
+                    "y": 0,
+                    "label": "cate",
+                    "colour": "cate"
+                },
+                "arguments": {
+                    "size": [
+                        3.5
+                    ],
+                    "show.legend": false,
+                    "inherit.aes": false
+                }
+            },
+            {
+                "type": "geom_text_repel",
+                "mapping": {
+                    "x": "cate",
+                    "y": "logFC",
+                    "label": "symbol"
+                },
+                "arguments": {
+                    "top": "logFC",
+                    "top.k": 5,
+                    "force": 2,
+                    "size": 3,
+                    "arrow": {
+                        "type": "arrow",
+                        "arguments": {
+                            "length": {
+                                "type": "unit",
+                                "arguments": {
+                                    "x": 0.008,
+                                    "units": "npc"
+                                }
+                            },
+                            "type": "open",
+                            "ends": "last"
+                        }
+                    },
+                    "inherit.aes": false
+                }
+            }
+        ],
+        "scales": [
+            {
+                "type": "scale_fill_manual",
+                "arguments": {
+                    "name": "Change",
+                    "values": [
+                        "#2dde98",
+                        "#ff6c5f"
+                    ],
+                    "labels": [
+                        "Down",
+                        "Up"
+                    ],
+                    "drop": false,
+                    "guide": {
+                        "type": "guide_legend",
+                        "arguments": {
+                            "override.aes": {
+                                "type": "list",
+                                "arguments": {
+                                    "size": 4
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "type": "new_scale_fill",
+                "layer": 2
+            },
+            {
+                "type": "scale_fill_manual",
+                "arguments": {
+                    "values": [
+                        "#3be8b0",
+                        "#1aafd0",
+                        "#6a67ce",
+                        "#ffb900",
+                        "#fc636b"
+                    ]
+                }
+            },
+            {
+                "type": "scale_color_manual",
+                "arguments": {
+                    "values": [
+                        "#595d7a",
+                        "#595d7a",
+                        "#c5c5c5",
+                        "#595d7a",
+                        "#595d7aff"
+                    ]
+                }
+            },
+            {
+                "type": "scale_size_binned",
+                "arguments": {
+                    "range": [
+                        1,
+                        4
+                    ]
+                }
+            }
+        ],
+        "labs": {
+            "type": "labs",
+            "arguments": {
+                "title": "Yap1 Overexpression and Knockout",
+                "x": "",
+                "y": "log2FC"
+            }
+        },
+        "themes": [
+            {
+                "type": "theme_prism"
+            },
+            {
+                "type": "theme",
+                "arguments": {
+                    "plot.background": {
+                        "type": "element_blank"
+                    },
+                    "legend.title": {
+                        "type": "element_text",
+                        "arguments": {
+                            "size": 12,
+                            "face": "bold"
+                        }
+                    },
+                    "legend.text": {
+                        "type": "element_text",
+                        "arguments": {
+                            "size": 12
+                        }
+                    },
+                    "axis.title": {
+                        "type": "element_text",
+                        "arguments": {
+                            "size": 13,
+                            "colour": "black",
+                            "face": "bold"
+                        }
+                    },
+                    "axis.line.y": {
+                        "type": "element_line",
+                        "arguments": {
+                            "colour": "black",
+                            "linewidth": 1
+                        }
+                    },
+                    "axis.line.x": {
+                        "type": "element_blank"
+                    },
+                    "axis.text.x": {
+                        "type": "element_blank"
+                    },
+                    "axis.ticks.x": {
+                        "type": "element_blank"
+                    },
+                    "panel.grid": {
+                        "type": "element_blank"
+                    }
+                }
+            }
+        ],
+        "width": 800,
+        "height": 600
+    },
+    "has_js": false
+}

@@ -22,10 +22,9 @@ class VisualTool(Base):
     id = Column(Integer, primary_key=True, index=True)
     tool = Column(
         String(100), unique=True, nullable=False, index=True
-    )  # 工具名称，如 'scatter'
+    )  # 工具名称，如 'line/basic' 或 'pie/doughnut'
     name = Column(String(255), nullable=False, index=True)  # 显示名称
     description = Column(Text, nullable=True)  # 工具描述
-    category_id = Column(Integer, ForeignKey("categories.id"), nullable=True)
     author_id = Column(Integer, ForeignKey("users.id"), nullable=True)
 
     # 状态和统计
@@ -54,7 +53,6 @@ class VisualTool(Base):
 
     # 关系
     author = relationship("User", back_populates="visual_tools")
-    category = relationship("Category", back_populates="visual_tools")
     tags = relationship(
         "Tag", secondary="visual_tool_tags", back_populates="visual_tools"
     )
@@ -70,6 +68,24 @@ class VisualTool(Base):
 
     def __repr__(self):
         return f"<VisualTool(id={self.id}, tool='{self.tool}', name='{self.name}')>"
+
+    @property
+    def category(self) -> str:
+        """动态获取工具分类，基于工具名称"""
+        if not self.tool:
+            return ""
+        if "/" in self.tool:
+            return self.tool.split("/")[0]
+        return self.tool
+
+    @property
+    def tool_name(self) -> str:
+        """获取工具名称（不包含分类）"""
+        if not self.tool:
+            return ""
+        if "/" in self.tool:
+            return self.tool.split("/")[1]
+        return self.tool
 
 
 class VisualToolTag(Base):

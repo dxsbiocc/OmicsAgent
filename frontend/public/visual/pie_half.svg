@@ -1,0 +1,71 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<polyline points="234 333.5 221 326 191 326" fill="none" stroke="#d7689d" class="zr1-cls-0"></polyline>
+<polyline points="391.6 225 389.2 210.2 359.2 210.2" fill="none" stroke="#f3d337" class="zr1-cls-0"></polyline>
+<polyline points="532.8 249.3 540 236.1 570 236.1" fill="none" stroke="#a0c443" class="zr1-cls-0"></polyline>
+<polyline points="617 330 629.9 322.3 659.9 322.3" fill="none" stroke="#66b5ae" class="zr1-cls-0"></polyline>
+<polyline points="646.3 411.3 661.1 409.1 691.1 409.1" fill="none" stroke="#5da4dc" class="zr1-cls-0"></polyline>
+<path d="M204.4615 434.8056A222.25 222.25 0 0 1 306.8981 257.1756L358.1561 337.4575A127 127 0 0 0 299.6209 438.9603Z" fill="rgb(215,104,157)" class="zr1-cls-1"></path>
+<path d="M323.6796 247.4644A222.25 222.25 0 0 1 463.1162 225.287L447.4235 319.2355A127 127 0 0 0 367.7455 331.9082Z" fill="rgb(243,211,55)" class="zr1-cls-2"></path>
+<path d="M482.0825 229.3125A222.25 222.25 0 0 1 577.0992 281.0529L512.5567 351.1017A127 127 0 0 0 458.2614 321.5357Z" fill="rgb(160,196,67)" class="zr1-cls-3"></path>
+<path d="M590.7715 294.8005A222.25 222.25 0 0 1 635.7951 369.7296L546.0972 401.7741A127 127 0 0 0 520.3694 358.9574Z" fill="rgb(102,181,174)" class="zr1-cls-4"></path>
+<path d="M641.5154 388.2554A222.25 222.25 0 0 1 648.5385 434.8056L553.3791 438.9603A127 127 0 0 0 549.3659 412.3602Z" fill="rgb(93,164,220)" class="zr1-cls-5"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(185.9763 325.9776)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Search Engine</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(354.2339 210.1951)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Direct</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(574.9608 236.1392)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Email</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(664.8609 322.3038)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Union Ads</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(696.0951 409.1063)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Video Ads</text>
+<path d="M-5 -5l449.8557 0l0 24l-449.8557 0Z" transform="translate(206.5722 68.5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-6"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(206.5722 68.5)" fill="#d7689d" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(206.5722 68.5)" fill="#54555a">Search Engine</text>
+<path d="M0 0l110.4479 0l0 14l-110.4479 0Z" transform="translate(206.5722 68.5)" fill="none" class="zr1-cls-7"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(325.0201 68.5)" fill="#f3d337" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(325.0201 68.5)" fill="#54555a">Direct</text>
+<path d="M0 0l63.4079 0l0 14l-63.4079 0Z" transform="translate(325.0201 68.5)" fill="none" class="zr1-cls-7"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(396.428 68.5)" fill="#a0c443" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(396.428 68.5)" fill="#54555a">Email</text>
+<path d="M0 0l60.504 0l0 14l-60.504 0Z" transform="translate(396.428 68.5)" fill="none" class="zr1-cls-7"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(464.932 68.5)" fill="#66b5ae" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(464.932 68.5)" fill="#54555a">Union Ads</text>
+<path d="M0 0l87.0599 0l0 14l-87.0599 0Z" transform="translate(464.932 68.5)" fill="none" class="zr1-cls-7"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(559.9919 68.5)" fill="#5da4dc" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(559.9919 68.5)" fill="#54555a">Video Ads</text>
+<path d="M0 0l86.4359 0l0 14l-86.4359 0Z" transform="translate(559.9919 68.5)" fill="none" class="zr1-cls-7"></path>
+<path d="M-65.4799 -5l130.9599 0l0 28l-130.9599 0Z" transform="translate(426.5 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(426.5 20)" fill="#3c3c41">Half Pie Chart</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+cursor:pointer;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(236,114,172,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(255,232,60,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(176,215,73,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(112,199,191,1);
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(102,180,242,1);
+}
+.zr1-cls-6:hover {
+pointer-events:none;
+}
+.zr1-cls-7:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

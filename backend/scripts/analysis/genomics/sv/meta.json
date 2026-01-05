@@ -1,0 +1,6 @@
+{
+    "name": "结构变异分析",
+    "description": "检测和分析结构变异（SV），包括缺失、插入、倒位、易位等大片段变异。",
+    "type": "analysis",
+    "category": "genomics"
+}

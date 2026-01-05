@@ -1,0 +1,173 @@
+{
+  "name": "背景色差异箱线图",
+  "description": "带有分组背景色的差异箱线图",
+  "ggplot2": {
+    "mapping": {
+      "x": "gene",
+      "y": "exprs",
+      "colour": "group"
+    },
+    "layers": [
+      {
+        "type": "geom_round_boxplot",
+        "arguments": {
+          "outliers": false,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_rect",
+        "mapping": {
+          "xmin": "xmin",
+          "xmax": "xmax",
+          "ymin": "ymin",
+          "ymax": "ymax",
+          "fill": "gene"
+        },
+        "arguments": {
+          "linetype": "dashed",
+          "colour": "#caccd1",
+          "alpha": 0.2,
+          "show.legend": false,
+          "inherit.aes": false
+        }
+      },
+      {
+        "type": "geom_round_boxplot"
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "position": {
+            "type": "position_jitterdodge",
+            "arguments": {
+              "jitter.width": 0.15,
+              "dodge.width": 0.7
+            }
+          },
+          "size": 1,
+          "alpha": 0.6
+        }
+      },
+      {
+        "type": "stat_compare_means",
+        "mapping": {
+          "group": "group"
+        },
+        "arguments": {
+          "label": "p.signif",
+          "hide.ns": true,
+          "show.legend": false
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": "Gene expression level"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#8F499C",
+            "#4185BE",
+            "#6DC067",
+            "#F6DB35",
+            "#F78822"
+          ]
+        }
+      },
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#8F499C",
+            "#4185BE",
+            "#6DC067",
+            "#F6DB35",
+            "#F78822"
+          ]
+        }
+      },
+      {
+        "type": "scale_y_continuous",
+        "arguments": {
+          "expand": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "type": "scale_x_discrete",
+        "arguments": {
+          "expand": [
+            0,
+            0
+          ]
+        }
+      }
+    ],
+    "guides": {
+      "x": {
+        "type": "guide_prism_bracket"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.text": {
+            "type": "element_text",
+            "arguments": {
+              "face": "bold",
+              "size": 8
+            }
+          },
+          "axis.title.y": {
+            "type": "element_text",
+            "arguments": {
+              "size": 10,
+              "face": "bold"
+            }
+          },
+          "strip.text": {
+            "type": "element_text",
+            "arguments": {
+              "face": "bold"
+            }
+          },
+          "strip.background": {
+            "type": "element_rect",
+            "arguments": {
+              "fill": "#6dc067"
+            }
+          },
+          "panel.grid": {
+            "type": "element_blank",
+            "arguments": {}
+          },
+          "panel.background": {
+            "type": "element_blank",
+            "arguments": {}
+          }
+        }
+      }
+    ],
+    "width": 600,
+    "height": 500
+  },
+  "has_js": false,
+  "has_r": true
+}

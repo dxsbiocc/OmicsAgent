@@ -1,0 +1,83 @@
+{
+  "name": "linkET 版热图",
+  "description": "使用不同的形状来展示变量在不同分组中相关性的分布情况",
+  "ggplot2": {
+    "mapping": {},
+    "layers": [
+      {
+        "type": "geom_shaping",
+        "arguments": {
+          "marker": {
+            "type": "marker",
+            "arguments": {
+              "x": "star"
+            }
+          }
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_gradientn",
+        "arguments": {
+          "name": "Correlation",
+          "colours": [
+            "#acd372",
+            "#ffffffff",
+            "#ed6ca4"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.text": {
+            "type": "element_text",
+            "arguments": {
+              "face": "bold",
+              "size": 8
+            }
+          },
+          "axis.title": {
+            "type": "element_blank"
+          },
+          "legend.position": "right",
+          "panel.background": {
+            "type": "element_blank",
+            "arguments": {}
+          },
+          "legend.background": {
+            "type": "element_blank",
+            "arguments": {}
+          }
+        }
+      }
+    ],
+    "correlate": {
+      "method": "pearson",
+      "engine": "default"
+    },
+    "qcorrplot": {
+      "arguments": {
+        "type": "lower"
+      }
+    },
+    "width": 600,
+    "height": 500
+  },
+  "has_js": false,
+  "has_r": true
+}

@@ -1,0 +1,106 @@
+{
+  "name": "华夫饼图",
+  "description": "华夫图是一种正方形图表，它可以直观地显示特定类别的百分比情况。",
+  "ggplot2": {
+    "mapping": {
+      "fill": "Symbol"
+    },
+    "layers": [
+      {
+        "type": "geom_waffle",
+        "mapping": {
+          "values": "Count"
+        },
+        "arguments": {
+          "n_rows": 3,
+          "color": "white",
+          "flip": true,
+          "na.rm": true
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "name": "Genes",
+          "values": [
+            "#009392",
+            "#39b185",
+            "#9ccb86",
+            "#e9e29c",
+            "#eeb479",
+            "#e88471",
+            "#cf597e"
+          ]
+        }
+      },
+      {
+        "type": "scale_x_discrete",
+        "arguments": {}
+      }
+    ],
+    "facets": {
+      "type": "facet_grid",
+      "arguments": {
+        "rows": "Gender ~ Cancer_type",
+        "switch": "both"
+      }
+    },
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Gene mutaion in Pancancer",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "hjust": 0.5,
+              "face": "bold"
+            }
+          },
+          "axis.title.y": {
+            "type": "element_blank"
+          },
+          "axis.text.y": {
+            "type": "element_blank"
+          },
+          "axis.ticks": {
+            "type": "element_blank"
+          },
+          "strip.background.x": {
+            "type": "element_blank",
+            "arguments": {}
+          },
+          "strip.background.y": {
+            "type": "element_rect",
+            "arguments": {
+              "fill": "#ffc6c4"
+            }
+          },
+          "panel.background": {
+            "type": "element_blank",
+            "arguments": {}
+          },
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "legend.background": {
+            "type": "element_blank",
+            "arguments": {}
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": false
+}

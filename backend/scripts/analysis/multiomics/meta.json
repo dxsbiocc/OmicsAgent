@@ -1,0 +1,28 @@
+{
+    "name": "多组学整合分析",
+    "description": "多组学数据整合分析工具集合，包括基因组-转录组、蛋白质-代谢组、转录组-蛋白质组等整合分析功能。",
+    "type": "analysis",
+    "category": "multiomics",
+    "tools": [
+        {
+            "name": "基因组-转录组整合分析",
+            "description": "整合基因组和转录组数据，研究基因变异对表达的影响",
+            "category": "multiomics"
+        },
+        {
+            "name": "多组学数据整合",
+            "description": "整合多种组学数据，进行综合分析",
+            "category": "multiomics"
+        },
+        {
+            "name": "蛋白质-代谢组整合分析",
+            "description": "整合蛋白质组和代谢组数据，研究蛋白质与代谢物的关联",
+            "category": "multiomics"
+        },
+        {
+            "name": "转录组-蛋白质组整合分析",
+            "description": "整合转录组和蛋白质组数据，研究转录与翻译的关联",
+            "category": "multiomics"
+        }
+    ]
+}

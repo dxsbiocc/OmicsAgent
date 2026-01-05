@@ -1,0 +1,466 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<path d="M426.5 182.5625A134.9375 134.9375 0 0 1 481.384 194.2285L439.4139 288.4949A31.75 31.75 0 0 0 426.5 285.75Z" fill="rgb(218,13,104)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-0"></path>
+<path d="M426.5 79.375A238.125 238.125 0 0 1 451.3908 80.6795L440.6048 183.3017A134.9375 134.9375 0 0 0 426.5 182.5625Z" fill="#975e6d" stroke="white" stroke-linejoin="bevel" class="zr1-cls-1"></path>
+<path d="M451.3908 80.6795A238.125 238.125 0 0 1 523.3542 99.962L481.384 194.2285A134.9375 134.9375 0 0 0 440.6048 183.3017Z" fill="rgb(224,113,156)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-2"></path>
+<path d="M453.0502 64.8914A254 254 0 0 1 479.3096 69.0505L476.009 84.5786A238.125 238.125 0 0 0 451.3908 80.6795Z" fill="rgb(249,158,28)" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-3"></path>
+<path d="M479.3096 69.0505A254 254 0 0 1 504.9903 75.9316L500.0847 91.0297A238.125 238.125 0 0 0 476.009 84.5786Z" fill="#ef5a78" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-4"></path>
+<path d="M504.9903 75.9316A254 254 0 0 1 529.8111 85.4595L523.3542 99.962A238.125 238.125 0 0 0 500.0847 91.0297Z" fill="rgb(247,241,189)" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-5"></path>
+<path d="M481.384 194.2285A134.9375 134.9375 0 0 1 526.7781 407.7908L450.0948 338.7449A31.75 31.75 0 0 0 439.4139 288.4949Z" fill="rgb(218,29,35)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-6"></path>
+<path d="M523.3542 99.962A238.125 238.125 0 0 1 603.4614 158.1633L526.7781 227.2092A134.9375 134.9375 0 0 0 481.384 194.2285Z" fill="#dd4c51" stroke="white" stroke-linejoin="bevel" class="zr1-cls-7"></path>
+<path d="M529.8111 85.4595A254 254 0 0 1 553.5 97.5295L545.5625 111.2777A238.125 238.125 0 0 0 523.3542 99.962Z" fill="rgb(62,3,23)" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-8"></path>
+<path d="M553.5 97.5295A254 254 0 0 1 575.7975 112.0097L566.4664 124.8528A238.125 238.125 0 0 0 545.5625 111.2777Z" fill="rgb(230,41,105)" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-9"></path>
+<path d="M575.7975 112.0097A254 254 0 0 1 596.4592 128.7412L585.8367 140.5386A238.125 238.125 0 0 0 566.4664 124.8528Z" fill="rgb(101,105,176)" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-10"></path>
+<path d="M596.4592 128.7412A254 254 0 0 1 615.2588 147.5408L603.4614 158.1633A238.125 238.125 0 0 0 585.8367 140.5386Z" fill="rgb(239,45,54)" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-11"></path>
+<path d="M603.4614 158.1633A238.125 238.125 0 0 1 632.7223 198.4375L543.3593 250.0313A134.9375 134.9375 0 0 0 526.7781 227.2092Z" fill="rgb(201,74,68)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-12"></path>
+<path d="M615.2588 147.5408A254 254 0 0 1 631.9903 168.2025L619.1472 177.5336A238.125 238.125 0 0 0 603.4614 158.1633Z" fill="rgb(181,59,84)" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-13"></path>
+<path d="M631.9903 168.2025A254 254 0 0 1 646.4705 190.5L632.7223 198.4375A238.125 238.125 0 0 0 619.1472 177.5336Z" fill="#a5446f" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-14"></path>
+<path d="M632.7223 198.4375A238.125 238.125 0 0 1 652.9703 391.0847L554.8332 359.198A134.9375 134.9375 0 0 0 543.3593 250.0313Z" fill="rgb(221,76,81)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-7"></path>
+<path d="M646.4705 190.5A254 254 0 0 1 658.5405 214.1889L644.038 220.6458A238.125 238.125 0 0 0 632.7223 198.4375Z" fill="#f2684b" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-15"></path>
+<path d="M658.5405 214.1889A254 254 0 0 1 668.0684 239.0097L652.9703 243.9153A238.125 238.125 0 0 0 644.038 220.6458Z" fill="#e73451" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-16"></path>
+<path d="M668.0684 239.0097A254 254 0 0 1 674.9495 264.6904L659.4214 267.991A238.125 238.125 0 0 0 652.9703 243.9153Z" fill="#e65656" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-17"></path>
+<path d="M674.9495 264.6904A254 254 0 0 1 679.1086 290.9498L663.3205 292.6092A238.125 238.125 0 0 0 659.4214 267.991Z" fill="#f89a1c" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-18"></path>
+<path d="M679.1086 290.9498A254 254 0 0 1 680.5 317.5L664.625 317.5A238.125 238.125 0 0 0 663.3205 292.6092Z" fill="#aeb92c" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-19"></path>
+<path d="M680.5 317.5A254 254 0 0 1 679.1086 344.0502L663.3205 342.3908A238.125 238.125 0 0 0 664.625 317.5Z" fill="#4eb849" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-20"></path>
+<path d="M679.1086 344.0502A254 254 0 0 1 674.9495 370.3096L659.4214 367.009A238.125 238.125 0 0 0 663.3205 342.3908Z" fill="#f68a5c" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-21"></path>
+<path d="M674.9495 370.3096A254 254 0 0 1 668.0684 395.9903L652.9703 391.0847A238.125 238.125 0 0 0 659.4214 367.009Z" fill="#baa635" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-22"></path>
+<path d="M652.9703 391.0847A238.125 238.125 0 0 1 603.4614 476.8367L526.7781 407.7908A134.9375 134.9375 0 0 0 554.8332 359.198Z" fill="rgb(247,161,40)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-23"></path>
+<path d="M668.0684 395.9903A254 254 0 0 1 658.5405 420.8111L644.038 414.3542A238.125 238.125 0 0 0 652.9703 391.0847Z" fill="#f26355" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-24"></path>
+<path d="M658.5405 420.8111A254 254 0 0 1 646.4705 444.5L632.7223 436.5625A238.125 238.125 0 0 0 644.038 414.3542Z" fill="#e2631e" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-25"></path>
+<path d="M646.4705 444.5A254 254 0 0 1 631.9903 466.7975L619.1472 457.4664A238.125 238.125 0 0 0 632.7223 436.5625Z" fill="#fde404" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-26"></path>
+<path d="M631.9903 466.7975A254 254 0 0 1 615.2588 487.4592L603.4614 476.8367A238.125 238.125 0 0 0 619.1472 457.4664Z" fill="#7eb138" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-27"></path>
+<path d="M526.7781 407.7908A134.9375 134.9375 0 0 1 326.2219 407.7908L402.9052 338.7449A31.75 31.75 0 0 0 450.0948 338.7449Z" fill="rgb(10,163,181)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-28"></path>
+<path d="M603.4614 476.8367A238.125 238.125 0 0 1 376.991 550.4214L398.4449 449.4888A134.9375 134.9375 0 0 0 526.7781 407.7908Z" fill="#9db2b7" stroke="white" stroke-linejoin="bevel" class="zr1-cls-29"></path>
+<path d="M615.2588 487.4592A254 254 0 0 1 596.4592 506.2588L585.8367 494.4614A238.125 238.125 0 0 0 603.4614 476.8367Z" fill="#8b8c90" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-30"></path>
+<path d="M596.4592 506.2588A254 254 0 0 1 575.7975 522.9903L566.4664 510.1472A238.125 238.125 0 0 0 585.8367 494.4614Z" fill="#beb276" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-31"></path>
+<path d="M575.7975 522.9903A254 254 0 0 1 553.5 537.4705L545.5625 523.7223A238.125 238.125 0 0 0 566.4664 510.1472Z" fill="#fefef4" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-32"></path>
+<path d="M553.5 537.4705A254 254 0 0 1 529.8111 549.5405L523.3542 535.038A238.125 238.125 0 0 0 545.5625 523.7223Z" fill="#744e03" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-33"></path>
+<path d="M529.8111 549.5405A254 254 0 0 1 504.9903 559.0684L500.0847 543.9703A238.125 238.125 0 0 0 523.3542 535.038Z" fill="#a3a36f" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-34"></path>
+<path d="M504.9903 559.0684A254 254 0 0 1 479.3096 565.9495L476.009 550.4214A238.125 238.125 0 0 0 500.0847 543.9703Z" fill="#c9b583" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-35"></path>
+<path d="M479.3096 565.9495A254 254 0 0 1 453.0502 570.1086L451.3908 554.3205A238.125 238.125 0 0 0 476.009 550.4214Z" fill="#978847" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-36"></path>
+<path d="M453.0502 570.1086A254 254 0 0 1 426.5 571.5L426.5 555.625A238.125 238.125 0 0 0 451.3908 554.3205Z" fill="#9d977f" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-37"></path>
+<path d="M426.5 571.5A254 254 0 0 1 399.9498 570.1086L401.6092 554.3205A238.125 238.125 0 0 0 426.5 555.625Z" fill="#cc7b6a" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-38"></path>
+<path d="M399.9498 570.1086A254 254 0 0 1 373.6904 565.9495L376.991 550.4214A238.125 238.125 0 0 0 401.6092 554.3205Z" fill="#db646a" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-39"></path>
+<path d="M376.991 550.4214A238.125 238.125 0 0 1 249.5386 476.8367L326.2219 407.7908A134.9375 134.9375 0 0 0 398.4449 449.4888Z" fill="#76c0cb" stroke="white" stroke-linejoin="bevel" class="zr1-cls-40"></path>
+<path d="M373.6904 565.9495A254 254 0 0 1 348.0097 559.0684L352.9153 543.9703A238.125 238.125 0 0 0 376.991 550.4214Z" fill="#80a89d" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-41"></path>
+<path d="M348.0097 559.0684A254 254 0 0 1 323.1889 549.5405L329.6458 535.038A238.125 238.125 0 0 0 352.9153 543.9703Z" fill="#def2fd" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-42"></path>
+<path d="M323.1889 549.5405A254 254 0 0 1 299.5 537.4705L307.4375 523.7223A238.125 238.125 0 0 0 329.6458 535.038Z" fill="#7a9bae" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-43"></path>
+<path d="M299.5 537.4705A254 254 0 0 1 277.2025 522.9903L286.5336 510.1472A238.125 238.125 0 0 0 307.4375 523.7223Z" fill="#039fb8" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-44"></path>
+<path d="M277.2025 522.9903A254 254 0 0 1 256.5408 506.2588L267.1633 494.4614A238.125 238.125 0 0 0 286.5336 510.1472Z" fill="#5e777b" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-45"></path>
+<path d="M256.5408 506.2588A254 254 0 0 1 237.7412 487.4592L249.5386 476.8367A238.125 238.125 0 0 0 267.1633 494.4614Z" fill="#120c0c" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-46"></path>
+<path d="M326.2219 407.7908A134.9375 134.9375 0 0 1 292.3017 303.3952L394.9239 314.1812A31.75 31.75 0 0 0 402.9052 338.7449Z" fill="rgb(201,73,48)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-47"></path>
+<path d="M249.5386 476.8367A238.125 238.125 0 0 1 233.8528 457.4664L317.3333 396.8143A134.9375 134.9375 0 0 0 326.2219 407.7908Z" fill="#caa465" stroke="white" stroke-linejoin="bevel" class="zr1-cls-48"></path>
+<path d="M233.8528 457.4664A238.125 238.125 0 0 1 220.2777 436.5625L309.6407 384.9688A134.9375 134.9375 0 0 0 317.3333 396.8143Z" fill="#dfbd7e" stroke="white" stroke-linejoin="bevel" class="zr1-cls-49"></path>
+<path d="M220.2777 436.5625A238.125 238.125 0 0 1 189.6795 342.3908L292.3017 331.6048A134.9375 134.9375 0 0 0 309.6407 384.9687Z" fill="rgb(190,134,99)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-50"></path>
+<path d="M206.5295 444.5A254 254 0 0 1 194.4595 420.8111L208.962 414.3542A238.125 238.125 0 0 0 220.2777 436.5625Z" fill="#b9a449" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-51"></path>
+<path d="M194.4595 420.8111A254 254 0 0 1 184.9316 395.9903L200.0297 391.0847A238.125 238.125 0 0 0 208.962 414.3542Z" fill="#899893" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-52"></path>
+<path d="M184.9316 395.9903A254 254 0 0 1 178.0505 370.3096L193.5786 367.009A238.125 238.125 0 0 0 200.0297 391.0847Z" fill="#a1743b" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-53"></path>
+<path d="M178.0505 370.3096A254 254 0 0 1 173.8914 344.0502L189.6795 342.3908A238.125 238.125 0 0 0 193.5786 367.009Z" fill="#894810" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-54"></path>
+<path d="M189.6795 342.3908A238.125 238.125 0 0 1 189.6795 292.6092L292.3017 303.3952A134.9375 134.9375 0 0 0 292.3017 331.6048Z" fill="#ddaf61" stroke="white" stroke-linejoin="bevel" class="zr1-cls-55"></path>
+<path d="M173.8914 344.0502A254 254 0 0 1 172.5 317.5L188.375 317.5A238.125 238.125 0 0 0 189.6795 342.3908Z" fill="#b7906f" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-56"></path>
+<path d="M172.5 317.5A254 254 0 0 1 173.8914 290.9498L189.6795 292.6092A238.125 238.125 0 0 0 188.375 317.5Z" fill="#eb9d5f" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-57"></path>
+<path d="M292.3017 303.3952A134.9375 134.9375 0 0 1 326.2219 227.2092L402.9052 296.2551A31.75 31.75 0 0 0 394.9239 314.1812Z" fill="rgb(173,33,62)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-58"></path>
+<path d="M189.6795 292.6092A238.125 238.125 0 0 1 193.5786 267.991L294.5112 289.4449A134.9375 134.9375 0 0 0 292.3017 303.3952Z" fill="#794752" stroke="white" stroke-linejoin="bevel" class="zr1-cls-59"></path>
+<path d="M193.5786 267.991A238.125 238.125 0 0 1 200.0297 243.9153L298.1668 275.802A134.9375 134.9375 0 0 0 294.5112 289.4449Z" fill="#cc3d41" stroke="white" stroke-linejoin="bevel" class="zr1-cls-60"></path>
+<path d="M200.0297 243.9153A238.125 238.125 0 0 1 249.5386 158.1633L326.2219 227.2092A134.9375 134.9375 0 0 0 298.1668 275.802Z" fill="rgb(177,77,87)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-61"></path>
+<path d="M184.9316 239.0097A254 254 0 0 1 194.4595 214.1889L208.962 220.6458A238.125 238.125 0 0 0 200.0297 243.9153Z" fill="#c78936" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-62"></path>
+<path d="M194.4595 214.1889A254 254 0 0 1 206.5295 190.5L220.2777 198.4375A238.125 238.125 0 0 0 208.962 220.6458Z" fill="#8c292c" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-63"></path>
+<path d="M206.5295 190.5A254 254 0 0 1 221.0097 168.2025L233.8528 177.5336A238.125 238.125 0 0 0 220.2777 198.4375Z" fill="#e5762e" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-64"></path>
+<path d="M221.0097 168.2025A254 254 0 0 1 237.7412 147.5408L249.5386 158.1633A238.125 238.125 0 0 0 233.8528 177.5336Z" fill="#a16c5a" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-65"></path>
+<path d="M326.2219 227.2092A134.9375 134.9375 0 0 1 426.5 182.5625L426.5 285.75A31.75 31.75 0 0 0 402.9052 296.2551Z" fill="rgb(230,88,50)" stroke="white" stroke-linejoin="bevel" class="zr1-cls-66"></path>
+<path d="M249.5386 158.1633A238.125 238.125 0 0 1 329.6458 99.962L371.616 194.2285A134.9375 134.9375 0 0 0 326.2219 227.2092Z" fill="#d45a59" stroke="white" stroke-linejoin="bevel" class="zr1-cls-67"></path>
+<path d="M237.7412 147.5408A254 254 0 0 1 256.5408 128.7412L267.1633 140.5386A238.125 238.125 0 0 0 249.5386 158.1633Z" fill="#310d0f" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-68"></path>
+<path d="M256.5408 128.7412A254 254 0 0 1 277.2025 112.0097L286.5336 124.8528A238.125 238.125 0 0 0 267.1633 140.5386Z" fill="#ae341f" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-69"></path>
+<path d="M277.2025 112.0097A254 254 0 0 1 299.5 97.5295L307.4375 111.2777A238.125 238.125 0 0 0 286.5336 124.8528Z" fill="#d78823" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-70"></path>
+<path d="M299.5 97.5295A254 254 0 0 1 323.1889 85.4595L329.6458 99.962A238.125 238.125 0 0 0 307.4375 111.2777Z" fill="#da5c1f" stroke="white" stroke-width="3" stroke-linejoin="bevel" class="zr1-cls-71"></path>
+<path d="M329.6458 99.962A238.125 238.125 0 0 1 352.9153 91.0297L384.802 189.1668A134.9375 134.9375 0 0 0 371.616 194.2285Z" fill="#f89a80" stroke="white" stroke-linejoin="bevel" class="zr1-cls-72"></path>
+<path d="M352.9153 91.0297A238.125 238.125 0 0 1 376.991 84.5786L398.4449 185.5112A134.9375 134.9375 0 0 0 384.802 189.1668Z" fill="#f37674" stroke="white" stroke-linejoin="bevel" class="zr1-cls-73"></path>
+<path d="M376.991 84.5786A238.125 238.125 0 0 1 401.6092 80.6795L412.3952 183.3017A134.9375 134.9375 0 0 0 398.4449 185.5112Z" fill="#e75b68" stroke="white" stroke-linejoin="bevel" class="zr1-cls-74"></path>
+<path d="M401.6092 80.6795A238.125 238.125 0 0 1 426.5 79.375L426.5 182.5625A134.9375 134.9375 0 0 0 412.3952 183.3017Z" fill="#d0545f" stroke="white" stroke-linejoin="bevel" class="zr1-cls-75"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.978,0.208,-0.208,0.978,443.8281,235.9775)" fill="#eee" stroke="rgb(218,13,104)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Flora</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.052,-0.999,0.999,0.052,436.2623,131.2244)" fill="#eee" stroke="#975e6d" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Black Tea</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.259,-0.966,0.966,0.259,474.7778,137.3246)" fill="#333">Floral</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.156,-0.988,0.988,0.156,467.0165,61.6887)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Chamomile</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.259,-0.966,0.966,0.259,493.5341,67.3252)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Rose</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.358,-0.934,0.934,0.358,519.3173,75.7027)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Jasmine</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.208,0.978,-0.978,0.208,508.0225,300.1719)" fill="#eee" stroke="rgb(218,29,35)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Fruity</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.588,-0.809,0.809,0.588,536.1403,166.593)" fill="#eee" stroke="#dd4c51" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Berry</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.454,-0.891,0.891,0.454,544.0835,86.7293)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Blackberry</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.545,-0.839,0.839,0.545,567.5615,100.2843)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Raspberry</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.629,-0.777,0.777,0.629,589.494,116.2192)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Blueberry</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.707,-0.707,0.707,0.707,609.6407,134.3593)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Strawberry</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.809,-0.588,0.588,0.809,577.407,207.8597)" fill="#eee" stroke="rgb(201,74,68)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Dried Fruit</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.777,-0.629,0.629,0.777,627.7808,154.506)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Raisin</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.839,-0.545,0.545,0.839,643.7157,176.4385)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Prune</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.995,-0.105,0.105,0.995,612.0094,298.0022)" fill="#eee" stroke="rgb(221,76,81)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Other Fruit</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.891,-0.454,0.454,0.891,657.2707,199.9165)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Coconut</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.934,-0.358,0.358,0.934,668.2973,224.6827)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Cherry</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.966,-0.259,0.259,0.966,676.6748,250.4659)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pomegranate</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.988,-0.156,0.156,0.988,682.3113,276.9835)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pineapple</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.999,-0.052,0.052,0.999,685.145,303.945)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Grape</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.999,0.052,-0.052,0.999,685.145,331.055)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Apple</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.988,0.156,-0.156,0.988,682.3113,358.0165)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Peach</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.966,0.259,-0.259,0.966,676.6748,384.5341)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pear</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.866,0.5,-0.5,0.866,588.0408,410.7656)" fill="#333">Citrus Fruit</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.934,0.358,-0.358,0.934,668.2973,410.3173)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Grapefruit</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.891,0.454,-0.454,0.891,657.2707,435.0835)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Orange</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.839,0.545,-0.545,0.839,643.7157,458.5615)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Lemon</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.777,0.629,-0.629,0.777,627.7808,480.494)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Lime</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(426.5 400.8438)" fill="#eee" stroke="rgb(10,163,181)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Other</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.309,0.951,-0.951,0.309,484.1413,494.9018)" fill="#333">Papery/Musty</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.707,0.707,-0.707,0.707,609.6407,500.6407)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Stale</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.629,0.777,-0.777,0.629,589.494,518.7808)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Cardboard</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.545,0.839,-0.839,0.545,567.5615,534.7157)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Papery</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.454,0.891,-0.891,0.454,544.0835,548.2707)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Woody</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.358,0.934,-0.934,0.358,519.3173,559.2973)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Moldy/Damp</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.259,0.966,-0.966,0.259,493.5341,567.6748)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Musty/Dusty</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.156,0.988,-0.988,0.156,467.0165,573.3113)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Musty/Earthy</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="2" transform="matrix(0.052,0.999,-0.999,0.052,440.055,576.145)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Animalic</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="-2" transform="matrix(0.052,-0.999,0.999,0.052,412.945,576.145)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Meaty Brothy</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.156,-0.988,0.988,0.156,385.9835,573.3113)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Phenolic</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.5,-0.866,0.866,0.5,333.2344,479.0408)" fill="#333">Chemical</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.259,-0.966,0.966,0.259,359.4659,567.6748)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Bitter</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.358,-0.934,0.934,0.358,333.6827,559.2973)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Salty</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.454,-0.891,0.891,0.454,308.9165,548.2707)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Medicinal</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.545,-0.839,0.839,0.545,285.4385,534.7157)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Petroleum</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.629,-0.777,0.777,0.629,263.506,518.7808)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Skunky</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.707,-0.707,0.707,0.707,243.3593,500.6407)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Rubber</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.309,0.951,-0.951,0.309,347.2354,343.2546)" fill="#eee" stroke="rgb(201,73,48)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Roasted</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.777,-0.629,0.629,0.777,281.538,434.8879)" fill="#333">Pipe Tobacco</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.839,-0.545,0.545,0.839,270.0617,419.0922)" fill="#333">Tobacco</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.951,-0.309,0.309,0.951,249.0982,375.1413)" fill="#333">Burnt</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.891,-0.454,0.454,0.891,195.7293,435.0835)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Acrid</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.934,-0.358,0.358,0.934,184.7027,410.3173)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Ashy</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.966,-0.259,0.259,0.966,176.3252,384.5341)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Smoky</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="-2" transform="matrix(0.988,-0.156,0.156,0.988,170.6887,358.0165)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Brown, Roast</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(239.9688 317.5)" fill="#333">Cereal</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.999,-0.052,0.052,0.999,167.855,331.055)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Grain</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.999,0.052,-0.052,0.999,167.855,303.945)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Malt</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.407,-0.914,0.914,0.407,350.3617,283.601)" fill="#eee" stroke="rgb(173,33,62)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Spices</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.988,0.156,-0.156,0.988,242.2653,288.3201)" fill="#eee" stroke="#794752" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pungent</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.966,0.259,-0.259,0.966,246.3246,269.2222)" fill="#eee" stroke="#cc3d41" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pepper</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.866,0.5,-0.5,0.866,264.9592,224.2344)" fill="#eee" stroke="rgb(177,77,87)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Brown Spice</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.934,0.358,-0.358,0.934,184.7027,224.6827)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Anise</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.891,0.454,-0.454,0.891,195.7293,199.9165)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Nutmeg</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.839,0.545,-0.545,0.839,209.2843,176.4385)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Cinnamon</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.777,0.629,-0.629,0.777,225.2192,154.506)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Clove</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.914,-0.407,0.407,0.914,392.601,241.3617)" fill="#eee" stroke="rgb(230,88,50)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sweet</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.588,0.809,-0.809,0.588,316.8597,166.593)" fill="#eee" stroke="#d45a59" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Brown Sugar</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.707,0.707,-0.707,0.707,243.3593,134.3593)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Molasses</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="-2" transform="matrix(0.629,0.777,-0.777,0.629,263.506,116.2192)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Maple Syrup</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.545,0.839,-0.839,0.545,285.4385,100.2843)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Caramelized</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-2" transform="matrix(0.454,0.891,-0.891,0.454,308.9165,86.7293)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Honey</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.358,0.934,-0.934,0.358,359.6532,143.3581)" fill="#333">Vanilla</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.259,0.966,-0.966,0.259,378.2222,137.3246)" fill="#333">Vanillin</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.156,0.988,-0.988,0.156,397.3201,133.2653)" fill="#333">Overall Sweet</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.052,0.999,-0.999,0.052,416.7377,131.2244)" fill="#eee" stroke="#d0545f" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sweet Aromatics</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+cursor:pointer;
+fill:rgba(239,14,114,1);
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(166,103,119,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(246,124,171,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,173,30,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(255,99,132,1);
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(255,255,207,1);
+}
+.zr1-cls-6:hover {
+cursor:pointer;
+fill:rgba(239,31,38,1);
+}
+.zr1-cls-7:hover {
+cursor:pointer;
+fill:rgba(243,83,89,1);
+}
+.zr1-cls-8:hover {
+cursor:pointer;
+fill:rgba(68,3,25,1);
+}
+.zr1-cls-9:hover {
+cursor:pointer;
+fill:rgba(253,45,115,1);
+}
+.zr1-cls-10:hover {
+cursor:pointer;
+fill:rgba(111,115,193,1);
+}
+.zr1-cls-11:hover {
+cursor:pointer;
+fill:rgba(255,49,59,1);
+}
+.zr1-cls-12:hover {
+cursor:pointer;
+fill:rgba(221,81,74,1);
+}
+.zr1-cls-13:hover {
+cursor:pointer;
+fill:rgba(199,64,92,1);
+}
+.zr1-cls-14:hover {
+cursor:pointer;
+fill:rgba(181,74,122,1);
+}
+.zr1-cls-15:hover {
+cursor:pointer;
+fill:rgba(255,114,82,1);
+}
+.zr1-cls-16:hover {
+cursor:pointer;
+fill:rgba(254,57,89,1);
+}
+.zr1-cls-17:hover {
+cursor:pointer;
+fill:rgba(253,94,94,1);
+}
+.zr1-cls-18:hover {
+cursor:pointer;
+fill:rgba(255,169,30,1);
+}
+.zr1-cls-19:hover {
+cursor:pointer;
+fill:rgba(191,203,48,1);
+}
+.zr1-cls-20:hover {
+cursor:pointer;
+fill:rgba(85,202,80,1);
+}
+.zr1-cls-21:hover {
+cursor:pointer;
+fill:rgba(255,151,101,1);
+}
+.zr1-cls-22:hover {
+cursor:pointer;
+fill:rgba(204,182,58,1);
+}
+.zr1-cls-23:hover {
+cursor:pointer;
+fill:rgba(255,177,44,1);
+}
+.zr1-cls-24:hover {
+cursor:pointer;
+fill:rgba(255,108,93,1);
+}
+.zr1-cls-25:hover {
+cursor:pointer;
+fill:rgba(248,108,33,1);
+}
+.zr1-cls-26:hover {
+cursor:pointer;
+fill:rgba(255,250,4,1);
+}
+.zr1-cls-27:hover {
+cursor:pointer;
+fill:rgba(138,194,61,1);
+}
+.zr1-cls-28:hover {
+cursor:pointer;
+fill:rgba(11,179,199,1);
+}
+.zr1-cls-29:hover {
+cursor:pointer;
+fill:rgba(172,195,201,1);
+}
+.zr1-cls-30:hover {
+cursor:pointer;
+fill:rgba(152,154,158,1);
+}
+.zr1-cls-31:hover {
+cursor:pointer;
+fill:rgba(209,195,129,1);
+}
+.zr1-cls-32:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
+}
+.zr1-cls-33:hover {
+cursor:pointer;
+fill:rgba(127,85,3,1);
+}
+.zr1-cls-34:hover {
+cursor:pointer;
+fill:rgba(179,179,122,1);
+}
+.zr1-cls-35:hover {
+cursor:pointer;
+fill:rgba(221,199,144,1);
+}
+.zr1-cls-36:hover {
+cursor:pointer;
+fill:rgba(166,149,78,1);
+}
+.zr1-cls-37:hover {
+cursor:pointer;
+fill:rgba(172,166,139,1);
+}
+.zr1-cls-38:hover {
+cursor:pointer;
+fill:rgba(224,135,116,1);
+}
+.zr1-cls-39:hover {
+cursor:pointer;
+fill:rgba(240,110,116,1);
+}
+.zr1-cls-40:hover {
+cursor:pointer;
+fill:rgba(129,211,223,1);
+}
+.zr1-cls-41:hover {
+cursor:pointer;
+fill:rgba(140,184,172,1);
+}
+.zr1-cls-42:hover {
+cursor:pointer;
+fill:rgba(244,255,255,1);
+}
+.zr1-cls-43:hover {
+cursor:pointer;
+fill:rgba(134,170,191,1);
+}
+.zr1-cls-44:hover {
+cursor:pointer;
+fill:rgba(3,174,202,1);
+}
+.zr1-cls-45:hover {
+cursor:pointer;
+fill:rgba(103,130,135,1);
+}
+.zr1-cls-46:hover {
+cursor:pointer;
+fill:rgba(19,13,13,1);
+}
+.zr1-cls-47:hover {
+cursor:pointer;
+fill:rgba(221,80,52,1);
+}
+.zr1-cls-48:hover {
+cursor:pointer;
+fill:rgba(222,180,111,1);
+}
+.zr1-cls-49:hover {
+cursor:pointer;
+fill:rgba(245,207,138,1);
+}
+.zr1-cls-50:hover {
+cursor:pointer;
+fill:rgba(209,147,108,1);
+}
+.zr1-cls-51:hover {
+cursor:pointer;
+fill:rgba(203,180,80,1);
+}
+.zr1-cls-52:hover {
+cursor:pointer;
+fill:rgba(150,167,161,1);
+}
+.zr1-cls-53:hover {
+cursor:pointer;
+fill:rgba(177,127,64,1);
+}
+.zr1-cls-54:hover {
+cursor:pointer;
+fill:rgba(150,79,17,1);
+}
+.zr1-cls-55:hover {
+cursor:pointer;
+fill:rgba(243,192,106,1);
+}
+.zr1-cls-56:hover {
+cursor:pointer;
+fill:rgba(201,158,122,1);
+}
+.zr1-cls-57:hover {
+cursor:pointer;
+fill:rgba(255,172,104,1);
+}
+.zr1-cls-58:hover {
+cursor:pointer;
+fill:rgba(190,36,68,1);
+}
+.zr1-cls-59:hover {
+cursor:pointer;
+fill:rgba(133,78,90,1);
+}
+.zr1-cls-60:hover {
+cursor:pointer;
+fill:rgba(224,67,71,1);
+}
+.zr1-cls-61:hover {
+cursor:pointer;
+fill:rgba(194,84,95,1);
+}
+.zr1-cls-62:hover {
+cursor:pointer;
+fill:rgba(218,150,59,1);
+}
+.zr1-cls-63:hover {
+cursor:pointer;
+fill:rgba(154,45,48,1);
+}
+.zr1-cls-64:hover {
+cursor:pointer;
+fill:rgba(251,129,50,1);
+}
+.zr1-cls-65:hover {
+cursor:pointer;
+fill:rgba(177,118,99,1);
+}
+.zr1-cls-66:hover {
+cursor:pointer;
+fill:rgba(253,96,55,1);
+}
+.zr1-cls-67:hover {
+cursor:pointer;
+fill:rgba(233,99,97,1);
+}
+.zr1-cls-68:hover {
+cursor:pointer;
+fill:rgba(53,14,16,1);
+}
+.zr1-cls-69:hover {
+cursor:pointer;
+fill:rgba(191,57,34,1);
+}
+.zr1-cls-70:hover {
+cursor:pointer;
+fill:rgba(236,149,38,1);
+}
+.zr1-cls-71:hover {
+cursor:pointer;
+fill:rgba(239,101,34,1);
+}
+.zr1-cls-72:hover {
+cursor:pointer;
+fill:rgba(255,169,140,1);
+}
+.zr1-cls-73:hover {
+cursor:pointer;
+fill:rgba(255,129,127,1);
+}
+.zr1-cls-74:hover {
+cursor:pointer;
+fill:rgba(254,100,114,1);
+}
+.zr1-cls-75:hover {
+cursor:pointer;
+fill:rgba(228,92,104,1);
+}
+
+]]>
+
+</style>
+</svg>

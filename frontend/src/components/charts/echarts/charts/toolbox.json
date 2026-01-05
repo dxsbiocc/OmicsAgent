@@ -1,0 +1,23 @@
+{
+    "show": true,
+    "orient": "horizontal",
+    "itemSize": 15,
+    "itemGap": 8,
+    "showTitle": true,
+    "top": "top",
+    "feature": {
+        "restore": {
+            "show": true,
+            "type": "button"
+        },
+        "dataView": {
+            "show": true,
+            "type": "button"
+        },
+        "saveAsImage": {
+            "show": true,
+            "type": "svg",
+            "pixelRatio": 2
+        }
+    }
+}

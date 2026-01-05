@@ -1,0 +1,62 @@
+[
+    {
+        "Description": "Inositol phosphate metabolism",
+        "p.adjust": 0.0002,
+        "geneID": "INPP5A/PIK3C3/PIK3C2A/PIKFYVE/PIK3CA/MTMR1/PIP5K1A/IPPK/PLCG1/SACM1L/SYNJ1/IPMK/PIP4K2B/INPP5F/MTMR2/MTMR3/MINPP1/MTMR6/INPP4A",
+        "Change": "Positive"
+    },
+    {
+        "Description": "ErbB signaling pathway",
+        "p.adjust": 0.0002,
+        "geneID": "MAPK1/CBL/SOS1/ABL1/ABL2/CRKL/BRAF/PIK3CA/CAMK2G/MAPK8/PLCG1/NCK1/SOS2/SHC1/KRAS/PAK2/STAT5B/MAP2K4/PTK2/GAB1/GSK3B",
+        "Change": "Positive"
+    },
+    {
+        "Description": "Polycomb repressive complex",
+        "p.adjust": 0,
+        "geneID": "JARID2/ASXL2/AEBP2/EP300/LCOR/BCOR/MGA/MBD6/PHC3/KDM2B/DCAF7/OGT/YY1/ASXL1/KDM2A/CREBBP/HCFC1/UBE2D1/SUZ12/TEX10/RBBP4/MBD5",
+        "Change": "Positive"
+    },
+    {
+        "Description": "Adherens junction",
+        "p.adjust": 0.0002,
+        "geneID": "ROCK2/SMAD3/MAPK1/SMURF2/CTNNB1/FARP2/EP300/ROCK1/TGFBR2/FER/CSNK2A1/ACTN1/PARD3/TCF7L2/CREBBP/ACTN4/VCL/TJP1/CTNNA1/PTPN1/RAP1B/LMO7",
+        "Change": "Positive"
+    },
+    {
+        "Description": "TGF-beta signaling pathway",
+        "p.adjust": 0.0001,
+        "geneID": "SMAD3/MAPK1/ACVR1/BMPR1A/SMURF2/SP1/SIN3A/EP300/BMPR2/ROCK1/TGFBR2/SMAD2/SKI/SMAD5/SMAD7/TGFB2/CREBBP/NEO1/ZFYVE16/ZFYVE9/ACVR2A/SKIL/TGIF1/BMP4/NCOR1",
+        "Change": "Positive"
+    },
+    {
+        "Description": "Cysteine and methionine metabolism",
+        "p.adjust": 0.0377,
+        "geneID": "SDS/SDSL",
+        "Change": "Negative"
+    },
+    {
+        "Description": "Tryptophan metabolism",
+        "p.adjust": 0.0276,
+        "geneID": "ACMSD/HAAO",
+        "Change": "Negative"
+    },
+    {
+        "Description": "Biosynthesis of amino acids",
+        "p.adjust": 0.0072,
+        "geneID": "SDS/ALDOB/SDSL",
+        "Change": "Negative"
+    },
+    {
+        "Description": "Glycine, serine and threonine metabolism",
+        "p.adjust": 0.0013,
+        "geneID": "SDS/AGXT/SDSL",
+        "Change": "Negative"
+    },
+    {
+        "Description": "Cholesterol metabolism",
+        "p.adjust": 0.0026,
+        "geneID": "APOE/APOC3/APOC1",
+        "Change": "Negative"
+    }
+]

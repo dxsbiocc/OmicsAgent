@@ -1,0 +1,6 @@
+{
+    "name": "ATAC-seq分析",
+    "description": "转座酶可及染色质测序（ATAC-seq）数据分析，识别染色质开放区域和调控元件。",
+    "type": "analysis",
+    "category": "epigenetics"
+}

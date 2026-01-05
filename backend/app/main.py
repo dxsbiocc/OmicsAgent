@@ -21,6 +21,11 @@ from app.api.v1.categories import router as categories_router
 from app.api.v1.comments import router as comments_router
 from app.api.v1.image import router as image_router
 from app.api.v1.visual import router as visual_router
+from app.api.v1.analysis import router as analysis_router
+from app.api.v1.cloud_disk import router as cloud_disk_router
+from app.api.v1.chat import router as chat_router
+from app.api.v1.conversation import router as conversation_router
+from app.api.v1.llm import router as llm_router
 from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse
 
@@ -97,6 +102,11 @@ app.include_router(tags_router, prefix=prefix)
 app.include_router(categories_router, prefix=prefix)
 app.include_router(image_router, prefix=prefix)
 app.include_router(visual_router, prefix=prefix)
+app.include_router(analysis_router, prefix=prefix)
+app.include_router(cloud_disk_router, prefix=prefix)
+app.include_router(chat_router, prefix=prefix)
+app.include_router(conversation_router, prefix=prefix)
+app.include_router(llm_router, prefix=prefix)
 
 
 # Add exception handlers
@@ -122,6 +132,7 @@ async def validation_exception_handler(request, exc):
 
 # Mount static files
 app.mount("/static", StaticFiles(directory="static"), name="static")
+app.mount("/uploads", StaticFiles(directory="uploads"), name="uploads")
 
 
 @app.get("/")

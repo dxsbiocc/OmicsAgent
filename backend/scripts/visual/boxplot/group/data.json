@@ -1,0 +1,1422 @@
+[
+  {
+    "Country": "China",
+    "Income": 894,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 1840,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 3087,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 6819,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 991,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 1998,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 3487,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 8287,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1012,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 2496,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 1489,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 9181,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1055,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 2592,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 3779,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 10139,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 841,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 3888,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 5632,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 11320,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 535,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 2549,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 7514,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 15319,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 582,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 2728,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 7424,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 16198,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 631,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 3015,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 7775,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 16508,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 692,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 3168,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 7981,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 16974,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 694,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 3280,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 8234,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 16558,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 706,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 3464,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 8787,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 17409,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 736,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 3646,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 9465,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 17428,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 780,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 3843,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 9496,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 17430,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 889,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 3996,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 10037,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 16961,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 958,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 4288,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 9755,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 17909,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 889,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 4756,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 10496,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 18059,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 558,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 5276,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 10908,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 18170,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 567,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 5686,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 11027,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 18966,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 635,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 6106,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 10620,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 19497,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 713,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 6741,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 11836,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 20338,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 772,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 7048,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 12363,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 21361,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 826,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 7724,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 12823,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 22495,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 719,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 8454,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 13256,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 22803,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 669,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 9439,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 13902,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 23647,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 732,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 10548,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 13972,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 24147,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 848,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 14203,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 14915,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 23908,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 876,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 14673,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 15170,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 24350,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 843,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 15694,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 15113,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 25374,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 894,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 16731,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 16236,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 26567,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 888,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 16320,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 16594,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 26258,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 920,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 16632,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 16530,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 25934,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 891,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 17117,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 17192,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 27041,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 904,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 17705,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 17487,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 27990,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1016,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 18484,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 17818,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 29281,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1059,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 19346,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 17632,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 29951,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1073,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 19741,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 17557,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 29619,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1099,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 20413,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 17619,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 30070,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1175,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 20951,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 17951,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 29230,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1229,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 21446,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 18417,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 30185,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1456,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 22268,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 18527,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 32110,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1557,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 23554,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 18576,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 33065,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1604,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 24116,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 19221,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 33899,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1652,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 25018,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 19355,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 34787,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1597,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 26724,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 19660,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 35929,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1474,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 28077,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 19906,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 36830,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1516,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 29550,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 19349,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 37062,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1634,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 30437,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 18332,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 36543,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 1845,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 30610,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 15661,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 37321,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 2078,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 30587,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 14320,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 37844,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 2323,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 30746,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 12535,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 38892,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 2551,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 31224,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 12013,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 39476,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 2775,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 31958,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 11597,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 40501,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 3000,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 32391,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 11779,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 41812,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 3205,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 31656,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 11173,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 43166,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 3419,
+    "Year": "19th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 31535,
+    "Year": "19th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 11925,
+    "Year": "19th"
+  },
+  {
+    "Country": "United States",
+    "Income": 44673,
+    "Year": "19th"
+  },
+  {
+    "Country": "China",
+    "Income": 3678,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 32193,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 13173,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 45986,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 3955,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 32230,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 13902,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 45978,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 4285,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 32248,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 14629,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 46367,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 4685,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 32721,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 15768,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 47260,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 5127,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 33483,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 16967,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 48597,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 5675,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 33916,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 18118,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 49762,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 6360,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 34468,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 19660,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 50599,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 7225,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 35183,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 21374,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 51011,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 7880,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 34800,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 22506,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 50384,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 8565,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 32880,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 20739,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 48558,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 9430,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 34404,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 21664,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 49373,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 10274,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 34316,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 22570,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 49781,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 11017,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 34988,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 23299,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 50549,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 11805,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 35614,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 23561,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 51282,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 12609,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 35635,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 23293,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 52118,
+    "Year": "20th"
+  },
+  {
+    "Country": "China",
+    "Income": 13334,
+    "Year": "20th"
+  },
+  {
+    "Country": "Japan",
+    "Income": 36162,
+    "Year": "20th"
+  },
+  {
+    "Country": "Russia",
+    "Income": 23038,
+    "Year": "20th"
+  },
+  {
+    "Country": "United States",
+    "Income": 53354,
+    "Year": "20th"
+  }
+]

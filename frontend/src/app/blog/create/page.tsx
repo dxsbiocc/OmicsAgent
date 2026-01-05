@@ -21,6 +21,7 @@ import {
   FormControlLabel,
   Divider,
   Snackbar,
+  useTheme,
 } from "@mui/material";
 import {
   Save as SaveIcon,
@@ -41,6 +42,7 @@ import { categoriesApi } from "@/libs/api/categories";
 import { tagsApi } from "@/libs/api/tags";
 import { imageApi } from "@/libs/api/image";
 import { useAuthContext } from "@/contexts/AuthContext";
+import { useThemeContext } from "@/contexts/ThemeContext";
 import {
   ScrollableAlert,
   CropperModal,
@@ -82,6 +84,8 @@ export default function CreateBlogPage() {
   const router = useRouter();
   const fileInputRef = useRef<HTMLInputElement>(null);
   const { user, isAuthenticated, isLoading: authLoading } = useAuthContext();
+  const { mode } = useThemeContext();
+  const theme = useTheme();
 
   // 检查是否为编辑模式
   const [isEditMode, setIsEditMode] = useState(false);
@@ -721,10 +725,10 @@ export default function CreateBlogPage() {
                 <Box
                   sx={{
                     p: 2,
-                    backgroundColor: "grey.50",
+                    backgroundColor: "background.paper",
                     borderRadius: 1,
                     border: "1px solid",
-                    borderColor: "grey.200",
+                    borderColor: "divider",
                   }}
                 >
                   <Typography
@@ -787,12 +791,12 @@ export default function CreateBlogPage() {
                       },
                       "& h1": {
                         fontSize: "2em",
-                        borderBottom: "1px solid #eaecef",
+                        borderBottom: `1px solid ${theme.palette.divider}`,
                         paddingBottom: "0.3em",
                       },
                       "& h2": {
                         fontSize: "1.5em",
-                        borderBottom: "1px solid #eaecef",
+                        borderBottom: `1px solid ${theme.palette.divider}`,
                         paddingBottom: "0.3em",
                       },
                       "& h3": {
@@ -804,8 +808,8 @@ export default function CreateBlogPage() {
                       },
                       "& blockquote": {
                         padding: "0 1em",
-                        color: "#6a737d",
-                        borderLeft: "0.25em solid #dfe2e5",
+                        color: "text.secondary",
+                        borderLeft: `0.25em solid ${theme.palette.divider}`,
                         margin: "0 0 16px 0",
                       },
                       "& ul, & ol": {
@@ -819,7 +823,10 @@ export default function CreateBlogPage() {
                         padding: "0.2em 0.4em",
                         margin: "0",
                         fontSize: "85%",
-                        backgroundColor: "rgba(27,31,35,0.05)",
+                        backgroundColor:
+                          mode === "dark"
+                            ? "rgba(255,255,255,0.1)"
+                            : "rgba(27,31,35,0.05)",
                         borderRadius: "3px",
                         fontFamily:
                           "SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace",
@@ -829,7 +836,8 @@ export default function CreateBlogPage() {
                         overflow: "auto",
                         fontSize: "85%",
                         lineHeight: "1.45",
-                        backgroundColor: "#f6f8fa",
+                        backgroundColor:
+                          mode === "dark" ? "rgba(0,0,0,0.3)" : "#f6f8fa",
                         borderRadius: "6px",
                         marginBottom: "16px",
                       },
@@ -855,11 +863,14 @@ export default function CreateBlogPage() {
                       },
                       "& table th, & table td": {
                         padding: "6px 13px",
-                        border: "1px solid #dfe2e5",
+                        border: `1px solid ${theme.palette.divider}`,
                       },
                       "& table th": {
                         fontWeight: "600",
-                        backgroundColor: "#f6f8fa",
+                        backgroundColor:
+                          mode === "dark"
+                            ? "rgba(255,255,255,0.05)"
+                            : "#f6f8fa",
                       },
                       "& img": {
                         maxWidth: "100%",
@@ -868,7 +879,7 @@ export default function CreateBlogPage() {
                         margin: "16px 0",
                       },
                       "& a": {
-                        color: "#0366d6",
+                        color: "primary.main",
                         textDecoration: "none",
                         "&:hover": {
                           textDecoration: "underline",
@@ -888,7 +899,7 @@ export default function CreateBlogPage() {
                       validateSingleField("content", richTextContent);
                     }}
                     height={350}
-                    data-color-mode="light"
+                    data-color-mode={mode}
                     visibleDragbar={false}
                     preview={
                       editorMode === "edit"
@@ -1008,11 +1019,17 @@ export default function CreateBlogPage() {
                     transition: "all 0.3s ease",
                     "&:hover": {
                       borderColor: "primary.dark",
-                      backgroundColor: "primary.50",
+                      backgroundColor:
+                        mode === "dark"
+                          ? "rgba(25, 118, 210, 0.1)"
+                          : "primary.50",
                     },
                     "&.drag-over": {
                       borderColor: "primary.dark",
-                      backgroundColor: "primary.100",
+                      backgroundColor:
+                        mode === "dark"
+                          ? "rgba(25, 118, 210, 0.2)"
+                          : "primary.100",
                       transform: "scale(1.02)",
                     },
                   }}

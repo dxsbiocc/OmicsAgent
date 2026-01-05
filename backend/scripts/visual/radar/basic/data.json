@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sales",
+    "Budget": "4200",
+    "Spending": "5000"
+  },
+  {
+    "name": "Administration",
+    "Budget": "3000",
+    "Spending": "14000"
+  },
+  {
+    "name": "Information Technology",
+    "Budget": "20000",
+    "Spending": "28000"
+  },
+  {
+    "name": "Customer Support",
+    "Budget": "35000",
+    "Spending": "26000"
+  },
+  {
+    "name": "Development",
+    "Budget": "50000",
+    "Spending": "42000"
+  },
+  {
+    "name": "Marketing",
+    "Budget": "18000",
+    "Spending": "21000"
+  }
+]

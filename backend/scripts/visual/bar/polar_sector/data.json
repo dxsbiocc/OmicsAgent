@@ -1,0 +1,32 @@
+[
+  {
+    "name": "MMLU Pro",
+    "score": 91.04,
+    "model": "OpenAI o1"
+  },
+  {
+    "name": "MATH-500",
+    "score": 96.4,
+    "model": "OpenAI o1"
+  },
+  {
+    "name": "AIME 2024",
+    "score": 79.2,
+    "model": "OpenAI o1"
+  },
+  {
+    "name": "MMLU Pro",
+    "score": 84,
+    "model": "DeepSeek-R1"
+  },
+  {
+    "name": "MATH-500",
+    "score": 97.3,
+    "model": "DeepSeek-R1"
+  },
+  {
+    "name": "AIME 2024",
+    "score": 79.8,
+    "model": "DeepSeek-R1"
+  }
+]

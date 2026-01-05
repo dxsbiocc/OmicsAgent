@@ -1,0 +1,91 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<path d="M456.5 317.5A30 30 0 1 1 456.5 317.497M492.3974 317.5A65.8974 65.8974 0 1 1 492.3974 317.4934M528.2949 317.5A101.7949 101.7949 0 1 1 528.2949 317.4898M564.1923 317.5A137.6923 137.6923 0 1 1 564.1923 317.4862M600.0897 317.5A173.5897 173.5897 0 1 1 600.0897 317.4826M635.9872 317.5A209.4872 209.4872 0 1 1 635.9872 317.4791M671.8846 317.5A245.3846 245.3846 0 1 1 671.8846 317.4755M680.5 317.5A254 254 0 1 1 680.5 317.4746" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="614.0571145060462" y="128.56195366144894" fill="#54555a">Mon</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="686.4666721292451" y="350.0780506176411" fill="#54555a">Tue</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="563.1160232854286" y="547.0622109876248" fill="#54555a">Wed</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="336.8907224486748" y="569.699466645908" fill="#54555a">Thu</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="178.14303530421154" y="406.94350236594147" fill="#54555a">Fri</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="206.413208134498" y="169.35287886717086" fill="#54555a">Sat</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="400.4132241918959" y="50.80193685426485" fill="#54555a">Sun</text>
+<path d="M515.0832 74.1196L513.3731 78.8181M672.0132 235.012L667.2735 236.6044M644.0667 458.0195L639.8666 455.3068M452.2881 575.213L451.7902 570.2378M241.0905 498.3433L244.6698 494.8522M169.51 285.295L174.4712 285.9167M291.4483 96.4977L294.0555 100.7641" fill="#000" stroke="#54555a" class="zr1-cls-1"></path>
+<path d="M436.7606 289.3092L513.3731 78.8181" fill="none" stroke="#54555a" stroke-linecap="round" class="zr1-cls-0"></path>
+<path d="M680.5 317.5A254 254 0 1 1 680.5 317.4746M456.5 317.5A30 30 0 1 0 456.5 317.503" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M436.7606 289.3092L432.0621 287.5991" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M449.0383 255.5767L444.3398 253.8666" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M461.3159 221.8441L456.6174 220.134" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M473.5935 188.1116L468.8951 186.4015" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M485.8712 154.379L481.1727 152.6689" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M498.1488 120.6464L493.4504 118.9363" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M510.4265 86.9139L505.728 85.2038" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(429.2431 286.5731)" fill="#54555a">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(441.5207 252.8405)" fill="#54555a">10</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(453.7984 219.1079)" fill="#54555a">20</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(466.076 185.3754)" fill="#54555a">30</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(478.3536 151.6428)" fill="#54555a">40</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(490.6313 117.9103)" fill="#54555a">50</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(502.9089 84.1777)" fill="#54555a">60</text>
+<path d="M558.512 100.5004A254 254 0 0 1 646.7233 190.939L452.5106 302.5519A30 30 0 0 0 442.092 291.8701Z" fill="rgb(180,180,180)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M678.4653 285.414A254 254 0 0 1 662.7564 410.7681L454.4043 328.5159A30 30 0 0 0 456.2597 313.7103Z" fill="rgb(180,180,180)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M608.6836 494.4891A254 254 0 0 1 500.8835 560.3643L435.2855 346.1848A30 30 0 0 0 448.0177 338.4042Z" fill="rgb(180,180,180)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M401.7139 570.2878A254 254 0 0 1 282.9984 527.0788L409.551 342.2534A30 30 0 0 0 423.5725 347.3568Z" fill="rgb(180,180,180)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M213.4087 455.7321A254 254 0 0 1 173.1729 335.9762L396.5795 319.6822A30 30 0 0 0 401.3317 333.8266Z" fill="rgb(180,180,180)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M185.5656 237.0848A254 254 0 0 1 254.1079 130.9606L406.1387 295.4678A30 30 0 0 0 398.0432 308.0021Z" fill="rgb(180,180,180)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M339.151 78.9918A254 254 0 0 1 464.8576 66.413L431.0304 287.8441A30 30 0 0 0 416.1832 289.3297Z" fill="rgb(180,180,180)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M460.749 261.2019A65.8974 65.8974 0 0 1 483.6345 284.6652L452.5106 302.5519A30 30 0 0 0 442.092 291.8701Z" fill="#1cc7d0" class="zr1-cls-2"></path>
+<path d="M641.431 290.1301A216.6667 216.6667 0 0 1 628.031 397.0594L454.4043 328.5159A30 30 0 0 0 456.2597 313.7103Z" fill="#2dde98" class="zr1-cls-3"></path>
+<path d="M545.8591 433.4559A166.4103 166.4103 0 0 1 475.233 476.6146L435.2855 346.1848A30 30 0 0 0 448.0177 338.4042Z" fill="#ffc168" class="zr1-cls-4"></path>
+<path d="M406.0576 525.9874A209.4872 209.4872 0 0 1 308.1467 490.3507L409.551 342.2534A30 30 0 0 0 423.5725 347.3568Z" fill="#ff6c5f" class="zr1-cls-5"></path>
+<path d="M338.0884 374.8525A105.3846 105.3846 0 0 1 321.3946 325.1658L396.5795 319.6822A30 30 0 0 0 401.3317 333.8266Z" fill="#ff4f81" class="zr1-cls-6"></path>
+<path d="M336.7516 287.5452A94.6154 94.6154 0 0 1 362.2837 248.0138L406.1387 295.4678A30 30 0 0 0 398.0432 308.0021Z" fill="#b84592" class="zr1-cls-7"></path>
+<path d="M375.445 178.0933A148.4615 148.4615 0 0 1 448.9198 170.7411L431.0304 287.8441A30 30 0 0 0 416.1832 289.3297Z" fill="rgb(142,67,231)" class="zr1-cls-8"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.698,0.716,-0.716,0.698,477.2531,267.9968)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Mon: 10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(-0.124,0.992,-0.992,-0.124,646.4464,345.0629)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Tue: 52</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(-0.853,0.521,-0.521,-0.853,515.8793,463.7628)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Wed: 38</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(-0.94,-0.342,0.342,-0.94,353.1411,519.052)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Thu: 50</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(-0.318,-0.948,0.948,-0.318,321.8634,352.656)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Fri: 21</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.543,-0.84,0.84,0.543,342.8205,263.454)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sat: 18</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.995,-0.1,0.1,0.995,411.2202,164.801)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sun: 33</text>
+<path d="M-77 -5l154 0l0 28l-154 0Z" transform="translate(426.5 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" y="9" transform="translate(426.5 20)" fill="#3c3c41">垂直极坐标柱状图</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(30,218,228,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(49,244,167,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(255,212,114,1);
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(255,118,104,1);
+}
+.zr1-cls-6:hover {
+cursor:pointer;
+fill:rgba(255,86,141,1);
+}
+.zr1-cls-7:hover {
+cursor:pointer;
+fill:rgba(202,75,160,1);
+}
+.zr1-cls-8:hover {
+cursor:pointer;
+fill:rgba(156,73,254,1);
+}
+
+]]>
+
+</style>
+</svg>

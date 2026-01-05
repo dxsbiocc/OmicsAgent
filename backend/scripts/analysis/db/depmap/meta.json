@@ -1,0 +1,73 @@
+{
+    "name": "DepMap",
+    "title": "DepMap",
+    "description": "DepMap 数据分析工具.",
+    "detail": "DepMap（The Cancer Dependency Map） 是由美国 Broad Institute 发起的全球性癌症功能基因组学计划，旨在系统地绘制出 癌症细胞生存所依赖的基因网络。\n\n通过对数百种癌细胞系进行 CRISPR-Cas9 基因敲除、RNAi干扰、药物筛选 等实验，DepMap 为研究人员提供了 癌症基因依赖性、突变、表达、拷贝数变化、药物敏感性 等多维度的大规模数据资源。\n\nDepMap 目前已整合 >1,000 个癌细胞系，涵盖 30 余种癌症类型，是癌症靶点发现、合成致死研究和精准医疗的重要基础数据库。",
+    "type": "database",
+    "category": "database",
+    "tools": [
+        {
+            "name": "correlation",
+            "title": "相关性分析",
+            "icon": "mdi:chart-scatter-plot",
+            "description": "DepMap 相关性分析",
+            "params": {
+                "x": {
+                    "type": "string",
+                    "description": "x 轴数据"
+                },
+                "y": {
+                    "type": "string",
+                    "description": "y 轴数据"
+                }
+            }
+        },
+        {
+            "name": "dependency",
+            "title": "依赖性分析",
+            "icon": "mdi:dependency",
+            "description": "DepMap 依赖性分析"
+        },
+        {
+            "name": "synthetic_lethality",
+            "title": "合成致死分析",
+            "icon": "healthicons:death",
+            "description": "DepMap 合成致死分析"
+        },
+        {
+            "name": "drug_association",
+            "title": "药物关联分析",
+            "icon": "file-icons:moleculer",
+            "description": "DepMap 药物关联分析",
+            "params": {
+                "gene": {
+                    "type": "string",
+                    "description": "基因名称"
+                },
+                "screen_name": {
+                    "type": "select",
+                    "description": "screen 名称",
+                    "options": [
+                        "PRISM",
+                        "GDSC1",
+                        "GDSC2",
+                        "CTRPv2"
+                    ],
+                    "default": "PRISM"
+                },
+                "method": {
+                    "type": "select",
+                    "description": "方法",
+                    "options": [
+                        "pearson",
+                        "spearman",
+                        "bicor",
+                        "mutual_information",
+                        "mic"
+                    ],
+                    "default": "pearson"
+                }
+            }
+        }
+    ]
+}

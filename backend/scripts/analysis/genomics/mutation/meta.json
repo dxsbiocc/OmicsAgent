@@ -1,0 +1,6 @@
+{
+    "name": "基因突变分析",
+    "description": "检测和分析基因突变，包括单核苷酸变异（SNV）、插入缺失（Indel）等。",
+    "type": "analysis",
+    "category": "genomics"
+}

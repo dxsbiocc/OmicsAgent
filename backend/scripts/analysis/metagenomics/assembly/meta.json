@@ -1,0 +1,6 @@
+{
+    "name": "序列组装分析",
+    "description": "宏基因组序列组装和质量评估，包括contig组装、scaffold构建和组装质量评估。",
+    "type": "analysis",
+    "category": "metagenomics"
+}

@@ -1,0 +1,132 @@
+{
+  "name": "扇形棒棒糖图",
+  "description": "扇形棒棒糖图是一种特殊的极坐标图，适合展示多个类别的数值",
+  "ggplot2": {
+    "mapping": {
+      "x": "age_group",
+      "y": "mean_prev",
+      "colour": "group"
+    },
+    "layers": [
+      {
+        "type": "geom_segment",
+        "mapping": {
+          "x": "age_group",
+          "xend": "age_group",
+          "y": 0,
+          "yend": "mean_prev"
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 5,
+          "shape": 21,
+          "fill": "#ffffff"
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 3
+        }
+      },
+      {
+        "type": "geom_hline",
+        "arguments": {
+          "yintercept": [
+            0
+          ],
+          "colour": [
+            "#81947a"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Radial Lollipop Plot",
+        "x": "",
+        "y": ""
+      }
+    },
+    "coordinates": {
+      "type": "coord_radial",
+      "arguments": {
+        "start": -1.256637,
+        "end": 1.256637,
+        "inner.radius": 0.4
+      }
+    },
+    "guides": {
+      "colour": {
+        "type": "guide_none"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#1aafd0",
+            "#2dde98",
+            "#ffc168"
+          ]
+        }
+      },
+      {
+        "type": "scale_y_continuous",
+        "arguments": {
+          "expand": {
+            "type": "expansion",
+            "arguments": {
+              "mult": [
+                0,
+                0.1
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "panel.background": {
+            "type": "element_rect",
+            "arguments": {
+              "fill": "#f3ead833"
+            }
+          },
+          "panel.grid.major": {
+            "type": "element_line",
+            "arguments": {
+              "colour": "grey90"
+            }
+          },
+          "axis.title": {
+            "type": "element_blank"
+          },
+          "axis.ticks": {
+            "type": "element_blank"
+          },
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "size": 14,
+              "hjust": 0.5
+            }
+          },
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 600,
+    "height": 600
+  },
+  "has_js": false
+}

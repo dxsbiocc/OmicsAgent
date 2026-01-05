@@ -1,0 +1,6 @@
+{
+    "name": "全基因组关联分析",
+    "description": "全基因组关联研究（GWAS）数据分析，识别与表型或疾病相关的遗传变异位点。",
+    "type": "analysis",
+    "category": "genomics"
+}

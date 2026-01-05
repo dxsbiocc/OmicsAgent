@@ -1,0 +1,83 @@
+// Common TCGA cancer types
+export const TCGA_CANCER_TYPES = [
+  { value: "all", label: "ALL" },
+  { value: "ACC", label: "Adrenocortical Carcinoma (ACC)" },
+  { value: "BLCA", label: "Bladder Urothelial Carcinoma (BLCA)" },
+  { value: "BRCA", label: "Breast invasive carcinoma (BRCA)" },
+  {
+    value: "CESC",
+    label:
+      "Cervical squamous cell carcinoma and endocervical adenocarcinoma (CESC)",
+  },
+  { value: "CHOL", label: "Cholangiocarcinoma (CHOL)" },
+  { value: "COAD", label: "Colorectal Adenocarcinoma (COAD)" },
+  {
+    value: "DLBC",
+    label: "Lymphoid Neoplasm Diffuse Large B-cell Lymphoma (DLBC)",
+  },
+  { value: "ESCA", label: "Esophageal Carcinoma (ESCA)" },
+  { value: "GBM", label: "Glioblastoma Multiforme (GBM)" },
+  {
+    value: "HNSC",
+    label: "Head and Neck Squamous Cell Carcinoma (HNSC)",
+  },
+  { value: "KICH", label: "Kidney Chromophobe (KICH)" },
+  { value: "KIRC", label: "Kidney Renal Clear Cell Carcinoma (KIRC)" },
+  {
+    value: "KIRP",
+    label: "Kidney Renal Papillary Cell Carcinoma (KIRP)",
+  },
+  { value: "LAML", label: "Acute Myeloid Leukemia (LAML)" },
+  { value: "LGG", label: "Brain Lower Grade Glioma (LGG)" },
+  { value: "LIHC", label: "Liver Hepatocellular Carcinoma (LIHC)" },
+  { value: "LUAD", label: "Lung Adenocarcinoma (LUAD)" },
+  { value: "LUSC", label: "Lung Squamous Cell Carcinoma (LUSC)" },
+  { value: "MESO", label: "Mesothelioma (MESO)" },
+  {
+    value: "OV",
+    label: "Ovarian Serous Cystadenocarcinoma (OV)",
+  },
+  { value: "PAAD", label: "Pancreatic Adenocarcinoma (PAAD)" },
+  {
+    value: "PCPG",
+    label: "Paraganglioma and Pheochromocytoma (PCPG)",
+  },
+  { value: "PRAD", label: "Prostate Adenocarcinoma (PRAD)" },
+  { value: "READ", label: "Rectal Adenocarcinoma (READ)" },
+  { value: "SARC", label: "Sarcoma (SARC)" },
+  { value: "SKCM", label: "Skin Cutaneous Melanoma (SKCM)" },
+  { value: "STAD", label: "Stomach Adenocarcinoma (STAD)" },
+  { value: "TGCT", label: "Testicular Germ Cell Tumors (TGCT)" },
+  { value: "THCA", label: "Thyroid Carcinoma (THCA)" },
+  { value: "THYM", label: "Thymoma (THYM)" },
+  { value: "UCEC", label: "Endometrial Adenocarcinoma (UCEC)" },
+  {
+    value: "UCS",
+    label: "Uterine Carcinosarcoma (UCS)",
+  },
+  { value: "UVM", label: "Uveal Melanoma (UVM)" },
+];
+
+// Common gene list for autocomplete (fallback for small lists)
+export const COMMON_GENES = [
+  "TP53",
+  "BRCA1",
+  "BRCA2",
+  "EGFR",
+  "KRAS",
+  "PIK3CA",
+  "PTEN",
+  "MYC",
+  "CDKN2A",
+  "RB1",
+  "ARID1A",
+  "APC",
+  "CTNNB1",
+  "NF1",
+  "VHL",
+  "BRAF",
+  "MET",
+  "ERBB2",
+  "ALK",
+  "IDH1",
+];

@@ -56,6 +56,46 @@ class VisualToolResponse(VisualToolBase):
         from_attributes = True
 
 
+# 工具信息模型（文件系统）
+class VisualToolInfo(BaseModel):
+    tool: str = Field(..., description="工具名称，如 'line/basic'")
+    name: str = Field(..., description="显示名称")
+    description: str = Field(..., description="工具描述")
+    category: str = Field(..., description="工具分类")
+    tool_name: str = Field(..., description="工具名称（不包含分类）")
+    params_schema: Dict[str, Any] = Field(default_factory=dict, description="参数模式")
+    defaults: Dict[str, Any] = Field(default_factory=dict, description="默认参数")
+    sample_data_filename: Optional[str] = Field(None, description="样本数据文件名")
+    sample_image_url: Optional[str] = Field(None, description="样本图片URL")
+    docs_markdown: Optional[str] = Field(None, description="文档Markdown")
+    has_python: bool = Field(default=False, description="是否存在 Python 脚本")
+    has_r: bool = Field(default=False, description="是否存在 R 脚本")
+    has_js: bool = Field(default=True, description="是否存在 JS 版本")
+    ggplot2: Optional[Dict[str, Any]] = Field(None, description="ggplot2 配置")
+    heatmap: Optional[Dict[str, Any]] = Field(None, description="heatmap 配置")
+
+
+# 工具分组模型
+class VisualToolGroup(BaseModel):
+    category: str = Field(..., description="分类名称")
+    display_name: str = Field(..., description="分类显示名称")
+    tools: List[VisualToolInfo] = Field(
+        default_factory=list, description="该分类下的工具"
+    )
+    tool_count: int = Field(..., description="工具数量")
+
+
+# 工具列表响应模型
+class VisualToolsResponse(BaseModel):
+    tools: List[VisualToolInfo] = Field(default_factory=list, description="所有工具")
+    groups: List[VisualToolGroup] = Field(
+        default_factory=list, description="按分类分组的工具"
+    )
+    total_tools: int = Field(..., description="总工具数")
+    total_categories: int = Field(..., description="总分类数")
+    category_stats: Dict[str, int] = Field(default_factory=dict, description="分类统计")
+
+
 # 点赞/收藏模型
 class UserToolLikeCreate(BaseModel):
     tool_id: int = Field(..., description="工具ID")
@@ -144,33 +184,33 @@ class VisualToolStatsResponse(BaseModel):
     recent_tools: List[VisualToolResponse] = []
 
 
-# 工具信息模型（用于API响应）
-class VisualToolInfo(BaseModel):
-    """Metadata describing a visual tool for frontend display."""
-
-    tool: str
-    name: str
-    description: str
-    params_schema: Dict[str, Any] = Field(
-        default_factory=dict, description="JSON schema-like param description"
-    )
-    defaults: Dict[str, Any] = Field(default_factory=dict)
-    sample_data_filename: Optional[str] = None
-    sample_image_url: Optional[str] = None
-    docs_markdown: Optional[str] = None
-
-
 # 绘图执行响应模型
 class VisualRunResponse(BaseModel):
     """Response returned after running a visual tool."""
 
     success: bool
     message: Optional[str] = None
-    image_url: Optional[str] = None
-    output_files: List[str] = []
+    output_files: List[str] = []  # 包含 PNG 和 PDF URL，第一个是 PNG，第二个是 PDF
     warnings: List[str] = []
     tool: Optional[str] = None
     used_params: Dict[str, Any] = Field(default_factory=dict)
+    error_details: Optional[Dict[str, Any]] = Field(None, description="Detailed error information for recovery")
+    data_info: Optional[Dict[str, Any]] = Field(None, description="Data format information")
+    
+    @property
+    def image_url(self) -> Optional[str]:
+        """Get PNG image URL"""
+        return self.output_files[0] if len(self.output_files) > 0 else None
+    
+    @property
+    def pdf_url(self) -> Optional[str]:
+        """Get PDF URL"""
+        return self.output_files[1] if len(self.output_files) > 1 else None
+    
+    @property
+    def data_url(self) -> Optional[str]:
+        """Get data URL if available"""
+        return self.output_files[2] if len(self.output_files) > 2 else None
 
 
 class VisualTaskResponse(BaseModel):

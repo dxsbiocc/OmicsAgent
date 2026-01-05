@@ -1,0 +1,6 @@
+{
+    "name": "DNA甲基化分析",
+    "description": "DNA甲基化数据分析，识别差异甲基化区域（DMR）和甲基化模式变化。",
+    "type": "analysis",
+    "category": "epigenetics"
+}

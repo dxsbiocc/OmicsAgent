@@ -1,0 +1,76 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<path d="M127.95 555.5L767.7 555.5" fill="none" stroke="#dbdee4" class="zr1-cls-6"></path>
+<path d="M127.95 432.5L767.7 432.5" fill="none" stroke="#dbdee4" class="zr1-cls-6"></path>
+<path d="M127.95 310.5L767.7 310.5" fill="none" stroke="#dbdee4" class="zr1-cls-6"></path>
+<path d="M127.95 187.5L767.7 187.5" fill="none" stroke="#dbdee4" class="zr1-cls-6"></path>
+<path d="M127.95 65.5L767.7 65.5" fill="none" stroke="#dbdee4" class="zr1-cls-6"></path>
+<path d="M127.95 555.5L767.7 555.5" fill="none" stroke="#54555a" stroke-linecap="round" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 555)" fill="#54555a">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 432.5)" fill="#54555a">200</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 310)" fill="#54555a">400</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 187.5)" fill="#54555a">600</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 65)" fill="#54555a">800</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(163.4917 563)" fill="#54555a">2019-10-10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(305.6583 563)" fill="#54555a">2019-10-12</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(447.825 563)" fill="#54555a">2019-10-14</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(589.9917 563)" fill="#54555a">2019-10-16</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(732.1583 563)" fill="#54555a">2019-10-18</text>
+<g clip-path="url(#zr1-c0)">
+<path d="M163.4917 432.5C163.4917 432.5 180.8804 339.2335 234.575 212C266.1804 137.1085 261.3357 95.625 305.6583 95.625C346.6357 95.625 345.1428 131.681 376.7417 199.75C430.4429 315.431 386.3448 401.875 447.825 401.875C471.6448 401.875 481.591 391.155 518.9083 359C566.891 317.655 549.1451 279.375 589.9916 279.375C634.4451 279.375 622.6383 313.2908 661.075 371.25C707.9384 441.9158 732.1583 493.75 732.1583 493.75L732.1583 555L661.075 555L589.9916 555L518.9083 555L447.825 555L376.7417 555L305.6583 555L234.575 555L163.4917 555Z" fill="url(#zr1-g0)" fill-opacity="0.7" class="zr1-cls-8"></path>
+<path d="M163.4917 432.5C163.4917 432.5 180.8804 339.2335 234.575 212C266.1804 137.1085 261.3357 95.625 305.6583 95.625C346.6357 95.625 345.1428 131.681 376.7417 199.75C430.4429 315.431 386.3448 401.875 447.825 401.875C471.6448 401.875 481.591 391.155 518.9083 359C566.891 317.655 549.1451 279.375 589.9916 279.375C634.4451 279.375 622.6383 313.2908 661.075 371.25C707.9384 441.9158 732.1583 493.75 732.1583 493.75" fill="none" stroke="rgb(48,195,158)" stroke-width="5" stroke-linejoin="bevel" class="zr1-cls-9"></path>
+</g>
+<path d="M-15 -15l156.2799 0l0 44l-156.2799 0Z" transform="translate(363.36 606)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#cfd2d7" stroke-width="0" class="zr1-cls-6"></path>
+<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(363.36 606)" fill="#3BE8B0" class="zr1-cls-10"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(363.36 606)" fill="#54555a">1 - 3</text>
+<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(430.624 606)" fill="#3BE8B0" class="zr1-cls-10"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(430.624 606)" fill="#54555a">5 - 7</text>
+<path d="M234.5 555L234.5 65" fill="none" stroke="#00BCE4" stroke-dasharray="4,2" class="zr1-cls-11"></path>
+<path d="M376.5 555L376.5 65" fill="none" stroke="#00BCE4" stroke-dasharray="4,2" class="zr1-cls-11"></path>
+<path d="M519.5 555L519.5 65" fill="none" stroke="#00BCE4" stroke-dasharray="4,2" class="zr1-cls-11"></path>
+<path d="M661.5 555L661.5 65" fill="none" stroke="#00BCE4" stroke-dasharray="4,2" class="zr1-cls-11"></path>
+<path d="M-70.5109 -5l141.0219 0l0 28l-141.0219 0Z" transform="translate(426.5 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(426.5 20)" fill="#3c3c41">High Light Line</text>
+<defs >
+<clipPath id="zr1-c0">
+<path d="M125 62.5l646 0l0 495l-646 0Z" fill="#000" class="zr1-cls-7"></path>
+</clipPath>
+<linearGradient gradientUnits="userSpaceOnUse" x1="224.575" y1="0" x2="671.075" y2="0" id="zr1-g0">
+<stop offset="2.2399999999999998%" stop-color="rgb(0,0,0)" stop-opacity="0"></stop>
+<stop offset="2.2399999999999998%" stop-color="rgb(59,232,176)"></stop>
+<stop offset="34.08%" stop-color="rgb(59,232,176)"></stop>
+<stop offset="34.08%" stop-color="rgb(0,0,0)" stop-opacity="0"></stop>
+<stop offset="65.92%" stop-color="rgb(0,0,0)" stop-opacity="0"></stop>
+<stop offset="65.92%" stop-color="rgb(59,232,176)"></stop>
+<stop offset="97.76%" stop-color="rgb(59,232,176)"></stop>
+<stop offset="97.76%" stop-color="rgb(0,0,0)" stop-opacity="0"></stop>
+</linearGradient>
+</defs>
+<style ><![CDATA[
+.zr1-cls-6:hover {
+pointer-events:none;
+}
+.zr1-cls-7:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr1-cls-8:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr1-cls-9:hover {
+cursor:pointer;
+}
+.zr1-cls-10:hover {
+cursor:pointer;
+fill:rgba(64,255,193,1);
+}
+.zr1-cls-11:hover {
+cursor:pointer;
+stroke-width:3;
+}
+
+]]>
+
+</style>
+</svg>

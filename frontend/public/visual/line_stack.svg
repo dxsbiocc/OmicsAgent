@@ -1,0 +1,134 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<path d="M65.558 551.5L818.88 551.5" fill="none" stroke="#dbdee4" class="zr1-cls-18"></path>
+<path d="M65.558 470.5L818.88 470.5" fill="none" stroke="#dbdee4" class="zr1-cls-18"></path>
+<path d="M65.558 389.5L818.88 389.5" fill="none" stroke="#dbdee4" class="zr1-cls-18"></path>
+<path d="M65.558 308.5L818.88 308.5" fill="none" stroke="#dbdee4" class="zr1-cls-18"></path>
+<path d="M65.558 227.5L818.88 227.5" fill="none" stroke="#dbdee4" class="zr1-cls-18"></path>
+<path d="M65.558 146.5L818.88 146.5" fill="none" stroke="#dbdee4" class="zr1-cls-18"></path>
+<path d="M65.558 65.5L818.88 65.5" fill="none" stroke="#dbdee4" class="zr1-cls-18"></path>
+<path d="M65.558 551.5L818.88 551.5" fill="none" stroke="#54555a" stroke-linecap="round" class="zr1-cls-18"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(57.558 551.5)" fill="#54555a">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(57.558 470.4167)" fill="#54555a">500</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(57.558 389.3333)" fill="#54555a">1,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(57.558 308.25)" fill="#54555a">1,500</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(57.558 227.1667)" fill="#54555a">2,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(57.558 146.0833)" fill="#54555a">2,500</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(57.558 65)" fill="#54555a">3,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(119.3667 559.5)" fill="#54555a">Mon</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(226.9841 559.5)" fill="#54555a">Tue</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(334.6016 559.5)" fill="#54555a">Wed</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(442.219 559.5)" fill="#54555a">Thu</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(549.8364 559.5)" fill="#54555a">Fri</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(657.4539 559.5)" fill="#54555a">Sat</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(765.0713 559.5)" fill="#54555a">Sun</text>
+<g clip-path="url(#zr1-c0)">
+<path d="M119.3667 532.04C119.3667 532.04 173.2003 530.094 226.9841 530.094C280.8178 530.094 280.7967 535.1212 334.6016 535.1212C388.4142 535.1212 388.4361 529.7697 442.219 529.7697C496.0535 529.7697 496.5544 536.905 549.8364 536.905C604.1719 536.905 603.0716 514.2017 657.4539 514.2017C710.689 514.2017 765.0713 517.445 765.0713 517.445L765.0713 551.5L657.4539 551.5L549.8364 551.5L442.219 551.5L334.6016 551.5L226.9841 551.5L119.3667 551.5Z" fill="rgb(59,232,176)" fill-opacity="0.8" class="zr1-cls-20"></path>
+</g>
+<g clip-path="url(#zr1-c1)">
+<path d="M119.3667 496.3633C119.3667 496.3633 173.1696 498.6335 226.9841 500.5797C280.787 502.5255 280.9534 504.1473 334.6016 504.1473C388.5708 504.1473 388.2394 493.781 442.219 491.8227C495.8568 489.8767 496.9782 491.8227 549.8364 489.8767C604.5956 487.8607 602.739 460.6867 657.4539 460.6867C710.3565 460.6867 765.0713 467.1733 765.0713 467.1733L765.0713 517.445C765.0713 517.445 710.689 514.2017 657.4539 514.2017C603.0716 514.2017 604.1719 536.905 549.8364 536.905C496.5544 536.905 496.0535 529.7697 442.219 529.7697C388.4361 529.7697 388.4142 535.1212 334.6016 535.1212C280.7967 535.1212 280.8178 530.094 226.9841 530.094C173.2003 530.094 119.3667 532.04 119.3667 532.04Z" fill="rgb(26,175,208)" fill-opacity="0.8" class="zr1-cls-21"></path>
+</g>
+<g clip-path="url(#zr1-c2)">
+<path d="M119.3667 472.0383C119.3667 472.0383 173.1655 462.957 226.9841 462.957C280.7829 462.957 280.733 471.5518 334.6016 471.5518C388.3504 471.5518 388.4548 469.9681 442.219 466.849C496.0722 463.7247 498.7675 466.849 549.8364 459.065C606.3849 450.4458 600.884 414.36 657.4539 407.1717C708.5015 400.685 765.0713 400.685 765.0713 400.685L765.0713 467.1733C765.0713 467.1733 710.3565 460.6867 657.4539 460.6867C602.739 460.6867 604.5956 487.8607 549.8364 489.8767C496.9782 491.8227 495.8568 489.8767 442.219 491.8227C388.2394 493.781 388.5708 504.1473 334.6016 504.1473C280.9534 504.1473 280.787 502.5255 226.9841 500.5797C173.1696 498.6335 119.3667 496.3633 119.3667 496.3633Z" fill="rgb(106,103,206)" fill-opacity="0.8" class="zr1-cls-22"></path>
+</g>
+<g clip-path="url(#zr1-c3)">
+<path d="M119.3667 420.145C119.3667 420.145 173.2487 409.1177 226.9841 409.1177C280.8662 409.1177 280.6959 422.7397 334.6016 422.7397C388.3134 422.7397 388.6198 419.389 442.219 412.6853C496.2372 405.9292 497.6218 410.14 549.8364 395.82C605.2393 380.6257 601.7524 358.8764 657.4539 353.6567C709.3699 348.7917 765.0713 348.7917 765.0713 348.7917L765.0713 400.685C765.0713 400.685 708.5015 400.685 657.4539 407.1717C600.884 414.36 606.3849 450.4458 549.8364 459.065C498.7675 466.849 496.0722 463.7247 442.219 466.849C388.4548 469.9681 388.3504 471.5518 334.6016 471.5518C280.733 471.5518 280.7829 462.957 226.9841 462.957C173.1655 462.957 119.3667 472.0383 119.3667 472.0383Z" fill="rgb(255,185,0)" fill-opacity="0.8" class="zr1-cls-23"></path>
+</g>
+<g clip-path="url(#zr1-c4)">
+<path d="M119.3667 287.1683C119.3667 287.1683 172.6185 257.9783 226.9841 257.9783C280.2359 257.9783 280.6677 276.6275 334.6016 276.6275C388.2851 276.6275 393.4012 276.6275 442.219 261.2217C501.0186 242.6658 493.2534 219.0253 549.8364 186.625C600.8709 157.4019 601.1577 141.5327 657.4539 137.975C708.7751 134.7317 765.0713 134.7317 765.0713 134.7317L765.0713 348.7917C765.0713 348.7917 709.3699 348.7917 657.4539 353.6567C601.7524 358.8764 605.2393 380.6257 549.8364 395.82C497.6218 410.14 496.2372 405.9292 442.219 412.6853C388.6198 419.389 388.3134 422.7397 334.6016 422.7397C280.6959 422.7397 280.8662 409.1177 226.9841 409.1177C173.2487 409.1177 119.3667 420.145 119.3667 420.145Z" fill="rgb(252,99,107)" fill-opacity="0.8" class="zr1-cls-24"></path>
+</g>
+<g clip-path="url(#zr1-c0)">
+<path d="M119.3667 532.04C119.3667 532.04 173.2003 530.094 226.9841 530.094C280.8178 530.094 280.7967 535.1212 334.6016 535.1212C388.4142 535.1212 388.4361 529.7697 442.219 529.7697C496.0535 529.7697 496.5544 536.905 549.8364 536.905C604.1719 536.905 603.0716 514.2017 657.4539 514.2017C710.689 514.2017 765.0713 517.445 765.0713 517.445" fill="none" stroke="rgb(59,232,176)" stroke-width="0" stroke-linejoin="bevel" class="zr1-cls-25"></path>
+</g>
+<g clip-path="url(#zr1-c1)">
+<path d="M119.3667 496.3633C119.3667 496.3633 173.1696 498.6335 226.9841 500.5797C280.787 502.5255 280.9534 504.1473 334.6016 504.1473C388.5708 504.1473 388.2394 493.781 442.219 491.8227C495.8568 489.8767 496.9782 491.8227 549.8364 489.8767C604.5956 487.8607 602.739 460.6867 657.4539 460.6867C710.3565 460.6867 765.0713 467.1733 765.0713 467.1733" fill="none" stroke="rgb(26,175,208)" stroke-width="0" stroke-linejoin="bevel" class="zr1-cls-25"></path>
+</g>
+<g clip-path="url(#zr1-c2)">
+<path d="M119.3667 472.0383C119.3667 472.0383 173.1655 462.957 226.9841 462.957C280.7829 462.957 280.733 471.5518 334.6016 471.5518C388.3504 471.5518 388.4548 469.9681 442.219 466.849C496.0722 463.7247 498.7675 466.849 549.8364 459.065C606.3849 450.4458 600.884 414.36 657.4539 407.1717C708.5015 400.685 765.0713 400.685 765.0713 400.685" fill="none" stroke="rgb(106,103,206)" stroke-width="0" stroke-linejoin="bevel" class="zr1-cls-25"></path>
+</g>
+<g clip-path="url(#zr1-c3)">
+<path d="M119.3667 420.145C119.3667 420.145 173.2487 409.1177 226.9841 409.1177C280.8662 409.1177 280.6959 422.7397 334.6016 422.7397C388.3134 422.7397 388.6198 419.389 442.219 412.6853C496.2372 405.9292 497.6218 410.14 549.8364 395.82C605.2393 380.6257 601.7524 358.8764 657.4539 353.6567C709.3699 348.7917 765.0713 348.7917 765.0713 348.7917" fill="none" stroke="rgb(255,185,0)" stroke-width="0" stroke-linejoin="bevel" class="zr1-cls-25"></path>
+</g>
+<g clip-path="url(#zr1-c4)">
+<path d="M119.3667 287.1683C119.3667 287.1683 172.6185 257.9783 226.9841 257.9783C280.2359 257.9783 280.6677 276.6275 334.6016 276.6275C388.2851 276.6275 393.4012 276.6275 442.219 261.2217C501.0186 242.6658 493.2534 219.0253 549.8364 186.625C600.8709 157.4019 601.1577 141.5327 657.4539 137.975C708.7751 134.7317 765.0713 134.7317 765.0713 134.7317" fill="none" stroke="rgb(252,99,107)" stroke-width="0" stroke-linejoin="bevel" class="zr1-cls-25"></path>
+</g>
+<path d="M-5 -5l449.8557 0l0 23.2l-449.8557 0Z" transform="translate(218.25 24.05)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-18"></path>
+<path d="M0 7L25 7" transform="translate(218.25 23.65)" fill="#000" stroke="#3be8b0" stroke-width="0" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-18"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(218.25 23.65)" fill="#fff" stroke="#3be8b0" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(218.25 23.65)" fill="#54555a">Email</text>
+<path d="M0 0.4l60.504 0l0 13.2l-60.504 0Z" transform="translate(218.25 23.65)" fill="none" class="zr1-cls-26"></path>
+<path d="M0 7L25 7" transform="translate(286.754 23.65)" fill="#000" stroke="#1aafd0" stroke-width="0" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-18"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(286.754 23.65)" fill="#fff" stroke="#1aafd0" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(286.754 23.65)" fill="#54555a">Union Ads</text>
+<path d="M0 0.4l87.0599 0l0 13.2l-87.0599 0Z" transform="translate(286.754 23.65)" fill="none" class="zr1-cls-26"></path>
+<path d="M0 7L25 7" transform="translate(381.8139 23.65)" fill="#000" stroke="#6a67ce" stroke-width="0" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-18"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(381.8139 23.65)" fill="#fff" stroke="#6a67ce" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(381.8139 23.65)" fill="#54555a">Video Ads</text>
+<path d="M0 0.4l86.4359 0l0 13.2l-86.4359 0Z" transform="translate(381.8139 23.65)" fill="none" class="zr1-cls-26"></path>
+<path d="M0 7L25 7" transform="translate(476.2498 23.65)" fill="#000" stroke="#ffb900" stroke-width="0" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-18"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(476.2498 23.65)" fill="#fff" stroke="#ffb900" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(476.2498 23.65)" fill="#54555a">Direct</text>
+<path d="M0 0.4l63.4079 0l0 13.2l-63.4079 0Z" transform="translate(476.2498 23.65)" fill="none" class="zr1-cls-26"></path>
+<path d="M0 7L25 7" transform="translate(547.6578 23.65)" fill="#000" stroke="#fc636b" stroke-width="0" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-18"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(547.6578 23.65)" fill="#fff" stroke="#fc636b" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(547.6578 23.65)" fill="#54555a">Search Engine</text>
+<path d="M0 0.4l110.4479 0l0 13.2l-110.4479 0Z" transform="translate(547.6578 23.65)" fill="none" class="zr1-cls-26"></path>
+<path d="M-5 -5l125.7579 0l0 28l-125.7579 0Z" transform="translate(397.38 595.55)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(397.38 595.55)" fill="#3c3c41">Grouped Line</text>
+<defs >
+<clipPath id="zr1-c0">
+<path d="M65 65l755 0l0 486.5l-755 0Z" fill="#000" class="zr1-cls-19"></path>
+</clipPath>
+<clipPath id="zr1-c1">
+<path d="M65 65l755 0l0 486.5l-755 0Z" fill="#000" class="zr1-cls-19"></path>
+</clipPath>
+<clipPath id="zr1-c2">
+<path d="M65 65l755 0l0 486.5l-755 0Z" fill="#000" class="zr1-cls-19"></path>
+</clipPath>
+<clipPath id="zr1-c3">
+<path d="M65 65l755 0l0 486.5l-755 0Z" fill="#000" class="zr1-cls-19"></path>
+</clipPath>
+<clipPath id="zr1-c4">
+<path d="M65 65l755 0l0 486.5l-755 0Z" fill="#000" class="zr1-cls-19"></path>
+</clipPath>
+</defs>
+<style ><![CDATA[
+.zr1-cls-18:hover {
+pointer-events:none;
+}
+.zr1-cls-19:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr1-cls-20:hover {
+cursor:pointer;
+fill:rgba(64,255,193,1);
+}
+.zr1-cls-21:hover {
+cursor:pointer;
+fill:rgba(28,192,228,1);
+}
+.zr1-cls-22:hover {
+cursor:pointer;
+fill:rgba(116,113,226,1);
+}
+.zr1-cls-23:hover {
+cursor:pointer;
+fill:rgba(255,203,0,1);
+}
+.zr1-cls-24:hover {
+cursor:pointer;
+fill:rgba(255,108,117,1);
+}
+.zr1-cls-25:hover {
+cursor:pointer;
+}
+.zr1-cls-26:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

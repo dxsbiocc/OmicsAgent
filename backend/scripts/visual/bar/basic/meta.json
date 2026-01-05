@@ -1,0 +1,50 @@
+{
+  "name": "基础柱状图",
+  "description": "通过矩形长度比较不同类别的数值大小，常用于展示分类数据。",
+  "ggplot2": {
+    "mapping": {
+      "x": "day",
+      "y": "direct"
+    },
+    "layers": [
+      {
+        "type": "geom_col",
+        "arguments": {
+          "fill": "lightblue"
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Basic Bar Chart",
+        "x": "Day",
+        "y": "Direct"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_x_discrete",
+        "arguments": {
+          "limits": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ]
+        }
+      }
+    ],
+    "themes": [
+      {
+        "type": "theme_minimal"
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": true
+}

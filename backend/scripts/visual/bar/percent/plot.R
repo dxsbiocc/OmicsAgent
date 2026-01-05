@@ -1,0 +1,108 @@
+#!/usr/bin/env Rscript
+# plot_ggplot2.R
+# 通用的 ggplot2 绘图脚本
+# 从环境变量读取参数和输出路径，使用 build_ggplot 函数生成图形
+quiet_library <- function(pkg) {
+    suppressPackageStartupMessages(
+        suppressWarnings(
+            library(pkg, character.only = TRUE)
+        )
+    )
+}
+
+# 加载必要的库
+quiet_library("tidyverse")
+quiet_library("jsonlite")
+
+# 从环境变量读取参数文件路径和输出路径
+params_file <- Sys.getenv("VISUAL_PARAMS_JSON")
+output_pdf <- Sys.getenv("VISUAL_OUTPUT_PDF")
+output_png <- Sys.getenv("VISUAL_OUTPUT_PNG")
+script_root <- Sys.getenv("R_SCRIPT_ROOT")
+
+# 验证环境变量
+if (is.null(params_file) || params_file == "") {
+    stop("VISUAL_PARAMS_JSON environment variable not set")
+}
+
+if (is.null(output_pdf) || output_pdf == "") {
+    stop("VISUAL_OUTPUT_PDF environment variable not set")
+}
+
+if (is.null(output_png) || output_png == "") {
+    stop("VISUAL_OUTPUT_PNG environment variable not set")
+}
+
+# ========================================================
+#                         参数读取
+# ========================================================
+# 读取参数
+params <- fromJSON(params_file,
+    simplifyVector = TRUE,
+    simplifyDataFrame = FALSE, simplifyMatrix = FALSE
+)
+
+# 必须传入 ggplot2 配置
+if (is.null(params$ggplot2)) {
+    stop("ggplot2 configuration is required. Please provide 'ggplot2' parameter in JSON.") # nolint: line_length_linter.
+}
+
+# 加载 build_ggplot 函数库
+utils_path <- file.path(script_root, "scripts", "utils", "build_ggplot.R")
+if (!file.exists(utils_path)) {
+    stop(paste("build_ggplot.R not found at:", utils_path))
+}
+source(utils_path)
+
+# 读取数据
+data_file <- params$data
+if (is.null(data_file) || !file.exists(data_file)) {
+    stop(paste("Data file not found:", data_file))
+}
+
+data <- read_json(data_file, simplifyVector = TRUE)
+
+# 获取 ggplot2 配置
+cfg <- params$ggplot2
+
+# ========================================================
+#                         数据操作
+# ========================================================
+
+# ========================================================
+#                         图形绘制
+# ========================================================
+# 使用 build_ggplot 生成图形
+p <- build_ggplot(cfg, data)
+
+g <- ggplotGrob(p)
+# 定位所有x轴元素（名称包含'axis-b'的grob）
+axis_b_indices <- grep("axis-b", g$layout$name)
+# 保留第一个分面的x轴，其余设为空
+if (length(axis_b_indices) > 1) {
+    for (i in axis_b_indices[-1]) {
+        g$grobs[[i]] <- nullGrob() # 隐藏其他x轴
+    }
+}
+
+# 获取尺寸（默认值：800x600）
+width <- ifelse(is.null(cfg$width), 800, as.integer(cfg$width))
+height <- ifelse(is.null(cfg$height), 600, as.integer(cfg$height))
+
+# 保存为PDF
+if (file.exists("Rplots.pdf")) file.remove("Rplots.pdf")
+
+pdf(file = output_pdf, width = width / 100, height = height / 100)
+grid.draw(g)
+dev.off()
+
+# 保存为PNG
+png(
+    filename = output_png, width = width / 100, height = height / 100,
+    units = "in", res = 300
+)
+grid.draw(g)
+dev.off()
+
+cat("Plot saved to PDF:", output_pdf, "\n")
+cat("Plot saved to PNG:", output_png, "\n")

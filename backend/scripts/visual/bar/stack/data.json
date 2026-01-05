@@ -1,0 +1,177 @@
+[
+  {
+    "day": "Mon",
+    "value": 100,
+    "category": "Direct"
+  },
+  {
+    "day": "Mon",
+    "value": 320,
+    "category": "Mail Ad"
+  },
+  {
+    "day": "Mon",
+    "value": 220,
+    "category": "Affiliate Ad"
+  },
+  {
+    "day": "Mon",
+    "value": 150,
+    "category": "Video Ad"
+  },
+  {
+    "day": "Mon",
+    "value": 820,
+    "category": "Search Engine"
+  },
+  {
+    "day": "Tue",
+    "value": 302,
+    "category": "Direct"
+  },
+  {
+    "day": "Tue",
+    "value": 132,
+    "category": "Mail Ad"
+  },
+  {
+    "day": "Tue",
+    "value": 182,
+    "category": "Affiliate Ad"
+  },
+  {
+    "day": "Tue",
+    "value": 212,
+    "category": "Video Ad"
+  },
+  {
+    "day": "Tue",
+    "value": 832,
+    "category": "Search Engine"
+  },
+  {
+    "day": "Wed",
+    "value": 301,
+    "category": "Direct"
+  },
+  {
+    "day": "Wed",
+    "value": 101,
+    "category": "Mail Ad"
+  },
+  {
+    "day": "Wed",
+    "value": 191,
+    "category": "Affiliate Ad"
+  },
+  {
+    "day": "Wed",
+    "value": 201,
+    "category": "Video Ad"
+  },
+  {
+    "day": "Wed",
+    "value": 901,
+    "category": "Search Engine"
+  },
+  {
+    "day": "Thu",
+    "value": 334,
+    "category": "Direct"
+  },
+  {
+    "day": "Thu",
+    "value": 134,
+    "category": "Mail Ad"
+  },
+  {
+    "day": "Thu",
+    "value": 234,
+    "category": "Affiliate Ad"
+  },
+  {
+    "day": "Thu",
+    "value": 154,
+    "category": "Video Ad"
+  },
+  {
+    "day": "Thu",
+    "value": 934,
+    "category": "Search Engine"
+  },
+  {
+    "day": "Fri",
+    "value": 390,
+    "category": "Direct"
+  },
+  {
+    "day": "Fri",
+    "value": 90,
+    "category": "Mail Ad"
+  },
+  {
+    "day": "Fri",
+    "value": 290,
+    "category": "Affiliate Ad"
+  },
+  {
+    "day": "Fri",
+    "value": 190,
+    "category": "Video Ad"
+  },
+  {
+    "day": "Fri",
+    "value": 1290,
+    "category": "Search Engine"
+  },
+  {
+    "day": "Sat",
+    "value": 330,
+    "category": "Direct"
+  },
+  {
+    "day": "Sat",
+    "value": 230,
+    "category": "Mail Ad"
+  },
+  {
+    "day": "Sat",
+    "value": 330,
+    "category": "Affiliate Ad"
+  },
+  {
+    "day": "Sat",
+    "value": 330,
+    "category": "Video Ad"
+  },
+  {
+    "day": "Sat",
+    "value": 1330,
+    "category": "Search Engine"
+  },
+  {
+    "day": "Sun",
+    "value": 320,
+    "category": "Direct"
+  },
+  {
+    "day": "Sun",
+    "value": 210,
+    "category": "Mail Ad"
+  },
+  {
+    "day": "Sun",
+    "value": 310,
+    "category": "Affiliate Ad"
+  },
+  {
+    "day": "Sun",
+    "value": 410,
+    "category": "Video Ad"
+  },
+  {
+    "day": "Sun",
+    "value": 1320,
+    "category": "Search Engine"
+  }
+]

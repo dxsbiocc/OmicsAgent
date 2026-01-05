@@ -1,0 +1,103 @@
+{
+  "name": "竖直雨云图",
+  "description": "竖直雨云图用于展示变量在不同分组中的分布情况",
+  "ggplot2": {
+    "mapping": {
+      "x": "gene",
+      "y": "expression",
+      "fill": "gene"
+    },
+    "layers": [
+      {
+        "type": "geom_half_round_boxplot",
+        "arguments": {
+          "radius": 2,
+          "nudge": 0.2,
+          "errorbar.length": 0.3
+        }
+      },
+      {
+        "type": "geom_jitter",
+        "mapping": {
+          "shape": "gene"
+        },
+        "arguments": {
+          "width": 0.1,
+          "size": 2
+        }
+      },
+      {
+        "type": "geom_half_violin",
+        "arguments": {
+          "side": "r",
+          "nudge": 0.2
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#009392",
+            "#39b185",
+            "#9ccb86",
+            "#e9e29c",
+            "#eeb479",
+            "#e88471",
+            "#cf597e"
+          ]
+        }
+      },
+      {
+        "type": "scale_shape_manual",
+        "arguments": {
+          "values": [
+            21,
+            22,
+            23,
+            24
+          ]
+        }
+      }
+    ],
+    "guides": {
+      "x": {
+        "type": "guide_prism_bracket"
+      },
+      "fill": {
+        "type": "guide_none",
+        "arguments": {}
+      },
+      "shape": {
+        "type": "guide_none",
+        "arguments": {}
+      }
+    },
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": "Gene expression level"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 600,
+    "height": 500
+  },
+  "has_js": false,
+  "has_r": true
+}

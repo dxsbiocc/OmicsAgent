@@ -20,6 +20,7 @@ from app.models.tag import Tag
 from app.models.category import Category
 from app.models.comment import Comment
 from app.models.email_verification import EmailVerification
+from app.models.conversation import Conversation, Message
 
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.

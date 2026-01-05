@@ -1,0 +1,33 @@
+{
+    "name": "基因组学分析",
+    "description": "基因组学数据分析工具集合，包括变异检测、拷贝数变异、结构变异等分析功能。",
+    "type": "analysis",
+    "category": "genomics",
+    "tools": [
+        {
+            "name": "拷贝数变异分析",
+            "description": "检测和分析基因组拷贝数变异（CNV）",
+            "category": "genomics"
+        },
+        {
+            "name": "全基因组关联分析",
+            "description": "全基因组关联研究（GWAS）数据分析",
+            "category": "genomics"
+        },
+        {
+            "name": "染色质空间结构分析",
+            "description": "Hi-C 数据分析和染色质三维结构研究",
+            "category": "genomics"
+        },
+        {
+            "name": "基因突变分析",
+            "description": "检测和分析基因突变、SNV、Indel 等变异",
+            "category": "genomics"
+        },
+        {
+            "name": "结构变异分析",
+            "description": "检测和分析结构变异（SV），包括缺失、插入、倒位、易位等",
+            "category": "genomics"
+        }
+    ]
+}

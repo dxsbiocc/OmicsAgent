@@ -1,0 +1,102 @@
+[
+  {
+    "year": "2012",
+    "value": 320,
+    "category": "Forest"
+  },
+  {
+    "year": "2013",
+    "value": 332,
+    "category": "Forest"
+  },
+  {
+    "year": "2014",
+    "value": 301,
+    "category": "Forest"
+  },
+  {
+    "year": "2015",
+    "value": 334,
+    "category": "Forest"
+  },
+  {
+    "year": "2016",
+    "value": 390,
+    "category": "Forest"
+  },
+  {
+    "year": "2012",
+    "value": 220,
+    "category": "Steppe"
+  },
+  {
+    "year": "2013",
+    "value": 182,
+    "category": "Steppe"
+  },
+  {
+    "year": "2014",
+    "value": 191,
+    "category": "Steppe"
+  },
+  {
+    "year": "2015",
+    "value": 234,
+    "category": "Steppe"
+  },
+  {
+    "year": "2016",
+    "value": 290,
+    "category": "Steppe"
+  },
+  {
+    "year": "2012",
+    "value": 150,
+    "category": "Desert"
+  },
+  {
+    "year": "2013",
+    "value": 232,
+    "category": "Desert"
+  },
+  {
+    "year": "2014",
+    "value": 201,
+    "category": "Desert"
+  },
+  {
+    "year": "2015",
+    "value": 154,
+    "category": "Desert"
+  },
+  {
+    "year": "2016",
+    "value": 190,
+    "category": "Desert"
+  },
+  {
+    "year": "2012",
+    "value": 98,
+    "category": "Wetland"
+  },
+  {
+    "year": "2013",
+    "value": 77,
+    "category": "Wetland"
+  },
+  {
+    "year": "2014",
+    "value": 101,
+    "category": "Wetland"
+  },
+  {
+    "year": "2015",
+    "value": 99,
+    "category": "Wetland"
+  },
+  {
+    "year": "2016",
+    "value": 40,
+    "category": "Wetland"
+  }
+]

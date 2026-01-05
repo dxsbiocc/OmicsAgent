@@ -1,0 +1,120 @@
+{
+  "name": "分类展开条形图",
+  "description": "分类展开的条形图展示富集分析结果中通路分类层次",
+  "ggplot2": {
+    "mapping": {
+      "x": "-log10(p.adjust)",
+      "y": "Description",
+      "fill": "category"
+    },
+    "layers": [
+      {
+        "type": "geom_round_col",
+        "arguments": {
+          "orientation": "y",
+          "alpha": 0.6
+        }
+      },
+      {
+        "type": "geom_text",
+        "mapping": {
+          "x": "padding",
+          "label": "Description",
+          "size": "size"
+        },
+        "arguments": {
+          "hjust": 0,
+          "show.legend": false
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_size_continuous",
+        "arguments": {
+          "range": [
+            4,
+            6
+          ]
+        }
+      },
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "name": "Category",
+          "values": [
+            "#3BE8B0",
+            "#1AAFD0",
+            "#6A67CE",
+            "#FFB900",
+            "#FC636B"
+          ]
+        }
+      },
+      {
+        "type": "scale_x_continuous",
+        "arguments": {
+          "expand": {
+            "type": "expansion",
+            "arguments": {
+              "mult": [
+                0,
+                0.1
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "guides": {
+      "size": {
+        "type": "guide_none"
+      },
+      "fill": {
+        "type": "guide_none"
+      }
+    },
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "KEGG enrichment",
+        "x": "-log10(p.adjust)",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "axis.text.y": {
+            "type": "element_blank"
+          },
+          "axis.line.y": {
+            "type": "element_blank"
+          },
+          "axis.ticks.y": {
+            "type": "element_blank"
+          },
+          "legend.title": {
+            "type": "element_blank"
+          },
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "title": {
+            "type": "element_text",
+            "arguments": {
+              "size": 16
+            }
+          }
+        }
+      }
+    ],
+    "width": 1000,
+    "height": 900
+  },
+  "has_js": false
+}

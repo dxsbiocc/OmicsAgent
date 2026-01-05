@@ -1,0 +1,141 @@
+{
+    "name": "MA plot",
+    "description": "MA plot 用于展示差异基因的平均表达量（A）与倍数变化（M）之间的关系",
+    "ggplot2": {
+        "mapping": {
+            "x": "log10(baseMean)",
+            "y": "log2FC",
+            "label": "symbol"
+        },
+        "layers": [
+            {
+                "type": "geom_point",
+                "mapping": {
+                    "fill": "group",
+                    "shape": "group"
+                },
+                "arguments": {
+                    "alpha": 0.7,
+                    "size": 3,
+                    "colour": "grey50",
+                    "stroke": 0.1,
+                    "show.legend": false
+                }
+            },
+            {
+                "type": "geom_point",
+                "mapping": {
+                    "colour": "group"
+                },
+                "arguments": {
+                    "size": 5,
+                    "top.k": 10,
+                    "fill": "transparent",
+                    "shape": 21,
+                    "show.legend": false
+                }
+            },
+            {
+                "type": "geom_label_repel",
+                "mapping": {
+                    "colour": "group"
+                },
+                "arguments": {
+                    "top.k": 10,
+                    "size": 4,
+                    "max.overlaps": 2000,
+                    "show.legend": false
+                }
+            },
+            {
+                "type": "annotate",
+                "arguments": {
+                    "geom": "label",
+                    "x": [
+                        5,
+                        5
+                    ],
+                    "y": [
+                        6,
+                        -6
+                    ],
+                    "label": [
+                        "Up",
+                        "Up"
+                    ],
+                    "size": [
+                        6,
+                        6
+                    ],
+                    "fill": [
+                        "#df91a3",
+                        "#a3ad62"
+                    ],
+                    "colour": [
+                        "#525e61",
+                        "#525e61"
+                    ],
+                    "alpha": [
+                        0.8,
+                        0.8
+                    ]
+                }
+            }
+        ],
+        "labs": {
+            "type": "labs",
+            "arguments": {
+                "title": "Yap1-KO",
+                "x": "log10(baseMean)",
+                "y": "log2FC"
+            }
+        },
+        "scales": [
+            {
+                "type": "scale_colour_manual",
+                "arguments": {
+                    "values": [
+                        "#a3ad62",
+                        "#df91a3"
+                    ]
+                }
+            },
+            {
+                "type": "scale_fill_manual",
+                "arguments": {
+                    "values": [
+                        "#a3ad62",
+                        "grey70",
+                        "#df91a3"
+                    ]
+                }
+            },
+            {
+                "type": "scale_shape_manual",
+                "arguments": {
+                    "values": [
+                        25,
+                        21,
+                        24
+                    ]
+                }
+            }
+        ],
+        "themes": [
+            {
+                "type": "theme_prism"
+            },
+            {
+                "type": "theme",
+                "arguments": {
+                    "plot.background": {
+                        "type": "element_blank"
+                    }
+                }
+            }
+        ],
+        "width": 800,
+        "height": 600
+    },
+    "has_js": false
+}

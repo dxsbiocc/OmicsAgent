@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Search Engine",
+    "value": 1548,
+    "category": "inner"
+  },
+  {
+    "name": "Direct",
+    "value": 775,
+    "category": "inner"
+  },
+  {
+    "name": "Marketing",
+    "value": 679,
+    "category": "inner"
+  },
+  {
+    "name": "Baidu",
+    "value": 1048,
+    "category": "outer"
+  },
+  {
+    "name": "Direct",
+    "value": 335,
+    "category": "outer"
+  },
+  {
+    "name": "Email",
+    "value": 310,
+    "category": "outer"
+  },
+  {
+    "name": "Google",
+    "value": 251,
+    "category": "outer"
+  },
+  {
+    "name": "Union Ads",
+    "value": 234,
+    "category": "outer"
+  },
+  {
+    "name": "Bing",
+    "value": 147,
+    "category": "outer"
+  },
+  {
+    "name": "Video Ads",
+    "value": 135,
+    "category": "outer"
+  },
+  {
+    "name": "Others",
+    "value": 102,
+    "category": "outer"
+  }
+]

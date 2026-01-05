@@ -1,0 +1,6 @@
+{
+    "name": "染色质空间结构分析",
+    "description": "Hi-C 数据分析和染色质三维结构研究，揭示染色体空间组织模式。",
+    "type": "analysis",
+    "category": "genomics"
+}

@@ -1,0 +1,387 @@
+[
+    {
+        "patient": "TCGA-OR-A5K3",
+        "stage": "Stage II",
+        "TP53": 2.3337
+    },
+    {
+        "patient": "TCGA-OR-A5J2",
+        "stage": "Stage IV",
+        "TP53": 1.8996
+    },
+    {
+        "patient": "TCGA-OR-A5LN",
+        "stage": "Stage II",
+        "TP53": 1.8957
+    },
+    {
+        "patient": "TCGA-OR-A5KY",
+        "stage": "Stage IV",
+        "TP53": 5.5996
+    },
+    {
+        "patient": "TCGA-OR-A5LG",
+        "stage": "Stage III",
+        "TP53": 4.3399
+    },
+    {
+        "patient": "TCGA-OR-A5JC",
+        "stage": "Unknown",
+        "TP53": 3.8837
+    },
+    {
+        "patient": "TCGA-OR-A5JV",
+        "stage": "Stage II",
+        "TP53": 3.5947
+    },
+    {
+        "patient": "TCGA-OU-A5PI",
+        "stage": "Stage IV",
+        "TP53": 5.1073
+    },
+    {
+        "patient": "TCGA-OR-A5KO",
+        "stage": "Stage IV",
+        "TP53": 2.6114
+    },
+    {
+        "patient": "TCGA-OR-A5JP",
+        "stage": "Stage II",
+        "TP53": 2.5487
+    },
+    {
+        "patient": "TCGA-OR-A5L9",
+        "stage": "Stage II",
+        "TP53": 2.2813
+    },
+    {
+        "patient": "TCGA-OR-A5JO",
+        "stage": "Stage I",
+        "TP53": 4.2929
+    },
+    {
+        "patient": "TCGA-OR-A5JX",
+        "stage": "Stage III",
+        "TP53": 3.9543
+    },
+    {
+        "patient": "TCGA-PA-A5YG",
+        "stage": "Stage II",
+        "TP53": 3.0808
+    },
+    {
+        "patient": "TCGA-OR-A5LD",
+        "stage": "Stage III",
+        "TP53": 3.5424
+    },
+    {
+        "patient": "TCGA-OR-A5LL",
+        "stage": "Stage II",
+        "TP53": 4.208
+    },
+    {
+        "patient": "TCGA-OR-A5K8",
+        "stage": "Stage II",
+        "TP53": 3.4765
+    },
+    {
+        "patient": "TCGA-OR-A5KW",
+        "stage": "Stage III",
+        "TP53": 4.0722
+    },
+    {
+        "patient": "TCGA-OR-A5J9",
+        "stage": "Stage II",
+        "TP53": 4.7442
+    },
+    {
+        "patient": "TCGA-OR-A5L8",
+        "stage": "Stage II",
+        "TP53": 4.3385
+    },
+    {
+        "patient": "TCGA-OR-A5J6",
+        "stage": "Stage II",
+        "TP53": 3.0978
+    },
+    {
+        "patient": "TCGA-OR-A5JJ",
+        "stage": "Stage IV",
+        "TP53": 4.9519
+    },
+    {
+        "patient": "TCGA-OR-A5LJ",
+        "stage": "Stage IV",
+        "TP53": 1.6045
+    },
+    {
+        "patient": "TCGA-OR-A5JM",
+        "stage": "Stage IV",
+        "TP53": 3.8531
+    },
+    {
+        "patient": "TCGA-PK-A5HB",
+        "stage": "Unknown",
+        "TP53": 2.7051
+    },
+    {
+        "patient": "TCGA-OR-A5JF",
+        "stage": "Stage II",
+        "TP53": 3.9829
+    },
+    {
+        "patient": "TCGA-OR-A5K9",
+        "stage": "Stage II",
+        "TP53": 4.5898
+    },
+    {
+        "patient": "TCGA-OR-A5LM",
+        "stage": "Stage II",
+        "TP53": 3.3938
+    },
+    {
+        "patient": "TCGA-OR-A5KZ",
+        "stage": "Stage II",
+        "TP53": 5.1563
+    },
+    {
+        "patient": "TCGA-PK-A5H8",
+        "stage": "Stage II",
+        "TP53": 3.6312
+    },
+    {
+        "patient": "TCGA-OR-A5J7",
+        "stage": "Stage III",
+        "TP53": 3.8778
+    },
+    {
+        "patient": "TCGA-P6-A5OG",
+        "stage": "Stage IV",
+        "TP53": 4.0722
+    },
+    {
+        "patient": "TCGA-OR-A5K1",
+        "stage": "Stage II",
+        "TP53": 3.8808
+    },
+    {
+        "patient": "TCGA-OR-A5LT",
+        "stage": "Stage III",
+        "TP53": 3.5424
+    },
+    {
+        "patient": "TCGA-OR-A5L6",
+        "stage": "Stage II",
+        "TP53": 2.9338
+    },
+    {
+        "patient": "TCGA-OR-A5JW",
+        "stage": "Stage II",
+        "TP53": 4.0575
+    },
+    {
+        "patient": "TCGA-OR-A5LE",
+        "stage": "Stage II",
+        "TP53": 3.3633
+    },
+    {
+        "patient": "TCGA-OR-A5JA",
+        "stage": "Stage IV",
+        "TP53": 4.5066
+    },
+    {
+        "patient": "TCGA-OR-A5J5",
+        "stage": "Stage III",
+        "TP53": 3.5669
+    },
+    {
+        "patient": "TCGA-OR-A5JZ",
+        "stage": "Stage II",
+        "TP53": 3.8491
+    },
+    {
+        "patient": "TCGA-OR-A5JI",
+        "stage": "Stage I",
+        "TP53": 2.8582
+    },
+    {
+        "patient": "TCGA-OR-A5LA",
+        "stage": "Stage II",
+        "TP53": 3.2481
+    },
+    {
+        "patient": "TCGA-PK-A5HA",
+        "stage": "Stage I",
+        "TP53": 3.0619
+    },
+    {
+        "patient": "TCGA-OR-A5JQ",
+        "stage": "Stage II",
+        "TP53": 4.1136
+    },
+    {
+        "patient": "TCGA-OR-A5JE",
+        "stage": "Stage I",
+        "TP53": 3.2496
+    },
+    {
+        "patient": "TCGA-OR-A5KU",
+        "stage": "Stage II",
+        "TP53": 4.162
+    },
+    {
+        "patient": "TCGA-OR-A5LB",
+        "stage": "Stage IV",
+        "TP53": 4.8812
+    },
+    {
+        "patient": "TCGA-OR-A5K5",
+        "stage": "Stage III",
+        "TP53": 3.5851
+    },
+    {
+        "patient": "TCGA-OR-A5J8",
+        "stage": "Stage III",
+        "TP53": 4.1327
+    },
+    {
+        "patient": "TCGA-OR-A5L5",
+        "stage": "Stage I",
+        "TP53": 2.9655
+    },
+    {
+        "patient": "TCGA-OR-A5J3",
+        "stage": "Stage III",
+        "TP53": 4.041
+    },
+    {
+        "patient": "TCGA-OR-A5LS",
+        "stage": "Stage II",
+        "TP53": 4.1978
+    },
+    {
+        "patient": "TCGA-OR-A5LH",
+        "stage": "Stage II",
+        "TP53": 4.1351
+    },
+    {
+        "patient": "TCGA-OR-A5JL",
+        "stage": "Stage I",
+        "TP53": 3.1327
+    },
+    {
+        "patient": "TCGA-OR-A5JG",
+        "stage": "Stage IV",
+        "TP53": 3.1079
+    },
+    {
+        "patient": "TCGA-OR-A5LO",
+        "stage": "Stage II",
+        "TP53": 4.8017
+    },
+    {
+        "patient": "TCGA-OR-A5L3",
+        "stage": "Stage I",
+        "TP53": 2.5511
+    },
+    {
+        "patient": "TCGA-OR-A5LC",
+        "stage": "Stage IV",
+        "TP53": 4.735
+    },
+    {
+        "patient": "TCGA-P6-A5OF",
+        "stage": "Stage III",
+        "TP53": 4.6662
+    },
+    {
+        "patient": "TCGA-OR-A5KX",
+        "stage": "Stage III",
+        "TP53": 3.2617
+    },
+    {
+        "patient": "TCGA-OR-A5K4",
+        "stage": "Stage III",
+        "TP53": 4.1828
+    },
+    {
+        "patient": "TCGA-OR-A5J1",
+        "stage": "Stage II",
+        "TP53": 3.3177
+    },
+    {
+        "patient": "TCGA-OR-A5JT",
+        "stage": "Stage II",
+        "TP53": 4.0584
+    },
+    {
+        "patient": "TCGA-OR-A5JB",
+        "stage": "Stage IV",
+        "TP53": 4.1628
+    },
+    {
+        "patient": "TCGA-OR-A5JY",
+        "stage": "Stage IV",
+        "TP53": 2.6418
+    },
+    {
+        "patient": "TCGA-OR-A5JR",
+        "stage": "Stage I",
+        "TP53": 3.162
+    },
+    {
+        "patient": "TCGA-OR-A5KV",
+        "stage": "Stage III",
+        "TP53": 4.5066
+    },
+    {
+        "patient": "TCGA-OR-A5K6",
+        "stage": "Stage II",
+        "TP53": 5.1396
+    },
+    {
+        "patient": "TCGA-OR-A5JS",
+        "stage": "Stage II",
+        "TP53": 4.7587
+    },
+    {
+        "patient": "TCGA-OR-A5LP",
+        "stage": "Stage II",
+        "TP53": 3.7507
+    },
+    {
+        "patient": "TCGA-OR-A5LK",
+        "stage": "Stage II",
+        "TP53": 1.9749
+    },
+    {
+        "patient": "TCGA-OR-A5JK",
+        "stage": "Stage IV",
+        "TP53": 3.1145
+    },
+    {
+        "patient": "TCGA-OR-A5JD",
+        "stage": "Stage II",
+        "TP53": 3.0446
+    },
+    {
+        "patient": "TCGA-OR-A5L4",
+        "stage": "Stage III",
+        "TP53": 3.3364
+    },
+    {
+        "patient": "TCGA-OR-A5KT",
+        "stage": "Stage I",
+        "TP53": 4.001
+    },
+    {
+        "patient": "TCGA-PK-A5H9",
+        "stage": "Stage II",
+        "TP53": 4.6306
+    },
+    {
+        "patient": "TCGA-OR-A5K0",
+        "stage": "Stage II",
+        "TP53": 4.2578
+    }
+]

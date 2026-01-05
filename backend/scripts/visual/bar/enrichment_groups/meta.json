@@ -1,0 +1,191 @@
+{
+  "name": "多组富集分析图",
+  "description": "多组富集分析图用于展示多个富集分析结果",
+  "ggplot2": {
+    "mapping": {
+      "x": "-log10(p.adjust)",
+      "y": "index",
+      "fill": "ONTOLOGY"
+    },
+    "layers": [
+      {
+        "type": "geom_round_col",
+        "arguments": {
+          "width": 0.6,
+          "alpha": 0.8
+        }
+      },
+      {
+        "type": "geom_text",
+        "mapping": {
+          "x": 0.05,
+          "label": "Description"
+        },
+        "arguments": {
+          "hjust": 0,
+          "size": 5
+        }
+      },
+      {
+        "type": "geom_text",
+        "mapping": {
+          "x": 0.1,
+          "label": "geneID",
+          "colour": "ONTOLOGY"
+        },
+        "arguments": {
+          "hjust": 0,
+          "vjust": 2.6,
+          "size": 3.5,
+          "fontface": "italic",
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_point",
+        "mapping": {
+          "x": -0.5,
+          "size": "Count"
+        },
+        "arguments": {
+          "shape": 21
+        }
+      },
+      {
+        "type": "geom_text",
+        "mapping": {
+          "x": -0.5,
+          "label": "Count"
+        }
+      },
+      {
+        "type": "geom_round_rect",
+        "mapping": {
+          "xmin": "xmin",
+          "xmax": "xmax",
+          "ymin": "ymin",
+          "ymax": "ymax",
+          "fill": "ONTOLOGY"
+        },
+        "arguments": {
+          "radius": 3,
+          "inherit.aes": false
+        }
+      },
+      {
+        "type": "geom_text",
+        "mapping": {
+          "x": "(xmin+xmax) / 2",
+          "y": "(ymin+ymax) / 2",
+          "label": "ONTOLOGY"
+        },
+        "arguments": {
+          "inherit.aes": false
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "segment",
+          "x": 0,
+          "y": 0,
+          "xend": 8.6,
+          "yend": 0,
+          "linewidth": 1.5
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_size_continuous",
+        "arguments": {
+          "name": "Count",
+          "range": [
+            5,
+            16
+          ]
+        }
+      },
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "name": "Category",
+          "values": [
+            "#7bc4e2",
+            "#acd372",
+            "#fbb05b",
+            "#ed6ca4"
+          ]
+        }
+      },
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#7bc4e2",
+            "#acd372",
+            "#fbb05b",
+            "#ed6ca4"
+          ]
+        }
+      },
+      {
+        "type": "scale_x_continuous",
+        "arguments": {
+          "breaks": [
+            0,
+            2,
+            4,
+            6,
+            8
+          ],
+          "expand": {
+            "type": "expansion",
+            "arguments": {
+              "mult": [
+                0,
+                0
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "-log10(p.adjust)",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "axis.text.y": {
+            "type": "element_blank"
+          },
+          "axis.line": {
+            "type": "element_blank"
+          },
+          "axis.ticks.y": {
+            "type": "element_blank"
+          },
+          "legend.title": {
+            "type": "element_blank"
+          },
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 1000,
+    "height": 900
+  },
+  "has_js": false
+}

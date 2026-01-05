@@ -1,0 +1,46 @@
+{
+    "name": "GTEx",
+    "description": "GTEx 数据分析工具.",
+    "detail": "GTEx（The Genotype-Tissue Expression Project） 是由美国 NIH 于 2010 年发起的长期研究计划，旨在系统绘制 人类不同正常组织中的基因表达与基因型之间的关系。",
+    "url": "https://gtexportal.org/",
+    "type": "database",
+    "category": "database",
+    "tools": [
+        {
+            "name": "expression",
+            "title": "表达分析",
+            "description": "GTEx 表达分析",
+            "icon": "mdi:chart-line"
+        },
+        {
+            "name": "QTL",
+            "title": "QTL 分析",
+            "description": "GTEx eQTL 分析",
+            "icon": "mdi:chart-scatter-plot"
+        },
+        {
+            "name": "Splicing",
+            "title": "可变剪接分析",
+            "description": "GTEx 剪接分析",
+            "icon": "mdi:chart-line"
+        },
+        {
+            "name": "SV",
+            "title": "结构变异分析",
+            "description": "GTEx 结构变异分析",
+            "icon": "mdi:chart-scatter-plot"
+        },
+        {
+            "name": "Mutation",
+            "title": "突变分析",
+            "description": "GTEx 突变分析",
+            "icon": "mdi:chart-line"
+        },
+        {
+            "name": "single_cell",
+            "title": "单细胞分析",
+            "description": "GTEx 单细胞分析",
+            "icon": "mdi:chart-scatter-plot"
+        }
+    ]
+}

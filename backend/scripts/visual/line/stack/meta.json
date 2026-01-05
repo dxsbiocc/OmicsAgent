@@ -1,0 +1,44 @@
+{
+  "name": "堆叠折线图",
+  "description": "堆叠折线图将多个数据集绘制为垂直堆叠的折线，和基础折线图一样，唯一区别就是堆叠折线图上每一个数据集的起点不同，起点是基于前一个数据集的，用于显示每个数值所占大小随时间或类别变化的趋势线，展示的是部分与整体的关系。",
+  "params_schema": {
+    "data": {
+      "type": "string",
+      "description": "CSV file path"
+    },
+    "x_col": {
+      "type": "string"
+    },
+    "y_col": {
+      "type": "string"
+    },
+    "color_col": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "point_size": {
+      "type": "number"
+    },
+    "width": {
+      "type": "integer"
+    },
+    "height": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    }
+  },
+  "defaults": {
+    "x_col": "x",
+    "y_col": "y",
+    "color_col": null,
+    "point_size": 2.0,
+    "width": 800,
+    "height": 600,
+    "title": "堆叠折线图"
+  },
+  "has_js": true
+}

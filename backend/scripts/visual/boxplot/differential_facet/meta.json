@@ -1,0 +1,127 @@
+{
+  "name": "分面箱线图",
+  "description": "将差异分组绘制在不同的面板上",
+  "ggplot2": {
+    "mapping": {
+      "x": "group",
+      "y": "exprs",
+      "colour": "group"
+    },
+    "layers": [
+      {
+        "type": "geom_round_boxplot",
+        "arguments": {
+          "outliers": false,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "position": {
+            "type": "position_jitterdodge",
+            "arguments": {
+              "jitter.width": 0.15,
+              "dodge.width": 0.7
+            }
+          },
+          "size": 2,
+          "alpha": 0.6,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "stat_compare_means",
+        "mapping": {
+          "group": "group"
+        },
+        "arguments": {
+          "label": "p.signif",
+          "hide.ns": true,
+          "show.legend": false
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#8F499C",
+            "#4185BE",
+            "#6DC067",
+            "#F6DB35",
+            "#F78822"
+          ]
+        }
+      }
+    ],
+    "facets": {
+      "type": "facet_wrap",
+      "arguments": {
+        "facets": "gene",
+        "nrow": 1,
+        "scales": "free_x"
+      }
+    },
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": "Gene expression level"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_bw"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.text": {
+            "type": "element_text",
+            "arguments": {
+              "face": "bold",
+              "size": 8
+            }
+          },
+          "axis.title.y": {
+            "type": "element_text",
+            "arguments": {
+              "size": 10,
+              "face": "bold"
+            }
+          },
+          "strip.text": {
+            "type": "element_text",
+            "arguments": {
+              "face": "bold"
+            }
+          },
+          "strip.background": {
+            "type": "element_rect",
+            "arguments": {
+              "fill": "#6dc067"
+            }
+          },
+          "panel.grid": {
+            "type": "element_blank",
+            "arguments": {}
+          },
+          "panel.background": {
+            "type": "element_blank",
+            "arguments": {}
+          }
+        }
+      }
+    ],
+    "width": 600,
+    "height": 500
+  },
+  "has_js": false,
+  "has_r": true
+}

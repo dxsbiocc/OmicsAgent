@@ -1,0 +1,121 @@
+{
+  "name": "差异表达箱线图",
+  "description": "Render a basic line plot using ggplot2.",
+  "ggplot2": {
+    "mapping": {
+      "x": "stage",
+      "y": "TP53",
+      "fill": "stage"
+    },
+    "layers": [
+      {
+        "type": "geom_round_boxplot",
+        "arguments": {
+          "radius": 3,
+          "alpha": 0.8,
+          "outliers": false,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "position": {
+            "type": "position_jitter",
+            "arguments": {
+              "width": 0.2
+            }
+          },
+          "size": 3,
+          "alpha": 0.6,
+          "stroke": 0,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_signif",
+        "arguments": {
+          "test": "wilcox.test",
+          "test.args": {
+            "type": "list",
+            "arguments": {
+              "paired": false
+            }
+          },
+          "margin_top": [
+            0.1
+          ],
+          "step_increase": [
+            0.08
+          ],
+          "map_signif_level": "pvalue = %.2g"
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "TCGA-ACC",
+        "x": "",
+        "y": "Expression of TP53"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#337ab7",
+            "#5bc0de",
+            "#5cb85c",
+            "#f0ad4e",
+            "#d9534f"
+          ]
+        }
+      },
+      {
+        "type": "scale_y_continuous",
+        "arguments": {
+          "expand": {
+            "type": "expansion",
+            "arguments": {
+              "mult": [
+                0.05,
+                0.1
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "guides": {
+      "x": {
+        "type": "guide_prism_bracket"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "plot.title": {
+            "type": "element_markdown",
+            "arguments": {
+              "size": 14,
+              "hjust": 0.5
+            }
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": false,
+  "has_r": true
+}

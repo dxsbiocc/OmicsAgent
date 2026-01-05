@@ -1,0 +1,59 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<path d="M426.5 105.4857A10 10 0 0 1 436.9711 95.4968A222.25 222.25 0 0 1 624.1991 419.0388A10 10 0 0 1 610.3211 423.1403L544.9652 385.5809A10 10 0 0 1 540.9371 372.5741A127 127 0 0 0 435.7701 190.8388A10 10 0 0 1 426.5 180.8655Z" fill="rgb(41,196,208)" stroke="#fff" stroke-width="2" stroke-linejoin="round" class="zr1-cls-7"></path>
+<path d="M610.3211 423.1403A10 10 0 0 1 613.7642 437.1962A222.25 222.25 0 0 1 345.8931 524.6173A10 10 0 0 1 340.382 511.2363L371.0005 442.3551A10 10 0 0 1 383.5224 437.007A127 127 0 0 0 531.6991 388.6488A10 10 0 0 1 544.9652 385.5809Z" fill="#f29556" stroke="#fff" stroke-width="2" stroke-linejoin="round" class="zr1-cls-8"></path>
+<path d="M340.382 511.2363A10 10 0 0 1 326.7562 516.1108A222.25 222.25 0 0 1 204.4427 326.7521A10 10 0 0 1 214.4889 316.3359L289.8675 316.7498A10 10 0 0 1 299.7898 326.0745A127 127 0 0 0 366.5807 429.4762A10 10 0 0 1 371.0005 442.3551Z" fill="#84afa2" stroke="#fff" stroke-width="2" stroke-linejoin="round" class="zr1-cls-9"></path>
+<path d="M214.4889 316.3359A10 10 0 0 1 204.5576 305.8101A222.25 222.25 0 0 1 292.6882 140.0473A10 10 0 0 1 306.9682 142.3937L349.4666 204.6512A10 10 0 0 1 347.4332 218.1147A127 127 0 0 0 299.8916 307.5346A10 10 0 0 1 289.8675 316.7498Z" fill="rgb(114,196,39)" stroke="#fff" stroke-width="2" stroke-linejoin="round" class="zr1-cls-10"></path>
+<path d="M306.9682 142.3937A10 10 0 0 1 309.9848 128.2402A222.25 222.25 0 0 1 416.0289 95.4968A10 10 0 0 1 426.5 105.4857L426.5 180.8655A10 10 0 0 1 417.2299 190.8388A127 127 0 0 0 362.7458 207.6619A10 10 0 0 1 349.4666 204.6512Z" fill="#f24c7c" stroke="#fff" stroke-width="2" stroke-linejoin="round" class="zr1-cls-11"></path>
+<path d="M-5 -5l454.8557 0l0 26l-454.8557 0Z" transform="translate(204.0722 576.5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-12"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(205.0722 577.5)" fill="#29c4d0" stroke="#fff" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="round" class="zr1-cls-12"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(205.0722 577.5)" fill="#54555a">Search Engine</text>
+<path d="M-1 -1l111.4479 0l0 16l-111.4479 0Z" transform="translate(205.0722 577.5)" fill="none" class="zr1-cls-13"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(324.5201 577.5)" fill="#f29556" stroke="#fff" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="round" class="zr1-cls-12"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(324.5201 577.5)" fill="#54555a">Direct</text>
+<path d="M-1 -1l64.4079 0l0 16l-64.4079 0Z" transform="translate(324.5201 577.5)" fill="none" class="zr1-cls-13"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(396.928 577.5)" fill="#84afa2" stroke="#fff" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="round" class="zr1-cls-12"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(396.928 577.5)" fill="#54555a">Email</text>
+<path d="M-1 -1l61.504 0l0 16l-61.504 0Z" transform="translate(396.928 577.5)" fill="none" class="zr1-cls-13"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(466.432 577.5)" fill="#72c427" stroke="#fff" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="round" class="zr1-cls-12"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(466.432 577.5)" fill="#54555a">Union Ads</text>
+<path d="M-1 -1l88.0599 0l0 16l-88.0599 0Z" transform="translate(466.432 577.5)" fill="none" class="zr1-cls-13"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(562.4919 577.5)" fill="#f24c7c" stroke="#fff" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="round" class="zr1-cls-12"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(562.4919 577.5)" fill="#54555a">Video Ads</text>
+<path d="M-1 -1l87.4359 0l0 16l-87.4359 0Z" transform="translate(562.4919 577.5)" fill="none" class="zr1-cls-13"></path>
+<path d="M-94.3159 -5l188.6318 0l0 50l-188.6318 0Z" transform="translate(426.5 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-12"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(426.5 20)" fill="#3c3c41">Referer of a Website</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="34" transform="translate(426.5 20)" fill="#86878c">Fake Data</text>
+<style ><![CDATA[
+.zr1-cls-7:hover {
+cursor:pointer;
+fill:rgba(45,215,228,1);
+}
+.zr1-cls-8:hover {
+cursor:pointer;
+fill:rgba(255,163,94,1);
+}
+.zr1-cls-9:hover {
+cursor:pointer;
+fill:rgba(145,192,178,1);
+}
+.zr1-cls-10:hover {
+cursor:pointer;
+fill:rgba(125,215,42,1);
+}
+.zr1-cls-11:hover {
+cursor:pointer;
+fill:rgba(255,83,136,1);
+}
+.zr1-cls-12:hover {
+pointer-events:none;
+}
+.zr1-cls-13:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

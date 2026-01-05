@@ -1,0 +1,127 @@
+[
+    {
+        "label": "Snodgrassella",
+        "category": "Oral",
+        "correlation": -0.0156
+    },
+    {
+        "label": "Eggerthia",
+        "category": "Oral",
+        "correlation": -0.4341
+    },
+    {
+        "label": "Aminipila",
+        "category": "Oral",
+        "correlation": -0.7778
+    },
+    {
+        "label": "Massilia",
+        "category": "Nasal",
+        "correlation": -0.1353
+    },
+    {
+        "label": "Kingella",
+        "category": "Nasal",
+        "correlation": -0.7871
+    },
+    {
+        "label": "Negativicoccus",
+        "category": "Nasal",
+        "correlation": -0.4558
+    },
+    {
+        "label": "U_Ruminococcaceae",
+        "category": "Nasal",
+        "correlation": -0.5182
+    },
+    {
+        "label": "Hymenobacter",
+        "category": "Nasal",
+        "correlation": 0.9671
+    },
+    {
+        "label": "Prevotellamassilia",
+        "category": "Nasal",
+        "correlation": 0.3914
+    },
+    {
+        "label": "Pelomonas",
+        "category": "Nasal",
+        "correlation": 0.5056
+    },
+    {
+        "label": "Micrococcus",
+        "category": "Nasal",
+        "correlation": 0.0876
+    },
+    {
+        "label": "Roseomonas",
+        "category": "Skin",
+        "correlation": -0.9169
+    },
+    {
+        "label": "Methylorubrum",
+        "category": "Skin",
+        "correlation": -0.1879
+    },
+    {
+        "label": "Brevibacterium",
+        "category": "Skin",
+        "correlation": -0.1896
+    },
+    {
+        "label": "Alkalihalobacillus",
+        "category": "Skin",
+        "correlation": -0.9829
+    },
+    {
+        "label": "Herbaspirillum",
+        "category": "Skin",
+        "correlation": -0.0282
+    },
+    {
+        "label": "Enhydrobacter",
+        "category": "Skin",
+        "correlation": -0.4576
+    },
+    {
+        "label": "Dolosigranulum",
+        "category": "Skin",
+        "correlation": -0.4885
+    },
+    {
+        "label": "Klebsiella",
+        "category": "Skin",
+        "correlation": 0.2881
+    },
+    {
+        "label": "Leptotrichia",
+        "category": "Skin",
+        "correlation": 0.4154
+    },
+    {
+        "label": "Neisseria",
+        "category": "Skin",
+        "correlation": 0.576
+    },
+    {
+        "label": "Faecalimonas",
+        "category": "Stool",
+        "correlation": -0.2265
+    },
+    {
+        "label": "Lachnotalea",
+        "category": "Stool",
+        "correlation": 0.9618
+    },
+    {
+        "label": "Longicatena",
+        "category": "Stool",
+        "correlation": 0.6593
+    },
+    {
+        "label": "Desulfovibrio",
+        "category": "Stool",
+        "correlation": 0.6924
+    }
+]

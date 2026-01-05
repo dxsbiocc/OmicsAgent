@@ -1,0 +1,77 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<path d="M72.818 596.5L818.88 596.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M72.818 490.5L818.88 490.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M72.818 383.5L818.88 383.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M72.818 277.5L818.88 277.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M72.818 171.5L818.88 171.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M72.818 65.5L818.88 65.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M72.818 383.5L818.88 383.5" fill="none" stroke="#54555a" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(64.818 595.95)" fill="#54555a">-4,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(64.818 489.76)" fill="#54555a">-2,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(64.818 383.57)" fill="#54555a">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(64.818 277.38)" fill="#54555a">2,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(64.818 171.19)" fill="#54555a">4,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(64.818 65)" fill="#54555a">6,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(119.4469 603.95)" fill="#54555a">Starting Cash</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(212.7046 603.95)" fill="#54555a">Sales</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(305.9624 603.95)" fill="#54555a">Refunds</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(399.2201 603.95)" fill="#54555a">Payouts</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(492.4779 603.95)" fill="#54555a">Court Losses</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(585.7356 603.95)" fill="#54555a">Court Wins</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(678.9934 603.95)" fill="#54555a">Contracts</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(772.2511 603.95)" fill="#54555a">End Cash</text>
+<path d="M87.2729 383.57l64.3478 0l0 0l-64.3478 0Z" fill="#FF6C5F" stroke="none" class="zr1-cls-1"></path>
+<path d="M180.5307 383.57l64.3478 0l0 -106.19l-64.3478 0Z" fill="none" stroke="none" class="zr1-cls-2"></path>
+<path d="M273.7884 383.57l64.3478 0l0 -228.3085l-64.3478 0Z" fill="none" stroke="none" class="zr1-cls-2"></path>
+<path d="M367.0462 383.57l64.3478 0l0 -222.999l-64.3478 0Z" fill="none" stroke="none" class="zr1-cls-2"></path>
+<path d="M460.3039 383.57l64.3478 0l0 127.428l-64.3478 0Z" fill="#2DDE98" stroke="none" class="zr1-cls-3"></path>
+<path d="M553.5617 383.57l64.3478 0l0 127.428l-64.3478 0Z" fill="#FF6C5F" stroke="none" class="zr1-cls-1"></path>
+<path d="M646.8194 383.57l64.3478 0l0 -74.333l-64.3478 0Z" fill="none" stroke="none" class="zr1-cls-2"></path>
+<path d="M740.0772 383.57l64.3478 0l0 -148.666l-64.3478 0Z" fill="none" stroke="none" class="zr1-cls-2"></path>
+<path d="M87.2729 383.57l64.3478 0l0 -106.19l-64.3478 0Z" fill="#FF6C5F" class="zr1-cls-1"></path>
+<path d="M180.5307 277.38l64.3478 0l0 -180.523l-64.3478 0Z" fill="#FF6C5F" class="zr1-cls-1"></path>
+<path d="M553.5617 383.57l64.3478 0l0 -74.333l-64.3478 0Z" fill="#FF6C5F" class="zr1-cls-1"></path>
+<path d="M646.8194 309.237l64.3478 0l0 -74.333l-64.3478 0Z" fill="#FF6C5F" class="zr1-cls-1"></path>
+<path d="M740.0772 234.904l64.3478 0l0 -148.666l-64.3478 0Z" fill="#FF6C5F" class="zr1-cls-1"></path>
+<path d="M273.7884 155.2615l64.3478 0l0 -58.4045l-64.3478 0Z" fill="#2DDE98" class="zr1-cls-3"></path>
+<path d="M367.0462 160.571l64.3478 0l0 -5.3095l-64.3478 0Z" fill="#2DDE98" class="zr1-cls-3"></path>
+<path d="M460.3039 383.57l64.3478 0l0 -222.999l-64.3478 0Z" fill="#2DDE98" class="zr1-cls-3"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(119.4469 272.38)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">+2000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(212.7046 91.857)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">+3400</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(585.7356 304.237)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">+3800</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(678.9934 229.904)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">+1400</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(772.2511 81.238)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">+2800</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(305.9624 91.857)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">-1100</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(399.2201 150.2615)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">-100</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(492.4779 155.571)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">-6600</text>
+<path d="M-5 -5l167.9159 0l0 24l-167.9159 0Z" transform="translate(516.8 36.75)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-0"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(516.8 36.75)" fill="#FF6C5F" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(516.8 36.75)" fill="#54555a">positive</text>
+<path d="M0 0l72.972 0l0 14l-72.972 0Z" transform="translate(516.8 36.75)" fill="none" class="zr1-cls-2"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(597.772 36.75)" fill="#2DDE98" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(597.772 36.75)" fill="#54555a">negative</text>
+<path d="M0 0l76.9439 0l0 14l-76.9439 0Z" transform="translate(597.772 36.75)" fill="none" class="zr1-cls-2"></path>
+<path d="M-61.2949 -5l122.5899 0l0 28l-122.5899 0Z" transform="translate(426.5 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(426.5 20)" fill="#3c3c41">Waterfall Bar</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(255,118,104,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(49,244,167,1);
+}
+
+]]>
+
+</style>
+</svg>

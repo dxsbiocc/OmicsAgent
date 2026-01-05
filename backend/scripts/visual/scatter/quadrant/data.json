@@ -1,0 +1,9194 @@
+[
+    {
+        "symbol": "AP000553.2",
+        "KO": 0.0144,
+        "OE": 1.8162,
+        "group": "None"
+    },
+    {
+        "symbol": "SASS6",
+        "KO": -0.2115,
+        "OE": 1.1787,
+        "group": "None"
+    },
+    {
+        "symbol": "OR51M1",
+        "KO": -0.7866,
+        "OE": 3.7179,
+        "group": "None"
+    },
+    {
+        "symbol": "GPX2",
+        "KO": 0.0012,
+        "OE": 0.879,
+        "group": "None"
+    },
+    {
+        "symbol": "ATXN2-AS",
+        "KO": 0.9954,
+        "OE": -0.1493,
+        "group": "None"
+    },
+    {
+        "symbol": "MEF2C-AS1",
+        "KO": -1.7064,
+        "OE": 1.775,
+        "group": "None"
+    },
+    {
+        "symbol": "SUCLA2",
+        "KO": -0.0854,
+        "OE": -0.7543,
+        "group": "None"
+    },
+    {
+        "symbol": "AP002884.1",
+        "KO": -0.2246,
+        "OE": -0.1871,
+        "group": "None"
+    },
+    {
+        "symbol": "CAMK2N2",
+        "KO": -0.8755,
+        "OE": 0.3948,
+        "group": "None"
+    },
+    {
+        "symbol": "MYH3",
+        "KO": 0.359,
+        "OE": 0.833,
+        "group": "None"
+    },
+    {
+        "symbol": "RSAD2",
+        "KO": 1.0221,
+        "OE": -0.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "ELFN1-AS1",
+        "KO": -0.7072,
+        "OE": 0.5482,
+        "group": "None"
+    },
+    {
+        "symbol": "THOC1",
+        "KO": -0.287,
+        "OE": 1.6751,
+        "group": "None"
+    },
+    {
+        "symbol": "C1orf131",
+        "KO": -0.0735,
+        "OE": 0.0139,
+        "group": "None"
+    },
+    {
+        "symbol": "PROSER2-AS1",
+        "KO": -0.4245,
+        "OE": 0.3438,
+        "group": "None"
+    },
+    {
+        "symbol": "UBE4A",
+        "KO": 0.1326,
+        "OE": -1.7527,
+        "group": "None"
+    },
+    {
+        "symbol": "KRTAP3-1",
+        "KO": -1.2168,
+        "OE": 0.7457,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF195",
+        "KO": -0.162,
+        "OE": 0.4007,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF620",
+        "KO": -0.335,
+        "OE": -0.458,
+        "group": "None"
+    },
+    {
+        "symbol": "MT1XP1",
+        "KO": 0.0012,
+        "OE": 1.879,
+        "group": "None"
+    },
+    {
+        "symbol": "AL136528.1",
+        "KO": -0.4228,
+        "OE": -1.9985,
+        "group": "None"
+    },
+    {
+        "symbol": "ARHGAP31",
+        "KO": 0.0069,
+        "OE": -0.5235,
+        "group": "None"
+    },
+    {
+        "symbol": "INTS12",
+        "KO": 0.0777,
+        "OE": -0.4648,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005523.1",
+        "KO": 1.0034,
+        "OE": 0.204,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC25A16",
+        "KO": -0.0524,
+        "OE": -0.2421,
+        "group": "None"
+    },
+    {
+        "symbol": "GNAS-AS1",
+        "KO": 0.5306,
+        "OE": 1.121,
+        "group": "None"
+    },
+    {
+        "symbol": "HORMAD2-AS1",
+        "KO": 0.5772,
+        "OE": 0.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "AC124283.2",
+        "KO": -0.3962,
+        "OE": -0.621,
+        "group": "None"
+    },
+    {
+        "symbol": "CCDC40",
+        "KO": 0.1118,
+        "OE": 1.5072,
+        "group": "None"
+    },
+    {
+        "symbol": "MMP19",
+        "KO": -2.3808,
+        "OE": 1.1977,
+        "group": "None"
+    },
+    {
+        "symbol": "DKFZp779M0652",
+        "KO": 2.3138,
+        "OE": -2.4367,
+        "group": "None"
+    },
+    {
+        "symbol": "HDAC2",
+        "KO": -0.0995,
+        "OE": -0.1368,
+        "group": "None"
+    },
+    {
+        "symbol": "POLR2J",
+        "KO": 0.232,
+        "OE": 0.4286,
+        "group": "None"
+    },
+    {
+        "symbol": "TSPAN5",
+        "KO": 0.1475,
+        "OE": -0.3897,
+        "group": "None"
+    },
+    {
+        "symbol": "ACSL6",
+        "KO": -0.723,
+        "OE": -1.0095,
+        "group": "None"
+    },
+    {
+        "symbol": "STAG3L5P-PVRIG2P-PILRB",
+        "KO": 0.3627,
+        "OE": 2.1715,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF83",
+        "KO": -0.0099,
+        "OE": 1.4331,
+        "group": "None"
+    },
+    {
+        "symbol": "DRG1",
+        "KO": -0.0057,
+        "OE": -0.2168,
+        "group": "None"
+    },
+    {
+        "symbol": "KCNN1",
+        "KO": 0.1023,
+        "OE": 0.0136,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007128.2",
+        "KO": -0.0726,
+        "OE": -0.5676,
+        "group": "None"
+    },
+    {
+        "symbol": "FBH1",
+        "KO": 0.0854,
+        "OE": -1.0946,
+        "group": "None"
+    },
+    {
+        "symbol": "DOCK5",
+        "KO": -0.1718,
+        "OE": 0.7708,
+        "group": "None"
+    },
+    {
+        "symbol": "PHAX",
+        "KO": 0.0294,
+        "OE": -0.1349,
+        "group": "None"
+    },
+    {
+        "symbol": "WDR12",
+        "KO": -0.0438,
+        "OE": -0.3359,
+        "group": "None"
+    },
+    {
+        "symbol": "AC004951.3",
+        "KO": 0.2521,
+        "OE": 3.7564,
+        "group": "None"
+    },
+    {
+        "symbol": "NDUFS6",
+        "KO": 0.0482,
+        "OE": 0.3335,
+        "group": "None"
+    },
+    {
+        "symbol": "TAS2R5",
+        "KO": -0.8921,
+        "OE": 2.6566,
+        "group": "None"
+    },
+    {
+        "symbol": "RAB3GAP2",
+        "KO": -0.0227,
+        "OE": -0.3174,
+        "group": "None"
+    },
+    {
+        "symbol": "AP000347.2",
+        "KO": -1.0706,
+        "OE": 2.7121,
+        "group": "None"
+    },
+    {
+        "symbol": "TFRC",
+        "KO": 0.2791,
+        "OE": -0.9159,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007773.1",
+        "KO": 0.3231,
+        "OE": 0.596,
+        "group": "None"
+    },
+    {
+        "symbol": "HDAC6",
+        "KO": 0.1519,
+        "OE": 0.8109,
+        "group": "None"
+    },
+    {
+        "symbol": "EIF2D",
+        "KO": 0.0438,
+        "OE": -0.2034,
+        "group": "None"
+    },
+    {
+        "symbol": "BIVM",
+        "KO": -0.3894,
+        "OE": 0.4862,
+        "group": "None"
+    },
+    {
+        "symbol": "AL359955.1",
+        "KO": 0.4145,
+        "OE": 0.7766,
+        "group": "None"
+    },
+    {
+        "symbol": "RHOU",
+        "KO": -0.1996,
+        "OE": -0.3336,
+        "group": "None"
+    },
+    {
+        "symbol": "LHPP",
+        "KO": -0.2288,
+        "OE": -0.7829,
+        "group": "None"
+    },
+    {
+        "symbol": "UBE3B",
+        "KO": -0.1069,
+        "OE": -0.0368,
+        "group": "None"
+    },
+    {
+        "symbol": "RP1L1",
+        "KO": 0.6646,
+        "OE": 2.8719,
+        "group": "None"
+    },
+    {
+        "symbol": "APTX",
+        "KO": -0.1314,
+        "OE": -0.0194,
+        "group": "None"
+    },
+    {
+        "symbol": "ABHD15",
+        "KO": -0.2771,
+        "OE": 0.1094,
+        "group": "None"
+    },
+    {
+        "symbol": "TMEM120A",
+        "KO": -0.0826,
+        "OE": -0.5761,
+        "group": "None"
+    },
+    {
+        "symbol": "CNBD2",
+        "KO": 1.3199,
+        "OE": -1.0391,
+        "group": "None"
+    },
+    {
+        "symbol": "AL731563.3",
+        "KO": -0.3218,
+        "OE": 1.281,
+        "group": "None"
+    },
+    {
+        "symbol": "SPCS2",
+        "KO": -0.1103,
+        "OE": -0.5087,
+        "group": "None"
+    },
+    {
+        "symbol": "GCC2",
+        "KO": 0.2756,
+        "OE": -0.7239,
+        "group": "None"
+    },
+    {
+        "symbol": "CCSAP",
+        "KO": 0.4662,
+        "OE": -0.4422,
+        "group": "None"
+    },
+    {
+        "symbol": "AL157884.2",
+        "KO": 0.2847,
+        "OE": 2.7059,
+        "group": "None"
+    },
+    {
+        "symbol": "EFNB1",
+        "KO": 0.3113,
+        "OE": -0.7187,
+        "group": "None"
+    },
+    {
+        "symbol": "USO1",
+        "KO": -0.0161,
+        "OE": -0.9921,
+        "group": "None"
+    },
+    {
+        "symbol": "MAPK6",
+        "KO": 0.1329,
+        "OE": -1.2981,
+        "group": "None"
+    },
+    {
+        "symbol": "TMEM50B",
+        "KO": 0.0035,
+        "OE": -0.2531,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC25A21-AS1",
+        "KO": -2.1374,
+        "OE": 0.3292,
+        "group": "None"
+    },
+    {
+        "symbol": "MAN1C1",
+        "KO": 0.0949,
+        "OE": 0.1613,
+        "group": "None"
+    },
+    {
+        "symbol": "AGL",
+        "KO": -0.2221,
+        "OE": 0.0468,
+        "group": "None"
+    },
+    {
+        "symbol": "PCOLCE-AS1",
+        "KO": 0.3959,
+        "OE": 1.557,
+        "group": "None"
+    },
+    {
+        "symbol": "AP000769.1",
+        "KO": -0.0378,
+        "OE": 0.6735,
+        "group": "None"
+    },
+    {
+        "symbol": "EIF5",
+        "KO": 0.4169,
+        "OE": -0.3689,
+        "group": "None"
+    },
+    {
+        "symbol": "RPS7P11",
+        "KO": 0.089,
+        "OE": -0.4785,
+        "group": "None"
+    },
+    {
+        "symbol": "YY1AP1",
+        "KO": 0.2806,
+        "OE": -0.7954,
+        "group": "None"
+    },
+    {
+        "symbol": "RPN1",
+        "KO": 0.1403,
+        "OE": -0.3388,
+        "group": "None"
+    },
+    {
+        "symbol": "ELN-AS1",
+        "KO": -1.2043,
+        "OE": -0.2525,
+        "group": "None"
+    },
+    {
+        "symbol": "CERS4",
+        "KO": -0.0745,
+        "OE": 0.0664,
+        "group": "None"
+    },
+    {
+        "symbol": "SEC14L1",
+        "KO": 0.2138,
+        "OE": -1.0001,
+        "group": "None"
+    },
+    {
+        "symbol": "AC090360.1",
+        "KO": 0.592,
+        "OE": 0.2475,
+        "group": "None"
+    },
+    {
+        "symbol": "AC120498.8",
+        "KO": -0.7929,
+        "OE": 1.9772,
+        "group": "None"
+    },
+    {
+        "symbol": "WNT4",
+        "KO": 0.1257,
+        "OE": -0.8411,
+        "group": "None"
+    },
+    {
+        "symbol": "KLHL24",
+        "KO": 0.2168,
+        "OE": -0.3674,
+        "group": "None"
+    },
+    {
+        "symbol": "MBLAC1",
+        "KO": 0.6982,
+        "OE": 0.8006,
+        "group": "None"
+    },
+    {
+        "symbol": "MFNG",
+        "KO": 0.3636,
+        "OE": 0.289,
+        "group": "None"
+    },
+    {
+        "symbol": "AL390208.1",
+        "KO": 0.6066,
+        "OE": 1.4254,
+        "group": "None"
+    },
+    {
+        "symbol": "TMPO-AS1",
+        "KO": -0.4445,
+        "OE": 1.8982,
+        "group": "None"
+    },
+    {
+        "symbol": "EP400P1",
+        "KO": -0.1083,
+        "OE": 1.9418,
+        "group": "None"
+    },
+    {
+        "symbol": "C9orf139",
+        "KO": 0.5294,
+        "OE": 1.6798,
+        "group": "None"
+    },
+    {
+        "symbol": "LIX1",
+        "KO": -1.6304,
+        "OE": -0.4135,
+        "group": "None"
+    },
+    {
+        "symbol": "AL049844.2",
+        "KO": -0.1394,
+        "OE": 1.7885,
+        "group": "None"
+    },
+    {
+        "symbol": "AC145212.1",
+        "KO": -0.3265,
+        "OE": -1.1028,
+        "group": "None"
+    },
+    {
+        "symbol": "SPATA21",
+        "KO": -0.1627,
+        "OE": -0.4572,
+        "group": "None"
+    },
+    {
+        "symbol": "EPS8L2",
+        "KO": -0.0229,
+        "OE": -0.2043,
+        "group": "None"
+    },
+    {
+        "symbol": "TELO2",
+        "KO": -0.1616,
+        "OE": 0.7977,
+        "group": "None"
+    },
+    {
+        "symbol": "MYH7B",
+        "KO": -0.3532,
+        "OE": 2.4014,
+        "group": "None"
+    },
+    {
+        "symbol": "GPI",
+        "KO": 0.6066,
+        "OE": -0.4177,
+        "group": "None"
+    },
+    {
+        "symbol": "PRSS23",
+        "KO": 0.5724,
+        "OE": -0.1152,
+        "group": "None"
+    },
+    {
+        "symbol": "SIAH2",
+        "KO": -0.0172,
+        "OE": -0.8247,
+        "group": "None"
+    },
+    {
+        "symbol": "KATNBL1P3",
+        "KO": -0.0046,
+        "OE": 0.6218,
+        "group": "None"
+    },
+    {
+        "symbol": "SMG1P2",
+        "KO": 0.1726,
+        "OE": -0.0288,
+        "group": "None"
+    },
+    {
+        "symbol": "TSPAN3",
+        "KO": 0.1741,
+        "OE": 0.663,
+        "group": "None"
+    },
+    {
+        "symbol": "PLPBP",
+        "KO": 0.1302,
+        "OE": -0.7715,
+        "group": "None"
+    },
+    {
+        "symbol": "UNC5A",
+        "KO": 0.3947,
+        "OE": -0.3154,
+        "group": "None"
+    },
+    {
+        "symbol": "AC090673.1",
+        "KO": -0.5263,
+        "OE": 2.1475,
+        "group": "None"
+    },
+    {
+        "symbol": "AL021707.6",
+        "KO": -0.1463,
+        "OE": 5.2762,
+        "group": "None"
+    },
+    {
+        "symbol": "ZCCHC2",
+        "KO": 0.1461,
+        "OE": -0.38,
+        "group": "None"
+    },
+    {
+        "symbol": "CEACAMP5",
+        "KO": 1.0237,
+        "OE": -0.5745,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC00337",
+        "KO": 0.2631,
+        "OE": -0.0722,
+        "group": "None"
+    },
+    {
+        "symbol": "LYPLA2P1",
+        "KO": -0.7153,
+        "OE": -1.0308,
+        "group": "None"
+    },
+    {
+        "symbol": "TNFRSF9",
+        "KO": 0.7268,
+        "OE": -3.2414,
+        "group": "None"
+    },
+    {
+        "symbol": "TBX3",
+        "KO": 0.0049,
+        "OE": -1.2459,
+        "group": "None"
+    },
+    {
+        "symbol": "AL589740.1",
+        "KO": -0.3816,
+        "OE": -4.5133,
+        "group": "None"
+    },
+    {
+        "symbol": "RPS3AP6",
+        "KO": 0.0177,
+        "OE": -0.7022,
+        "group": "None"
+    },
+    {
+        "symbol": "BCAT1",
+        "KO": -1.0778,
+        "OE": -1.0047,
+        "group": "None"
+    },
+    {
+        "symbol": "CAMK2A",
+        "KO": 2.0323,
+        "OE": 0.637,
+        "group": "None"
+    },
+    {
+        "symbol": "AC104825.1",
+        "KO": 0.1384,
+        "OE": 1.2585,
+        "group": "None"
+    },
+    {
+        "symbol": "PDP2",
+        "KO": -0.4423,
+        "OE": -0.6742,
+        "group": "None"
+    },
+    {
+        "symbol": "AC015961.2",
+        "KO": -0.9228,
+        "OE": 3.6249,
+        "group": "None"
+    },
+    {
+        "symbol": "TDP1",
+        "KO": 0.042,
+        "OE": -0.3308,
+        "group": "None"
+    },
+    {
+        "symbol": "HSPA8P11",
+        "KO": 0.9162,
+        "OE": -0.9833,
+        "group": "None"
+    },
+    {
+        "symbol": "PEMT",
+        "KO": -0.1066,
+        "OE": -0.0266,
+        "group": "None"
+    },
+    {
+        "symbol": "NOS3",
+        "KO": 0.0343,
+        "OE": -1.1982,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007014.2",
+        "KO": 0.0772,
+        "OE": 0.9814,
+        "group": "None"
+    },
+    {
+        "symbol": "CACNB2",
+        "KO": -0.1098,
+        "OE": 2.0129,
+        "group": "None"
+    },
+    {
+        "symbol": "MFF",
+        "KO": -0.0128,
+        "OE": 0.3186,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC4A1AP",
+        "KO": 0.0602,
+        "OE": -0.0541,
+        "group": "None"
+    },
+    {
+        "symbol": "RASGEF1B",
+        "KO": 0.0194,
+        "OE": 0.718,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM86HP",
+        "KO": -0.5676,
+        "OE": 0.9615,
+        "group": "None"
+    },
+    {
+        "symbol": "CCDC92",
+        "KO": -0.0882,
+        "OE": -0.0182,
+        "group": "None"
+    },
+    {
+        "symbol": "MIR4322",
+        "KO": 0.122,
+        "OE": 2.9438,
+        "group": "None"
+    },
+    {
+        "symbol": "BBS9",
+        "KO": 0.1628,
+        "OE": -0.0472,
+        "group": "None"
+    },
+    {
+        "symbol": "MRFAP1L1",
+        "KO": -0.2095,
+        "OE": 0.5805,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009950.1",
+        "KO": -0.7558,
+        "OE": 1.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "AC026403.1",
+        "KO": -0.0836,
+        "OE": 0.2963,
+        "group": "None"
+    },
+    {
+        "symbol": "EEF1A1P3",
+        "KO": 1.6256,
+        "OE": 0.9549,
+        "group": "None"
+    },
+    {
+        "symbol": "UBQLN1",
+        "KO": 0.127,
+        "OE": -0.5435,
+        "group": "None"
+    },
+    {
+        "symbol": "EVA1C",
+        "KO": -0.1653,
+        "OE": 0.5669,
+        "group": "None"
+    },
+    {
+        "symbol": "CTBS",
+        "KO": 0.0299,
+        "OE": -0.3093,
+        "group": "None"
+    },
+    {
+        "symbol": "ARF4P2",
+        "KO": 0.0772,
+        "OE": -0.948,
+        "group": "None"
+    },
+    {
+        "symbol": "GTPBP2",
+        "KO": 0.1883,
+        "OE": -0.4281,
+        "group": "None"
+    },
+    {
+        "symbol": "TFAMP1",
+        "KO": -1.2,
+        "OE": 2.1916,
+        "group": "None"
+    },
+    {
+        "symbol": "FOXJ3",
+        "KO": 0.0962,
+        "OE": 0.1397,
+        "group": "None"
+    },
+    {
+        "symbol": "AL365217.1",
+        "KO": -1.0838,
+        "OE": -0.4197,
+        "group": "None"
+    },
+    {
+        "symbol": "ROBO4",
+        "KO": 0.6883,
+        "OE": -0.0047,
+        "group": "None"
+    },
+    {
+        "symbol": "NODAL",
+        "KO": -1.1219,
+        "OE": 2.5399,
+        "group": "None"
+    },
+    {
+        "symbol": "PALD1",
+        "KO": -0.0733,
+        "OE": -0.1568,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092535.4",
+        "KO": 2.1177,
+        "OE": 1.4693,
+        "group": "None"
+    },
+    {
+        "symbol": "FBXO38",
+        "KO": 0.0942,
+        "OE": 0.1838,
+        "group": "None"
+    },
+    {
+        "symbol": "AC022098.1",
+        "KO": -0.3931,
+        "OE": 1.4512,
+        "group": "None"
+    },
+    {
+        "symbol": "CA11",
+        "KO": -0.2306,
+        "OE": 0.0754,
+        "group": "None"
+    },
+    {
+        "symbol": "CUTALP",
+        "KO": -0.2854,
+        "OE": -0.0792,
+        "group": "None"
+    },
+    {
+        "symbol": "RB1CC1",
+        "KO": 0.28,
+        "OE": -0.7377,
+        "group": "None"
+    },
+    {
+        "symbol": "ATP5F1C",
+        "KO": -0.0542,
+        "OE": -0.1437,
+        "group": "None"
+    },
+    {
+        "symbol": "AC253536.7",
+        "KO": -1.1669,
+        "OE": 3.7152,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM222A-AS1",
+        "KO": -0.0504,
+        "OE": -0.8755,
+        "group": "None"
+    },
+    {
+        "symbol": "ANGEL1",
+        "KO": -0.0869,
+        "OE": -0.2551,
+        "group": "None"
+    },
+    {
+        "symbol": "HAS3",
+        "KO": -0.261,
+        "OE": -0.6396,
+        "group": "None"
+    },
+    {
+        "symbol": "MAP4K2",
+        "KO": 0.0804,
+        "OE": -0.5693,
+        "group": "None"
+    },
+    {
+        "symbol": "CPEB2",
+        "KO": 0.2923,
+        "OE": -1.2074,
+        "group": "None"
+    },
+    {
+        "symbol": "NEUROD2",
+        "KO": -0.5544,
+        "OE": 1.9143,
+        "group": "None"
+    },
+    {
+        "symbol": "MAP7",
+        "KO": 0.4087,
+        "OE": -0.6135,
+        "group": "None"
+    },
+    {
+        "symbol": "AL445584.2",
+        "KO": 0.1321,
+        "OE": 0.7998,
+        "group": "None"
+    },
+    {
+        "symbol": "TGM5",
+        "KO": 0.0772,
+        "OE": -0.0186,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007879.3",
+        "KO": 0.966,
+        "OE": 0.7068,
+        "group": "None"
+    },
+    {
+        "symbol": "ALDH7A1",
+        "KO": -0.1724,
+        "OE": 0.6084,
+        "group": "None"
+    },
+    {
+        "symbol": "LSM5",
+        "KO": 0.0235,
+        "OE": 0.2572,
+        "group": "None"
+    },
+    {
+        "symbol": "AL928970.1",
+        "KO": 0.2477,
+        "OE": -0.0098,
+        "group": "None"
+    },
+    {
+        "symbol": "AC107294.3",
+        "KO": -1.7817,
+        "OE": 3.5046,
+        "group": "None"
+    },
+    {
+        "symbol": "SNORA75",
+        "KO": 1.0045,
+        "OE": 2.8545,
+        "group": "None"
+    },
+    {
+        "symbol": "KCNIP4",
+        "KO": -0.0143,
+        "OE": 0.4556,
+        "group": "None"
+    },
+    {
+        "symbol": "VPS26B",
+        "KO": 0.0135,
+        "OE": -0.7044,
+        "group": "None"
+    },
+    {
+        "symbol": "FGF21",
+        "KO": 0.4254,
+        "OE": -3.2172,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC02086",
+        "KO": 0.035,
+        "OE": 0.5927,
+        "group": "None"
+    },
+    {
+        "symbol": "PACSIN2",
+        "KO": 0.3655,
+        "OE": -2.0397,
+        "group": "None"
+    },
+    {
+        "symbol": "PLXDC1",
+        "KO": -0.203,
+        "OE": 0.8745,
+        "group": "None"
+    },
+    {
+        "symbol": "AC104564.3",
+        "KO": -2.0078,
+        "OE": -0.4488,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC9C1",
+        "KO": -0.3597,
+        "OE": 1.3657,
+        "group": "None"
+    },
+    {
+        "symbol": "ABCB10",
+        "KO": -0.2611,
+        "OE": -0.1758,
+        "group": "None"
+    },
+    {
+        "symbol": "ATG4A",
+        "KO": 0.1017,
+        "OE": -1.0031,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC02145",
+        "KO": -0.0082,
+        "OE": -0.6036,
+        "group": "None"
+    },
+    {
+        "symbol": "MORN2",
+        "KO": -0.3661,
+        "OE": 0.6856,
+        "group": "None"
+    },
+    {
+        "symbol": "NOMO3",
+        "KO": 0.1915,
+        "OE": -1.4742,
+        "group": "None"
+    },
+    {
+        "symbol": "PCBP3",
+        "KO": 0.3114,
+        "OE": 0.137,
+        "group": "None"
+    },
+    {
+        "symbol": "SND1",
+        "KO": 0.1535,
+        "OE": -1.261,
+        "group": "None"
+    },
+    {
+        "symbol": "HNRNPLP2",
+        "KO": 0.2346,
+        "OE": -0.4905,
+        "group": "None"
+    },
+    {
+        "symbol": "EFNB3",
+        "KO": 0.6883,
+        "OE": 1.379,
+        "group": "None"
+    },
+    {
+        "symbol": "CABP1",
+        "KO": -0.644,
+        "OE": 1.323,
+        "group": "None"
+    },
+    {
+        "symbol": "AL035413.1",
+        "KO": -0.0062,
+        "OE": -0.706,
+        "group": "None"
+    },
+    {
+        "symbol": "DPH6",
+        "KO": -0.3919,
+        "OE": 0.3363,
+        "group": "None"
+    },
+    {
+        "symbol": "PPP2R3C",
+        "KO": 0.2328,
+        "OE": -0.767,
+        "group": "None"
+    },
+    {
+        "symbol": "ILF3",
+        "KO": 0.1146,
+        "OE": -0.0005,
+        "group": "None"
+    },
+    {
+        "symbol": "AC090912.1",
+        "KO": 0.6269,
+        "OE": 0.294,
+        "group": "None"
+    },
+    {
+        "symbol": "PSD3",
+        "KO": 0.4056,
+        "OE": -1.0961,
+        "group": "None"
+    },
+    {
+        "symbol": "TPMT",
+        "KO": 0.1671,
+        "OE": -0.9041,
+        "group": "None"
+    },
+    {
+        "symbol": "GJC3",
+        "KO": -0.2638,
+        "OE": 1.5675,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL39P36",
+        "KO": -0.1931,
+        "OE": 2.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "TULP3",
+        "KO": 0.0588,
+        "OE": -0.4466,
+        "group": "None"
+    },
+    {
+        "symbol": "RPS26P11",
+        "KO": 0.6177,
+        "OE": 0.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "AL161937.1",
+        "KO": 0.7087,
+        "OE": 0.0633,
+        "group": "None"
+    },
+    {
+        "symbol": "ABCA7",
+        "KO": -0.0391,
+        "OE": 0.4374,
+        "group": "None"
+    },
+    {
+        "symbol": "C17orf53",
+        "KO": -0.0226,
+        "OE": 1.1357,
+        "group": "None"
+    },
+    {
+        "symbol": "AC098829.1",
+        "KO": 0.7381,
+        "OE": 0.8437,
+        "group": "None"
+    },
+    {
+        "symbol": "AC073073.1",
+        "KO": 0.6087,
+        "OE": 0.0925,
+        "group": "None"
+    },
+    {
+        "symbol": "CLTCL1",
+        "KO": -0.2609,
+        "OE": 0.8452,
+        "group": "None"
+    },
+    {
+        "symbol": "AC126389.1",
+        "KO": 1.2087,
+        "OE": 2.5046,
+        "group": "None"
+    },
+    {
+        "symbol": "DDX3X",
+        "KO": 0.1421,
+        "OE": -0.5939,
+        "group": "None"
+    },
+    {
+        "symbol": "AL096817.1",
+        "KO": -0.878,
+        "OE": 3.3616,
+        "group": "None"
+    },
+    {
+        "symbol": "AC100757.1",
+        "KO": -0.7202,
+        "OE": -2.4202,
+        "group": "None"
+    },
+    {
+        "symbol": "AC040169.3",
+        "KO": -0.6041,
+        "OE": -0.0047,
+        "group": "None"
+    },
+    {
+        "symbol": "ADGRA3",
+        "KO": -0.2961,
+        "OE": 0.6643,
+        "group": "None"
+    },
+    {
+        "symbol": "SAFB",
+        "KO": -0.2996,
+        "OE": 0.5123,
+        "group": "None"
+    },
+    {
+        "symbol": "GPN2",
+        "KO": 0.0713,
+        "OE": -0.1482,
+        "group": "None"
+    },
+    {
+        "symbol": "ATP6V1E2",
+        "KO": 0.0355,
+        "OE": 0.396,
+        "group": "None"
+    },
+    {
+        "symbol": "CICP16",
+        "KO": -0.5434,
+        "OE": 1.198,
+        "group": "None"
+    },
+    {
+        "symbol": "NBR1",
+        "KO": 0.4082,
+        "OE": -0.7314,
+        "group": "None"
+    },
+    {
+        "symbol": "RNU6-574P",
+        "KO": -0.1598,
+        "OE": 2.3292,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005670.1",
+        "KO": -1.043,
+        "OE": 0.4383,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092756.1",
+        "KO": 0.5772,
+        "OE": 0.8437,
+        "group": "None"
+    },
+    {
+        "symbol": "GLOD4",
+        "KO": -0.0883,
+        "OE": 0.2169,
+        "group": "None"
+    },
+    {
+        "symbol": "IL1A",
+        "KO": 0.5499,
+        "OE": -2.1647,
+        "group": "None"
+    },
+    {
+        "symbol": "FGF22",
+        "KO": 0.0093,
+        "OE": 1.338,
+        "group": "None"
+    },
+    {
+        "symbol": "UBAP1",
+        "KO": 0.3019,
+        "OE": -1.0089,
+        "group": "None"
+    },
+    {
+        "symbol": "SNAI3",
+        "KO": -0.0005,
+        "OE": -0.3302,
+        "group": "None"
+    },
+    {
+        "symbol": "MUL1",
+        "KO": 0.1319,
+        "OE": -0.8091,
+        "group": "None"
+    },
+    {
+        "symbol": "PRPS1",
+        "KO": -0.0299,
+        "OE": -0.1405,
+        "group": "None"
+    },
+    {
+        "symbol": "SETD1B",
+        "KO": 0.1039,
+        "OE": -0.0126,
+        "group": "None"
+    },
+    {
+        "symbol": "OVOL2",
+        "KO": 0.5416,
+        "OE": 0.2475,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC02211",
+        "KO": -1.2043,
+        "OE": -0.5745,
+        "group": "None"
+    },
+    {
+        "symbol": "EGFLAM",
+        "KO": -0.4228,
+        "OE": 0.0633,
+        "group": "None"
+    },
+    {
+        "symbol": "AC078883.1",
+        "KO": -0.35,
+        "OE": 1.314,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF329",
+        "KO": 0.4421,
+        "OE": -0.729,
+        "group": "None"
+    },
+    {
+        "symbol": "TFB2M",
+        "KO": 0.1825,
+        "OE": -0.8243,
+        "group": "None"
+    },
+    {
+        "symbol": "C1orf54",
+        "KO": -0.0358,
+        "OE": 0.8863,
+        "group": "None"
+    },
+    {
+        "symbol": "C1DP1",
+        "KO": 0.6674,
+        "OE": -3.5469,
+        "group": "None"
+    },
+    {
+        "symbol": "SF3B6",
+        "KO": 0.0241,
+        "OE": 0.0527,
+        "group": "None"
+    },
+    {
+        "symbol": "CA7",
+        "KO": -1.3468,
+        "OE": 0.533,
+        "group": "None"
+    },
+    {
+        "symbol": "AL118506.1",
+        "KO": -1.0084,
+        "OE": 0.0457,
+        "group": "None"
+    },
+    {
+        "symbol": "RPS2P5",
+        "KO": 0.2683,
+        "OE": -1.6865,
+        "group": "None"
+    },
+    {
+        "symbol": "HSD3B7",
+        "KO": 0.1003,
+        "OE": 1.4858,
+        "group": "None"
+    },
+    {
+        "symbol": "PET117",
+        "KO": 0.2632,
+        "OE": 0.0579,
+        "group": "None"
+    },
+    {
+        "symbol": "AFAP1",
+        "KO": 0.396,
+        "OE": -1.6393,
+        "group": "None"
+    },
+    {
+        "symbol": "RDH5",
+        "KO": -0.6143,
+        "OE": 2.5751,
+        "group": "None"
+    },
+    {
+        "symbol": "AC087620.1",
+        "KO": 0.4005,
+        "OE": 1.7827,
+        "group": "None"
+    },
+    {
+        "symbol": "AP005899.1",
+        "KO": 0.5066,
+        "OE": 2.167,
+        "group": "None"
+    },
+    {
+        "symbol": "PSRC1",
+        "KO": 0.1838,
+        "OE": 0.6961,
+        "group": "None"
+    },
+    {
+        "symbol": "GRPEL1",
+        "KO": -0.103,
+        "OE": -0.2827,
+        "group": "None"
+    },
+    {
+        "symbol": "ZMYM6",
+        "KO": -0.0528,
+        "OE": 0.6284,
+        "group": "None"
+    },
+    {
+        "symbol": "FRY",
+        "KO": 0.0899,
+        "OE": 1.261,
+        "group": "None"
+    },
+    {
+        "symbol": "TET2",
+        "KO": 0.0634,
+        "OE": 0.1592,
+        "group": "None"
+    },
+    {
+        "symbol": "TEX21P",
+        "KO": -0.9039,
+        "OE": 2.2345,
+        "group": "None"
+    },
+    {
+        "symbol": "TMEM138",
+        "KO": 0.0493,
+        "OE": 0.8835,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005722.2",
+        "KO": 1.0772,
+        "OE": 0.9488,
+        "group": "None"
+    },
+    {
+        "symbol": "AC011472.4",
+        "KO": -1.8003,
+        "OE": 2.2828,
+        "group": "None"
+    },
+    {
+        "symbol": "SIPA1L1",
+        "KO": 0.0458,
+        "OE": 0.1525,
+        "group": "None"
+    },
+    {
+        "symbol": "MS4A15",
+        "KO": -0.11,
+        "OE": -1.3649,
+        "group": "None"
+    },
+    {
+        "symbol": "DNAAF5",
+        "KO": 0.102,
+        "OE": -1.0091,
+        "group": "None"
+    },
+    {
+        "symbol": "AL136115.1",
+        "KO": 0.2789,
+        "OE": 2.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "TDGF1P7",
+        "KO": -0.4228,
+        "OE": 1.8594,
+        "group": "None"
+    },
+    {
+        "symbol": "TNRC6B",
+        "KO": 0.0331,
+        "OE": 0.3145,
+        "group": "None"
+    },
+    {
+        "symbol": "GTPBP3",
+        "KO": -0.121,
+        "OE": 0.0638,
+        "group": "None"
+    },
+    {
+        "symbol": "TTC39C",
+        "KO": 0.0424,
+        "OE": -0.7273,
+        "group": "None"
+    },
+    {
+        "symbol": "PCAT7",
+        "KO": -0.0384,
+        "OE": -0.1771,
+        "group": "None"
+    },
+    {
+        "symbol": "CCDC15",
+        "KO": -0.1141,
+        "OE": 0.3297,
+        "group": "None"
+    },
+    {
+        "symbol": "FBXL8",
+        "KO": -0.1915,
+        "OE": 0.7566,
+        "group": "None"
+    },
+    {
+        "symbol": "CLIC2",
+        "KO": -0.0753,
+        "OE": 1.879,
+        "group": "None"
+    },
+    {
+        "symbol": "PTPA",
+        "KO": -0.005,
+        "OE": -0.5327,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009413.1",
+        "KO": 2.0323,
+        "OE": 1.379,
+        "group": "None"
+    },
+    {
+        "symbol": "A4GALT",
+        "KO": 0.3164,
+        "OE": -0.409,
+        "group": "None"
+    },
+    {
+        "symbol": "MATN1",
+        "KO": -0.8121,
+        "OE": -0.121,
+        "group": "None"
+    },
+    {
+        "symbol": "TBC1D13",
+        "KO": 0.0877,
+        "OE": -0.353,
+        "group": "None"
+    },
+    {
+        "symbol": "HRH4",
+        "KO": -1.9228,
+        "OE": 0.1218,
+        "group": "None"
+    },
+    {
+        "symbol": "AL358178.1",
+        "KO": 0.6216,
+        "OE": 0.121,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF808",
+        "KO": 0.1176,
+        "OE": -0.5165,
+        "group": "None"
+    },
+    {
+        "symbol": "AC006378.2",
+        "KO": -1.1093,
+        "OE": 1.6656,
+        "group": "None"
+    },
+    {
+        "symbol": "ATP2B1",
+        "KO": 0.0727,
+        "OE": -0.3795,
+        "group": "None"
+    },
+    {
+        "symbol": "CIDECP",
+        "KO": -0.1465,
+        "OE": -0.5482,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM72C",
+        "KO": 0.4117,
+        "OE": 1.3412,
+        "group": "None"
+    },
+    {
+        "symbol": "PPP1R14BP3",
+        "KO": 0.1317,
+        "OE": 0.1856,
+        "group": "None"
+    },
+    {
+        "symbol": "AC010735.1",
+        "KO": -1.7448,
+        "OE": 0.9953,
+        "group": "None"
+    },
+    {
+        "symbol": "MB",
+        "KO": 0.0614,
+        "OE": -0.5088,
+        "group": "None"
+    },
+    {
+        "symbol": "DOCK7",
+        "KO": 0.2573,
+        "OE": -1.3141,
+        "group": "None"
+    },
+    {
+        "symbol": "CAMSAP2",
+        "KO": 0.0362,
+        "OE": -0.8521,
+        "group": "None"
+    },
+    {
+        "symbol": "MIA2",
+        "KO": 0.24,
+        "OE": -1.0117,
+        "group": "None"
+    },
+    {
+        "symbol": "DES",
+        "KO": -0.2832,
+        "OE": -1.3251,
+        "group": "None"
+    },
+    {
+        "symbol": "MSLNL",
+        "KO": -0.0007,
+        "OE": 2.8832,
+        "group": "None"
+    },
+    {
+        "symbol": "LRRC37BP1",
+        "KO": -0.2522,
+        "OE": 0.4177,
+        "group": "None"
+    },
+    {
+        "symbol": "SEL1L3",
+        "KO": 0.3818,
+        "OE": -0.4651,
+        "group": "None"
+    },
+    {
+        "symbol": "AP002847.1",
+        "KO": 2.5306,
+        "OE": 1.4549,
+        "group": "None"
+    },
+    {
+        "symbol": "WWTR1-IT1",
+        "KO": -0.3003,
+        "OE": -0.4135,
+        "group": "None"
+    },
+    {
+        "symbol": "DPY19L2P3",
+        "KO": 0.7458,
+        "OE": -0.7285,
+        "group": "None"
+    },
+    {
+        "symbol": "PPP1R21",
+        "KO": -0.0617,
+        "OE": -0.1928,
+        "group": "None"
+    },
+    {
+        "symbol": "AP000439.3",
+        "KO": -0.9677,
+        "OE": -2.826,
+        "group": "None"
+    },
+    {
+        "symbol": "CRLF1",
+        "KO": 0.0067,
+        "OE": -0.6585,
+        "group": "None"
+    },
+    {
+        "symbol": "SUCLG2",
+        "KO": -0.0947,
+        "OE": -1.7374,
+        "group": "None"
+    },
+    {
+        "symbol": "AC125616.1",
+        "KO": -0.3026,
+        "OE": 0.1552,
+        "group": "None"
+    },
+    {
+        "symbol": "LGALS3BP",
+        "KO": 0.3073,
+        "OE": -0.6045,
+        "group": "None"
+    },
+    {
+        "symbol": "MIR4285",
+        "KO": -0.9228,
+        "OE": -1.3933,
+        "group": "None"
+    },
+    {
+        "symbol": "AC008556.1",
+        "KO": -0.7153,
+        "OE": -2.0174,
+        "group": "None"
+    },
+    {
+        "symbol": "GTF2H3",
+        "KO": -0.0597,
+        "OE": -1.1362,
+        "group": "None"
+    },
+    {
+        "symbol": "MDN1",
+        "KO": -0.2481,
+        "OE": 0.6119,
+        "group": "None"
+    },
+    {
+        "symbol": "UBE2E1",
+        "KO": 0.0789,
+        "OE": 0.043,
+        "group": "None"
+    },
+    {
+        "symbol": "ACP2",
+        "KO": -0.1362,
+        "OE": 0.0381,
+        "group": "None"
+    },
+    {
+        "symbol": "AL138921.2",
+        "KO": 0.6999,
+        "OE": 2.0029,
+        "group": "None"
+    },
+    {
+        "symbol": "ECPAS",
+        "KO": -0.0283,
+        "OE": 0.3024,
+        "group": "None"
+    },
+    {
+        "symbol": "ARSJ",
+        "KO": -0.1462,
+        "OE": -0.0986,
+        "group": "None"
+    },
+    {
+        "symbol": "PLEKHB1",
+        "KO": -0.2834,
+        "OE": -0.3394,
+        "group": "None"
+    },
+    {
+        "symbol": "EEF1DP4",
+        "KO": -0.0544,
+        "OE": 1.3324,
+        "group": "None"
+    },
+    {
+        "symbol": "CLK2P1",
+        "KO": -1.8265,
+        "OE": 0.794,
+        "group": "None"
+    },
+    {
+        "symbol": "GSN",
+        "KO": -0.0023,
+        "OE": -0.1743,
+        "group": "None"
+    },
+    {
+        "symbol": "UVSSA",
+        "KO": -0.1027,
+        "OE": 0.6312,
+        "group": "None"
+    },
+    {
+        "symbol": "SYCP3",
+        "KO": 0.7584,
+        "OE": 2.2475,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009132.1",
+        "KO": 1.3291,
+        "OE": -1.9631,
+        "group": "None"
+    },
+    {
+        "symbol": "CLEC2D",
+        "KO": -0.2245,
+        "OE": 3.7607,
+        "group": "None"
+    },
+    {
+        "symbol": "GCFC2",
+        "KO": -0.2467,
+        "OE": -0.424,
+        "group": "None"
+    },
+    {
+        "symbol": "AL512274.1",
+        "KO": 0.6707,
+        "OE": 0.3807,
+        "group": "None"
+    },
+    {
+        "symbol": "CCDC188",
+        "KO": 0.2295,
+        "OE": 2.2358,
+        "group": "None"
+    },
+    {
+        "symbol": "SUMF2",
+        "KO": 0.1877,
+        "OE": -0.9688,
+        "group": "None"
+    },
+    {
+        "symbol": "MYL5",
+        "KO": -0.2465,
+        "OE": 1.6661,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL10A",
+        "KO": 0.1017,
+        "OE": -0.2539,
+        "group": "None"
+    },
+    {
+        "symbol": "CDH17",
+        "KO": 0.678,
+        "OE": 1.0949,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNRD1",
+        "KO": -0.2337,
+        "OE": 0.3097,
+        "group": "None"
+    },
+    {
+        "symbol": "SCHIP1",
+        "KO": 0.3652,
+        "OE": 4.1329,
+        "group": "None"
+    },
+    {
+        "symbol": "PSMD12P",
+        "KO": -0.6801,
+        "OE": 1.3518,
+        "group": "None"
+    },
+    {
+        "symbol": "SEC22C",
+        "KO": 0.2225,
+        "OE": -0.1529,
+        "group": "None"
+    },
+    {
+        "symbol": "PWP1",
+        "KO": -0.2137,
+        "OE": -0.2978,
+        "group": "None"
+    },
+    {
+        "symbol": "HMGB2",
+        "KO": 0.0709,
+        "OE": 1.5374,
+        "group": "None"
+    },
+    {
+        "symbol": "ABCC12",
+        "KO": 0.7398,
+        "OE": -0.0857,
+        "group": "None"
+    },
+    {
+        "symbol": "VAV2",
+        "KO": -0.0641,
+        "OE": -0.0245,
+        "group": "None"
+    },
+    {
+        "symbol": "HNRNPCP2",
+        "KO": -0.1181,
+        "OE": 0.251,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092171.1",
+        "KO": -0.0651,
+        "OE": 2.218,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC7A5",
+        "KO": 0.7822,
+        "OE": -1.3862,
+        "group": "None"
+    },
+    {
+        "symbol": "AC073488.8",
+        "KO": 0.6173,
+        "OE": 0.9814,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007881.3",
+        "KO": -1.7602,
+        "OE": -1.2708,
+        "group": "None"
+    },
+    {
+        "symbol": "G3BP2",
+        "KO": 0.2693,
+        "OE": -1.5293,
+        "group": "None"
+    },
+    {
+        "symbol": "AKR1C2",
+        "KO": 0.4668,
+        "OE": 0.6611,
+        "group": "None"
+    },
+    {
+        "symbol": "MPO",
+        "KO": 1.4403,
+        "OE": -0.879,
+        "group": "None"
+    },
+    {
+        "symbol": "AL031008.1",
+        "KO": 1.1621,
+        "OE": 1.5255,
+        "group": "None"
+    },
+    {
+        "symbol": "TPCN1",
+        "KO": -0.1709,
+        "OE": 0.0806,
+        "group": "None"
+    },
+    {
+        "symbol": "LGALS3",
+        "KO": -0.1719,
+        "OE": -0.2071,
+        "group": "None"
+    },
+    {
+        "symbol": "FOXA2",
+        "KO": -1.6526,
+        "OE": 2.5105,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005726.2",
+        "KO": -1.7913,
+        "OE": 0.1272,
+        "group": "None"
+    },
+    {
+        "symbol": "LOXL4",
+        "KO": 0.0265,
+        "OE": -0.4877,
+        "group": "None"
+    },
+    {
+        "symbol": "MARCKS",
+        "KO": 0.1724,
+        "OE": -0.1992,
+        "group": "None"
+    },
+    {
+        "symbol": "AL163051.2",
+        "KO": -0.9591,
+        "OE": 1.0662,
+        "group": "None"
+    },
+    {
+        "symbol": "RBM15",
+        "KO": 0.3354,
+        "OE": 0.5129,
+        "group": "None"
+    },
+    {
+        "symbol": "ERP27",
+        "KO": -1.4228,
+        "OE": -2.7001,
+        "group": "None"
+    },
+    {
+        "symbol": "AP003108.5",
+        "KO": -0.263,
+        "OE": 2.6302,
+        "group": "None"
+    },
+    {
+        "symbol": "UBAC1",
+        "KO": 0.0167,
+        "OE": -0.3152,
+        "group": "None"
+    },
+    {
+        "symbol": "PYY",
+        "KO": 0.5012,
+        "OE": 1.1363,
+        "group": "None"
+    },
+    {
+        "symbol": "AC018804.1",
+        "KO": 1.3696,
+        "OE": 0.6563,
+        "group": "None"
+    },
+    {
+        "symbol": "SUZ12",
+        "KO": 0.018,
+        "OE": -0.276,
+        "group": "None"
+    },
+    {
+        "symbol": "OR8B9P",
+        "KO": 1.0323,
+        "OE": -0.8041,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC41A1",
+        "KO": 0.3177,
+        "OE": -1.0206,
+        "group": "None"
+    },
+    {
+        "symbol": "AC083829.1",
+        "KO": -1.0838,
+        "OE": 1.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF200",
+        "KO": 0.0516,
+        "OE": -0.2567,
+        "group": "None"
+    },
+    {
+        "symbol": "SMIM2",
+        "KO": 0.5768,
+        "OE": 2.1916,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL11",
+        "KO": 0.0496,
+        "OE": 0.4565,
+        "group": "None"
+    },
+    {
+        "symbol": "CSDE1",
+        "KO": 0.1742,
+        "OE": -0.9682,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC22A31",
+        "KO": -0.4758,
+        "OE": 1.1699,
+        "group": "None"
+    },
+    {
+        "symbol": "AC010327.4",
+        "KO": -0.0853,
+        "OE": -0.0297,
+        "group": "None"
+    },
+    {
+        "symbol": "ANKRD39",
+        "KO": 0.0826,
+        "OE": 0.3166,
+        "group": "None"
+    },
+    {
+        "symbol": "GOLGA8T",
+        "KO": 0.1349,
+        "OE": 0.7068,
+        "group": "None"
+    },
+    {
+        "symbol": "AMN1",
+        "KO": 0.0585,
+        "OE": -1.2147,
+        "group": "None"
+    },
+    {
+        "symbol": "SKI",
+        "KO": -0.0279,
+        "OE": -0.5147,
+        "group": "None"
+    },
+    {
+        "symbol": "CATSPER1",
+        "KO": 0.2444,
+        "OE": 0.4938,
+        "group": "None"
+    },
+    {
+        "symbol": "SIRT3",
+        "KO": -0.0937,
+        "OE": 0.512,
+        "group": "None"
+    },
+    {
+        "symbol": "PLEKHG1",
+        "KO": 0.2893,
+        "OE": -0.3371,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009686.2",
+        "KO": -0.0934,
+        "OE": 0.9125,
+        "group": "None"
+    },
+    {
+        "symbol": "SCUBE3",
+        "KO": -0.4088,
+        "OE": 0.6272,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF121",
+        "KO": -0.3221,
+        "OE": 1.0523,
+        "group": "None"
+    },
+    {
+        "symbol": "AL356270.1",
+        "KO": -0.4677,
+        "OE": 1.9814,
+        "group": "None"
+    },
+    {
+        "symbol": "KCNK6",
+        "KO": -0.18,
+        "OE": 0.9584,
+        "group": "None"
+    },
+    {
+        "symbol": "AC233280.19",
+        "KO": -0.9806,
+        "OE": 0.5865,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092828.1",
+        "KO": 0.8223,
+        "OE": 4.0046,
+        "group": "None"
+    },
+    {
+        "symbol": "ATP5MC1",
+        "KO": -0.1083,
+        "OE": 0.6941,
+        "group": "None"
+    },
+    {
+        "symbol": "TRIM7",
+        "KO": -0.1427,
+        "OE": 0.5197,
+        "group": "None"
+    },
+    {
+        "symbol": "IMMT",
+        "KO": -0.0136,
+        "OE": -0.2693,
+        "group": "None"
+    },
+    {
+        "symbol": "TCEANC",
+        "KO": -0.6963,
+        "OE": -0.5098,
+        "group": "None"
+    },
+    {
+        "symbol": "POP4",
+        "KO": 0.1183,
+        "OE": -0.0923,
+        "group": "None"
+    },
+    {
+        "symbol": "AC139749.1",
+        "KO": 1.4456,
+        "OE": 1.6017,
+        "group": "None"
+    },
+    {
+        "symbol": "LEPROT",
+        "KO": 0.2233,
+        "OE": 1.3544,
+        "group": "None"
+    },
+    {
+        "symbol": "UBQLN4P1",
+        "KO": 0.1741,
+        "OE": -1.7925,
+        "group": "None"
+    },
+    {
+        "symbol": "AC024940.2",
+        "KO": -0.4178,
+        "OE": -2.4599,
+        "group": "None"
+    },
+    {
+        "symbol": "AC002310.1",
+        "KO": -0.603,
+        "OE": -0.3647,
+        "group": "None"
+    },
+    {
+        "symbol": "AC234582.1",
+        "KO": -0.2445,
+        "OE": 4.3902,
+        "group": "None"
+    },
+    {
+        "symbol": "EBI3",
+        "KO": -0.7033,
+        "OE": 1.5092,
+        "group": "None"
+    },
+    {
+        "symbol": "MRPL28",
+        "KO": -0.1447,
+        "OE": 0.059,
+        "group": "None"
+    },
+    {
+        "symbol": "NUTM2F",
+        "KO": -0.6705,
+        "OE": 1.233,
+        "group": "None"
+    },
+    {
+        "symbol": "SEC61B",
+        "KO": 0.178,
+        "OE": 0.0633,
+        "group": "None"
+    },
+    {
+        "symbol": "ZBTB4",
+        "KO": -0.2655,
+        "OE": -0.0715,
+        "group": "None"
+    },
+    {
+        "symbol": "NFAT5",
+        "KO": -0.1397,
+        "OE": 1.2704,
+        "group": "None"
+    },
+    {
+        "symbol": "TAPT1-AS1",
+        "KO": 0.2087,
+        "OE": -0.4985,
+        "group": "None"
+    },
+    {
+        "symbol": "C14orf28",
+        "KO": -0.2768,
+        "OE": -0.1652,
+        "group": "None"
+    },
+    {
+        "symbol": "ATP9A",
+        "KO": 0.0767,
+        "OE": -0.8156,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL23AP42",
+        "KO": 0.1163,
+        "OE": 0.2996,
+        "group": "None"
+    },
+    {
+        "symbol": "MRPL16",
+        "KO": -0.1711,
+        "OE": 0.6673,
+        "group": "None"
+    },
+    {
+        "symbol": "CPN1",
+        "KO": -0.2153,
+        "OE": -0.3333,
+        "group": "None"
+    },
+    {
+        "symbol": "ELOCP31",
+        "KO": -0.3318,
+        "OE": 1.379,
+        "group": "None"
+    },
+    {
+        "symbol": "FGG",
+        "KO": 0.54,
+        "OE": -1.1594,
+        "group": "None"
+    },
+    {
+        "symbol": "TAF1A",
+        "KO": -0.4771,
+        "OE": -0.8057,
+        "group": "None"
+    },
+    {
+        "symbol": "PMEPA1",
+        "KO": -0.2719,
+        "OE": -1.2001,
+        "group": "None"
+    },
+    {
+        "symbol": "AC017104.3",
+        "KO": 0.3598,
+        "OE": 2.9419,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC-PINT",
+        "KO": -0.5272,
+        "OE": 1.3415,
+        "group": "None"
+    },
+    {
+        "symbol": "OSTN",
+        "KO": 0.2069,
+        "OE": -1.7971,
+        "group": "None"
+    },
+    {
+        "symbol": "MED28",
+        "KO": -0.2119,
+        "OE": -0.0079,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01967",
+        "KO": -0.2251,
+        "OE": 0.1159,
+        "group": "None"
+    },
+    {
+        "symbol": "AC026801.2",
+        "KO": -1.0838,
+        "OE": 1.1331,
+        "group": "None"
+    },
+    {
+        "symbol": "SHTN1",
+        "KO": -0.1268,
+        "OE": 0.2031,
+        "group": "None"
+    },
+    {
+        "symbol": "FAR2",
+        "KO": -0.4493,
+        "OE": -0.209,
+        "group": "None"
+    },
+    {
+        "symbol": "IRF3",
+        "KO": -0.1113,
+        "OE": 1.047,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092053.2",
+        "KO": -0.4228,
+        "OE": 0.2827,
+        "group": "None"
+    },
+    {
+        "symbol": "CMTM2",
+        "KO": 0.2584,
+        "OE": 0.1127,
+        "group": "None"
+    },
+    {
+        "symbol": "CD46",
+        "KO": 0.0242,
+        "OE": 0.4859,
+        "group": "None"
+    },
+    {
+        "symbol": "SH3PXD2A-AS1",
+        "KO": 0.4702,
+        "OE": -1.8848,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF865",
+        "KO": 0.0332,
+        "OE": 0.3087,
+        "group": "None"
+    },
+    {
+        "symbol": "SPSB2",
+        "KO": 0.1025,
+        "OE": -0.284,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092802.3",
+        "KO": 1.3696,
+        "OE": 0.1916,
+        "group": "None"
+    },
+    {
+        "symbol": "OR11H7",
+        "KO": -0.0082,
+        "OE": 1.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "AC083843.3",
+        "KO": -0.2379,
+        "OE": 2.6959,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01134",
+        "KO": -0.7582,
+        "OE": -1.3812,
+        "group": "None"
+    },
+    {
+        "symbol": "LYPLA1P3",
+        "KO": 0.6836,
+        "OE": -1.5593,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007743.1",
+        "KO": 0.0772,
+        "OE": -0.8041,
+        "group": "None"
+    },
+    {
+        "symbol": "STAR",
+        "KO": 0.053,
+        "OE": 0.1715,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01607",
+        "KO": 0.5436,
+        "OE": -0.4092,
+        "group": "None"
+    },
+    {
+        "symbol": "ARHGAP12",
+        "KO": -0.0468,
+        "OE": 0.0347,
+        "group": "None"
+    },
+    {
+        "symbol": "AL451074.2",
+        "KO": -2.4916,
+        "OE": 1.455,
+        "group": "None"
+    },
+    {
+        "symbol": "ANKRD13C",
+        "KO": 0.2269,
+        "OE": -0.8014,
+        "group": "None"
+    },
+    {
+        "symbol": "CYCSP24",
+        "KO": -0.6891,
+        "OE": 2.5046,
+        "group": "None"
+    },
+    {
+        "symbol": "AL109935.1",
+        "KO": -2.2043,
+        "OE": -0.879,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007405.3",
+        "KO": -0.1602,
+        "OE": 0.7435,
+        "group": "None"
+    },
+    {
+        "symbol": "ICAM2",
+        "KO": 0.8696,
+        "OE": -0.464,
+        "group": "None"
+    },
+    {
+        "symbol": "TNNI3",
+        "KO": -0.0737,
+        "OE": 1.0415,
+        "group": "None"
+    },
+    {
+        "symbol": "GM2A",
+        "KO": 0.5369,
+        "OE": -0.0712,
+        "group": "None"
+    },
+    {
+        "symbol": "NCAPH2",
+        "KO": 0.1509,
+        "OE": 0.2142,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009097.4",
+        "KO": -0.0078,
+        "OE": -0.9135,
+        "group": "None"
+    },
+    {
+        "symbol": "FBXO7",
+        "KO": 0.0698,
+        "OE": 0.0147,
+        "group": "None"
+    },
+    {
+        "symbol": "STIM1",
+        "KO": 0.3621,
+        "OE": -0.5982,
+        "group": "None"
+    },
+    {
+        "symbol": "FMR1-IT1",
+        "KO": 0.2396,
+        "OE": 3.2292,
+        "group": "None"
+    },
+    {
+        "symbol": "AC018638.4",
+        "KO": -0.1418,
+        "OE": 2.8557,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF425",
+        "KO": -0.2108,
+        "OE": -1.0755,
+        "group": "None"
+    },
+    {
+        "symbol": "TMEM14C",
+        "KO": 0.3026,
+        "OE": 0.1602,
+        "group": "None"
+    },
+    {
+        "symbol": "AC107214.1",
+        "KO": 0.2639,
+        "OE": 0.0272,
+        "group": "None"
+    },
+    {
+        "symbol": "AC010245.2",
+        "KO": -0.4501,
+        "OE": 1.2306,
+        "group": "None"
+    },
+    {
+        "symbol": "ETF1",
+        "KO": 0.1797,
+        "OE": -1.3134,
+        "group": "None"
+    },
+    {
+        "symbol": "FBXL3",
+        "KO": -0.1727,
+        "OE": -0.763,
+        "group": "None"
+    },
+    {
+        "symbol": "FASN",
+        "KO": 0.1175,
+        "OE": -0.7141,
+        "group": "None"
+    },
+    {
+        "symbol": "TOP1",
+        "KO": 0.1884,
+        "OE": -0.733,
+        "group": "None"
+    },
+    {
+        "symbol": "HIF1A-AS2",
+        "KO": -0.7489,
+        "OE": 1.5399,
+        "group": "None"
+    },
+    {
+        "symbol": "PINLYP",
+        "KO": 0.7471,
+        "OE": 0.9902,
+        "group": "None"
+    },
+    {
+        "symbol": "CDK4",
+        "KO": -0.0992,
+        "OE": -1.8782,
+        "group": "None"
+    },
+    {
+        "symbol": "APOL2",
+        "KO": -0.0795,
+        "OE": 0.7746,
+        "group": "None"
+    },
+    {
+        "symbol": "AC145422.1",
+        "KO": -0.4988,
+        "OE": 1.5663,
+        "group": "None"
+    },
+    {
+        "symbol": "MTND1P9",
+        "KO": 0.5772,
+        "OE": 0.121,
+        "group": "None"
+    },
+    {
+        "symbol": "TTN-AS1",
+        "KO": -0.6535,
+        "OE": 1.3322,
+        "group": "None"
+    },
+    {
+        "symbol": "AC012435.1",
+        "KO": 0.2936,
+        "OE": 0.5678,
+        "group": "None"
+    },
+    {
+        "symbol": "MYCL",
+        "KO": 0.664,
+        "OE": -1.9044,
+        "group": "None"
+    },
+    {
+        "symbol": "AC022613.2",
+        "KO": -1.8003,
+        "OE": -0.2611,
+        "group": "None"
+    },
+    {
+        "symbol": "AC004812.2",
+        "KO": -0.3246,
+        "OE": 0.6793,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF674-AS1",
+        "KO": -0.0144,
+        "OE": 0.038,
+        "group": "None"
+    },
+    {
+        "symbol": "VPS26A",
+        "KO": 0.3246,
+        "OE": -1.0883,
+        "group": "None"
+    },
+    {
+        "symbol": "RF00003",
+        "KO": -0.4739,
+        "OE": 0.9341,
+        "group": "None"
+    },
+    {
+        "symbol": "C6orf47",
+        "KO": 0.0551,
+        "OE": -0.6155,
+        "group": "None"
+    },
+    {
+        "symbol": "AL359844.1",
+        "KO": 1.6578,
+        "OE": 1.7059,
+        "group": "None"
+    },
+    {
+        "symbol": "ACTA2",
+        "KO": -0.1557,
+        "OE": -0.569,
+        "group": "None"
+    },
+    {
+        "symbol": "GALNT18",
+        "KO": 0.1614,
+        "OE": -0.4364,
+        "group": "None"
+    },
+    {
+        "symbol": "ENSA",
+        "KO": 0.1287,
+        "OE": 0.1491,
+        "group": "None"
+    },
+    {
+        "symbol": "SNORA80B",
+        "KO": -0.619,
+        "OE": 3.0597,
+        "group": "None"
+    },
+    {
+        "symbol": "RASGEF1A",
+        "KO": 0.189,
+        "OE": -0.3372,
+        "group": "None"
+    },
+    {
+        "symbol": "MTRR",
+        "KO": -0.2434,
+        "OE": -1.084,
+        "group": "None"
+    },
+    {
+        "symbol": "NECAB3",
+        "KO": -0.3304,
+        "OE": -0.0092,
+        "group": "None"
+    },
+    {
+        "symbol": "BRD1",
+        "KO": 0.0171,
+        "OE": 0.093,
+        "group": "None"
+    },
+    {
+        "symbol": "MAGOH",
+        "KO": -0.0605,
+        "OE": 0.2678,
+        "group": "None"
+    },
+    {
+        "symbol": "AC006199.1",
+        "KO": -1.5526,
+        "OE": -0.8782,
+        "group": "None"
+    },
+    {
+        "symbol": "CRAMP1",
+        "KO": -0.0136,
+        "OE": 0.1574,
+        "group": "None"
+    },
+    {
+        "symbol": "C12orf4",
+        "KO": -0.18,
+        "OE": -0.3881,
+        "group": "None"
+    },
+    {
+        "symbol": "RGCC",
+        "KO": -0.2082,
+        "OE": -0.068,
+        "group": "None"
+    },
+    {
+        "symbol": "HIF1A",
+        "KO": 0.1476,
+        "OE": -0.5709,
+        "group": "None"
+    },
+    {
+        "symbol": "POLR3K",
+        "KO": -0.3565,
+        "OE": -0.1905,
+        "group": "None"
+    },
+    {
+        "symbol": "LDAH",
+        "KO": 0.0116,
+        "OE": -0.0699,
+        "group": "None"
+    },
+    {
+        "symbol": "FRS3",
+        "KO": -0.3027,
+        "OE": 0.3732,
+        "group": "None"
+    },
+    {
+        "symbol": "CRYAB",
+        "KO": -0.9457,
+        "OE": -1.5375,
+        "group": "None"
+    },
+    {
+        "symbol": "CDADC1",
+        "KO": -0.084,
+        "OE": -0.5095,
+        "group": "None"
+    },
+    {
+        "symbol": "RNVU1-4",
+        "KO": 0.5306,
+        "OE": 0.1939,
+        "group": "None"
+    },
+    {
+        "symbol": "H2AFV",
+        "KO": 0.2425,
+        "OE": 0.3496,
+        "group": "None"
+    },
+    {
+        "symbol": "NF2",
+        "KO": 0.2967,
+        "OE": -0.3561,
+        "group": "None"
+    },
+    {
+        "symbol": "MAF1",
+        "KO": 0.1396,
+        "OE": -0.4844,
+        "group": "None"
+    },
+    {
+        "symbol": "SRSF1",
+        "KO": -0.9547,
+        "OE": 0.0005,
+        "group": "None"
+    },
+    {
+        "symbol": "RBM44",
+        "KO": 1.2662,
+        "OE": 2.6294,
+        "group": "None"
+    },
+    {
+        "symbol": "C11orf95",
+        "KO": -0.0181,
+        "OE": 1.0583,
+        "group": "None"
+    },
+    {
+        "symbol": "KLF2",
+        "KO": -0.0543,
+        "OE": -0.0416,
+        "group": "None"
+    },
+    {
+        "symbol": "GOLGA3",
+        "KO": 0.2457,
+        "OE": -0.8578,
+        "group": "None"
+    },
+    {
+        "symbol": "RNF26",
+        "KO": 0.3474,
+        "OE": -0.6155,
+        "group": "None"
+    },
+    {
+        "symbol": "AC139887.1",
+        "KO": 1.2381,
+        "OE": 1.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "AL117328.1",
+        "KO": -0.6304,
+        "OE": 0.1916,
+        "group": "None"
+    },
+    {
+        "symbol": "TXNDC9",
+        "KO": -0.017,
+        "OE": -0.5039,
+        "group": "None"
+    },
+    {
+        "symbol": "USP30",
+        "KO": 0.0254,
+        "OE": -0.5865,
+        "group": "None"
+    },
+    {
+        "symbol": "KLF11",
+        "KO": 0.4788,
+        "OE": -1.2863,
+        "group": "None"
+    },
+    {
+        "symbol": "SHLD2P1",
+        "KO": 0.0857,
+        "OE": -1.2557,
+        "group": "None"
+    },
+    {
+        "symbol": "RANGAP1",
+        "KO": 0.0297,
+        "OE": -0.464,
+        "group": "None"
+    },
+    {
+        "symbol": "AL451042.2",
+        "KO": 0.1459,
+        "OE": -0.3093,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL5P34",
+        "KO": 0.0239,
+        "OE": 0.7689,
+        "group": "None"
+    },
+    {
+        "symbol": "RNVU1-6",
+        "KO": 1.3696,
+        "OE": 2.0237,
+        "group": "None"
+    },
+    {
+        "symbol": "IGSF5",
+        "KO": -1.9185,
+        "OE": -1.4712,
+        "group": "None"
+    },
+    {
+        "symbol": "BX284668.6",
+        "KO": -0.7153,
+        "OE": 0.1218,
+        "group": "None"
+    },
+    {
+        "symbol": "AP1B1",
+        "KO": 0.1592,
+        "OE": -0.8568,
+        "group": "None"
+    },
+    {
+        "symbol": "TUBAP2",
+        "KO": 0.1977,
+        "OE": 0.379,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC27A3",
+        "KO": 0.217,
+        "OE": 1.4934,
+        "group": "None"
+    },
+    {
+        "symbol": "ODR4",
+        "KO": -0.1134,
+        "OE": 0.5806,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC02012",
+        "KO": -0.11,
+        "OE": 0.0015,
+        "group": "None"
+    },
+    {
+        "symbol": "RN7SL350P",
+        "KO": 0.0815,
+        "OE": 0.121,
+        "group": "None"
+    },
+    {
+        "symbol": "GABPAP",
+        "KO": 0.5146,
+        "OE": -1.0952,
+        "group": "None"
+    },
+    {
+        "symbol": "AC026368.1",
+        "KO": -0.0806,
+        "OE": 2.9718,
+        "group": "None"
+    },
+    {
+        "symbol": "CBLC",
+        "KO": -0.0803,
+        "OE": -0.3596,
+        "group": "None"
+    },
+    {
+        "symbol": "MORC3",
+        "KO": -0.0658,
+        "OE": -0.8857,
+        "group": "None"
+    },
+    {
+        "symbol": "ECSIT",
+        "KO": 0.2474,
+        "OE": -0.1177,
+        "group": "None"
+    },
+    {
+        "symbol": "STPG4",
+        "KO": -0.3739,
+        "OE": 0.6271,
+        "group": "None"
+    },
+    {
+        "symbol": "AC069307.1",
+        "KO": -0.2731,
+        "OE": 1.8052,
+        "group": "None"
+    },
+    {
+        "symbol": "EIF3B",
+        "KO": 0.0741,
+        "OE": -0.327,
+        "group": "None"
+    },
+    {
+        "symbol": "TAF1",
+        "KO": -0.0221,
+        "OE": 0.3621,
+        "group": "None"
+    },
+    {
+        "symbol": "CDC123",
+        "KO": -0.1335,
+        "OE": 0.0734,
+        "group": "None"
+    },
+    {
+        "symbol": "LBP",
+        "KO": -0.2153,
+        "OE": 1.3173,
+        "group": "None"
+    },
+    {
+        "symbol": "Z97192.1",
+        "KO": -0.6623,
+        "OE": 3.2971,
+        "group": "None"
+    },
+    {
+        "symbol": "Z99755.1",
+        "KO": 1.9384,
+        "OE": -1.9781,
+        "group": "None"
+    },
+    {
+        "symbol": "MPZ",
+        "KO": -0.1886,
+        "OE": -0.7789,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF326",
+        "KO": -0.0676,
+        "OE": 1.4363,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF419",
+        "KO": -0.3072,
+        "OE": 1.9786,
+        "group": "None"
+    },
+    {
+        "symbol": "DAAM2",
+        "KO": 0.4274,
+        "OE": -0.9135,
+        "group": "None"
+    },
+    {
+        "symbol": "DNMBP",
+        "KO": 0.4742,
+        "OE": 0.6096,
+        "group": "None"
+    },
+    {
+        "symbol": "AC087752.4",
+        "KO": -0.9298,
+        "OE": 2.955,
+        "group": "None"
+    },
+    {
+        "symbol": "ATN1",
+        "KO": 0.1385,
+        "OE": 0.0124,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF883",
+        "KO": 1.0772,
+        "OE": -0.0186,
+        "group": "None"
+    },
+    {
+        "symbol": "EMC8",
+        "KO": -0.0887,
+        "OE": -0.5728,
+        "group": "None"
+    },
+    {
+        "symbol": "CST3",
+        "KO": 0.1983,
+        "OE": 0.3189,
+        "group": "None"
+    },
+    {
+        "symbol": "TCF3P1",
+        "KO": 2.1621,
+        "OE": 0.1916,
+        "group": "None"
+    },
+    {
+        "symbol": "LRRC37A17P",
+        "KO": -0.2371,
+        "OE": 0.0887,
+        "group": "None"
+    },
+    {
+        "symbol": "LRRC47",
+        "KO": 0.0544,
+        "OE": -0.7578,
+        "group": "None"
+    },
+    {
+        "symbol": "BACH2",
+        "KO": 0.1535,
+        "OE": -0.0356,
+        "group": "None"
+    },
+    {
+        "symbol": "ASCC3",
+        "KO": -0.0623,
+        "OE": -0.5068,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01545",
+        "KO": 0.4101,
+        "OE": 1.9143,
+        "group": "None"
+    },
+    {
+        "symbol": "AC067863.1",
+        "KO": -0.0078,
+        "OE": -0.8782,
+        "group": "None"
+    },
+    {
+        "symbol": "SPCS3",
+        "KO": 0.221,
+        "OE": -0.4834,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC31A1",
+        "KO": 0.4282,
+        "OE": -1.0774,
+        "group": "None"
+    },
+    {
+        "symbol": "C9orf66",
+        "KO": -0.0078,
+        "OE": -1.7211,
+        "group": "None"
+    },
+    {
+        "symbol": "GDPD1",
+        "KO": 0.0396,
+        "OE": -0.5991,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009509.4",
+        "KO": -0.3265,
+        "OE": 1.718,
+        "group": "None"
+    },
+    {
+        "symbol": "GDAP2",
+        "KO": -0.0751,
+        "OE": -0.4352,
+        "group": "None"
+    },
+    {
+        "symbol": "EYA4",
+        "KO": 0.0772,
+        "OE": -0.0745,
+        "group": "None"
+    },
+    {
+        "symbol": "MRPS35",
+        "KO": 0.0197,
+        "OE": -0.4125,
+        "group": "None"
+    },
+    {
+        "symbol": "BMP2K",
+        "KO": 0.398,
+        "OE": -0.5077,
+        "group": "None"
+    },
+    {
+        "symbol": "TMED5",
+        "KO": 0.3517,
+        "OE": -0.4938,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF362",
+        "KO": 0.1381,
+        "OE": 0.7977,
+        "group": "None"
+    },
+    {
+        "symbol": "OST4",
+        "KO": 0.0558,
+        "OE": 0.5603,
+        "group": "None"
+    },
+    {
+        "symbol": "GUSBP3",
+        "KO": -1.0419,
+        "OE": 2.3264,
+        "group": "None"
+    },
+    {
+        "symbol": "RPLP0P2",
+        "KO": 0.23,
+        "OE": -1.8554,
+        "group": "None"
+    },
+    {
+        "symbol": "BCL2",
+        "KO": -0.0932,
+        "OE": -0.3866,
+        "group": "None"
+    },
+    {
+        "symbol": "ARHGEF17",
+        "KO": 0.0231,
+        "OE": 0.1912,
+        "group": "None"
+    },
+    {
+        "symbol": "GPC2",
+        "KO": 0.0038,
+        "OE": 1.7153,
+        "group": "None"
+    },
+    {
+        "symbol": "BUB1B",
+        "KO": 0.0638,
+        "OE": 0.0627,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01118",
+        "KO": 1.3696,
+        "OE": 2.4438,
+        "group": "None"
+    },
+    {
+        "symbol": "NR1H2",
+        "KO": 0.0345,
+        "OE": -0.1715,
+        "group": "None"
+    },
+    {
+        "symbol": "AC023271.1",
+        "KO": 0.0366,
+        "OE": 0.8437,
+        "group": "None"
+    },
+    {
+        "symbol": "DPH6-DT",
+        "KO": 0.8696,
+        "OE": 0.3638,
+        "group": "None"
+    },
+    {
+        "symbol": "AC080128.2",
+        "KO": 0.0323,
+        "OE": -0.4833,
+        "group": "None"
+    },
+    {
+        "symbol": "DECR1",
+        "KO": -0.2031,
+        "OE": 1.189,
+        "group": "None"
+    },
+    {
+        "symbol": "NGDN",
+        "KO": -0.014,
+        "OE": 0.4328,
+        "group": "None"
+    },
+    {
+        "symbol": "ALG1L10P",
+        "KO": -0.2357,
+        "OE": 0.4026,
+        "group": "None"
+    },
+    {
+        "symbol": "VPS35",
+        "KO": -0.0157,
+        "OE": 0.5513,
+        "group": "None"
+    },
+    {
+        "symbol": "RNF10",
+        "KO": 0.17,
+        "OE": -0.5529,
+        "group": "None"
+    },
+    {
+        "symbol": "ALPK2",
+        "KO": -0.2328,
+        "OE": -0.6679,
+        "group": "None"
+    },
+    {
+        "symbol": "SNX25",
+        "KO": 0.1686,
+        "OE": -0.2553,
+        "group": "None"
+    },
+    {
+        "symbol": "AC129492.5",
+        "KO": -0.1818,
+        "OE": 0.5451,
+        "group": "None"
+    },
+    {
+        "symbol": "ANXA2R",
+        "KO": -0.6539,
+        "OE": -0.4712,
+        "group": "None"
+    },
+    {
+        "symbol": "TYMSOS",
+        "KO": 0.1037,
+        "OE": 0.0466,
+        "group": "None"
+    },
+    {
+        "symbol": "AC093616.1",
+        "KO": -0.5035,
+        "OE": -1.879,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007638.2",
+        "KO": -1.3823,
+        "OE": 0.1563,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL21P28",
+        "KO": -0.5114,
+        "OE": 1.1231,
+        "group": "None"
+    },
+    {
+        "symbol": "HSPD1P10",
+        "KO": 2.2381,
+        "OE": 1.294,
+        "group": "None"
+    },
+    {
+        "symbol": "PANK3",
+        "KO": -0.2571,
+        "OE": -0.101,
+        "group": "None"
+    },
+    {
+        "symbol": "RIBC1",
+        "KO": -0.0385,
+        "OE": 0.8656,
+        "group": "None"
+    },
+    {
+        "symbol": "AL662844.4",
+        "KO": -1.3406,
+        "OE": 1.0793,
+        "group": "None"
+    },
+    {
+        "symbol": "ZBTB44",
+        "KO": -0.0278,
+        "OE": -0.1651,
+        "group": "None"
+    },
+    {
+        "symbol": "CBL",
+        "KO": 0.1925,
+        "OE": -0.4335,
+        "group": "None"
+    },
+    {
+        "symbol": "APBA3",
+        "KO": 0.0252,
+        "OE": -0.3935,
+        "group": "None"
+    },
+    {
+        "symbol": "TIMELESS",
+        "KO": -0.1957,
+        "OE": 0.3835,
+        "group": "None"
+    },
+    {
+        "symbol": "SHPRH",
+        "KO": -0.2019,
+        "OE": -0.5064,
+        "group": "None"
+    },
+    {
+        "symbol": "PGBD4",
+        "KO": -0.7446,
+        "OE": 1.3073,
+        "group": "None"
+    },
+    {
+        "symbol": "AC004771.3",
+        "KO": 0.3141,
+        "OE": -0.4197,
+        "group": "None"
+    },
+    {
+        "symbol": "AL359962.2",
+        "KO": -0.3379,
+        "OE": 0.0512,
+        "group": "None"
+    },
+    {
+        "symbol": "CNDP2",
+        "KO": -0.2823,
+        "OE": -0.6889,
+        "group": "None"
+    },
+    {
+        "symbol": "SPARCL1",
+        "KO": 0.1066,
+        "OE": 2.252,
+        "group": "None"
+    },
+    {
+        "symbol": "KRT8P31",
+        "KO": -1.119,
+        "OE": 0.052,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007969.1",
+        "KO": -0.0486,
+        "OE": 1.2546,
+        "group": "None"
+    },
+    {
+        "symbol": "LRRC34",
+        "KO": 0.2511,
+        "OE": 1.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "STOX2",
+        "KO": 0.3088,
+        "OE": 0.881,
+        "group": "None"
+    },
+    {
+        "symbol": "AC019294.2",
+        "KO": -1.1041,
+        "OE": -1.8263,
+        "group": "None"
+    },
+    {
+        "symbol": "CLOCK",
+        "KO": -0.117,
+        "OE": 0.112,
+        "group": "None"
+    },
+    {
+        "symbol": "IGFBP7",
+        "KO": -0.0401,
+        "OE": 1.879,
+        "group": "None"
+    },
+    {
+        "symbol": "KLK11",
+        "KO": -0.319,
+        "OE": 0.9277,
+        "group": "None"
+    },
+    {
+        "symbol": "AC021491.2",
+        "KO": -0.8934,
+        "OE": 0.8293,
+        "group": "None"
+    },
+    {
+        "symbol": "MCM3",
+        "KO": -0.4522,
+        "OE": 0.6802,
+        "group": "None"
+    },
+    {
+        "symbol": "AC132938.3",
+        "KO": -0.2099,
+        "OE": -0.873,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092490.1",
+        "KO": 0.1269,
+        "OE": -1.3172,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF451",
+        "KO": 0.1169,
+        "OE": 0.0949,
+        "group": "None"
+    },
+    {
+        "symbol": "NAT16",
+        "KO": -0.2262,
+        "OE": -1.4006,
+        "group": "None"
+    },
+    {
+        "symbol": "TMEM80",
+        "KO": -0.2355,
+        "OE": 1.2661,
+        "group": "None"
+    },
+    {
+        "symbol": "AC006001.2",
+        "KO": -0.2203,
+        "OE": 0.4266,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01564",
+        "KO": 0.2574,
+        "OE": -1.616,
+        "group": "None"
+    },
+    {
+        "symbol": "DPH2",
+        "KO": -0.2024,
+        "OE": -0.431,
+        "group": "None"
+    },
+    {
+        "symbol": "AC233992.2",
+        "KO": -1.2153,
+        "OE": 1.6014,
+        "group": "None"
+    },
+    {
+        "symbol": "BMP5",
+        "KO": 0.4456,
+        "OE": 1.6017,
+        "group": "None"
+    },
+    {
+        "symbol": "DPM2",
+        "KO": -0.2397,
+        "OE": -0.5043,
+        "group": "None"
+    },
+    {
+        "symbol": "TMEM31",
+        "KO": -0.9272,
+        "OE": -0.9631,
+        "group": "None"
+    },
+    {
+        "symbol": "EIF2B2",
+        "KO": 0.0508,
+        "OE": -0.9714,
+        "group": "None"
+    },
+    {
+        "symbol": "ZMYND15",
+        "KO": -0.0283,
+        "OE": 0.8932,
+        "group": "None"
+    },
+    {
+        "symbol": "VCPKMT",
+        "KO": -0.0252,
+        "OE": 0.2272,
+        "group": "None"
+    },
+    {
+        "symbol": "PRPF19",
+        "KO": 0.0043,
+        "OE": -0.6558,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01612",
+        "KO": -0.7021,
+        "OE": 0.5783,
+        "group": "None"
+    },
+    {
+        "symbol": "CCDC173",
+        "KO": -0.4967,
+        "OE": -0.621,
+        "group": "None"
+    },
+    {
+        "symbol": "MARK2",
+        "KO": 0.1324,
+        "OE": -1.0181,
+        "group": "None"
+    },
+    {
+        "symbol": "CHKB-CPT1B",
+        "KO": -0.446,
+        "OE": 3.8457,
+        "group": "None"
+    },
+    {
+        "symbol": "MRPL3P1",
+        "KO": -0.1304,
+        "OE": -1.3375,
+        "group": "None"
+    },
+    {
+        "symbol": "NRROS",
+        "KO": -0.6304,
+        "OE": 0.052,
+        "group": "None"
+    },
+    {
+        "symbol": "AC015689.1",
+        "KO": -0.534,
+        "OE": 0.379,
+        "group": "None"
+    },
+    {
+        "symbol": "CENPA",
+        "KO": 0.5285,
+        "OE": -0.0499,
+        "group": "None"
+    },
+    {
+        "symbol": "RPUSD4",
+        "KO": -0.1269,
+        "OE": -0.286,
+        "group": "None"
+    },
+    {
+        "symbol": "SUDS3P1",
+        "KO": 0.3627,
+        "OE": -0.245,
+        "group": "None"
+    },
+    {
+        "symbol": "SFXN5",
+        "KO": -0.1663,
+        "OE": 0.1496,
+        "group": "None"
+    },
+    {
+        "symbol": "MIR7111",
+        "KO": -0.5676,
+        "OE": 2.8437,
+        "group": "None"
+    },
+    {
+        "symbol": "ANKRA2",
+        "KO": -0.2846,
+        "OE": -0.2631,
+        "group": "None"
+    },
+    {
+        "symbol": "OGFRL1",
+        "KO": 0.1421,
+        "OE": -1.051,
+        "group": "None"
+    },
+    {
+        "symbol": "TRIO",
+        "KO": 0.423,
+        "OE": 0.0606,
+        "group": "None"
+    },
+    {
+        "symbol": "COL16A1",
+        "KO": 0.4585,
+        "OE": 0.5712,
+        "group": "None"
+    },
+    {
+        "symbol": "UBE2D1",
+        "KO": 0.0519,
+        "OE": -0.4922,
+        "group": "None"
+    },
+    {
+        "symbol": "VSIG1",
+        "KO": 0.0772,
+        "OE": -1.1563,
+        "group": "None"
+    },
+    {
+        "symbol": "DMPK",
+        "KO": 0.2269,
+        "OE": 0.6903,
+        "group": "None"
+    },
+    {
+        "symbol": "SAYSD1",
+        "KO": -0.2396,
+        "OE": 0.3735,
+        "group": "None"
+    },
+    {
+        "symbol": "RHOT2",
+        "KO": -0.1993,
+        "OE": 0.5502,
+        "group": "None"
+    },
+    {
+        "symbol": "TOP2B",
+        "KO": 0.1262,
+        "OE": -0.4998,
+        "group": "None"
+    },
+    {
+        "symbol": "AL096701.1",
+        "KO": 0.2786,
+        "OE": -0.621,
+        "group": "None"
+    },
+    {
+        "symbol": "DGKA",
+        "KO": 0.1311,
+        "OE": 0.9776,
+        "group": "None"
+    },
+    {
+        "symbol": "AC027763.2",
+        "KO": 0.149,
+        "OE": 0.7414,
+        "group": "None"
+    },
+    {
+        "symbol": "AL137847.2",
+        "KO": 0.0144,
+        "OE": 0.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "IL9R",
+        "KO": -0.9875,
+        "OE": -0.8437,
+        "group": "None"
+    },
+    {
+        "symbol": "PSMD4",
+        "KO": 0.1043,
+        "OE": 0.0583,
+        "group": "None"
+    },
+    {
+        "symbol": "SNUPN",
+        "KO": -0.0418,
+        "OE": -0.7319,
+        "group": "None"
+    },
+    {
+        "symbol": "POLR2I",
+        "KO": -0.2092,
+        "OE": 0.4532,
+        "group": "None"
+    },
+    {
+        "symbol": "MIR181A2HG",
+        "KO": 0.1701,
+        "OE": 0.5105,
+        "group": "None"
+    },
+    {
+        "symbol": "GKAP1",
+        "KO": -0.0871,
+        "OE": 0.1359,
+        "group": "None"
+    },
+    {
+        "symbol": "PTPRK",
+        "KO": 0.0203,
+        "OE": 0.0795,
+        "group": "None"
+    },
+    {
+        "symbol": "RIPK1",
+        "KO": 0.1082,
+        "OE": -0.0196,
+        "group": "None"
+    },
+    {
+        "symbol": "PTK6",
+        "KO": -0.0421,
+        "OE": 0.1082,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01749",
+        "KO": -0.9185,
+        "OE": -0.0186,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF100",
+        "KO": -0.3853,
+        "OE": 0.1688,
+        "group": "None"
+    },
+    {
+        "symbol": "AC107294.1",
+        "KO": -1.7602,
+        "OE": -0.5338,
+        "group": "None"
+    },
+    {
+        "symbol": "RPS14",
+        "KO": 0.0415,
+        "OE": 0.0714,
+        "group": "None"
+    },
+    {
+        "symbol": "RASSF1",
+        "KO": -0.141,
+        "OE": -0.1466,
+        "group": "None"
+    },
+    {
+        "symbol": "CCDC13",
+        "KO": -1.1075,
+        "OE": 1.4032,
+        "group": "None"
+    },
+    {
+        "symbol": "C1D",
+        "KO": 0.0061,
+        "OE": -1.8606,
+        "group": "None"
+    },
+    {
+        "symbol": "AL138689.1",
+        "KO": -0.3186,
+        "OE": 0.9417,
+        "group": "None"
+    },
+    {
+        "symbol": "TMEM229B",
+        "KO": 0.286,
+        "OE": -0.1234,
+        "group": "None"
+    },
+    {
+        "symbol": "TICAM2",
+        "KO": -0.8763,
+        "OE": 0.3587,
+        "group": "None"
+    },
+    {
+        "symbol": "CDK5R1",
+        "KO": -0.2453,
+        "OE": -0.4356,
+        "group": "None"
+    },
+    {
+        "symbol": "CAMK2N1",
+        "KO": 0.2197,
+        "OE": -0.0073,
+        "group": "None"
+    },
+    {
+        "symbol": "AC096887.2",
+        "KO": -1.5838,
+        "OE": 0.0512,
+        "group": "None"
+    },
+    {
+        "symbol": "AC022150.4",
+        "KO": -0.5181,
+        "OE": -0.5009,
+        "group": "None"
+    },
+    {
+        "symbol": "NKX3-1",
+        "KO": 0.3329,
+        "OE": -1.2701,
+        "group": "None"
+    },
+    {
+        "symbol": "MARVELD3",
+        "KO": -0.1422,
+        "OE": -0.2857,
+        "group": "None"
+    },
+    {
+        "symbol": "CD24",
+        "KO": -0.4717,
+        "OE": 0.1097,
+        "group": "None"
+    },
+    {
+        "symbol": "GATC",
+        "KO": -0.0833,
+        "OE": -0.0423,
+        "group": "None"
+    },
+    {
+        "symbol": "POLI",
+        "KO": -0.3423,
+        "OE": 0.3421,
+        "group": "None"
+    },
+    {
+        "symbol": "ARHGEF35",
+        "KO": 0.345,
+        "OE": -0.2652,
+        "group": "None"
+    },
+    {
+        "symbol": "TCHP",
+        "KO": 0.1235,
+        "OE": -0.0433,
+        "group": "None"
+    },
+    {
+        "symbol": "AC027808.2",
+        "KO": 0.0772,
+        "OE": 0.5255,
+        "group": "None"
+    },
+    {
+        "symbol": "TP53INP2",
+        "KO": 0.1667,
+        "OE": -0.8265,
+        "group": "None"
+    },
+    {
+        "symbol": "NRADDP",
+        "KO": 0.4456,
+        "OE": 1.1105,
+        "group": "None"
+    },
+    {
+        "symbol": "HNRNPA3",
+        "KO": 0.249,
+        "OE": 0.6422,
+        "group": "None"
+    },
+    {
+        "symbol": "NSUN4",
+        "KO": -0.1646,
+        "OE": 0.0157,
+        "group": "None"
+    },
+    {
+        "symbol": "RAB11B",
+        "KO": 0.0625,
+        "OE": 0.0731,
+        "group": "None"
+    },
+    {
+        "symbol": "WDR3",
+        "KO": -0.2465,
+        "OE": -0.5347,
+        "group": "None"
+    },
+    {
+        "symbol": "ITGB8",
+        "KO": -0.9567,
+        "OE": 0.6925,
+        "group": "None"
+    },
+    {
+        "symbol": "SMIM4",
+        "KO": 0.1016,
+        "OE": -0.006,
+        "group": "None"
+    },
+    {
+        "symbol": "SCGB2A1",
+        "KO": -0.3823,
+        "OE": -0.6594,
+        "group": "None"
+    },
+    {
+        "symbol": "SLX4",
+        "KO": 0.2172,
+        "OE": 0.4498,
+        "group": "None"
+    },
+    {
+        "symbol": "GPR173",
+        "KO": -0.2473,
+        "OE": -0.0438,
+        "group": "None"
+    },
+    {
+        "symbol": "NOMO2",
+        "KO": 0.8498,
+        "OE": -2.5984,
+        "group": "None"
+    },
+    {
+        "symbol": "ITIH3",
+        "KO": 1.0287,
+        "OE": 0.0015,
+        "group": "None"
+    },
+    {
+        "symbol": "GID8",
+        "KO": 0.0662,
+        "OE": -0.3757,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007848.1",
+        "KO": -0.872,
+        "OE": 2.5774,
+        "group": "None"
+    },
+    {
+        "symbol": "BX284668.2",
+        "KO": -0.2713,
+        "OE": -1.5912,
+        "group": "None"
+    },
+    {
+        "symbol": "HSPD1",
+        "KO": -0.2001,
+        "OE": -0.0206,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01615",
+        "KO": -0.7005,
+        "OE": 1.5529,
+        "group": "None"
+    },
+    {
+        "symbol": "PEX14",
+        "KO": -0.0281,
+        "OE": -0.5027,
+        "group": "None"
+    },
+    {
+        "symbol": "RPS23",
+        "KO": 0.1461,
+        "OE": 0.0083,
+        "group": "None"
+    },
+    {
+        "symbol": "SNORD92",
+        "KO": -0.2153,
+        "OE": -0.9833,
+        "group": "None"
+    },
+    {
+        "symbol": "SNRPG",
+        "KO": -0.1086,
+        "OE": 0.6088,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM3D-AS1",
+        "KO": -1.4228,
+        "OE": -1.206,
+        "group": "None"
+    },
+    {
+        "symbol": "HGSNAT",
+        "KO": -0.0341,
+        "OE": 0.4308,
+        "group": "None"
+    },
+    {
+        "symbol": "ABRACL",
+        "KO": -0.0965,
+        "OE": 0.5364,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF350",
+        "KO": 0.2597,
+        "OE": 2.4398,
+        "group": "None"
+    },
+    {
+        "symbol": "AC233992.3",
+        "KO": 0.5024,
+        "OE": 0.9477,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092574.1",
+        "KO": -0.9228,
+        "OE": 0.5369,
+        "group": "None"
+    },
+    {
+        "symbol": "DAGLA",
+        "KO": -0.1749,
+        "OE": -0.4048,
+        "group": "None"
+    },
+    {
+        "symbol": "EMC10",
+        "KO": 0.2296,
+        "OE": -0.337,
+        "group": "None"
+    },
+    {
+        "symbol": "PPP1R18",
+        "KO": -0.4377,
+        "OE": -0.2435,
+        "group": "None"
+    },
+    {
+        "symbol": "KIF18A",
+        "KO": 0.203,
+        "OE": 0.9101,
+        "group": "None"
+    },
+    {
+        "symbol": "ASTN2",
+        "KO": -0.1737,
+        "OE": -0.8848,
+        "group": "None"
+    },
+    {
+        "symbol": "AL645608.7",
+        "KO": -0.9242,
+        "OE": 0.4399,
+        "group": "None"
+    },
+    {
+        "symbol": "ARL16",
+        "KO": -0.2133,
+        "OE": 0.7693,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC02008",
+        "KO": -0.0539,
+        "OE": 0.245,
+        "group": "None"
+    },
+    {
+        "symbol": "ZFP41",
+        "KO": -0.2159,
+        "OE": -0.1416,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL23AP24",
+        "KO": -0.8265,
+        "OE": -0.2182,
+        "group": "None"
+    },
+    {
+        "symbol": "KLHL33",
+        "KO": -0.2153,
+        "OE": 1.379,
+        "group": "None"
+    },
+    {
+        "symbol": "DEPDC4",
+        "KO": -0.345,
+        "OE": -0.245,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF17",
+        "KO": -0.0648,
+        "OE": -0.3758,
+        "group": "None"
+    },
+    {
+        "symbol": "SORBS3",
+        "KO": 0.1216,
+        "OE": 0.5264,
+        "group": "None"
+    },
+    {
+        "symbol": "DNM2",
+        "KO": 0.1745,
+        "OE": -0.2326,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005050.1",
+        "KO": -1.4623,
+        "OE": -0.3375,
+        "group": "None"
+    },
+    {
+        "symbol": "AC060780.1",
+        "KO": -0.5767,
+        "OE": 1.0132,
+        "group": "None"
+    },
+    {
+        "symbol": "AC099336.2",
+        "KO": -0.0823,
+        "OE": 0.6082,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF227",
+        "KO": 0.039,
+        "OE": 0.0481,
+        "group": "None"
+    },
+    {
+        "symbol": "CD55",
+        "KO": 0.5811,
+        "OE": -0.9647,
+        "group": "None"
+    },
+    {
+        "symbol": "SSBP3",
+        "KO": 0.111,
+        "OE": 0.1419,
+        "group": "None"
+    },
+    {
+        "symbol": "AC127502.3",
+        "KO": -1.9677,
+        "OE": 1.121,
+        "group": "None"
+    },
+    {
+        "symbol": "HIST1H2AH",
+        "KO": -1.1557,
+        "OE": 2.7105,
+        "group": "None"
+    },
+    {
+        "symbol": "GSK3A",
+        "KO": 0.1585,
+        "OE": -0.4752,
+        "group": "None"
+    },
+    {
+        "symbol": "CNTROB",
+        "KO": 0.0482,
+        "OE": 0.405,
+        "group": "None"
+    },
+    {
+        "symbol": "RNF31",
+        "KO": 0.2319,
+        "OE": -1.2515,
+        "group": "None"
+    },
+    {
+        "symbol": "AL603750.1",
+        "KO": -0.619,
+        "OE": 0.6458,
+        "group": "None"
+    },
+    {
+        "symbol": "ZMYND10",
+        "KO": -0.5343,
+        "OE": 1.0277,
+        "group": "None"
+    },
+    {
+        "symbol": "CGNL1",
+        "KO": 0.4284,
+        "OE": 0.3088,
+        "group": "None"
+    },
+    {
+        "symbol": "SCLT1",
+        "KO": 0.4428,
+        "OE": 0.5368,
+        "group": "None"
+    },
+    {
+        "symbol": "ADIPOR2",
+        "KO": 0.1823,
+        "OE": -0.4192,
+        "group": "None"
+    },
+    {
+        "symbol": "RELN",
+        "KO": 0.0323,
+        "OE": 0.8052,
+        "group": "None"
+    },
+    {
+        "symbol": "AC090971.3",
+        "KO": 0.8156,
+        "OE": 3.9367,
+        "group": "None"
+    },
+    {
+        "symbol": "TAC4",
+        "KO": -0.7515,
+        "OE": 1.8162,
+        "group": "None"
+    },
+    {
+        "symbol": "PNMT",
+        "KO": 1.9951,
+        "OE": 1.1563,
+        "group": "None"
+    },
+    {
+        "symbol": "FOXD2-AS1",
+        "KO": -0.5178,
+        "OE": 0.5648,
+        "group": "None"
+    },
+    {
+        "symbol": "SYNCRIP",
+        "KO": -0.0786,
+        "OE": -0.1741,
+        "group": "None"
+    },
+    {
+        "symbol": "ATP6V1E1",
+        "KO": -0.0417,
+        "OE": 0.0573,
+        "group": "None"
+    },
+    {
+        "symbol": "H3F3AP4",
+        "KO": -0.1351,
+        "OE": 0.8328,
+        "group": "None"
+    },
+    {
+        "symbol": "HDAC9",
+        "KO": -0.1728,
+        "OE": 0.0329,
+        "group": "None"
+    },
+    {
+        "symbol": "AC006128.1",
+        "KO": -0.2438,
+        "OE": 2.9481,
+        "group": "None"
+    },
+    {
+        "symbol": "NAGK",
+        "KO": -0.019,
+        "OE": 0.2943,
+        "group": "None"
+    },
+    {
+        "symbol": "CSKMT",
+        "KO": -0.6855,
+        "OE": -0.4092,
+        "group": "None"
+    },
+    {
+        "symbol": "PRKCE",
+        "KO": 0.4732,
+        "OE": -1.3944,
+        "group": "None"
+    },
+    {
+        "symbol": "AC024475.1",
+        "KO": 0.0772,
+        "OE": 0.5255,
+        "group": "None"
+    },
+    {
+        "symbol": "CUL4A",
+        "KO": -0.0109,
+        "OE": 0.4687,
+        "group": "None"
+    },
+    {
+        "symbol": "UQCRQ",
+        "KO": -0.0617,
+        "OE": 0.4528,
+        "group": "None"
+    },
+    {
+        "symbol": "SRL",
+        "KO": 0.0436,
+        "OE": -0.6443,
+        "group": "None"
+    },
+    {
+        "symbol": "AC105233.5",
+        "KO": -0.4273,
+        "OE": 1.0444,
+        "group": "None"
+    },
+    {
+        "symbol": "YBX3",
+        "KO": 0.2055,
+        "OE": -0.63,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM86GP",
+        "KO": -1.0838,
+        "OE": 1.3027,
+        "group": "None"
+    },
+    {
+        "symbol": "MAOB",
+        "KO": -0.2601,
+        "OE": -0.3708,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC26A7",
+        "KO": 0.4691,
+        "OE": 2.2273,
+        "group": "None"
+    },
+    {
+        "symbol": "DHX58",
+        "KO": -0.14,
+        "OE": -0.1675,
+        "group": "None"
+    },
+    {
+        "symbol": "LRRC42",
+        "KO": -0.056,
+        "OE": -0.0151,
+        "group": "None"
+    },
+    {
+        "symbol": "VSIG10L",
+        "KO": -0.0005,
+        "OE": 0.438,
+        "group": "None"
+    },
+    {
+        "symbol": "AFTPH",
+        "KO": 0.1686,
+        "OE": -1.0022,
+        "group": "None"
+    },
+    {
+        "symbol": "P2RX5",
+        "KO": -0.5894,
+        "OE": 0.5623,
+        "group": "None"
+    },
+    {
+        "symbol": "AL157827.2",
+        "KO": -0.1479,
+        "OE": 3.5046,
+        "group": "None"
+    },
+    {
+        "symbol": "LEPROTL1",
+        "KO": -0.0625,
+        "OE": -0.1911,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005479.1",
+        "KO": 0.0012,
+        "OE": -1.5329,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009090.5",
+        "KO": -0.3468,
+        "OE": 2.733,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL23AP23",
+        "KO": 0.0306,
+        "OE": 2.4429,
+        "group": "None"
+    },
+    {
+        "symbol": "KLRB1",
+        "KO": -0.6705,
+        "OE": 0.7059,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092953.1",
+        "KO": 0.5012,
+        "OE": 3.3386,
+        "group": "None"
+    },
+    {
+        "symbol": "AP001020.3",
+        "KO": 0.1922,
+        "OE": 4.0427,
+        "group": "None"
+    },
+    {
+        "symbol": "AC018553.2",
+        "KO": -0.6991,
+        "OE": 0.0032,
+        "group": "None"
+    },
+    {
+        "symbol": "ZCCHC24",
+        "KO": 0.4929,
+        "OE": -0.8774,
+        "group": "None"
+    },
+    {
+        "symbol": "TEFM",
+        "KO": -0.3419,
+        "OE": 0.2851,
+        "group": "None"
+    },
+    {
+        "symbol": "USP44",
+        "KO": 0.5144,
+        "OE": 0.5865,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM91A1",
+        "KO": 0.1547,
+        "OE": -0.8189,
+        "group": "None"
+    },
+    {
+        "symbol": "TCERG1L-AS1",
+        "KO": -0.7153,
+        "OE": -1.4823,
+        "group": "None"
+    },
+    {
+        "symbol": "ZBTB8B",
+        "KO": -0.8059,
+        "OE": 1.3505,
+        "group": "None"
+    },
+    {
+        "symbol": "SRRM2",
+        "KO": 0.0922,
+        "OE": 0.7236,
+        "group": "None"
+    },
+    {
+        "symbol": "HNRNPA1P4",
+        "KO": 0.5772,
+        "OE": -0.1388,
+        "group": "None"
+    },
+    {
+        "symbol": "LGALS1",
+        "KO": 0.2797,
+        "OE": -0.2469,
+        "group": "None"
+    },
+    {
+        "symbol": "TMA7",
+        "KO": -0.2326,
+        "OE": 1.6294,
+        "group": "None"
+    },
+    {
+        "symbol": "AC099343.3",
+        "KO": -0.2689,
+        "OE": 0.162,
+        "group": "None"
+    },
+    {
+        "symbol": "PPIAP4",
+        "KO": 0.0366,
+        "OE": 0.5512,
+        "group": "None"
+    },
+    {
+        "symbol": "LBR",
+        "KO": 0.1768,
+        "OE": -0.2927,
+        "group": "None"
+    },
+    {
+        "symbol": "AL138885.3",
+        "KO": -1.1705,
+        "OE": -0.2817,
+        "group": "None"
+    },
+    {
+        "symbol": "SEPHS1",
+        "KO": -0.0387,
+        "OE": 0.0098,
+        "group": "None"
+    },
+    {
+        "symbol": "AL391825.1",
+        "KO": 0.8818,
+        "OE": 2.3818,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM20B",
+        "KO": 0.0247,
+        "OE": -1.3153,
+        "group": "None"
+    },
+    {
+        "symbol": "ADCY10",
+        "KO": -0.7075,
+        "OE": -1.8669,
+        "group": "None"
+    },
+    {
+        "symbol": "CDON",
+        "KO": 0.1348,
+        "OE": -0.2429,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL21P11",
+        "KO": 1.4474,
+        "OE": -0.6362,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005034.3",
+        "KO": -0.2028,
+        "OE": -0.059,
+        "group": "None"
+    },
+    {
+        "symbol": "TCEAL4",
+        "KO": -0.0803,
+        "OE": 0.3785,
+        "group": "None"
+    },
+    {
+        "symbol": "USP33",
+        "KO": -0.0243,
+        "OE": -0.1169,
+        "group": "None"
+    },
+    {
+        "symbol": "AC008761.3",
+        "KO": 0.2018,
+        "OE": 3.2361,
+        "group": "None"
+    },
+    {
+        "symbol": "GET4",
+        "KO": 0.3182,
+        "OE": -2.0543,
+        "group": "None"
+    },
+    {
+        "symbol": "MRPL27",
+        "KO": -0.2466,
+        "OE": 0.6955,
+        "group": "None"
+    },
+    {
+        "symbol": "AC091057.1",
+        "KO": -0.0894,
+        "OE": 1.5598,
+        "group": "None"
+    },
+    {
+        "symbol": "AC127496.5",
+        "KO": -0.4856,
+        "OE": 1.2121,
+        "group": "None"
+    },
+    {
+        "symbol": "AL365356.5",
+        "KO": 0.8534,
+        "OE": -0.2879,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005077.2",
+        "KO": -0.1028,
+        "OE": -1.706,
+        "group": "None"
+    },
+    {
+        "symbol": "COL1A1",
+        "KO": 0.2105,
+        "OE": 1.2062,
+        "group": "None"
+    },
+    {
+        "symbol": "SOX13",
+        "KO": 0.0424,
+        "OE": -0.4222,
+        "group": "None"
+    },
+    {
+        "symbol": "UGCG",
+        "KO": 0.2987,
+        "OE": -0.6809,
+        "group": "None"
+    },
+    {
+        "symbol": "AP000873.2",
+        "KO": -0.1778,
+        "OE": 1.4115,
+        "group": "None"
+    },
+    {
+        "symbol": "AC020910.5",
+        "KO": 0.3523,
+        "OE": -0.7253,
+        "group": "None"
+    },
+    {
+        "symbol": "VPS16",
+        "KO": 0.0052,
+        "OE": 0.1137,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC35B3",
+        "KO": -0.1154,
+        "OE": -0.145,
+        "group": "None"
+    },
+    {
+        "symbol": "SH2D7",
+        "KO": -0.5078,
+        "OE": -0.2734,
+        "group": "None"
+    },
+    {
+        "symbol": "AL354707.1",
+        "KO": -0.4815,
+        "OE": 0.1265,
+        "group": "None"
+    },
+    {
+        "symbol": "PITPNA",
+        "KO": 0.2311,
+        "OE": -0.7106,
+        "group": "None"
+    },
+    {
+        "symbol": "AC022113.1",
+        "KO": -0.534,
+        "OE": 1.4548,
+        "group": "None"
+    },
+    {
+        "symbol": "CFP",
+        "KO": 0.1684,
+        "OE": 2.5806,
+        "group": "None"
+    },
+    {
+        "symbol": "AL731566.1",
+        "KO": -0.3766,
+        "OE": 3.6302,
+        "group": "None"
+    },
+    {
+        "symbol": "OPLAH",
+        "KO": 0.477,
+        "OE": -0.3407,
+        "group": "None"
+    },
+    {
+        "symbol": "OBSCN-AS1",
+        "KO": 0.4761,
+        "OE": 0.5836,
+        "group": "None"
+    },
+    {
+        "symbol": "MTND5P2",
+        "KO": 0.8888,
+        "OE": 1.4429,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF397",
+        "KO": -0.8188,
+        "OE": 0.5446,
+        "group": "None"
+    },
+    {
+        "symbol": "FDPS",
+        "KO": -0.0087,
+        "OE": 0.0853,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF281",
+        "KO": -0.2127,
+        "OE": -0.294,
+        "group": "None"
+    },
+    {
+        "symbol": "AC008993.1",
+        "KO": -0.9185,
+        "OE": 0.7766,
+        "group": "None"
+    },
+    {
+        "symbol": "PLAT",
+        "KO": -0.0354,
+        "OE": 1.1774,
+        "group": "None"
+    },
+    {
+        "symbol": "KNL1",
+        "KO": 0.1777,
+        "OE": 0.211,
+        "group": "None"
+    },
+    {
+        "symbol": "USP16",
+        "KO": 0.1995,
+        "OE": -0.6186,
+        "group": "None"
+    },
+    {
+        "symbol": "NR1D1",
+        "KO": -0.5495,
+        "OE": -1.4781,
+        "group": "None"
+    },
+    {
+        "symbol": "BORCS8-MEF2B",
+        "KO": 0.8199,
+        "OE": 2.379,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM50A",
+        "KO": 0.0105,
+        "OE": -0.2454,
+        "group": "None"
+    },
+    {
+        "symbol": "SDR39U1",
+        "KO": -0.3564,
+        "OE": -0.8369,
+        "group": "None"
+    },
+    {
+        "symbol": "NPRL2",
+        "KO": -0.0243,
+        "OE": 0.1327,
+        "group": "None"
+    },
+    {
+        "symbol": "AL513318.2",
+        "KO": -0.3117,
+        "OE": 0.2475,
+        "group": "None"
+    },
+    {
+        "symbol": "ARL5B",
+        "KO": 0.0633,
+        "OE": -0.5813,
+        "group": "None"
+    },
+    {
+        "symbol": "SMCO3",
+        "KO": -2.1526,
+        "OE": 0.379,
+        "group": "None"
+    },
+    {
+        "symbol": "PTGES3L",
+        "KO": -0.475,
+        "OE": 1.1363,
+        "group": "None"
+    },
+    {
+        "symbol": "PMS2CL",
+        "KO": 0.246,
+        "OE": 0.424,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC02133",
+        "KO": -1.5078,
+        "OE": 1.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092617.1",
+        "KO": 1.2087,
+        "OE": 0.1916,
+        "group": "None"
+    },
+    {
+        "symbol": "RTN4R",
+        "KO": 0.2155,
+        "OE": 0.0417,
+        "group": "None"
+    },
+    {
+        "symbol": "FER1L6",
+        "KO": -0.4016,
+        "OE": 1.2526,
+        "group": "None"
+    },
+    {
+        "symbol": "MIR593",
+        "KO": 0.8291,
+        "OE": 0.121,
+        "group": "None"
+    },
+    {
+        "symbol": "ALDH9A1",
+        "KO": 0.1587,
+        "OE": -0.7198,
+        "group": "None"
+    },
+    {
+        "symbol": "KCNK15-AS1",
+        "KO": -0.5591,
+        "OE": -1.4882,
+        "group": "None"
+    },
+    {
+        "symbol": "EEF1A1P8",
+        "KO": 0.3696,
+        "OE": 0.7183,
+        "group": "None"
+    },
+    {
+        "symbol": "MFSD11",
+        "KO": 0.0074,
+        "OE": 0.2477,
+        "group": "None"
+    },
+    {
+        "symbol": "APOBEC3H",
+        "KO": -0.1604,
+        "OE": 0.7359,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF322",
+        "KO": -0.7984,
+        "OE": -0.1334,
+        "group": "None"
+    },
+    {
+        "symbol": "AP4E1",
+        "KO": 0.0784,
+        "OE": -0.6432,
+        "group": "None"
+    },
+    {
+        "symbol": "EHF",
+        "KO": -0.0285,
+        "OE": -2.7985,
+        "group": "None"
+    },
+    {
+        "symbol": "EIF5A2",
+        "KO": 0.2476,
+        "OE": -0.5052,
+        "group": "None"
+    },
+    {
+        "symbol": "KPNB1",
+        "KO": -0.1538,
+        "OE": -0.2477,
+        "group": "None"
+    },
+    {
+        "symbol": "MT-TH",
+        "KO": -0.6281,
+        "OE": 3.0294,
+        "group": "None"
+    },
+    {
+        "symbol": "NDEL1",
+        "KO": 0.1422,
+        "OE": -0.6589,
+        "group": "None"
+    },
+    {
+        "symbol": "AC012065.5",
+        "KO": -1.458,
+        "OE": -1.6432,
+        "group": "None"
+    },
+    {
+        "symbol": "TMEM168",
+        "KO": -0.3587,
+        "OE": 0.3366,
+        "group": "None"
+    },
+    {
+        "symbol": "TDRD3",
+        "KO": -0.3339,
+        "OE": -0.0937,
+        "group": "None"
+    },
+    {
+        "symbol": "MRTO4",
+        "KO": -0.2574,
+        "OE": 0.2542,
+        "group": "None"
+    },
+    {
+        "symbol": "APEX1",
+        "KO": -0.2245,
+        "OE": -0.7328,
+        "group": "None"
+    },
+    {
+        "symbol": "AC084125.2",
+        "KO": -0.2103,
+        "OE": 3.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "KLRG2",
+        "KO": 0.3474,
+        "OE": -2.8437,
+        "group": "None"
+    },
+    {
+        "symbol": "ADRB2",
+        "KO": -0.3121,
+        "OE": 0.1255,
+        "group": "None"
+    },
+    {
+        "symbol": "AC245297.3",
+        "KO": 0.289,
+        "OE": 0.2893,
+        "group": "None"
+    },
+    {
+        "symbol": "AC093162.2",
+        "KO": -0.2319,
+        "OE": 1.7506,
+        "group": "None"
+    },
+    {
+        "symbol": "HKDC1",
+        "KO": 0.5869,
+        "OE": -2.8647,
+        "group": "None"
+    },
+    {
+        "symbol": "CHRNA3",
+        "KO": 0.106,
+        "OE": 0.3212,
+        "group": "None"
+    },
+    {
+        "symbol": "AL606763.1",
+        "KO": -0.5773,
+        "OE": -1.6873,
+        "group": "None"
+    },
+    {
+        "symbol": "POLRMTP1",
+        "KO": -0.3308,
+        "OE": -0.5974,
+        "group": "None"
+    },
+    {
+        "symbol": "KDM4C",
+        "KO": 0.2478,
+        "OE": -0.8474,
+        "group": "None"
+    },
+    {
+        "symbol": "AC106820.1",
+        "KO": 0.8696,
+        "OE": 0.8437,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL31P52",
+        "KO": 0.1217,
+        "OE": 3.4292,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM229A",
+        "KO": 0.1231,
+        "OE": 2.2104,
+        "group": "None"
+    },
+    {
+        "symbol": "AC073842.2",
+        "KO": -0.5414,
+        "OE": 2.5896,
+        "group": "None"
+    },
+    {
+        "symbol": "F2",
+        "KO": 0.1944,
+        "OE": 0.9549,
+        "group": "None"
+    },
+    {
+        "symbol": "EMP2",
+        "KO": 0.1438,
+        "OE": 0.0046,
+        "group": "None"
+    },
+    {
+        "symbol": "AC004830.1",
+        "KO": 1.4184,
+        "OE": 2.1268,
+        "group": "None"
+    },
+    {
+        "symbol": "CRIPT",
+        "KO": -0.0787,
+        "OE": -0.3484,
+        "group": "None"
+    },
+    {
+        "symbol": "CDKN1C",
+        "KO": 0.2904,
+        "OE": 0.2874,
+        "group": "None"
+    },
+    {
+        "symbol": "GRB2",
+        "KO": 0.2415,
+        "OE": -0.7819,
+        "group": "None"
+    },
+    {
+        "symbol": "AC112484.2",
+        "KO": 0.0772,
+        "OE": -0.5683,
+        "group": "None"
+    },
+    {
+        "symbol": "TLE2",
+        "KO": 0.0811,
+        "OE": -0.4067,
+        "group": "None"
+    },
+    {
+        "symbol": "RBBP5",
+        "KO": 0.0318,
+        "OE": -0.9533,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF547",
+        "KO": -0.7638,
+        "OE": 1.0802,
+        "group": "None"
+    },
+    {
+        "symbol": "GLT8D2",
+        "KO": 0.23,
+        "OE": 0.9553,
+        "group": "None"
+    },
+    {
+        "symbol": "IHH",
+        "KO": 0.3696,
+        "OE": 1.379,
+        "group": "None"
+    },
+    {
+        "symbol": "SON",
+        "KO": 0.1477,
+        "OE": -0.4498,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092431.2",
+        "KO": 0.2847,
+        "OE": 0.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "ERBIN",
+        "KO": 0.0508,
+        "OE": -1.0674,
+        "group": "None"
+    },
+    {
+        "symbol": "ZBTB12",
+        "KO": -0.9983,
+        "OE": -0.0047,
+        "group": "None"
+    },
+    {
+        "symbol": "AC093591.2",
+        "KO": -0.9046,
+        "OE": 1.9902,
+        "group": "None"
+    },
+    {
+        "symbol": "CCDC97",
+        "KO": 0.0773,
+        "OE": -0.4453,
+        "group": "None"
+    },
+    {
+        "symbol": "AC097372.3",
+        "KO": -0.445,
+        "OE": 1.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "RTF1",
+        "KO": 0.0727,
+        "OE": -0.4187,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005104.1",
+        "KO": -0.1386,
+        "OE": 4.4788,
+        "group": "None"
+    },
+    {
+        "symbol": "FKTN",
+        "KO": 0.073,
+        "OE": -0.0564,
+        "group": "None"
+    },
+    {
+        "symbol": "SYTL1",
+        "KO": -0.0663,
+        "OE": 0.4084,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF675",
+        "KO": -0.1351,
+        "OE": -0.241,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF702P",
+        "KO": -0.4523,
+        "OE": 2.3678,
+        "group": "None"
+    },
+    {
+        "symbol": "MARK2P8",
+        "KO": 2.5321,
+        "OE": 0.3102,
+        "group": "None"
+    },
+    {
+        "symbol": "SMG9",
+        "KO": -0.4549,
+        "OE": 0.5303,
+        "group": "None"
+    },
+    {
+        "symbol": "NECAP2",
+        "KO": 0.0134,
+        "OE": -0.5544,
+        "group": "None"
+    },
+    {
+        "symbol": "AC027309.2",
+        "KO": -0.3576,
+        "OE": 1.4633,
+        "group": "None"
+    },
+    {
+        "symbol": "GPR35",
+        "KO": -0.397,
+        "OE": 0.9388,
+        "group": "None"
+    },
+    {
+        "symbol": "TM9SF3",
+        "KO": 0.1783,
+        "OE": -0.1009,
+        "group": "None"
+    },
+    {
+        "symbol": "RALGAPA1",
+        "KO": 0.0254,
+        "OE": 0.5345,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC02600",
+        "KO": 0.1349,
+        "OE": 0.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "PKMP3",
+        "KO": -0.9511,
+        "OE": -0.1562,
+        "group": "None"
+    },
+    {
+        "symbol": "PNMA1",
+        "KO": -0.0579,
+        "OE": -0.5482,
+        "group": "None"
+    },
+    {
+        "symbol": "PLS3-AS1",
+        "KO": -0.9666,
+        "OE": 2.4477,
+        "group": "None"
+    },
+    {
+        "symbol": "DYNC1I2",
+        "KO": -0.0337,
+        "OE": -0.5191,
+        "group": "None"
+    },
+    {
+        "symbol": "EIF4HP1",
+        "KO": 0.2938,
+        "OE": -3.3245,
+        "group": "None"
+    },
+    {
+        "symbol": "RASSF7",
+        "KO": 0.1179,
+        "OE": -0.1723,
+        "group": "None"
+    },
+    {
+        "symbol": "TATDN2P2",
+        "KO": 0.0028,
+        "OE": 0.893,
+        "group": "None"
+    },
+    {
+        "symbol": "AL591379.1",
+        "KO": -0.4564,
+        "OE": 0.4488,
+        "group": "None"
+    },
+    {
+        "symbol": "SEC24D",
+        "KO": 0.1561,
+        "OE": -0.5409,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL15P18",
+        "KO": -2.7136,
+        "OE": -0.9985,
+        "group": "None"
+    },
+    {
+        "symbol": "CLTA",
+        "KO": 0.0675,
+        "OE": -0.2488,
+        "group": "None"
+    },
+    {
+        "symbol": "AP000925.1",
+        "KO": -0.2913,
+        "OE": 2.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "AL365203.2",
+        "KO": 0.1367,
+        "OE": 1.2762,
+        "group": "None"
+    },
+    {
+        "symbol": "AL139156.1",
+        "KO": -1.5931,
+        "OE": 0.1916,
+        "group": "None"
+    },
+    {
+        "symbol": "PRR23D2",
+        "KO": 0.7847,
+        "OE": 0.789,
+        "group": "None"
+    },
+    {
+        "symbol": "BMP7",
+        "KO": 0.1354,
+        "OE": -0.681,
+        "group": "None"
+    },
+    {
+        "symbol": "TOMM34",
+        "KO": -0.164,
+        "OE": -0.3391,
+        "group": "None"
+    },
+    {
+        "symbol": "TBCB",
+        "KO": -0.0026,
+        "OE": 0.1746,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC00051",
+        "KO": -0.3731,
+        "OE": -2.3933,
+        "group": "None"
+    },
+    {
+        "symbol": "GATD1",
+        "KO": -0.2355,
+        "OE": 1.3077,
+        "group": "None"
+    },
+    {
+        "symbol": "IGSF10",
+        "KO": 0.0815,
+        "OE": 1.9903,
+        "group": "None"
+    },
+    {
+        "symbol": "EID2",
+        "KO": -0.168,
+        "OE": 0.8212,
+        "group": "None"
+    },
+    {
+        "symbol": "AL031283.1",
+        "KO": 0.4251,
+        "OE": 2.5046,
+        "group": "None"
+    },
+    {
+        "symbol": "BLID",
+        "KO": -1.2731,
+        "OE": 1.9143,
+        "group": "None"
+    },
+    {
+        "symbol": "METTL21A",
+        "KO": -0.0453,
+        "OE": 0.1034,
+        "group": "None"
+    },
+    {
+        "symbol": "MUCL3",
+        "KO": 0.3696,
+        "OE": 0.3454,
+        "group": "None"
+    },
+    {
+        "symbol": "STAMBPL1",
+        "KO": -0.1756,
+        "OE": -0.9894,
+        "group": "None"
+    },
+    {
+        "symbol": "AC004832.6",
+        "KO": -3.1376,
+        "OE": 1.7009,
+        "group": "None"
+    },
+    {
+        "symbol": "AC122683.1",
+        "KO": -0.1304,
+        "OE": 0.7766,
+        "group": "None"
+    },
+    {
+        "symbol": "AC245140.2",
+        "KO": 0.0436,
+        "OE": 1.5953,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF444",
+        "KO": -0.0636,
+        "OE": 0.8088,
+        "group": "None"
+    },
+    {
+        "symbol": "RPS29P17",
+        "KO": 1.1092,
+        "OE": -2.5422,
+        "group": "None"
+    },
+    {
+        "symbol": "TYRO3",
+        "KO": 0.0747,
+        "OE": -0.1421,
+        "group": "None"
+    },
+    {
+        "symbol": "AC105429.2",
+        "KO": 0.8696,
+        "OE": -1.1098,
+        "group": "None"
+    },
+    {
+        "symbol": "AC104771.1",
+        "KO": 0.5772,
+        "OE": 0.121,
+        "group": "None"
+    },
+    {
+        "symbol": "EIF2S3",
+        "KO": 0.0854,
+        "OE": -0.7067,
+        "group": "None"
+    },
+    {
+        "symbol": "AC004233.2",
+        "KO": -0.3515,
+        "OE": 2.0399,
+        "group": "None"
+    },
+    {
+        "symbol": "AL591866.1",
+        "KO": 0.2802,
+        "OE": 0.379,
+        "group": "None"
+    },
+    {
+        "symbol": "GLUD1P2",
+        "KO": -0.3582,
+        "OE": 0.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "VCL",
+        "KO": 0.5949,
+        "OE": -0.7503,
+        "group": "None"
+    },
+    {
+        "symbol": "DAGLB",
+        "KO": 0.0577,
+        "OE": 0.0911,
+        "group": "None"
+    },
+    {
+        "symbol": "OR51J1",
+        "KO": -0.8635,
+        "OE": 2.879,
+        "group": "None"
+    },
+    {
+        "symbol": "RNF214",
+        "KO": -0.1351,
+        "OE": -0.1515,
+        "group": "None"
+    },
+    {
+        "symbol": "ATG2B",
+        "KO": 0.0462,
+        "OE": 1.522,
+        "group": "None"
+    },
+    {
+        "symbol": "PKN2",
+        "KO": 0.1284,
+        "OE": -0.1735,
+        "group": "None"
+    },
+    {
+        "symbol": "CR2",
+        "KO": -0.6212,
+        "OE": 0.0969,
+        "group": "None"
+    },
+    {
+        "symbol": "FRG1-DT",
+        "KO": -1.2153,
+        "OE": -0.9487,
+        "group": "None"
+    },
+    {
+        "symbol": "CR382285.1",
+        "KO": 0.9808,
+        "OE": -2.1158,
+        "group": "None"
+    },
+    {
+        "symbol": "FRAS1",
+        "KO": -0.0613,
+        "OE": 0.1624,
+        "group": "None"
+    },
+    {
+        "symbol": "PLEKHH1",
+        "KO": -0.1043,
+        "OE": 0.7023,
+        "group": "None"
+    },
+    {
+        "symbol": "AC006252.1",
+        "KO": -0.8678,
+        "OE": -0.983,
+        "group": "None"
+    },
+    {
+        "symbol": "CUL7",
+        "KO": -0.0409,
+        "OE": -0.1213,
+        "group": "None"
+    },
+    {
+        "symbol": "CYP4F8",
+        "KO": 1.1177,
+        "OE": 2.6511,
+        "group": "None"
+    },
+    {
+        "symbol": "MEN1",
+        "KO": -0.1398,
+        "OE": -0.2487,
+        "group": "None"
+    },
+    {
+        "symbol": "CERS5",
+        "KO": 0.2366,
+        "OE": 0.3002,
+        "group": "None"
+    },
+    {
+        "symbol": "ABHD8",
+        "KO": 0.1023,
+        "OE": -0.3358,
+        "group": "None"
+    },
+    {
+        "symbol": "AC022107.1",
+        "KO": -0.9416,
+        "OE": -0.4042,
+        "group": "None"
+    },
+    {
+        "symbol": "AC090970.2",
+        "KO": -2.0692,
+        "OE": 1.955,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01089",
+        "KO": -0.56,
+        "OE": 1.9212,
+        "group": "None"
+    },
+    {
+        "symbol": "WHAMMP2",
+        "KO": 0.2199,
+        "OE": 1.2212,
+        "group": "None"
+    },
+    {
+        "symbol": "MGC16275",
+        "KO": -0.0484,
+        "OE": 0.1363,
+        "group": "None"
+    },
+    {
+        "symbol": "FBXO36P1",
+        "KO": -1.3468,
+        "OE": 0.5399,
+        "group": "None"
+    },
+    {
+        "symbol": "AFF3",
+        "KO": 0.0772,
+        "OE": -0.4833,
+        "group": "None"
+    },
+    {
+        "symbol": "BTN3A1",
+        "KO": 0.0008,
+        "OE": 0.5615,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007040.2",
+        "KO": -0.4879,
+        "OE": 2.1977,
+        "group": "None"
+    },
+    {
+        "symbol": "AC008443.6",
+        "KO": -0.6801,
+        "OE": 2.9143,
+        "group": "None"
+    },
+    {
+        "symbol": "U47924.3",
+        "KO": 0.6459,
+        "OE": 2.7475,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007342.1",
+        "KO": 0.5772,
+        "OE": 1.7121,
+        "group": "None"
+    },
+    {
+        "symbol": "NUDT16L1",
+        "KO": 0.4168,
+        "OE": -0.8021,
+        "group": "None"
+    },
+    {
+        "symbol": "LSM7",
+        "KO": -0.1578,
+        "OE": 0.6324,
+        "group": "None"
+    },
+    {
+        "symbol": "NAA38",
+        "KO": -0.2283,
+        "OE": 0.0009,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC25A30-AS1",
+        "KO": 0.1883,
+        "OE": 1.1272,
+        "group": "None"
+    },
+    {
+        "symbol": "FGF3",
+        "KO": -0.6286,
+        "OE": -0.706,
+        "group": "None"
+    },
+    {
+        "symbol": "CRADD",
+        "KO": 0.2731,
+        "OE": -2.208,
+        "group": "None"
+    },
+    {
+        "symbol": "RAB3IL1",
+        "KO": 0.027,
+        "OE": -0.7967,
+        "group": "None"
+    },
+    {
+        "symbol": "TXLNG",
+        "KO": 0.1611,
+        "OE": -0.9001,
+        "group": "None"
+    },
+    {
+        "symbol": "ALG1L12P",
+        "KO": 0.5993,
+        "OE": -1.0393,
+        "group": "None"
+    },
+    {
+        "symbol": "FLJ31104",
+        "KO": -1.0426,
+        "OE": 0.379,
+        "group": "None"
+    },
+    {
+        "symbol": "AL391863.2",
+        "KO": -1.8713,
+        "OE": 0.121,
+        "group": "None"
+    },
+    {
+        "symbol": "THAP6",
+        "KO": -0.4938,
+        "OE": -0.0529,
+        "group": "None"
+    },
+    {
+        "symbol": "MEX3D",
+        "KO": 0.1756,
+        "OE": -1.252,
+        "group": "None"
+    },
+    {
+        "symbol": "CEP250",
+        "KO": 0.1454,
+        "OE": 0.474,
+        "group": "None"
+    },
+    {
+        "symbol": "MTPN",
+        "KO": 0.1805,
+        "OE": -1.0909,
+        "group": "None"
+    },
+    {
+        "symbol": "FBXL19",
+        "KO": -0.2527,
+        "OE": 0.081,
+        "group": "None"
+    },
+    {
+        "symbol": "ACTB",
+        "KO": 0.0172,
+        "OE": 0.2114,
+        "group": "None"
+    },
+    {
+        "symbol": "AC136469.2",
+        "KO": 0.3344,
+        "OE": 0.5865,
+        "group": "None"
+    },
+    {
+        "symbol": "ENTPD5",
+        "KO": -0.004,
+        "OE": 0.0151,
+        "group": "None"
+    },
+    {
+        "symbol": "NYAP1",
+        "KO": 0.1759,
+        "OE": 0.1279,
+        "group": "None"
+    },
+    {
+        "symbol": "AP5S1",
+        "KO": -0.1178,
+        "OE": 0.268,
+        "group": "None"
+    },
+    {
+        "symbol": "ARFGEF2",
+        "KO": 0.1902,
+        "OE": -0.0523,
+        "group": "None"
+    },
+    {
+        "symbol": "NAALADL1",
+        "KO": 0.042,
+        "OE": 1.0237,
+        "group": "None"
+    },
+    {
+        "symbol": "OR2H2",
+        "KO": 0.2119,
+        "OE": 3.7697,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC02362",
+        "KO": 0.2997,
+        "OE": 0.0512,
+        "group": "None"
+    },
+    {
+        "symbol": "AC015813.7",
+        "KO": 0.6532,
+        "OE": -1.3782,
+        "group": "None"
+    },
+    {
+        "symbol": "PITRM1",
+        "KO": -0.0395,
+        "OE": -0.1739,
+        "group": "None"
+    },
+    {
+        "symbol": "JRKL",
+        "KO": -0.6568,
+        "OE": 0.0918,
+        "group": "None"
+    },
+    {
+        "symbol": "G3BP1",
+        "KO": 0.2131,
+        "OE": 0.1253,
+        "group": "None"
+    },
+    {
+        "symbol": "GOLGA8N",
+        "KO": 0.3604,
+        "OE": 2.0052,
+        "group": "None"
+    },
+    {
+        "symbol": "AC013472.3",
+        "KO": -1.3023,
+        "OE": 0.879,
+        "group": "None"
+    },
+    {
+        "symbol": "AL121759.1",
+        "KO": 0.8696,
+        "OE": 2.1361,
+        "group": "None"
+    },
+    {
+        "symbol": "AL354892.3",
+        "KO": 0.3222,
+        "OE": 4.078,
+        "group": "None"
+    },
+    {
+        "symbol": "AC121338.2",
+        "KO": 0.1951,
+        "OE": -0.4466,
+        "group": "None"
+    },
+    {
+        "symbol": "ATG7",
+        "KO": 0.1416,
+        "OE": -0.142,
+        "group": "None"
+    },
+    {
+        "symbol": "SYPL1",
+        "KO": 0.0916,
+        "OE": -0.0181,
+        "group": "None"
+    },
+    {
+        "symbol": "AC025419.1",
+        "KO": -0.6812,
+        "OE": -2.0456,
+        "group": "None"
+    },
+    {
+        "symbol": "C16orf71",
+        "KO": 0.299,
+        "OE": -1.0201,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC44A3-AS1",
+        "KO": -0.0489,
+        "OE": 0.3887,
+        "group": "None"
+    },
+    {
+        "symbol": "HIST3H2A",
+        "KO": -0.1744,
+        "OE": -0.6094,
+        "group": "None"
+    },
+    {
+        "symbol": "E2F4",
+        "KO": -0.009,
+        "OE": 0.0556,
+        "group": "None"
+    },
+    {
+        "symbol": "EGFL8",
+        "KO": -0.0634,
+        "OE": 3.3657,
+        "group": "None"
+    },
+    {
+        "symbol": "XRCC5",
+        "KO": -0.1889,
+        "OE": 0.1376,
+        "group": "None"
+    },
+    {
+        "symbol": "AC072052.1",
+        "KO": 0.4618,
+        "OE": 1.8939,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC26A2",
+        "KO": 0.0849,
+        "OE": 0.3963,
+        "group": "None"
+    },
+    {
+        "symbol": "AL358942.1",
+        "KO": 0.2076,
+        "OE": -0.0019,
+        "group": "None"
+    },
+    {
+        "symbol": "ASAH2",
+        "KO": 0.0478,
+        "OE": -0.6253,
+        "group": "None"
+    },
+    {
+        "symbol": "GAPDHP65",
+        "KO": -1.4228,
+        "OE": -1.4488,
+        "group": "None"
+    },
+    {
+        "symbol": "TRIQK",
+        "KO": 0.025,
+        "OE": -0.1734,
+        "group": "None"
+    },
+    {
+        "symbol": "SGO1",
+        "KO": 0.082,
+        "OE": 0.1096,
+        "group": "None"
+    },
+    {
+        "symbol": "OPRL1",
+        "KO": -0.75,
+        "OE": 0.404,
+        "group": "None"
+    },
+    {
+        "symbol": "PCDHB15",
+        "KO": 1.5772,
+        "OE": -0.6362,
+        "group": "None"
+    },
+    {
+        "symbol": "PAFAH1B2",
+        "KO": -0.0084,
+        "OE": -0.3469,
+        "group": "None"
+    },
+    {
+        "symbol": "ARSK",
+        "KO": -0.1054,
+        "OE": 0.1474,
+        "group": "None"
+    },
+    {
+        "symbol": "VWA7",
+        "KO": 0.1315,
+        "OE": -0.3381,
+        "group": "None"
+    },
+    {
+        "symbol": "AL592114.1",
+        "KO": -1.5078,
+        "OE": -0.0534,
+        "group": "None"
+    },
+    {
+        "symbol": "TAGLN2",
+        "KO": -0.0212,
+        "OE": -0.9873,
+        "group": "None"
+    },
+    {
+        "symbol": "LAMA5",
+        "KO": -0.0103,
+        "OE": 1.7121,
+        "group": "None"
+    },
+    {
+        "symbol": "MRPS14",
+        "KO": -0.0119,
+        "OE": -0.2188,
+        "group": "None"
+    },
+    {
+        "symbol": "RALY-AS1",
+        "KO": -0.2114,
+        "OE": 0.371,
+        "group": "None"
+    },
+    {
+        "symbol": "GOLGA8R",
+        "KO": -0.6545,
+        "OE": 1.4753,
+        "group": "None"
+    },
+    {
+        "symbol": "ABCC3",
+        "KO": 0.2016,
+        "OE": 0.625,
+        "group": "None"
+    },
+    {
+        "symbol": "ENO3",
+        "KO": -0.6078,
+        "OE": 2.4847,
+        "group": "None"
+    },
+    {
+        "symbol": "C11orf1",
+        "KO": 0.0898,
+        "OE": 0.4196,
+        "group": "None"
+    },
+    {
+        "symbol": "TTC26",
+        "KO": -0.0828,
+        "OE": -0.26,
+        "group": "None"
+    },
+    {
+        "symbol": "SRRM2-AS1",
+        "KO": -0.1576,
+        "OE": 0.9644,
+        "group": "None"
+    },
+    {
+        "symbol": "AC006023.2",
+        "KO": 0.5144,
+        "OE": 1.7059,
+        "group": "None"
+    },
+    {
+        "symbol": "SMIM25",
+        "KO": -0.2396,
+        "OE": 0.4317,
+        "group": "None"
+    },
+    {
+        "symbol": "NIPBL",
+        "KO": 0.0405,
+        "OE": -0.0018,
+        "group": "None"
+    },
+    {
+        "symbol": "MPRIPP1",
+        "KO": 1.7381,
+        "OE": -0.9833,
+        "group": "None"
+    },
+    {
+        "symbol": "AL365226.1",
+        "KO": -2.5035,
+        "OE": -0.8437,
+        "group": "None"
+    },
+    {
+        "symbol": "ZDHHC23",
+        "KO": -0.3775,
+        "OE": 0.4585,
+        "group": "None"
+    },
+    {
+        "symbol": "MCRIP2",
+        "KO": -0.2677,
+        "OE": -0.148,
+        "group": "None"
+    },
+    {
+        "symbol": "AC137767.1",
+        "KO": -0.164,
+        "OE": 1.5525,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC44A2",
+        "KO": 0.0916,
+        "OE": 0.0869,
+        "group": "None"
+    },
+    {
+        "symbol": "LIX1L",
+        "KO": 0.2068,
+        "OE": 0.1637,
+        "group": "None"
+    },
+    {
+        "symbol": "AL359091.5",
+        "KO": 0.6759,
+        "OE": 0.0336,
+        "group": "None"
+    },
+    {
+        "symbol": "TGFA",
+        "KO": 0.2779,
+        "OE": -0.9641,
+        "group": "None"
+    },
+    {
+        "symbol": "LNCAROD",
+        "KO": -0.6347,
+        "OE": -1.0896,
+        "group": "None"
+    },
+    {
+        "symbol": "FYTTD1",
+        "KO": 0.1116,
+        "OE": -1.2887,
+        "group": "None"
+    },
+    {
+        "symbol": "NMNAT2",
+        "KO": 0.3284,
+        "OE": 2.6865,
+        "group": "None"
+    },
+    {
+        "symbol": "SIPA1L3",
+        "KO": 0.4865,
+        "OE": -1.0342,
+        "group": "None"
+    },
+    {
+        "symbol": "ZKSCAN7-AS1",
+        "KO": 1.0857,
+        "OE": 0.0512,
+        "group": "None"
+    },
+    {
+        "symbol": "PMF1",
+        "KO": 0.1036,
+        "OE": 0.8743,
+        "group": "None"
+    },
+    {
+        "symbol": "VPS9D1-AS1",
+        "KO": -0.6603,
+        "OE": 0.0978,
+        "group": "None"
+    },
+    {
+        "symbol": "EFCAB6",
+        "KO": 0.1377,
+        "OE": 1.3581,
+        "group": "None"
+    },
+    {
+        "symbol": "GTF2IP1",
+        "KO": 0.357,
+        "OE": 0.6026,
+        "group": "None"
+    },
+    {
+        "symbol": "HNRNPF",
+        "KO": -0.1795,
+        "OE": -0.5439,
+        "group": "None"
+    },
+    {
+        "symbol": "OTULIN",
+        "KO": 0.0204,
+        "OE": -0.641,
+        "group": "None"
+    },
+    {
+        "symbol": "AL357033.2",
+        "KO": -0.5641,
+        "OE": -1.4889,
+        "group": "None"
+    },
+    {
+        "symbol": "AOC2",
+        "KO": -0.0868,
+        "OE": 0.8816,
+        "group": "None"
+    },
+    {
+        "symbol": "EZR",
+        "KO": 0.5715,
+        "OE": -0.927,
+        "group": "None"
+    },
+    {
+        "symbol": "AL157392.4",
+        "KO": -0.2153,
+        "OE": 0.294,
+        "group": "None"
+    },
+    {
+        "symbol": "AL135791.1",
+        "KO": -0.3468,
+        "OE": 0.6218,
+        "group": "None"
+    },
+    {
+        "symbol": "VPS26AP1",
+        "KO": -0.9673,
+        "OE": 0.8437,
+        "group": "None"
+    },
+    {
+        "symbol": "COMMD6",
+        "KO": -0.2117,
+        "OE": -1.6588,
+        "group": "None"
+    },
+    {
+        "symbol": "AL159174.1",
+        "KO": 1.2786,
+        "OE": 0.9814,
+        "group": "None"
+    },
+    {
+        "symbol": "LARP4B",
+        "KO": -0.046,
+        "OE": -0.2284,
+        "group": "None"
+    },
+    {
+        "symbol": "MRPL41",
+        "KO": 0.0468,
+        "OE": -0.0915,
+        "group": "None"
+    },
+    {
+        "symbol": "FTSJ3",
+        "KO": -0.1414,
+        "OE": -0.119,
+        "group": "None"
+    },
+    {
+        "symbol": "ACTG1P17",
+        "KO": -1.534,
+        "OE": -0.1898,
+        "group": "None"
+    },
+    {
+        "symbol": "DLG5-AS1",
+        "KO": -0.3307,
+        "OE": 0.9288,
+        "group": "None"
+    },
+    {
+        "symbol": "CNTNAP1",
+        "KO": -0.0479,
+        "OE": 0.5543,
+        "group": "None"
+    },
+    {
+        "symbol": "AC131212.4",
+        "KO": 0.2571,
+        "OE": 1.9814,
+        "group": "None"
+    },
+    {
+        "symbol": "AC023389.1",
+        "KO": -0.5437,
+        "OE": -0.1563,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005020.2",
+        "KO": 1.0815,
+        "OE": -0.6362,
+        "group": "None"
+    },
+    {
+        "symbol": "DOCK3",
+        "KO": 0.3305,
+        "OE": 1.3757,
+        "group": "None"
+    },
+    {
+        "symbol": "MALL",
+        "KO": -0.4053,
+        "OE": -2.0197,
+        "group": "None"
+    },
+    {
+        "symbol": "C1orf210",
+        "KO": 0.456,
+        "OE": -1.7945,
+        "group": "None"
+    },
+    {
+        "symbol": "TTC5",
+        "KO": -0.0737,
+        "OE": -0.7894,
+        "group": "None"
+    },
+    {
+        "symbol": "OXSM",
+        "KO": -0.2185,
+        "OE": -0.0412,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092747.4",
+        "KO": -0.0865,
+        "OE": 1.204,
+        "group": "None"
+    },
+    {
+        "symbol": "CDKN2AIPNL",
+        "KO": 0.0867,
+        "OE": 0.057,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF487",
+        "KO": 0.0182,
+        "OE": 0.4532,
+        "group": "None"
+    },
+    {
+        "symbol": "B3GAT3",
+        "KO": 0.0424,
+        "OE": 0.028,
+        "group": "None"
+    },
+    {
+        "symbol": "XPOT",
+        "KO": 0.3148,
+        "OE": -0.6742,
+        "group": "None"
+    },
+    {
+        "symbol": "AAK1",
+        "KO": 0.423,
+        "OE": -0.6106,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM90A2P",
+        "KO": 0.1532,
+        "OE": 3.1513,
+        "group": "None"
+    },
+    {
+        "symbol": "AC105285.1",
+        "KO": 0.1349,
+        "OE": -0.55,
+        "group": "None"
+    },
+    {
+        "symbol": "BPGM",
+        "KO": 0.1016,
+        "OE": -0.4326,
+        "group": "None"
+    },
+    {
+        "symbol": "CDR2L",
+        "KO": 0.2443,
+        "OE": -0.8725,
+        "group": "None"
+    },
+    {
+        "symbol": "AL139095.2",
+        "KO": 0.1433,
+        "OE": -0.6864,
+        "group": "None"
+    },
+    {
+        "symbol": "KISS1R",
+        "KO": -0.6233,
+        "OE": 0.3291,
+        "group": "None"
+    },
+    {
+        "symbol": "AC104365.2",
+        "KO": 0.9035,
+        "OE": 0.4382,
+        "group": "None"
+    },
+    {
+        "symbol": "RGMB",
+        "KO": 0.4341,
+        "OE": -0.4428,
+        "group": "None"
+    },
+    {
+        "symbol": "TAF9",
+        "KO": 0.1503,
+        "OE": 0.4932,
+        "group": "None"
+    },
+    {
+        "symbol": "AL592293.2",
+        "KO": 1.0568,
+        "OE": 1.0167,
+        "group": "None"
+    },
+    {
+        "symbol": "GSTT2",
+        "KO": -0.2422,
+        "OE": 0.8174,
+        "group": "None"
+    },
+    {
+        "symbol": "NPHP4",
+        "KO": -0.1645,
+        "OE": -0.3491,
+        "group": "None"
+    },
+    {
+        "symbol": "LCMT1-AS2",
+        "KO": 0.0009,
+        "OE": 2.6639,
+        "group": "None"
+    },
+    {
+        "symbol": "CCDC160",
+        "KO": 0.8009,
+        "OE": -0.903,
+        "group": "None"
+    },
+    {
+        "symbol": "IMPA1",
+        "KO": -0.021,
+        "OE": -0.5337,
+        "group": "None"
+    },
+    {
+        "symbol": "MIRLET7BHG",
+        "KO": -0.9587,
+        "OE": 0.9294,
+        "group": "None"
+    },
+    {
+        "symbol": "SKA1",
+        "KO": 0.1818,
+        "OE": 0.4287,
+        "group": "None"
+    },
+    {
+        "symbol": "AC026464.5",
+        "KO": 0.4028,
+        "OE": 1.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "GRAMD1C",
+        "KO": 0.3792,
+        "OE": -0.3448,
+        "group": "None"
+    },
+    {
+        "symbol": "AL121845.3",
+        "KO": -0.0128,
+        "OE": 2.0029,
+        "group": "None"
+    },
+    {
+        "symbol": "CARMN",
+        "KO": 0.0115,
+        "OE": 1.5865,
+        "group": "None"
+    },
+    {
+        "symbol": "DACT3-AS1",
+        "KO": -0.4806,
+        "OE": 2.1017,
+        "group": "None"
+    },
+    {
+        "symbol": "AC004943.3",
+        "KO": -0.8265,
+        "OE": 0.4662,
+        "group": "None"
+    },
+    {
+        "symbol": "SNORA80D",
+        "KO": 0.2847,
+        "OE": 2.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "TNFRSF12A",
+        "KO": -0.0998,
+        "OE": -0.3771,
+        "group": "None"
+    },
+    {
+        "symbol": "SERPINB9",
+        "KO": 0.1156,
+        "OE": -0.9161,
+        "group": "None"
+    },
+    {
+        "symbol": "NSUN5P1",
+        "KO": -0.2882,
+        "OE": 2.1464,
+        "group": "None"
+    },
+    {
+        "symbol": "AC034102.3",
+        "KO": 0.046,
+        "OE": -1.5329,
+        "group": "None"
+    },
+    {
+        "symbol": "NUTM2G",
+        "KO": 0.0272,
+        "OE": 2.8815,
+        "group": "None"
+    },
+    {
+        "symbol": "HNRNPA1P35",
+        "KO": 0.3182,
+        "OE": 1.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "AC104472.1",
+        "KO": -0.0838,
+        "OE": 2.121,
+        "group": "None"
+    },
+    {
+        "symbol": "AC239584.1",
+        "KO": -0.1652,
+        "OE": -0.5753,
+        "group": "None"
+    },
+    {
+        "symbol": "CIDEC",
+        "KO": 0.0772,
+        "OE": 1.0167,
+        "group": "None"
+    },
+    {
+        "symbol": "UBQLN2",
+        "KO": -0.129,
+        "OE": -0.5783,
+        "group": "None"
+    },
+    {
+        "symbol": "AC105036.3",
+        "KO": -0.5897,
+        "OE": -1.3782,
+        "group": "None"
+    },
+    {
+        "symbol": "SENP3-EIF4A1",
+        "KO": -0.1304,
+        "OE": 1.213,
+        "group": "None"
+    },
+    {
+        "symbol": "TCERG1",
+        "KO": -0.087,
+        "OE": 0.5225,
+        "group": "None"
+    },
+    {
+        "symbol": "BMS1P10",
+        "KO": -0.144,
+        "OE": -0.7709,
+        "group": "None"
+    },
+    {
+        "symbol": "AL117339.4",
+        "KO": -0.9367,
+        "OE": 2.2769,
+        "group": "None"
+    },
+    {
+        "symbol": "HARS2",
+        "KO": -0.0355,
+        "OE": -0.0058,
+        "group": "None"
+    },
+    {
+        "symbol": "RNU4-1",
+        "KO": 1.4101,
+        "OE": -0.1151,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM98C",
+        "KO": 0.151,
+        "OE": 0.2147,
+        "group": "None"
+    },
+    {
+        "symbol": "SVIL-AS1",
+        "KO": 0.2403,
+        "OE": -0.8172,
+        "group": "None"
+    },
+    {
+        "symbol": "GLUD1P8",
+        "KO": -0.6705,
+        "OE": 2.7292,
+        "group": "None"
+    },
+    {
+        "symbol": "AMOTL2",
+        "KO": 0.2338,
+        "OE": -1.8203,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF888",
+        "KO": -0.0714,
+        "OE": 0.4068,
+        "group": "None"
+    },
+    {
+        "symbol": "LRIG2",
+        "KO": -0.0372,
+        "OE": 1.1288,
+        "group": "None"
+    },
+    {
+        "symbol": "TPRX2P",
+        "KO": 1.7693,
+        "OE": 1.7766,
+        "group": "None"
+    },
+    {
+        "symbol": "TROVE2",
+        "KO": 0.0155,
+        "OE": -0.8555,
+        "group": "None"
+    },
+    {
+        "symbol": "AP000302.1",
+        "KO": 0.8248,
+        "OE": 0.5512,
+        "group": "None"
+    },
+    {
+        "symbol": "TMEM86B",
+        "KO": 0.1806,
+        "OE": 1.7327,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005332.5",
+        "KO": 0.0672,
+        "OE": 2.0972,
+        "group": "None"
+    },
+    {
+        "symbol": "RTEL1-TNFRSF6B",
+        "KO": -0.4114,
+        "OE": 2.3663,
+        "group": "None"
+    },
+    {
+        "symbol": "TF",
+        "KO": -0.2085,
+        "OE": 3.1982,
+        "group": "None"
+    },
+    {
+        "symbol": "TPST1",
+        "KO": 0.3429,
+        "OE": -0.7074,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC6A6",
+        "KO": 0.5832,
+        "OE": 0.5726,
+        "group": "None"
+    },
+    {
+        "symbol": "MASTL",
+        "KO": -0.1328,
+        "OE": 0.3629,
+        "group": "None"
+    },
+    {
+        "symbol": "MRPS28",
+        "KO": 0.0023,
+        "OE": -0.3639,
+        "group": "None"
+    },
+    {
+        "symbol": "ENGASE",
+        "KO": -0.1484,
+        "OE": 1.3458,
+        "group": "None"
+    },
+    {
+        "symbol": "MEMO1P1",
+        "KO": -0.4187,
+        "OE": -0.6953,
+        "group": "None"
+    },
+    {
+        "symbol": "AC126564.1",
+        "KO": 0.1532,
+        "OE": 1.2827,
+        "group": "None"
+    },
+    {
+        "symbol": "SRM",
+        "KO": -0.3414,
+        "OE": -0.1093,
+        "group": "None"
+    },
+    {
+        "symbol": "TOLLIP",
+        "KO": -0.0092,
+        "OE": -0.6619,
+        "group": "None"
+    },
+    {
+        "symbol": "RPS6KA4",
+        "KO": 0.0868,
+        "OE": -0.3644,
+        "group": "None"
+    },
+    {
+        "symbol": "AC008735.4",
+        "KO": -0.6101,
+        "OE": 0.5788,
+        "group": "None"
+    },
+    {
+        "symbol": "TEKT2",
+        "KO": 0.7381,
+        "OE": 1.5136,
+        "group": "None"
+    },
+    {
+        "symbol": "SEPSECS",
+        "KO": -0.4642,
+        "OE": 0.4824,
+        "group": "None"
+    },
+    {
+        "symbol": "AC016924.1",
+        "KO": 0.7953,
+        "OE": -0.7157,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC18A2",
+        "KO": 0.936,
+        "OE": 1.4902,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC00899",
+        "KO": -0.3763,
+        "OE": 1.8324,
+        "group": "None"
+    },
+    {
+        "symbol": "ITFG2",
+        "KO": -0.259,
+        "OE": 1.1769,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009948.3",
+        "KO": 0.2381,
+        "OE": 2.0806,
+        "group": "None"
+    },
+    {
+        "symbol": "AC012186.2",
+        "KO": 0.9808,
+        "OE": 0.9143,
+        "group": "None"
+    },
+    {
+        "symbol": "ADSL",
+        "KO": -0.4373,
+        "OE": 0.4948,
+        "group": "None"
+    },
+    {
+        "symbol": "AL162274.3",
+        "KO": 1.6793,
+        "OE": -0.4488,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01480",
+        "KO": 0.0323,
+        "OE": -0.464,
+        "group": "None"
+    },
+    {
+        "symbol": "KCNE2",
+        "KO": -0.378,
+        "OE": -0.0519,
+        "group": "None"
+    },
+    {
+        "symbol": "PPP5D1",
+        "KO": -0.8763,
+        "OE": 0.3863,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM168A",
+        "KO": 0.2008,
+        "OE": 0.038,
+        "group": "None"
+    },
+    {
+        "symbol": "BAG1",
+        "KO": 0.0917,
+        "OE": -0.4178,
+        "group": "None"
+    },
+    {
+        "symbol": "TFB1M",
+        "KO": -0.0973,
+        "OE": 0.0688,
+        "group": "None"
+    },
+    {
+        "symbol": "ZKSCAN4",
+        "KO": -0.0734,
+        "OE": 0.1623,
+        "group": "None"
+    },
+    {
+        "symbol": "RN7SKP16",
+        "KO": -0.4001,
+        "OE": 0.7121,
+        "group": "None"
+    },
+    {
+        "symbol": "FEN1",
+        "KO": -0.4152,
+        "OE": 0.8179,
+        "group": "None"
+    },
+    {
+        "symbol": "TAF6L",
+        "KO": -0.1958,
+        "OE": 0.4959,
+        "group": "None"
+    },
+    {
+        "symbol": "AL359878.2",
+        "KO": 0.966,
+        "OE": 1.1563,
+        "group": "None"
+    },
+    {
+        "symbol": "CACNA1F",
+        "KO": 0.4808,
+        "OE": 0.052,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009107.2",
+        "KO": -0.8966,
+        "OE": 2.7199,
+        "group": "None"
+    },
+    {
+        "symbol": "TTC36",
+        "KO": 1.1754,
+        "OE": -0.121,
+        "group": "None"
+    },
+    {
+        "symbol": "OXTR",
+        "KO": -0.4069,
+        "OE": 1.574,
+        "group": "None"
+    },
+    {
+        "symbol": "AL162430.2",
+        "KO": -0.2153,
+        "OE": -0.4985,
+        "group": "None"
+    },
+    {
+        "symbol": "NOP16",
+        "KO": -0.3538,
+        "OE": 0.576,
+        "group": "None"
+    },
+    {
+        "symbol": "AC093323.1",
+        "KO": -0.1809,
+        "OE": 0.069,
+        "group": "None"
+    },
+    {
+        "symbol": "CYB561A3",
+        "KO": -0.2807,
+        "OE": -0.4113,
+        "group": "None"
+    },
+    {
+        "symbol": "HTR1D",
+        "KO": 0.2178,
+        "OE": 0.4665,
+        "group": "None"
+    },
+    {
+        "symbol": "AC011287.1",
+        "KO": 2.4274,
+        "OE": 0.2587,
+        "group": "None"
+    },
+    {
+        "symbol": "LYNX1",
+        "KO": -0.274,
+        "OE": 0.2377,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01431",
+        "KO": 0.5899,
+        "OE": 0.6217,
+        "group": "None"
+    },
+    {
+        "symbol": "ALS2",
+        "KO": 0.1383,
+        "OE": -0.6245,
+        "group": "None"
+    },
+    {
+        "symbol": "PBX3",
+        "KO": 0.2046,
+        "OE": -0.651,
+        "group": "None"
+    },
+    {
+        "symbol": "SLCO5A1",
+        "KO": -0.0488,
+        "OE": -1.3739,
+        "group": "None"
+    },
+    {
+        "symbol": "AL359265.1",
+        "KO": 1.6976,
+        "OE": -0.8782,
+        "group": "None"
+    },
+    {
+        "symbol": "IFI27L2",
+        "KO": 0.1463,
+        "OE": 0.4526,
+        "group": "None"
+    },
+    {
+        "symbol": "TRMT11",
+        "KO": -0.4417,
+        "OE": 1.1234,
+        "group": "None"
+    },
+    {
+        "symbol": "RNU6-1098P",
+        "KO": 0.3696,
+        "OE": -0.0186,
+        "group": "None"
+    },
+    {
+        "symbol": "MATN4",
+        "KO": 1.6068,
+        "OE": 0.6758,
+        "group": "None"
+    },
+    {
+        "symbol": "CCDC106",
+        "KO": 0.5154,
+        "OE": 1.0819,
+        "group": "None"
+    },
+    {
+        "symbol": "AL022318.1",
+        "KO": 0.4211,
+        "OE": -0.206,
+        "group": "None"
+    },
+    {
+        "symbol": "PACSIN3",
+        "KO": 0.1439,
+        "OE": 0.4776,
+        "group": "None"
+    },
+    {
+        "symbol": "MIR659",
+        "KO": 0.2829,
+        "OE": 1.0512,
+        "group": "None"
+    },
+    {
+        "symbol": "AC093503.1",
+        "KO": 0.5772,
+        "OE": 0.6218,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF155",
+        "KO": -0.3877,
+        "OE": 1.6014,
+        "group": "None"
+    },
+    {
+        "symbol": "HNRNPLL",
+        "KO": -0.1544,
+        "OE": -0.455,
+        "group": "None"
+    },
+    {
+        "symbol": "ARRDC5",
+        "KO": 1.1621,
+        "OE": -1.6443,
+        "group": "None"
+    },
+    {
+        "symbol": "MYOZ3",
+        "KO": -0.2731,
+        "OE": -1.4781,
+        "group": "None"
+    },
+    {
+        "symbol": "SCRG1",
+        "KO": -0.0078,
+        "OE": 1.7766,
+        "group": "None"
+    },
+    {
+        "symbol": "AL139260.1",
+        "KO": -0.9228,
+        "OE": 0.9953,
+        "group": "None"
+    },
+    {
+        "symbol": "TGIF1",
+        "KO": -0.6946,
+        "OE": 0.707,
+        "group": "None"
+    },
+    {
+        "symbol": "CLDN6",
+        "KO": -0.2871,
+        "OE": -1.4905,
+        "group": "None"
+    },
+    {
+        "symbol": "TANC1",
+        "KO": 0.1581,
+        "OE": 0.2039,
+        "group": "None"
+    },
+    {
+        "symbol": "CNGA1",
+        "KO": 0.2774,
+        "OE": -1.1448,
+        "group": "None"
+    },
+    {
+        "symbol": "MTCO3P43",
+        "KO": 0.8746,
+        "OE": 4.0255,
+        "group": "None"
+    },
+    {
+        "symbol": "FP565171.1",
+        "KO": -2.2913,
+        "OE": -0.0745,
+        "group": "None"
+    },
+    {
+        "symbol": "GPM6B",
+        "KO": -0.6172,
+        "OE": 3.384,
+        "group": "None"
+    },
+    {
+        "symbol": "CALHM5",
+        "KO": -0.1028,
+        "OE": 0.8977,
+        "group": "None"
+    },
+    {
+        "symbol": "SNORD46",
+        "KO": -0.6926,
+        "OE": 1.1715,
+        "group": "None"
+    },
+    {
+        "symbol": "DCST2",
+        "KO": 0.017,
+        "OE": 2.4373,
+        "group": "None"
+    },
+    {
+        "symbol": "THAP9-AS1",
+        "KO": -0.2775,
+        "OE": 0.0183,
+        "group": "None"
+    },
+    {
+        "symbol": "SORBS1",
+        "KO": 0.37,
+        "OE": -0.2236,
+        "group": "None"
+    },
+    {
+        "symbol": "VIRMA",
+        "KO": 0.0689,
+        "OE": -0.1553,
+        "group": "None"
+    },
+    {
+        "symbol": "AC090826.2",
+        "KO": 0.5772,
+        "OE": 0.0512,
+        "group": "None"
+    },
+    {
+        "symbol": "LMCD1-AS1",
+        "KO": 0.5721,
+        "OE": -0.907,
+        "group": "None"
+    },
+    {
+        "symbol": "ALG13-AS1",
+        "KO": -0.8827,
+        "OE": 3.9617,
+        "group": "None"
+    },
+    {
+        "symbol": "GDI2",
+        "KO": 0.0007,
+        "OE": -0.7788,
+        "group": "None"
+    },
+    {
+        "symbol": "AC008514.2",
+        "KO": 1.2733,
+        "OE": 1.1442,
+        "group": "None"
+    },
+    {
+        "symbol": "SERPINB5",
+        "KO": -0.0141,
+        "OE": -0.7117,
+        "group": "None"
+    },
+    {
+        "symbol": "CLRN3",
+        "KO": 1.9918,
+        "OE": 0.1218,
+        "group": "None"
+    },
+    {
+        "symbol": "CCT8P1",
+        "KO": -0.0094,
+        "OE": 0.6751,
+        "group": "None"
+    },
+    {
+        "symbol": "HLA-DQA2",
+        "KO": 1.0366,
+        "OE": 0.7475,
+        "group": "None"
+    },
+    {
+        "symbol": "YWHAQ",
+        "KO": 0.1499,
+        "OE": -0.6077,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01537",
+        "KO": 0.7381,
+        "OE": 0.5101,
+        "group": "None"
+    },
+    {
+        "symbol": "ADH5",
+        "KO": 0.0165,
+        "OE": 0.1767,
+        "group": "None"
+    },
+    {
+        "symbol": "AL032819.2",
+        "KO": -0.3379,
+        "OE": 0.6361,
+        "group": "None"
+    },
+    {
+        "symbol": "PLAU",
+        "KO": 0.3341,
+        "OE": -1.0071,
+        "group": "None"
+    },
+    {
+        "symbol": "C9orf24",
+        "KO": -0.4381,
+        "OE": 0.9639,
+        "group": "None"
+    },
+    {
+        "symbol": "MAT2B",
+        "KO": 0.0096,
+        "OE": -0.5686,
+        "group": "None"
+    },
+    {
+        "symbol": "MEMO1",
+        "KO": -0.0347,
+        "OE": -1.071,
+        "group": "None"
+    },
+    {
+        "symbol": "AC007382.1",
+        "KO": 0.4324,
+        "OE": 0.5425,
+        "group": "None"
+    },
+    {
+        "symbol": "TMEM184B",
+        "KO": 0.2675,
+        "OE": -0.8413,
+        "group": "None"
+    },
+    {
+        "symbol": "ABCA5",
+        "KO": -0.0016,
+        "OE": 0.9802,
+        "group": "None"
+    },
+    {
+        "symbol": "GNPDA1",
+        "KO": 0.0076,
+        "OE": -0.3503,
+        "group": "None"
+    },
+    {
+        "symbol": "ZFPM2",
+        "KO": -0.1262,
+        "OE": 0.5262,
+        "group": "None"
+    },
+    {
+        "symbol": "NLRP3",
+        "KO": -1.1286,
+        "OE": 0.4266,
+        "group": "None"
+    },
+    {
+        "symbol": "FOLR1",
+        "KO": -0.1417,
+        "OE": -0.4412,
+        "group": "None"
+    },
+    {
+        "symbol": "AC015853.1",
+        "KO": -0.4228,
+        "OE": 0.121,
+        "group": "None"
+    },
+    {
+        "symbol": "F7",
+        "KO": 0.6621,
+        "OE": 3.121,
+        "group": "None"
+    },
+    {
+        "symbol": "AC002525.1",
+        "KO": 1.2847,
+        "OE": -0.8172,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009318.1",
+        "KO": -0.6609,
+        "OE": 0.194,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM9B",
+        "KO": 0.4506,
+        "OE": 0.3638,
+        "group": "None"
+    },
+    {
+        "symbol": "AC026367.3",
+        "KO": 0.2499,
+        "OE": 2.6093,
+        "group": "None"
+    },
+    {
+        "symbol": "CARMIL1",
+        "KO": 0.0392,
+        "OE": -0.4072,
+        "group": "None"
+    },
+    {
+        "symbol": "FLII",
+        "KO": 0.2696,
+        "OE": -0.3245,
+        "group": "None"
+    },
+    {
+        "symbol": "ROCK2",
+        "KO": 0.2312,
+        "OE": -0.2235,
+        "group": "None"
+    },
+    {
+        "symbol": "AL139353.1",
+        "KO": -0.3318,
+        "OE": 2.8594,
+        "group": "None"
+    },
+    {
+        "symbol": "SAMD14",
+        "KO": 0.1911,
+        "OE": -0.4251,
+        "group": "None"
+    },
+    {
+        "symbol": "FBLN7",
+        "KO": -0.4666,
+        "OE": 1.874,
+        "group": "None"
+    },
+    {
+        "symbol": "AC021087.1",
+        "KO": -0.0544,
+        "OE": 0.879,
+        "group": "None"
+    },
+    {
+        "symbol": "C5orf63",
+        "KO": -0.4374,
+        "OE": 0.7074,
+        "group": "None"
+    },
+    {
+        "symbol": "AC090510.2",
+        "KO": 0.6912,
+        "OE": 4.4771,
+        "group": "None"
+    },
+    {
+        "symbol": "XPR1",
+        "KO": 0.3789,
+        "OE": -0.806,
+        "group": "None"
+    },
+    {
+        "symbol": "OSGEPL1-AS1",
+        "KO": -0.3816,
+        "OE": 1.2475,
+        "group": "None"
+    },
+    {
+        "symbol": "CD58",
+        "KO": 0.2597,
+        "OE": 0.2573,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005104.2",
+        "KO": 0.0815,
+        "OE": 0.052,
+        "group": "None"
+    },
+    {
+        "symbol": "FAM198B",
+        "KO": -0.0874,
+        "OE": 0.3923,
+        "group": "None"
+    },
+    {
+        "symbol": "LAMC3",
+        "KO": -0.0271,
+        "OE": -0.3941,
+        "group": "None"
+    },
+    {
+        "symbol": "AL445493.2",
+        "KO": -0.7523,
+        "OE": 2.6563,
+        "group": "None"
+    },
+    {
+        "symbol": "MBNL1",
+        "KO": 0.0932,
+        "OE": 0.7488,
+        "group": "None"
+    },
+    {
+        "symbol": "DSCC1",
+        "KO": -0.2805,
+        "OE": -0.2985,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL3L",
+        "KO": -0.1526,
+        "OE": 0.0268,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092118.1",
+        "KO": -0.4673,
+        "OE": 1.6563,
+        "group": "None"
+    },
+    {
+        "symbol": "AC005041.1",
+        "KO": -1.0078,
+        "OE": -0.6563,
+        "group": "None"
+    },
+    {
+        "symbol": "AC108134.2",
+        "KO": 0.0496,
+        "OE": 0.5699,
+        "group": "None"
+    },
+    {
+        "symbol": "AC008700.1",
+        "KO": -1.5931,
+        "OE": -1.8084,
+        "group": "None"
+    },
+    {
+        "symbol": "AL442128.2",
+        "KO": -1.2638,
+        "OE": -0.4135,
+        "group": "None"
+    },
+    {
+        "symbol": "FLJ46284",
+        "KO": -1.9666,
+        "OE": 2.1715,
+        "group": "None"
+    },
+    {
+        "symbol": "EDC4",
+        "KO": 0.1394,
+        "OE": -0.8187,
+        "group": "None"
+    },
+    {
+        "symbol": "ATP2C1",
+        "KO": 0.0015,
+        "OE": 0.4267,
+        "group": "None"
+    },
+    {
+        "symbol": "CEP170B",
+        "KO": 0.2403,
+        "OE": -0.3124,
+        "group": "None"
+    },
+    {
+        "symbol": "PARL",
+        "KO": -0.1497,
+        "OE": 1.001,
+        "group": "None"
+    },
+    {
+        "symbol": "C1orf159",
+        "KO": 0.0196,
+        "OE": 1.598,
+        "group": "None"
+    },
+    {
+        "symbol": "ZSWIM7",
+        "KO": -0.0981,
+        "OE": 0.077,
+        "group": "None"
+    },
+    {
+        "symbol": "AL139156.2",
+        "KO": 2.7733,
+        "OE": 1.1897,
+        "group": "None"
+    },
+    {
+        "symbol": "AC025678.3",
+        "KO": 0.6304,
+        "OE": 1.3209,
+        "group": "None"
+    },
+    {
+        "symbol": "CLINT1",
+        "KO": -0.0471,
+        "OE": -0.5328,
+        "group": "None"
+    },
+    {
+        "symbol": "MRPL23",
+        "KO": 0.1555,
+        "OE": 0.9289,
+        "group": "None"
+    },
+    {
+        "symbol": "AC010197.1",
+        "KO": 1.8802,
+        "OE": -2.2699,
+        "group": "None"
+    },
+    {
+        "symbol": "GAMT",
+        "KO": -0.2191,
+        "OE": -0.0393,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01460",
+        "KO": 0.466,
+        "OE": 2.8594,
+        "group": "None"
+    },
+    {
+        "symbol": "POLA2",
+        "KO": -0.6607,
+        "OE": 2.1866,
+        "group": "None"
+    },
+    {
+        "symbol": "PDE4C",
+        "KO": -0.6275,
+        "OE": 0.9902,
+        "group": "None"
+    },
+    {
+        "symbol": "MTERF1",
+        "KO": 0.1148,
+        "OE": 0.3454,
+        "group": "None"
+    },
+    {
+        "symbol": "ADAD2",
+        "KO": -0.9185,
+        "OE": 1.052,
+        "group": "None"
+    },
+    {
+        "symbol": "ANKRD53",
+        "KO": -0.8554,
+        "OE": 1.7675,
+        "group": "None"
+    },
+    {
+        "symbol": "AC012442.1",
+        "KO": -0.5838,
+        "OE": 2.379,
+        "group": "None"
+    },
+    {
+        "symbol": "HFE",
+        "KO": 0.2205,
+        "OE": 0.5579,
+        "group": "None"
+    },
+    {
+        "symbol": "AKAP6",
+        "KO": -0.1342,
+        "OE": -1.0989,
+        "group": "None"
+    },
+    {
+        "symbol": "STPG3",
+        "KO": -0.4523,
+        "OE": 3.6933,
+        "group": "None"
+    },
+    {
+        "symbol": "AL121594.1",
+        "KO": 0.5772,
+        "OE": 2.1218,
+        "group": "None"
+    },
+    {
+        "symbol": "AC120114.1",
+        "KO": -0.3946,
+        "OE": -0.315,
+        "group": "None"
+    },
+    {
+        "symbol": "AC024075.2",
+        "KO": 0.3073,
+        "OE": 2.1155,
+        "group": "None"
+    },
+    {
+        "symbol": "WBP2NL",
+        "KO": 0.5366,
+        "OE": 0.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "PNMA3",
+        "KO": 0.9918,
+        "OE": 1.1916,
+        "group": "None"
+    },
+    {
+        "symbol": "RPS3AP26",
+        "KO": -0.1708,
+        "OE": -0.1452,
+        "group": "None"
+    },
+    {
+        "symbol": "NFKB2",
+        "KO": 0.3141,
+        "OE": -0.2042,
+        "group": "None"
+    },
+    {
+        "symbol": "AP002990.1",
+        "KO": -0.236,
+        "OE": 0.5079,
+        "group": "None"
+    },
+    {
+        "symbol": "AGTPBP1",
+        "KO": 0.0472,
+        "OE": -0.1464,
+        "group": "None"
+    },
+    {
+        "symbol": "ATF1",
+        "KO": -0.1848,
+        "OE": -0.6121,
+        "group": "None"
+    },
+    {
+        "symbol": "NOL8",
+        "KO": -0.0815,
+        "OE": 0.327,
+        "group": "None"
+    },
+    {
+        "symbol": "WASIR2",
+        "KO": -0.7445,
+        "OE": -0.422,
+        "group": "None"
+    },
+    {
+        "symbol": "SPEG",
+        "KO": 0.0119,
+        "OE": 1.5064,
+        "group": "None"
+    },
+    {
+        "symbol": "NVL",
+        "KO": -0.1812,
+        "OE": -0.4928,
+        "group": "None"
+    },
+    {
+        "symbol": "APOBEC3G",
+        "KO": -0.7737,
+        "OE": 2.4066,
+        "group": "None"
+    },
+    {
+        "symbol": "NDUFAF7",
+        "KO": -0.1391,
+        "OE": 0.8151,
+        "group": "None"
+    },
+    {
+        "symbol": "AC092338.2",
+        "KO": 0.6937,
+        "OE": 1.2828,
+        "group": "None"
+    },
+    {
+        "symbol": "AC004951.4",
+        "KO": 0.5237,
+        "OE": 2.638,
+        "group": "None"
+    },
+    {
+        "symbol": "IL17RD",
+        "KO": 0.324,
+        "OE": 0.0178,
+        "group": "None"
+    },
+    {
+        "symbol": "PSMG2",
+        "KO": -0.016,
+        "OE": 0.523,
+        "group": "None"
+    },
+    {
+        "symbol": "DBF4P1",
+        "KO": -0.3196,
+        "OE": 0.379,
+        "group": "None"
+    },
+    {
+        "symbol": "KIAA0513",
+        "KO": 0.3639,
+        "OE": -1.1589,
+        "group": "None"
+    },
+    {
+        "symbol": "LDHD",
+        "KO": 0.0458,
+        "OE": -1.0691,
+        "group": "None"
+    },
+    {
+        "symbol": "ADGRF5P1",
+        "KO": -0.4228,
+        "OE": 0.879,
+        "group": "None"
+    },
+    {
+        "symbol": "AL353807.2",
+        "KO": 0.7995,
+        "OE": -0.1563,
+        "group": "None"
+    },
+    {
+        "symbol": "AP003486.1",
+        "KO": -0.1922,
+        "OE": 0.9461,
+        "group": "None"
+    },
+    {
+        "symbol": "MVB12B",
+        "KO": 0.0225,
+        "OE": -0.7414,
+        "group": "None"
+    },
+    {
+        "symbol": "TUBA3FP",
+        "KO": -0.7153,
+        "OE": 1.7121,
+        "group": "None"
+    },
+    {
+        "symbol": "KCNAB3",
+        "KO": -0.0767,
+        "OE": 2.6477,
+        "group": "None"
+    },
+    {
+        "symbol": "PDPR",
+        "KO": 0.1287,
+        "OE": 0.4038,
+        "group": "None"
+    },
+    {
+        "symbol": "HMGN2P41",
+        "KO": 1.9808,
+        "OE": 0.379,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF214",
+        "KO": -0.9726,
+        "OE": 1.7475,
+        "group": "None"
+    },
+    {
+        "symbol": "ZBTB49",
+        "KO": -0.1829,
+        "OE": -0.2874,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF250",
+        "KO": -0.2743,
+        "OE": -0.2336,
+        "group": "None"
+    },
+    {
+        "symbol": "GTF2A2",
+        "KO": 0.2281,
+        "OE": -0.3539,
+        "group": "None"
+    },
+    {
+        "symbol": "RNU1-138P",
+        "KO": -0.3823,
+        "OE": -1.2909,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01058",
+        "KO": 0.8696,
+        "OE": 0.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "DNAJC21",
+        "KO": 0.0698,
+        "OE": -0.375,
+        "group": "None"
+    },
+    {
+        "symbol": "HMGB3P14",
+        "KO": 1.4954,
+        "OE": 0.5865,
+        "group": "None"
+    },
+    {
+        "symbol": "EEF1AKMT3",
+        "KO": -0.1556,
+        "OE": 0.5811,
+        "group": "None"
+    },
+    {
+        "symbol": "BMS1P4",
+        "KO": -0.0622,
+        "OE": 4.1977,
+        "group": "None"
+    },
+    {
+        "symbol": "KRT43P",
+        "KO": -1.2888,
+        "OE": 1.879,
+        "group": "None"
+    },
+    {
+        "symbol": "AC233723.1",
+        "KO": 1.0306,
+        "OE": 1.021,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC3A1",
+        "KO": 0.4324,
+        "OE": 1.5399,
+        "group": "None"
+    },
+    {
+        "symbol": "AC012441.2",
+        "KO": -1.458,
+        "OE": -0.1563,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF747",
+        "KO": -0.0221,
+        "OE": 0.3801,
+        "group": "None"
+    },
+    {
+        "symbol": "APLN",
+        "KO": -0.3265,
+        "OE": -1.2354,
+        "group": "None"
+    },
+    {
+        "symbol": "GBP2",
+        "KO": -0.6217,
+        "OE": -0.8442,
+        "group": "None"
+    },
+    {
+        "symbol": "AF117829.2",
+        "KO": -0.378,
+        "OE": 0.121,
+        "group": "None"
+    },
+    {
+        "symbol": "AC106820.6",
+        "KO": 0.9231,
+        "OE": -1.5948,
+        "group": "None"
+    },
+    {
+        "symbol": "RNU6-190P",
+        "KO": 0.1434,
+        "OE": 3.0753,
+        "group": "None"
+    },
+    {
+        "symbol": "SUGP1",
+        "KO": 0.1031,
+        "OE": -0.0093,
+        "group": "None"
+    },
+    {
+        "symbol": "CEP78",
+        "KO": -0.2091,
+        "OE": 0.3283,
+        "group": "None"
+    },
+    {
+        "symbol": "ARHGAP32",
+        "KO": -0.0169,
+        "OE": 0.0981,
+        "group": "None"
+    },
+    {
+        "symbol": "AHSA2P",
+        "KO": -0.269,
+        "OE": 3.6048,
+        "group": "None"
+    },
+    {
+        "symbol": "RNU6ATAC18P",
+        "KO": 1.5772,
+        "OE": -1.464,
+        "group": "None"
+    },
+    {
+        "symbol": "NIPAL2",
+        "KO": -0.7419,
+        "OE": -0.3066,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01119",
+        "KO": -0.5208,
+        "OE": 0.2412,
+        "group": "None"
+    },
+    {
+        "symbol": "AC011944.1",
+        "KO": -0.9228,
+        "OE": -1.7474,
+        "group": "None"
+    },
+    {
+        "symbol": "ATAD3A",
+        "KO": -0.137,
+        "OE": -0.4114,
+        "group": "None"
+    },
+    {
+        "symbol": "MROH3P",
+        "KO": 0.2664,
+        "OE": -1.1707,
+        "group": "None"
+    },
+    {
+        "symbol": "CDC37P2",
+        "KO": 0.7826,
+        "OE": 1.4027,
+        "group": "None"
+    },
+    {
+        "symbol": "AL357033.4",
+        "KO": -0.2783,
+        "OE": -2.9388,
+        "group": "None"
+    },
+    {
+        "symbol": "PCCA-AS1",
+        "KO": -0.0838,
+        "OE": 0.3518,
+        "group": "None"
+    },
+    {
+        "symbol": "LPIN2",
+        "KO": 0.6466,
+        "OE": -0.9625,
+        "group": "None"
+    },
+    {
+        "symbol": "TEX19",
+        "KO": -0.6577,
+        "OE": -1.0303,
+        "group": "None"
+    },
+    {
+        "symbol": "TP53RK",
+        "KO": -0.106,
+        "OE": -0.8942,
+        "group": "None"
+    },
+    {
+        "symbol": "SNORA5C",
+        "KO": -0.1656,
+        "OE": 1.6442,
+        "group": "None"
+    },
+    {
+        "symbol": "RN7SL441P",
+        "KO": 1.6066,
+        "OE": 0.121,
+        "group": "None"
+    },
+    {
+        "symbol": "FOXH1",
+        "KO": 0.1536,
+        "OE": 2.4807,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF324B",
+        "KO": -0.5344,
+        "OE": -0.9442,
+        "group": "None"
+    },
+    {
+        "symbol": "RHPN2",
+        "KO": 0.3036,
+        "OE": -0.7183,
+        "group": "None"
+    },
+    {
+        "symbol": "SMARCA1",
+        "KO": -0.0027,
+        "OE": 0.3657,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL7P23",
+        "KO": 0.0094,
+        "OE": -0.2236,
+        "group": "None"
+    },
+    {
+        "symbol": "DCUN1D2-AS",
+        "KO": -0.1968,
+        "OE": 2.6279,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNRF2",
+        "KO": 0.1476,
+        "OE": -0.1278,
+        "group": "None"
+    },
+    {
+        "symbol": "JARID2-AS1",
+        "KO": -0.8265,
+        "OE": 1.8579,
+        "group": "None"
+    },
+    {
+        "symbol": "JAG2",
+        "KO": -0.0155,
+        "OE": 0.2593,
+        "group": "None"
+    },
+    {
+        "symbol": "CXXC1",
+        "KO": 0.2135,
+        "OE": 0.1223,
+        "group": "None"
+    },
+    {
+        "symbol": "NUDCD2",
+        "KO": 0.0826,
+        "OE": 0.1728,
+        "group": "None"
+    },
+    {
+        "symbol": "DAND5",
+        "KO": -0.8265,
+        "OE": -0.9833,
+        "group": "None"
+    },
+    {
+        "symbol": "SEPT10P1",
+        "KO": -0.7602,
+        "OE": -1.3052,
+        "group": "None"
+    },
+    {
+        "symbol": "LIFR",
+        "KO": 0.4318,
+        "OE": 0.0494,
+        "group": "None"
+    },
+    {
+        "symbol": "AL139099.2",
+        "KO": -1.2602,
+        "OE": 3.0255,
+        "group": "None"
+    },
+    {
+        "symbol": "WASHC3",
+        "KO": -0.1678,
+        "OE": 0.9116,
+        "group": "None"
+    },
+    {
+        "symbol": "COG5",
+        "KO": 0.1578,
+        "OE": -1.373,
+        "group": "None"
+    },
+    {
+        "symbol": "ZDBF2",
+        "KO": -0.1937,
+        "OE": 1.4071,
+        "group": "None"
+    },
+    {
+        "symbol": "HACL1",
+        "KO": 0.5991,
+        "OE": -0.2913,
+        "group": "None"
+    },
+    {
+        "symbol": "SMTN",
+        "KO": 0.5088,
+        "OE": 0.2228,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009802.1",
+        "KO": -0.3025,
+        "OE": 1.3968,
+        "group": "None"
+    },
+    {
+        "symbol": "AL139095.5",
+        "KO": -0.7153,
+        "OE": 0.5167,
+        "group": "None"
+    },
+    {
+        "symbol": "PRKCQ",
+        "KO": 0.3408,
+        "OE": 0.3758,
+        "group": "None"
+    },
+    {
+        "symbol": "MAGI2",
+        "KO": -0.0192,
+        "OE": -1.4407,
+        "group": "None"
+    },
+    {
+        "symbol": "INE1",
+        "KO": -0.3395,
+        "OE": 3.1041,
+        "group": "None"
+    },
+    {
+        "symbol": "HIST2H2AC",
+        "KO": -1.5686,
+        "OE": 1.1363,
+        "group": "None"
+    },
+    {
+        "symbol": "PPP3CC",
+        "KO": -0.2083,
+        "OE": -1.0487,
+        "group": "None"
+    },
+    {
+        "symbol": "KCTD9P4",
+        "KO": 0.9456,
+        "OE": 0.7475,
+        "group": "None"
+    },
+    {
+        "symbol": "KIAA0895L",
+        "KO": -0.4797,
+        "OE": 1.6855,
+        "group": "None"
+    },
+    {
+        "symbol": "C17orf75",
+        "KO": -0.1245,
+        "OE": -0.1464,
+        "group": "None"
+    },
+    {
+        "symbol": "NID2",
+        "KO": 1.0481,
+        "OE": 1.879,
+        "group": "None"
+    },
+    {
+        "symbol": "RF00096",
+        "KO": -1.2913,
+        "OE": 2.3033,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL37AP1",
+        "KO": 0.1503,
+        "OE": -0.6717,
+        "group": "None"
+    },
+    {
+        "symbol": "MECP2",
+        "KO": -0.0434,
+        "OE": 0.0139,
+        "group": "None"
+    },
+    {
+        "symbol": "SCAMP1-AS1",
+        "KO": 0.0034,
+        "OE": 0.1303,
+        "group": "None"
+    },
+    {
+        "symbol": "MYLPF",
+        "KO": -0.4523,
+        "OE": 0.9953,
+        "group": "None"
+    },
+    {
+        "symbol": "NSUN2",
+        "KO": -0.2836,
+        "OE": -0.305,
+        "group": "None"
+    },
+    {
+        "symbol": "MTRNR2L3",
+        "KO": -0.6304,
+        "OE": 0.0512,
+        "group": "None"
+    },
+    {
+        "symbol": "AC245884.8",
+        "KO": -1.6416,
+        "OE": 2.4438,
+        "group": "None"
+    },
+    {
+        "symbol": "RDM1",
+        "KO": 0.5094,
+        "OE": 0.4324,
+        "group": "None"
+    },
+    {
+        "symbol": "NTS",
+        "KO": 0.6621,
+        "OE": 1.7143,
+        "group": "None"
+    },
+    {
+        "symbol": "CRACR2A",
+        "KO": 0.0154,
+        "OE": -0.2891,
+        "group": "None"
+    },
+    {
+        "symbol": "INSIG1",
+        "KO": 0.3121,
+        "OE": -0.1421,
+        "group": "None"
+    },
+    {
+        "symbol": "C7orf31",
+        "KO": -0.8723,
+        "OE": 0.1718,
+        "group": "None"
+    },
+    {
+        "symbol": "AL391650.1",
+        "KO": -0.1284,
+        "OE": 1.3162,
+        "group": "None"
+    },
+    {
+        "symbol": "GNAI2",
+        "KO": 0.2102,
+        "OE": -0.3075,
+        "group": "None"
+    },
+    {
+        "symbol": "SART1",
+        "KO": 0.23,
+        "OE": 0.2013,
+        "group": "None"
+    },
+    {
+        "symbol": "AC021851.1",
+        "KO": -0.9627,
+        "OE": 1.1743,
+        "group": "None"
+    },
+    {
+        "symbol": "GOLM1",
+        "KO": 0.2962,
+        "OE": -0.5287,
+        "group": "None"
+    },
+    {
+        "symbol": "CD70",
+        "KO": 0.0674,
+        "OE": 0.5601,
+        "group": "None"
+    },
+    {
+        "symbol": "WFDC3",
+        "KO": 0.8113,
+        "OE": 0.1592,
+        "group": "None"
+    },
+    {
+        "symbol": "PRPF31",
+        "KO": -0.0786,
+        "OE": 0.6403,
+        "group": "None"
+    },
+    {
+        "symbol": "AC110285.3",
+        "KO": -1.5078,
+        "OE": 1.9136,
+        "group": "None"
+    },
+    {
+        "symbol": "CCDC102B",
+        "KO": -1.0676,
+        "OE": -0.8216,
+        "group": "None"
+    },
+    {
+        "symbol": "TOR3A",
+        "KO": -0.0098,
+        "OE": -0.1194,
+        "group": "None"
+    },
+    {
+        "symbol": "USP53",
+        "KO": 0.3111,
+        "OE": -0.5213,
+        "group": "None"
+    },
+    {
+        "symbol": "AL592148.3",
+        "KO": -0.1009,
+        "OE": 2.2327,
+        "group": "None"
+    },
+    {
+        "symbol": "IGHE",
+        "KO": -2.0078,
+        "OE": -1.9985,
+        "group": "None"
+    },
+    {
+        "symbol": "AL049552.1",
+        "KO": -0.3805,
+        "OE": 3.0991,
+        "group": "None"
+    },
+    {
+        "symbol": "AC015726.1",
+        "KO": 0.5321,
+        "OE": 3.0092,
+        "group": "None"
+    },
+    {
+        "symbol": "AC006449.2",
+        "KO": -0.3155,
+        "OE": 0.0085,
+        "group": "None"
+    },
+    {
+        "symbol": "SRSF5",
+        "KO": 0.0681,
+        "OE": 0.5841,
+        "group": "None"
+    },
+    {
+        "symbol": "CYP2F1",
+        "KO": -1.2153,
+        "OE": 1.7828,
+        "group": "None"
+    },
+    {
+        "symbol": "UNC119",
+        "KO": 0.1666,
+        "OE": 0.5671,
+        "group": "None"
+    },
+    {
+        "symbol": "HMG20A",
+        "KO": 0.1334,
+        "OE": -0.5416,
+        "group": "None"
+    },
+    {
+        "symbol": "ADPRM",
+        "KO": 0.0972,
+        "OE": -0.34,
+        "group": "None"
+    },
+    {
+        "symbol": "KLC4",
+        "KO": 0.0197,
+        "OE": 0.0259,
+        "group": "None"
+    },
+    {
+        "symbol": "AADAT",
+        "KO": -0.3414,
+        "OE": 1.3367,
+        "group": "None"
+    },
+    {
+        "symbol": "LRP11",
+        "KO": 0.1155,
+        "OE": -0.0949,
+        "group": "None"
+    },
+    {
+        "symbol": "MIR6747",
+        "KO": -1.4118,
+        "OE": 0.0865,
+        "group": "None"
+    },
+    {
+        "symbol": "TMEM150A",
+        "KO": -0.212,
+        "OE": -0.0993,
+        "group": "None"
+    },
+    {
+        "symbol": "AC145285.6",
+        "KO": -0.2369,
+        "OE": -0.225,
+        "group": "None"
+    },
+    {
+        "symbol": "AC010320.2",
+        "KO": 1.1621,
+        "OE": -0.0857,
+        "group": "None"
+    },
+    {
+        "symbol": "AC020917.3",
+        "KO": -0.8823,
+        "OE": -1.3782,
+        "group": "None"
+    },
+    {
+        "symbol": "CES4A",
+        "KO": -0.9228,
+        "OE": 0.6978,
+        "group": "None"
+    },
+    {
+        "symbol": "HSPA12A",
+        "KO": 0.0549,
+        "OE": 0.1205,
+        "group": "None"
+    },
+    {
+        "symbol": "ENY2",
+        "KO": -0.1229,
+        "OE": 0.9233,
+        "group": "None"
+    },
+    {
+        "symbol": "AC087477.2",
+        "KO": 0.6621,
+        "OE": 5.5849,
+        "group": "None"
+    },
+    {
+        "symbol": "AC009237.15",
+        "KO": 0.6269,
+        "OE": 1.7766,
+        "group": "None"
+    },
+    {
+        "symbol": "AC018553.1",
+        "KO": -0.7913,
+        "OE": 3.2475,
+        "group": "None"
+    },
+    {
+        "symbol": "GHRL",
+        "KO": -0.6468,
+        "OE": 2.1715,
+        "group": "None"
+    },
+    {
+        "symbol": "PSMG1",
+        "KO": -0.0901,
+        "OE": 0.2495,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC7A6OS",
+        "KO": -0.1631,
+        "OE": -1.0974,
+        "group": "None"
+    },
+    {
+        "symbol": "B3GNT4",
+        "KO": -0.1829,
+        "OE": 0.4354,
+        "group": "None"
+    },
+    {
+        "symbol": "COMMD1",
+        "KO": 0.294,
+        "OE": 0.5067,
+        "group": "None"
+    },
+    {
+        "symbol": "BEST4",
+        "KO": -0.214,
+        "OE": 1.455,
+        "group": "None"
+    },
+    {
+        "symbol": "AC068473.5",
+        "KO": -0.9314,
+        "OE": -0.0914,
+        "group": "None"
+    },
+    {
+        "symbol": "WAC",
+        "KO": 0.1027,
+        "OE": -0.8195,
+        "group": "None"
+    },
+    {
+        "symbol": "AP2A2",
+        "KO": -0.0794,
+        "OE": -0.9975,
+        "group": "None"
+    },
+    {
+        "symbol": "LINC01315",
+        "KO": 0.1866,
+        "OE": -0.0513,
+        "group": "None"
+    },
+    {
+        "symbol": "RHOQ",
+        "KO": 0.0686,
+        "OE": 0.0168,
+        "group": "None"
+    },
+    {
+        "symbol": "AC027020.1",
+        "KO": -1.4025,
+        "OE": -0.9783,
+        "group": "None"
+    },
+    {
+        "symbol": "HLA-J",
+        "KO": -0.9773,
+        "OE": 3.0479,
+        "group": "None"
+    },
+    {
+        "symbol": "AC010883.1",
+        "KO": -0.4694,
+        "OE": 2.418,
+        "group": "None"
+    },
+    {
+        "symbol": "AL353662.2",
+        "KO": 2.0123,
+        "OE": 1.9292,
+        "group": "None"
+    },
+    {
+        "symbol": "AC090844.3",
+        "KO": 0.2847,
+        "OE": 2.121,
+        "group": "None"
+    },
+    {
+        "symbol": "SF3B5",
+        "KO": -0.1067,
+        "OE": -0.552,
+        "group": "None"
+    },
+    {
+        "symbol": "SAAL1",
+        "KO": -0.1266,
+        "OE": -0.0996,
+        "group": "None"
+    },
+    {
+        "symbol": "AL023583.1",
+        "KO": 0.0772,
+        "OE": -0.9135,
+        "group": "None"
+    },
+    {
+        "symbol": "ABHD17C",
+        "KO": -0.1879,
+        "OE": -0.6293,
+        "group": "None"
+    },
+    {
+        "symbol": "ROPN1",
+        "KO": -0.4228,
+        "OE": -1.3782,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF316",
+        "KO": 0.1374,
+        "OE": 0.4428,
+        "group": "None"
+    },
+    {
+        "symbol": "AXDND1",
+        "KO": -0.3282,
+        "OE": 1.9982,
+        "group": "None"
+    },
+    {
+        "symbol": "AL137779.2",
+        "KO": -0.0343,
+        "OE": -1.1694,
+        "group": "None"
+    },
+    {
+        "symbol": "ECD",
+        "KO": -0.0886,
+        "OE": 0.3451,
+        "group": "None"
+    },
+    {
+        "symbol": "HMGXB4",
+        "KO": -0.0377,
+        "OE": 0.0918,
+        "group": "None"
+    },
+    {
+        "symbol": "NIPSNAP2",
+        "KO": -0.1625,
+        "OE": -0.592,
+        "group": "None"
+    },
+    {
+        "symbol": "TMOD2",
+        "KO": -0.2319,
+        "OE": -0.3779,
+        "group": "None"
+    },
+    {
+        "symbol": "CMTM3",
+        "KO": -0.1468,
+        "OE": 0.3294,
+        "group": "None"
+    },
+    {
+        "symbol": "OTX2-AS1",
+        "KO": -0.4225,
+        "OE": 1.7059,
+        "group": "None"
+    },
+    {
+        "symbol": "ZNF611",
+        "KO": 0.1288,
+        "OE": 0.1013,
+        "group": "None"
+    },
+    {
+        "symbol": "HSP90AB1",
+        "KO": 0.0564,
+        "OE": 0.3103,
+        "group": "None"
+    },
+    {
+        "symbol": "SMG6",
+        "KO": 0.2039,
+        "OE": -0.6225,
+        "group": "None"
+    },
+    {
+        "symbol": "HCFC2",
+        "KO": -0.5955,
+        "OE": -0.8734,
+        "group": "None"
+    },
+    {
+        "symbol": "MYH4",
+        "KO": 0.1177,
+        "OE": 3.3616,
+        "group": "None"
+    },
+    {
+        "symbol": "RPL5P30",
+        "KO": 0.1066,
+        "OE": 0.7313,
+        "group": "None"
+    },
+    {
+        "symbol": "RN7SL430P",
+        "KO": -1.5483,
+        "OE": 2.3033,
+        "group": "None"
+    },
+    {
+        "symbol": "MAGOH2P",
+        "KO": -0.3338,
+        "OE": -0.3172,
+        "group": "None"
+    },
+    {
+        "symbol": "GNPTG",
+        "KO": 0.034,
+        "OE": 0.8508,
+        "group": "None"
+    },
+    {
+        "symbol": "MFSD3",
+        "KO": -0.5049,
+        "OE": -0.3218,
+        "group": "None"
+    },
+    {
+        "symbol": "ANXA10",
+        "KO": -0.8135,
+        "OE": 3.1543,
+        "group": "None"
+    },
+    {
+        "symbol": "SLC52A2",
+        "KO": 0.09,
+        "OE": 0.2411,
+        "group": "None"
+    },
+    {
+        "symbol": "ISPD",
+        "KO": -0.6121,
+        "OE": -0.9572,
+        "group": "None"
+    },
+    {
+        "symbol": "ITIH2",
+        "KO": 0.3611,
+        "OE": 2.4902,
+        "group": "None"
+    },
+    {
+        "symbol": "ANKRD27",
+        "KO": -0.1189,
+        "OE": -0.4543,
+        "group": "None"
+    },
+    {
+        "symbol": "RILPL1",
+        "KO": 0.0842,
+        "OE": -0.4769,
+        "group": "None"
+    },
+    {
+        "symbol": "PRKX",
+        "KO": 0.0034,
+        "OE": -0.3438,
+        "group": "None"
+    },
+    {
+        "symbol": "HLA-DQB2",
+        "KO": -1.4228,
+        "OE": -0.5745,
+        "group": "None"
+    },
+    {
+        "symbol": "RMDN3",
+        "KO": 0.1459,
+        "OE": -0.6606,
+        "group": "None"
+    },
+    {
+        "symbol": "PA2G4P2",
+        "KO": 0.5144,
+        "OE": -0.1708,
+        "group": "None"
+    },
+    {
+        "symbol": "PSMA3",
+        "KO": -0.2667,
+        "OE": 0.6599,
+        "group": "None"
+    },
+    {
+        "symbol": "BCORL1",
+        "KO": 0.0864,
+        "OE": -0.583,
+        "group": "None"
+    },
+    {
+        "symbol": "TES",
+        "KO": 0.3279,
+        "OE": -1.0578,
+        "group": "None"
+    },
+    {
+        "symbol": "TTC7B",
+        "KO": 10.5415,
+        "OE": -1.3155,
+        "group": "L-H"
+    },
+    {
+        "symbol": "AC024909.2",
+        "KO": -2.8822,
+        "OE": 3.2131,
+        "group": "H-L"
+    },
+    {
+        "symbol": "AL117339.5",
+        "KO": -2.4666,
+        "OE": 2.9902,
+        "group": "H-L"
+    },
+    {
+        "symbol": "AP000553.3",
+        "KO": 2.4678,
+        "OE": 1.4902,
+        "group": "H-H"
+    },
+    {
+        "symbol": "CXCL8",
+        "KO": 1.9808,
+        "OE": -3.2979,
+        "group": "L-H"
+    },
+    {
+        "symbol": "DUSP6",
+        "KO": -1.5491,
+        "OE": 1.7559,
+        "group": "H-L"
+    },
+    {
+        "symbol": "ACTN2",
+        "KO": -2.5883,
+        "OE": 1.1343,
+        "group": "H-L"
+    },
+    {
+        "symbol": "ADRA1D",
+        "KO": -2.4875,
+        "OE": 1.6847,
+        "group": "H-L"
+    },
+    {
+        "symbol": "SOX2-OT",
+        "KO": -3.458,
+        "OE": 1.0237,
+        "group": "H-L"
+    },
+    {
+        "symbol": "SLPI",
+        "KO": 1.4127,
+        "OE": -2.497,
+        "group": "L-H"
+    },
+    {
+        "symbol": "BHLHE41",
+        "KO": -1.3183,
+        "OE": -1.3315,
+        "group": "L-L"
+    },
+    {
+        "symbol": "AP005212.4",
+        "KO": -2.8265,
+        "OE": 1.3293,
+        "group": "H-L"
+    },
+    {
+        "symbol": "NDRG1",
+        "KO": 1.3193,
+        "OE": -1.3525,
+        "group": "L-H"
+    },
+    {
+        "symbol": "HSPA1B",
+        "KO": 1.5177,
+        "OE": -2.8924,
+        "group": "L-H"
+    },
+    {
+        "symbol": "IGFBP3",
+        "KO": 1.2748,
+        "OE": -1.2794,
+        "group": "L-H"
+    },
+    {
+        "symbol": "FOXD4L3",
+        "KO": -2.2448,
+        "OE": 1.7059,
+        "group": "H-L"
+    },
+    {
+        "symbol": "LAMB3",
+        "KO": 1.1749,
+        "OE": -1.5262,
+        "group": "L-H"
+    },
+    {
+        "symbol": "JAML",
+        "KO": 3.2471,
+        "OE": 2.4637,
+        "group": "H-H"
+    },
+    {
+        "symbol": "CEP83-DT",
+        "KO": -3.7696,
+        "OE": -1.6857,
+        "group": "L-L"
+    },
+    {
+        "symbol": "RASL10B",
+        "KO": -2.0928,
+        "OE": 1.9143,
+        "group": "H-L"
+    },
+    {
+        "symbol": "AL353795.3",
+        "KO": 2.1473,
+        "OE": 1.8437,
+        "group": "H-H"
+    },
+    {
+        "symbol": "LAMC2",
+        "KO": 1.0196,
+        "OE": -1.3775,
+        "group": "L-H"
+    },
+    {
+        "symbol": "TMC3",
+        "KO": -1.5078,
+        "OE": 2.7827,
+        "group": "H-L"
+    },
+    {
+        "symbol": "LINC00514",
+        "KO": -1.9296,
+        "OE": 2.2828,
+        "group": "H-L"
+    },
+    {
+        "symbol": "SIAH2-AS1",
+        "KO": 1.8845,
+        "OE": 2.9814,
+        "group": "H-H"
+    },
+    {
+        "symbol": "FAM129A",
+        "KO": 1.0462,
+        "OE": -1.3763,
+        "group": "L-H"
+    },
+    {
+        "symbol": "SDC4",
+        "KO": 1.0279,
+        "OE": -1.4612,
+        "group": "L-H"
+    },
+    {
+        "symbol": "ANGPT2",
+        "KO": -1.0057,
+        "OE": 1.8365,
+        "group": "H-L"
+    },
+    {
+        "symbol": "AL109615.1",
+        "KO": 1.6621,
+        "OE": 1.7766,
+        "group": "H-H"
+    },
+    {
+        "symbol": "AC139426.1",
+        "KO": 2.3543,
+        "OE": 2.7413,
+        "group": "H-H"
+    },
+    {
+        "symbol": "HCN1",
+        "KO": -2.963,
+        "OE": 1.955,
+        "group": "H-L"
+    },
+    {
+        "symbol": "IL20RB",
+        "KO": 1.0435,
+        "OE": -2.8973,
+        "group": "L-H"
+    }
+]

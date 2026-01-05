@@ -165,29 +165,91 @@
   }
 }
 
-/* 绘制按钮旋转动画 */
-.drawButtonRotate {
+/* JavaScript按钮脉冲动画 */
+.javascriptButtonPulse {
   transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
-.drawButtonRotate:hover {
-  animation: draw-rotate 0.6s ease-in-out;
+.javascriptButtonPulse:hover {
+  animation: javascript-pulse 1.5s ease-in-out infinite;
   transform: scale(1.1);
 }
 
-@keyframes draw-rotate {
+@keyframes javascript-pulse {
   0% {
-    transform: scale(1.1) rotate(0deg);
+    box-shadow: 0 0 0 0 rgba(76, 175, 80, 0.4);
   }
-  25% {
-    transform: scale(1.1) rotate(-5deg);
-  }
-  75% {
-    transform: scale(1.1) rotate(5deg);
+  50% {
+    box-shadow: 0 0 0 8px rgba(76, 175, 80, 0.1);
   }
   100% {
-    transform: scale(1.1) rotate(0deg);
+    box-shadow: 0 0 0 0 rgba(76, 175, 80, 0);
   }
+}
+
+/* Python按钮缓慢抖动动画 */
+.pythonButtonBounce {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.pythonButtonBounce:hover {
+  animation: python-shake 2.5s ease-in-out infinite;
+  transform: scale(1.1);
+}
+
+@keyframes python-shake {
+  0% {
+    transform: scale(1.1) translateY(0);
+  }
+  10% {
+    transform: scale(1.1) translateY(-3px);
+  }
+  20% {
+    transform: scale(1.1) translateY(0);
+  }
+  30% {
+    transform: scale(1.1) translateY(-2px);
+  }
+  40% {
+    transform: scale(1.1) translateY(0);
+  }
+  50% {
+    transform: scale(1.1) translateY(-1px);
+  }
+  60% {
+    transform: scale(1.1) translateY(0);
+  }
+  70% {
+    transform: scale(1.1) translateY(-2px);
+  }
+  80% {
+    transform: scale(1.1) translateY(0);
+  }
+  90% {
+    transform: scale(1.1) translateY(-1px);
+  }
+  100% {
+    transform: scale(1.1) translateY(0);
+  }
+}
+
+/* R按钮摇摆动画 */
+.rButtonWiggle {
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.rButtonWiggle:hover {
+  animation: r-wiggle 0.6s ease-in-out;
+  transform: scale(1.1);
+}
+
+@keyframes r-wiggle {
+  0% { transform: scale(1.1) rotate(0deg); }
+  20% { transform: scale(1.1) rotate(-12deg); }
+  40% { transform: scale(1.1) rotate(12deg); }
+  60% { transform: scale(1.1) rotate(-8deg); }
+  80% { transform: scale(1.1) rotate(8deg); }
+  100% { transform: scale(1.1) rotate(0deg); }
 }
 
 /* 左侧工具栏按钮悬停动画 */

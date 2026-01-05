@@ -1,7 +1,10 @@
-from fastapi import APIRouter, Depends, HTTPException, Query
+from unicodedata import category
+from fastapi import APIRouter, Depends, HTTPException, Query, UploadFile, File, Form
 from sqlalchemy.orm import Session
+from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, func
 from typing import Dict, Any, Optional, List
+import time
 
 from app.api.deps import get_db, get_current_active_user
 from app.models.user import User
@@ -15,6 +18,8 @@ from app.schemas.visual import (
     VisualToolCommentCreate,
     VisualToolCommentResponse,
     VisualToolStatsResponse,
+    VisualToolGroup,
+    VisualToolsResponse,
 )
 from app.services.visual import VisualService, VisualToolDBService
 
@@ -22,25 +27,227 @@ router = APIRouter(prefix="/visual", tags=["visual"])
 
 
 # 工具信息API（文件系统 - 最高效）
-@router.get("/tools", response_model=List[VisualToolInfo])
+@router.get("/tools", response_model=VisualToolsResponse)
 async def list_visual_tools():
-    """获取所有绘图工具（从文件系统）"""
-    return VisualService.list_tools()
+    """获取所有绘图工具（从文件系统，包含分组信息）"""
+    return VisualService.get_tools_with_grouping()
+
+
+@router.get("/tools/grouped", response_model=List[VisualToolGroup])
+async def list_visual_tools_grouped():
+    """获取按分类分组的绘图工具"""
+    groups_data = VisualService.get_tools_grouped()
+    return [VisualToolGroup(**group) for group in groups_data]
+
+
+@router.get("/tools/category/{category}", response_model=List[VisualToolInfo])
+async def get_tools_by_category(category: str):
+    """根据分类获取绘图工具"""
+    tools = VisualService.get_tools_by_category(category)
+    if not tools:
+        raise HTTPException(
+            status_code=404, detail=f"No tools found for category: {category}"
+        )
+    return tools
+
+
+@router.get("/tools/search", response_model=List[VisualToolInfo])
+async def search_visual_tools(q: str = Query(..., description="搜索关键词")):
+    """搜索绘图工具"""
+    if not q.strip():
+        return []
+    tools = VisualService.search_tools(q)
+    return tools
+
+
+@router.get("/tools/categories", response_model=List[str])
+async def get_tool_categories():
+    """获取所有工具分类"""
+    return VisualService.get_tool_categories()
 
 
 @router.get("/tools/{tool}", response_model=VisualToolInfo)
-async def get_tool_info(tool: str):
-    """获取特定绘图工具信息（从文件系统）"""
-    info = VisualService.get_tool_info(tool)
+async def get_tool_info(
+    tool: str, use_cache: bool = Query(True, description="是否使用缓存")
+):
+    """获取特定绘图工具信息（从文件系统）
+
+    工具名称格式：category_tool (如: line_basic)
+    使用下划线分隔分类和工具名
+    """
+    info = VisualService.get_tool_info(tool, use_cache=use_cache)
     if not info:
-        raise HTTPException(status_code=404, detail="Tool not found")
+        raise HTTPException(status_code=404, detail=f"Tool '{tool}' not found")
     return info
+
+
+@router.post("/tools/cache/clear")
+async def clear_tools_cache():
+    """清除工具信息缓存（用于开发时强制刷新）"""
+    VisualService._clear_cache()
+    return {"success": True, "message": "Cache cleared successfully"}
+
+
+@router.get("/tools/{tool}/sample-data")
+async def get_tool_sample_data(tool: str):
+    """获取工具的示例数据"""
+    tool_info = VisualService.get_tool_info(tool)
+    if not tool_info:
+        raise HTTPException(status_code=404, detail=f"Tool '{tool}' not found")
+
+    if not tool_info.sample_data_filename:
+        raise HTTPException(
+            status_code=404, detail="No sample data available for this tool"
+        )
+
+    # 读取示例数据文件
+    try:
+        from pathlib import Path
+        import json
+
+        # 从tool中提取category和tool_name
+        if "_" in tool:
+            category, tool_name = tool.split("_", 1)
+        else:
+            category = tool
+            tool_name = tool
+
+        data_json_file = Path(f"scripts/visual/{category}/{tool_name}/data.json")
+        sample_json_file = Path(f"scripts/visual/{category}/{tool_name}/sample.json")
+        csv_file = Path(f"scripts/visual/{category}/{tool_name}/sample.csv")
+
+        data = None
+        data_type = None
+
+        if data_json_file.exists():
+            with open(data_json_file, "r", encoding="utf-8") as f:
+                loaded = json.load(f)
+                if isinstance(loaded, list):
+                    data = loaded
+                    data_type = "list"
+                elif isinstance(loaded, dict):
+                    data = loaded
+                    data_type = "dict"
+                else:
+                    # 其他类型，包装为列表以保持兼容性
+                    data = [loaded]
+                    data_type = "list"
+        elif sample_json_file.exists():
+            with open(sample_json_file, "r", encoding="utf-8") as f:
+                loaded = json.load(f)
+                if isinstance(loaded, list):
+                    data = loaded
+                    data_type = "list"
+                elif isinstance(loaded, dict):
+                    data = loaded
+                    data_type = "dict"
+                else:
+                    # 其他类型，包装为列表以保持兼容性
+                    data = [loaded]
+                    data_type = "list"
+        elif csv_file.exists():
+            # 兼容老的CSV：读取并转为JSON数组返回
+            try:
+                import pandas as pd
+
+                df = pd.read_csv(csv_file)
+                data = df.to_dict("records")
+                data_type = "list"
+            except ImportError:
+                import csv
+
+                data = []
+                with open(csv_file, "r", encoding="utf-8") as f:
+                    reader = csv.DictReader(f)
+                    data = list(reader)
+                data_type = "list"
+        else:
+            raise HTTPException(status_code=404, detail="Sample data file not found")
+
+        # 构建响应消息
+        if data_type == "list":
+            message = f"Sample data loaded successfully ({len(data)} rows)"
+        elif data_type == "dict":
+            message = f"Sample data loaded successfully ({len(data)} tables)"
+        else:
+            message = "Sample data loaded successfully"
+
+        return {
+            "success": True,
+            "data": data,
+            "data_type": data_type,  # 添加数据类型标识：'list' 或 'dict'
+            "message": message,
+        }
+    except Exception as e:
+        raise HTTPException(
+            status_code=500, detail=f"Failed to load sample data: {str(e)}"
+        )
+
+
+@router.get("/tools/{tool}/document")
+async def get_tool_document(tool: str):
+    """获取工具的文档"""
+    tool_info = VisualService.get_tool_info(tool)
+    if not tool_info:
+        raise HTTPException(status_code=404, detail=f"Tool '{tool}' not found")
+
+    if not tool_info.docs_markdown:
+        raise HTTPException(
+            status_code=404, detail="No documentation available for this tool"
+        )
+
+    return {
+        "success": True,
+        "markdown": tool_info.docs_markdown,
+        "message": "Documentation loaded successfully",
+    }
+
+
+@router.get("/tools/{tool}/meta")
+async def get_tool_meta(tool: str):
+    """获取工具的meta.json配置"""
+    tool_info = VisualService.get_tool_info(tool)
+    if not tool_info:
+        raise HTTPException(status_code=404, detail=f"Tool '{tool}' not found")
+
+    # 读取meta.json文件
+    try:
+        from pathlib import Path
+        import json
+
+        # 从tool中提取category和tool_name
+        if "_" in tool:
+            category, tool_name = tool.split("_", 1)
+        else:
+            category = tool
+            tool_name = tool
+
+        meta_file = Path(f"scripts/visual/{category}/{tool_name}/meta.json")
+        if not meta_file.exists():
+            raise HTTPException(status_code=404, detail="Meta file not found")
+
+        with open(meta_file, "r", encoding="utf-8") as f:
+            meta_data = json.load(f)
+
+        return {
+            "success": True,
+            "meta": meta_data,
+            "message": "Meta data loaded successfully",
+        }
+    except Exception as e:
+        raise HTTPException(
+            status_code=500, detail=f"Failed to load meta data: {str(e)}"
+        )
 
 
 # 工具执行API
 @router.post("/run/{tool}", response_model=VisualRunResponse)
 async def run_visual_tool(tool: str, params: Dict[str, Any]):
-    """执行绘图工具"""
+    """执行绘图工具
+
+    工具名称格式：category_tool (如: line_basic)
+    使用下划线分隔分类和工具名
+    """
     result = await VisualService.run_tool(tool, params or {})
     if not result.success:
         raise HTTPException(status_code=400, detail=result.message or "Run failed")
@@ -51,6 +258,40 @@ async def run_visual_tool(tool: str, params: Dict[str, Any]):
         VisualToolDBService.increment_usage_count(db, tool)
     except Exception:
         pass  # 忽略统计错误，不影响主要功能
+
+    return result
+
+
+# 新式图表工具API
+@router.post("/run-chart", response_model=VisualRunResponse)
+async def run_chart_tool(
+    params: Dict[str, Any],
+    current_user: User = Depends(get_current_active_user),
+):
+    """执行新式图表工具（支持R和Python）
+
+
+    注意：此功能需要登录用户才能使用
+    """
+    chart_type = params.get("chart_type", "line")
+    engine = params.get("engine", "r")
+
+    # 验证参数
+    if not chart_type:
+        raise HTTPException(status_code=400, detail="chart_type is required")
+
+    if engine not in ["r", "python", "matplotlib"]:
+        raise HTTPException(
+            status_code=400, detail="engine must be 'r', 'python' or 'matplotlib'"
+        )
+
+    # 直接调用服务，数据写入由服务层处理
+    # current_user 是必需的，未登录用户会被 Depends 拦截
+    result = await VisualService.run_tool(chart_type, params, user_id=current_user.id)
+    if not result.success:
+        raise HTTPException(
+            status_code=400, detail=result.message or "Chart generation failed"
+        )
 
     return result
 
@@ -437,3 +678,42 @@ async def sync_tools_to_db(
         synced_count += 1
 
     return {"message": f"Synced {synced_count} tools to database"}
+
+
+@router.post("/upload-data")
+async def upload_data_for_static_chart(
+    file: UploadFile = File(...),
+    tool: str = Form(...),
+    current_user: User = Depends(get_current_active_user),
+    db: AsyncSession = Depends(get_db),
+):
+    """上传数据文件用于静态图生成"""
+    try:
+        # 验证文件类型
+        if not file.filename.endswith(".csv"):
+            raise HTTPException(status_code=400, detail="只支持CSV文件")
+
+        # 读取文件内容
+        content = await file.read()
+        csv_content = content.decode("utf-8")
+
+        from pathlib import Path
+
+        # 创建临时目录
+        temp_dir = Path("temp") / "static_charts" / str(current_user.id)
+        temp_dir.mkdir(parents=True, exist_ok=True)
+
+        # 保存CSV文件
+        csv_file_path = temp_dir / f"{tool}_{int(time.time())}.csv"
+        with open(csv_file_path, "w", encoding="utf-8") as f:
+            f.write(csv_content)
+
+        return {
+            "success": True,
+            "message": "数据上传成功",
+            "file_path": str(csv_file_path),
+            "tool": tool,
+        }
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"数据上传失败: {str(e)}")

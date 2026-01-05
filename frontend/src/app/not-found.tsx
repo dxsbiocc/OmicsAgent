@@ -12,10 +12,12 @@ import {
 import { useRouter } from "next/navigation";
 import Image from "next/image";
 import { Home, ArrowBack, Search } from "@mui/icons-material";
+import { useThemeContext } from "@/contexts/ThemeContext";
 
 export default function NotFound() {
   const router = useRouter();
   const theme = useTheme();
+  const { mode } = useThemeContext();
   const isMobile = useMediaQuery(theme.breakpoints.down("md"));
 
   const handleGoHome = () => {
@@ -76,13 +78,12 @@ export default function NotFound() {
           }}
         >
           <Image
-            src="/images/plate/mushroom_5.svg"
-            alt="404 蘑菇插图"
+            src="/icons/panda-oops.svg"
+            alt="404 熊猫插图"
             fill
             style={{
               objectFit: "contain",
             }}
-            priority
           />
         </Box>
 
@@ -109,7 +110,7 @@ export default function NotFound() {
             lineHeight: 1.6,
           }}
         >
-          看起来这个页面可能被小蘑菇吃掉了，或者它正在森林里迷路。
+          看起来这个页面可能被小熊猫吃掉了，或者它正在森林里迷路。
           <br />
           别担心，让我们帮你找到正确的方向！
         </Typography>
@@ -192,12 +193,15 @@ export default function NotFound() {
         {/* 帮助提示 */}
         <Box
           sx={{
-            backgroundColor: "grey.50",
+            backgroundColor:
+              mode === "dark"
+                ? "rgba(255,255,255,0.05)"
+                : "background.paper",
             borderRadius: 2,
             p: 3,
             maxWidth: 600,
             border: "1px solid",
-            borderColor: "grey.200",
+            borderColor: "divider",
           }}
         >
           <Typography

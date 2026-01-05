@@ -1,0 +1,91 @@
+{
+  "name": "带点圆角箱线图",
+  "description": "带点圆角箱线图用于展示变量在不同分组中的分布情况",
+  "ggplot2": {
+    "mapping": {
+      "x": "gene",
+      "y": "expression",
+      "colour": "gene"
+    },
+    "layers": [
+      {
+        "type": "geom_round_boxplot",
+        "arguments": {
+          "radius": 2,
+          "notch": true,
+          "errorbar.length": 0.4
+        }
+      },
+      {
+        "type": "geom_jitter",
+        "mapping": {
+          "shape": "gene"
+        },
+        "arguments": {
+          "width": 0.2,
+          "size": 4,
+          "alpha": 0.8
+        }
+      }
+    ],
+    "guides": {
+      "colour": {
+        "type": "guide_none"
+      },
+      "x": {
+        "type": "guide_prism_bracket"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#d7689d",
+            "#f3d337",
+            "#a0c443",
+            "#66b5ae",
+            "#5da4dc",
+            "#40769e"
+          ]
+        }
+      },
+      {
+        "type": "scale_shape_manual",
+        "arguments": {
+          "values": [
+            16,
+            17,
+            15,
+            18
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": "Gene expression level"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": false,
+  "has_r": true
+}

@@ -1,0 +1,70 @@
+{
+  "name": "抖动散点图",
+  "description": "Render a basic line plot using ggplot2.",
+  "ggplot2": {
+    "mapping": {
+      "x": "day",
+      "y": "value"
+    },
+    "layers": [
+      {
+        "type": "geom_jitter",
+        "mapping": {
+          "color": "day"
+        },
+        "arguments": {
+          "size": 3,
+          "width": 0.18,
+          "alpha": 0.8,
+          "show.legend": false
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Jitter Plot of Values by Day",
+        "x": "Value",
+        "y": "Day"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#8F499C",
+            "#4185BE",
+            "#6DC067",
+            "#F6DB35",
+            "#F78822",
+            "#232121",
+            "#CF202E"
+          ]
+        }
+      },
+      {
+        "type": "scale_x_discrete",
+        "arguments": {
+          "limits": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ]
+        }
+      }
+    ],
+    "themes": [
+      {
+        "type": "theme_minimal"
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": true
+}

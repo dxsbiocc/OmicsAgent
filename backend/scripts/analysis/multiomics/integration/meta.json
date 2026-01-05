@@ -1,0 +1,6 @@
+{
+    "name": "多组学数据整合",
+    "description": "整合多种组学数据，进行综合分析，识别跨组学的关联模式和调控网络。",
+    "type": "analysis",
+    "category": "multiomics"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "抗体数据分析",
+    "description": "抗体相关数据分析，包括抗体结合位点识别、抗体功能分析和表位预测。",
+    "type": "analysis",
+    "category": "proteomics"
+}

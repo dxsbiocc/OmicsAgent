@@ -1,0 +1,98 @@
+{
+  "name": "矩形哑铃图",
+  "description": "矩形哑铃图是一种特殊的散点图，适合展示多个类别的数值",
+  "ggplot2": {
+    "mapping": {
+      "x": "age_group",
+      "y": "mean_prev",
+      "colour": "Sex"
+    },
+    "layers": [
+      {
+        "type": "geom_rect",
+        "mapping": {
+          "xmin": "as.integer(factor(age_group)) + 0.1",
+          "xmax": "as.integer(factor(age_group)) - 0.1"
+        },
+        "arguments": {
+          "fill": "#f3ead8",
+          "colour": "grey50",
+          "linewidth": 0.4,
+          "inherit.aes": false
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 5,
+          "shape": 21,
+          "stroke": 1,
+          "fill": "#ffffff"
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 3
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": "Mean Prevalence of obesity"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#f784b6",
+            "#79ceb8"
+          ]
+        }
+      }
+    ],
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "legend.position": "inside",
+          "legend.position.inside": [
+            0.8,
+            0.8
+          ],
+          "axis.line": {
+            "type": "element_blank"
+          },
+          "axis.text.x": {
+            "type": "element_text",
+            "arguments": {
+              "angle": 90
+            }
+          },
+          "panel.border": {
+            "type": "element_rect",
+            "arguments": {
+              "fill": "transparent",
+              "colour": "black",
+              "linewidth": 1
+            }
+          },
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": false
+}

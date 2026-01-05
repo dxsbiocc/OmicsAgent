@@ -1,0 +1,82 @@
+{
+  "chart_type": "heatmap_shape",
+  "engine": "r",
+  "ggplot2": {
+    "mapping": {},
+    "layers": [
+      {
+        "type": "geom_shaping",
+        "arguments": {
+          "marker": {
+            "type": "marker",
+            "arguments": {
+              "x": "star"
+            }
+          }
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_gradientn",
+        "arguments": {
+          "name": "Correlation",
+          "colours": [
+            "#acd372",
+            "#ffffffff",
+            "#ed6ca4"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.text": {
+            "type": "element_text",
+            "arguments": {
+              "face": "bold",
+              "size": 8
+            }
+          },
+          "axis.title": {
+            "type": "element_blank"
+          },
+          "legend.position": "right",
+          "panel.background": {
+            "type": "element_blank",
+            "arguments": {}
+          },
+          "legend.background": {
+            "type": "element_blank",
+            "arguments": {}
+          }
+        }
+      }
+    ],
+    "correlate": {
+      "method": "pearson",
+      "engine": "default"
+    },
+    "qcorrplot": {
+      "arguments": {
+        "type": "lower"
+      }
+    },
+    "width": 600,
+    "height": 500
+  },
+  "data": "/Users/dengxsh/Downloads/Work/OmicsAgent/backend/static/visual/1/heatmap/shape/heatmap_shape_data.csv"
+}

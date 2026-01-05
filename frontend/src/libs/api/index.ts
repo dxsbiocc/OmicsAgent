@@ -38,6 +38,18 @@ export { usersApi } from './users';
 // 统计相关 API
 export { statisticsApi } from './statistics';
 
+// 可视化相关 API
+export * from './visual';
+
+// 分析相关 API
+export * from './analysis';
+
+// 论坛相关 API
+export * from './forum';
+
+// 云盘相关 API
+export * from './cloud-disk';
+
 // 统一 API 对象，方便使用
 import { authApi } from './auth';
 import { blogApi } from './blog';

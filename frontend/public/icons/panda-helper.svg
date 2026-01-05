@@ -1,0 +1,22 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <g id="panda-base">
+      <circle cx="50" cy="50" r="18" fill="#334155" />
+      <circle cx="150" cy="50" r="18" fill="#334155" />
+      <path d="M50,160 C30,160 20,130 25,100 C30,50 60,40 100,40 C140,40 170,50 175,100 C180,130 170,160 150,160 L50,160 Z" fill="#F8FAFC" stroke="#e2e8f0" stroke-width="1"/>
+      <ellipse cx="45" cy="155" rx="18" ry="12" fill="#334155" />
+      <ellipse cx="155" cy="155" rx="18" ry="12" fill="#334155" />
+      <ellipse cx="70" cy="85" rx="16" ry="20" fill="#334155" transform="rotate(-15, 70, 85)" />
+      <ellipse cx="130" cy="85" rx="16" ry="20" fill="#334155" transform="rotate(15, 130, 85)" />
+      <path d="M94,102 Q100,106 106,102 L100,110 Z" fill="#334155" />
+    </g>
+  </defs>
+  <use href="#panda-base" />
+  <ellipse cx="160" cy="100" rx="12" ry="10" fill="#334155" transform="rotate(-40, 160, 100)" />
+  <path d="M40,90 Q40,30 100,30 Q160,30 160,90" fill="none" stroke="#334155" stroke-width="3"/>
+  <rect x="35" y="80" width="10" height="20" rx="2" fill="#334155"/>
+  <path d="M40,100 L70,110" stroke="#334155" stroke-width="2"/>
+  <circle cx="70" cy="110" r="3" fill="#334155"/>
+  <path d="M90,115 Q100,120 110,115" fill="none" stroke="#334155" stroke-width="2" stroke-linecap="round"/>
+</svg>
+

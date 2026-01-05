@@ -1,0 +1,12812 @@
+[
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.024
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.3219
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8849
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.1232
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3303
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.1709
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.0748
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.6809
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.0792
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.2641
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.6343
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.0679
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.5503
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.0826
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.0276
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 2.9081
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.3309
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.6405
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1657
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.856
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.1327
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.8039
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 5.0712
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.5006
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.8631
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3302
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1541
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.0147
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.1297
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.9874
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.3991
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.2631
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 3.1073
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.5062
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.9386
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.6812
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.4507
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9644
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.04
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2751
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.3676
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.701
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.7976
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0513
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8602
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.6416
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 3.0197
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4828
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.3629
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.6682
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.1088
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5462
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4481
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4744
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9023
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.0116
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.4323
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.5081
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.6883
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.2916
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.1304
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.3708
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.7604
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.5191
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.936
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.1898
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.5159
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.4984
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.6693
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.9272
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.5156
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.2165
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9655
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.3748
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.4889
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.11
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.0168
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.6178
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.3031
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5293
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5027
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.202
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.5726
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.5726
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.2146
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.7827
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8549
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.9216
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.4553
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.0093
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.4572
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.6727
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.2355
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7737
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7204
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.6503
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.277
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.68
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 5.1367
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 3.0306
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 2.6607
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 3.2399
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.1457
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 3.6897
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 3.0826
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.141
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.5614
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.7378
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.4535
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2438
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.6456
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.1369
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.137
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.4926
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.699
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.0456
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.5
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1756
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.879
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.74
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.8476
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.6983
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.7193
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.4622
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.4605
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.8941
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.0213
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.8296
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.3434
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.989
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.4637
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.9244
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 2.9864
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.4234
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.4789
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5003
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.6981
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4085
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0997
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.6515
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.9125
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7622
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8282
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.4145
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3466
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.6209
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.0102
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.4412
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 2.9778
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.3375
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.9125
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.0987
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.1062
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 2.7814
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.8184
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.2874
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.2387
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.3294
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.7959
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.5575
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.7126
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.2022
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.7096
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.7551
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.5877
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.5105
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.9105
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.1233
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.5098
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.3139
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.2285
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7751
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2641
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.5986
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.5937
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 6.3171
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.2947
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9416
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.1476
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.213
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9023
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.2511
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.7034
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.6393
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.2607
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.4225
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1676
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.0158
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.145
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.9883
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.6396
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.205
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.3509
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.8692
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.4913
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.3925
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.5276
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.2593
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6617
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.0512
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.5486
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4914
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.4036
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 6.1185
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.1267
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.4679
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.897
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3497
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.9103
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.5359
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.3502
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.4247
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5215
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.2341
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 4.0681
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4058
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.4402
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.6877
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 5.0264
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8408
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.1889
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3507
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2601
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.659
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.0776
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.431
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6683
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.2943
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1859
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.4552
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.4381
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.3196
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.7859
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.3096
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.5555
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2742
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.7027
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.4463
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.9502
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.3874
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 3.5786
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.0842
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.4694
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.1472
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.3155
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.5312
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8182
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9449
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5833
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2975
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0271
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.7694
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 5.1594
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 4.3418
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 2.9485
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 5.4768
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.7567
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 4.5373
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 5.1884
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.3388
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.1454
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5685
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.2727
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.42
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0581
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.5415
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.0888
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0614
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7949
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7613
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2938
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0572
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.6539
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.3395
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.1164
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.6781
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.1189
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.2141
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.1338
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.0195
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.6011
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7934
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4824
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.6637
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2362
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0454
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.9268
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.9613
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.9784
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 3.4024
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.9715
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.8769
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.4426
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.5333
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.7048
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.2831
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4464
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.4612
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1775
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.889
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.3798
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.656
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.5755
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4384
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.7447
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2949
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.7922
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.138
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.8155
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.5571
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6559
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 2.7704
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.053
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.3362
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.163
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.9467
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.5876
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0074
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.5133
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 3.6153
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.9855
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.5909
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.8196
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.0405
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.3591
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.0424
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3382
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.0995
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 2.473
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.5389
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.3278
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8153
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.9727
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1989
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.918
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.1304
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.5472
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.884
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0482
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.0275
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2922
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0738
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.7963
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.1127
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8133
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6833
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.6049
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3919
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0098
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.7223
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 3.1287
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.1119
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.6736
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.7772
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.4596
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.3748
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.3776
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.2908
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.5843
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9999
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.507
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1189
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.0233
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.8512
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.7314
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.5365
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6346
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.1607
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.207
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1731
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.5276
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.0179
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.3462
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.5025
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.344
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.3306
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.5825
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.0486
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.7578
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.2403
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.423
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.7588
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2937
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.1969
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.3251
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 5.0392
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.4282
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.9905
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.5273
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.1431
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.4842
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 5.6528
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 3.2947
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 3.4563
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 2.8267
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 3.5573
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.3146
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 4.125
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 3.3686
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.0267
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.6669
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5273
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.8707
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4116
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8254
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 2.8117
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.9088
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.6745
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6519
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.3087
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.8237
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.1018
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.2914
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.7198
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7875
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5705
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8215
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.6633
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.1188
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.3405
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.5979
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.109
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6204
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.9634
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.491
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.3651
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.3185
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.6361
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7654
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.964
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4025
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2884
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4185
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.7584
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.3294
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.4525
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.5973
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.6817
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.6811
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.4496
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.6863
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.1081
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.4919
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0856
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5321
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3461
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4858
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.496
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.4724
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.9385
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0727
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.5751
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.4276
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 5.1138
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.5819
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.1626
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.771
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.7014
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.7737
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 3.9732
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.4651
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.104
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.585
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.5463
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7159
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4891
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3974
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.1533
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.5342
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 3.9914
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.4169
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.626
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.3812
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.3506
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.6616
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.9386
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.2611
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8216
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7599
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.6695
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.5267
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9188
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.6346
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.8575
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.5875
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9816
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8567
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2891
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0427
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.7832
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 6.5271
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.6091
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6236
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7314
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2507
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.5145
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.3096
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.2249
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.4993
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7311
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.2649
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.9819
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0903
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.9912
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 6.0727
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7919
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.1034
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.2479
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3684
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8278
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.2396
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.8802
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.571
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.732
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.6603
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1613
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9358
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.0623
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.2222
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.9697
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6413
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4738
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.5436
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.7805
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.2718
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.9906
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.0697
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.7022
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.8301
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.6471
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.7822
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.8822
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.1313
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.4182
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.1156
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.3635
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3928
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.7531
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.4946
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.3196
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.7302
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6755
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.3354
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1362
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.2905
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.1395
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.876
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.3255
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.1439
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.0571
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3641
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2253
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.6632
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.3833
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.546
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4957
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5327
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1799
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9378
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.3981
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.9955
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.4989
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9182
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.4966
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.0869
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.771
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.3452
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.0671
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.2797
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6982
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.9076
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.594
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9254
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.7123
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.8937
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.6473
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.547
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5885
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.6782
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9233
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.9694
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.5521
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.3482
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.864
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5951
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3678
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 5.0833
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.5394
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.194
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0815
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6962
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.7091
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3865
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.3315
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.0021
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.5198
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0436
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0023
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.1015
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.6822
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.5957
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.9283
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.2001
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 7.3383
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0242
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.9774
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.7995
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.8026
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.6103
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.2254
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.6263
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.1111
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.418
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3091
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.2953
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.9839
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 5.3354
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.5141
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.5901
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.0892
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.3609
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.9848
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.0395
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.7256
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.6113
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8125
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.8977
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.6031
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4085
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.326
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.2839
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.4088
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5229
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.942
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 3.542
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.3774
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.4365
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.4548
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.4642
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6851
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.0833
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1943
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.7743
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.8235
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.1286
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.554
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5322
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.5989
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.125
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.8172
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.2679
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.2381
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.6172
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6713
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.627
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.8577
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.652
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.4032
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.3577
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.6675
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9488
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.5412
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3873
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1142
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.5777
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 2.8802
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0598
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.2969
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.7611
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1487
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8797
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.2633
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.4268
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.7098
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0633
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.2469
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 3.1198
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.3069
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.3692
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.8419
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 5.1053
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.1076
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.3405
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.5488
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.707
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.1251
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.5298
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 5.1937
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5687
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.4368
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1766
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2531
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.2527
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.2042
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7541
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8785
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.2541
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.8576
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.3935
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.1551
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.3594
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.5921
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.3764
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7334
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4937
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.7919
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.4512
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.5563
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0734
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5855
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5663
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 3.8973
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2081
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.1117
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.9461
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.0955
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.7642
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.5838
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2717
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1617
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.4664
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.9101
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.6814
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5989
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4005
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3407
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.7615
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.3174
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.4645
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.7469
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5386
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.6559
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.34
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.6681
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.5837
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 6.2881
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.3356
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9524
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.693
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2671
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.9274
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.0635
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 2.8877
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.6743
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.6601
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.1779
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.3137
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.4792
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.2927
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.7575
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.6205
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.8174
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 3.8204
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.591
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.5265
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.223
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.9137
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.1234
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9816
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.6515
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 5.0273
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.8172
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.1366
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.0163
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.2609
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5369
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.1373
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.157
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.7928
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.8011
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.4526
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.8464
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9214
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.882
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.0812
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1943
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.53
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.3337
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.4722
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8792
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.5921
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3924
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1983
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.2612
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.3694
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.3952
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9802
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.4471
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2519
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.291
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.296
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1265
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.4486
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0835
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.2029
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.9397
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8626
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.969
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.4804
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.547
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5486
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.3353
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3178
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.1003
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.428
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 4.6376
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 4.0798
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 3.307
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 4.196
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.3303
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 4.6833
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 5.2947
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.768
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 5.0586
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.7977
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.9698
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2223
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.24
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.3857
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.424
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0161
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.675
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.9458
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2285
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.135
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.1964
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.0682
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.0904
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5053
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4543
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3461
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.6465
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.0391
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 3.5947
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.1634
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.6422
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.4825
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.1524
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.9148
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.4571
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.2434
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.2601
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.893
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.1742
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.4637
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.0717
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.0561
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.6949
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.024
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8725
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.7962
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 3.1573
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.3689
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.5965
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 3.8154
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 5.0049
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 2.9723
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 4.1019
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.9146
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 4.4154
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 4.5053
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.3615
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.3463
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.2724
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 3.1294
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.6584
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.6755
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.1418
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.7817
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.9435
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.3718
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.2565
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 4.1964
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 5.2742
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.4615
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.8091
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.8862
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8483
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.8895
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.9824
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1073
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.3427
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.476
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.593
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7125
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.2381
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2308
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9692
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.9697
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1358
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.9214
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5846
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7324
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2006
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9307
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.9476
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 5.0898
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 5.125
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 3.1224
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 6.0113
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.103
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.5637
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 5.7215
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.2524
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.7585
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.2469
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.2129
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.321
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.8008
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.468
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.7839
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.1214
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8231
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.6863
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.8387
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.3911
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.7148
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 3.9951
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.3128
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.4943
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.9074
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.7461
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.198
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 5.1765
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.8821
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.3948
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.1644
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.1774
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2547
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0001
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.8865
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.0722
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.5599
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.4937
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.6116
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2627
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.8892
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.5531
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.6568
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.0429
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5712
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.2093
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1753
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.8594
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.5291
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.9634
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.5674
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.5992
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.1021
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.8532
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.4711
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.313
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.5234
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.115
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0761
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.9799
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.4352
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.5385
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.0943
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.2226
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.6644
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.5742
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.5183
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.2777
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.6947
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.1274
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.6607
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.9467
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.4553
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.8384
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.597
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.0802
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.9556
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.083
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.242
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.8048
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.4832
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.404
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.2701
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.7979
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.5841
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8964
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7743
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.6377
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4543
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2736
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.4668
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.0889
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.3173
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8405
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.2934
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.4332
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.2626
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.3673
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.5285
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 2.9675
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.6389
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 3.0944
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.0979
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.4562
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.2999
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.1276
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.944
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0645
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.9755
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3291
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.9969
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.4511
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.0068
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.798
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0505
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.1428
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.5864
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.7067
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.8937
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.5032
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.736
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5621
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.0809
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2964
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.5838
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.1071
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.3861
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.6531
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6059
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.9138
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.7009
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9306
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.7666
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.4699
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7847
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7938
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7013
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3673
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0121
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.9091
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.7557
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.9969
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.1289
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.679
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 3.3624
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.5621
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.6556
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.1943
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.0671
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.7129
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.9081
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.5167
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.0405
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.6123
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1714
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7205
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6638
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.0853
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.7981
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4376
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.7302
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.6181
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.1964
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.7675
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.9611
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.8803
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.0762
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.3403
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.1386
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.8617
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0175
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.2768
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1735
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1744
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.8131
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.9872
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0246
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0229
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.2814
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1426
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9676
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.4545
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.2145
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.1937
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6203
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.8899
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2682
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.8801
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.171
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 2.6719
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 2.4995
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.4364
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.1325
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.137
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.6857
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.346
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.3382
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.9342
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9511
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.184
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.547
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.5438
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.1052
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.8127
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8374
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8197
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5894
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.5282
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8157
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.0467
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.3044
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.9522
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.1295
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.4179
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2723
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4443
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.09
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 5.847
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 4.1592
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 3.1431
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 4.2056
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.1476
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 4.1918
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 4.4984
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 2.8138
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 5.8739
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.4231
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.0425
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2586
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 5.3542
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.9695
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 5.6779
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 4.8741
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 3.1879
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 4.5561
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.7004
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 4.424
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 4.9977
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.0923
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.3435
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8573
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.992
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.6669
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.7182
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.7177
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 6.0226
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.5754
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.1992
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8909
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1791
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.9939
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.1345
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.8554
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.4706
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7827
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.2065
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3914
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0007
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.1037
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.959
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.2017
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.3855
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8327
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2709
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.4142
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.8844
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 6.2472
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.9059
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0295
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.1309
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1401
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.8431
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.4832
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.3704
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.5798
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.512
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.4231
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.981
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.4168
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.182
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.0369
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8104
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4441
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4887
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.24
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.7678
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.8158
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.0946
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.9441
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.1912
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5214
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4245
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.3339
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.4618
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.2485
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.5471
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.8491
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.375
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 3.247
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.7943
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.7819
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.5407
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.9246
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7898
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.2061
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2192
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.7941
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.9309
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.9228
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.8805
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5529
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.8273
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 4.4173
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.5302
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.6649
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.2564
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.9011
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9705
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5507
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.433
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4031
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.4907
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.7493
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.2467
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.4962
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.6852
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1237
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.4382
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.8711
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.4676
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.1801
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9862
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.3356
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.392
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.3426
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.751
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 6.8488
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 4.4111
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 3.1496
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 4.751
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.1906
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 5.0241
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 4.3433
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.5059
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.0053
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6791
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.9588
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 3.2004
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.5542
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.2666
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.9813
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.714
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.3095
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.7159
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1583
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.2033
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 2.9933
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.24
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.0249
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.687
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.8362
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.891
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.947
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.7726
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.2988
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.0636
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.7676
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.5147
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.3355
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.1262
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.0711
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.7503
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.403
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8251
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.4672
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2279
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.9803
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.5428
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.8297
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.2335
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6995
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.3924
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3375
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.5765
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.5034
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.0332
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.6906
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9413
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.8937
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.724
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.7465
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.477
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.1843
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.2332
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9824
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.0319
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3359
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.7196
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.9005
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.4751
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.5654
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0088
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.147
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2243
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4953
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.6569
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.4762
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.1468
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 3.0907
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.0287
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.6845
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.1391
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.675
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.4966
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.1166
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4026
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.374
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.58
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.6329
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.2767
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.7635
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0434
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7786
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.6948
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.6868
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4242
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.0694
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.5128
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.5764
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7068
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8987
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1214
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9603
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.7946
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.2901
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.3746
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4552
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7832
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1976
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9077
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.8888
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.9219
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.2438
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8126
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.4248
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.641
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.4437
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.3066
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.1056
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.392
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6215
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.1706
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.9315
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0474
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.1224
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 2.755
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.7199
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.781
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.2176
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.5663
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2273
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.1275
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 6.0573
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.1071
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9179
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7701
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 3.2987
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.6442
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.5863
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.2176
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.6622
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4667
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.2541
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3833
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.6559
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.4921
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.7136
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.5602
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6723
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.562
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.8777
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.4021
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.2268
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 4.1346
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 4.2245
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 3.1843
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 4.5251
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.313
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 4.1516
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 5.047
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.7938
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.8367
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.3826
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.6068
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.0789
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.5461
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.4987
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.009
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.7308
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6911
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.573
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.6195
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.9887
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.8692
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.0364
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.5492
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8294
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.4922
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2271
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.7047
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.4304
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.6323
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.8397
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.7481
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.2048
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.5295
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.471
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.8183
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.283
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0535
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.1023
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.2962
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.705
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2467
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.9385
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.1435
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.2063
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.8998
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.5403
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.7609
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.0589
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.1406
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.2692
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.4275
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5024
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7105
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4612
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.925
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.5901
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.3887
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 2.7532
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.3327
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.0988
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2249
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.1921
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 2.9792
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 5.2721
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.0978
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.5463
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.5742
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.5772
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.1901
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.1165
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.5572
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.5738
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.89
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.3502
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4592
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2661
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.1557
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.803
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.4819
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.376
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.5262
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1532
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.4671
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.4151
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.7168
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.1257
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.138
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8324
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1789
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4667
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.982
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.3303
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.2368
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5832
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.895
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1876
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.7905
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.7668
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 4.3506
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 4.1569
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 2.3602
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 3.0607
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.3123
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 3.9447
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 3.5888
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.83
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.755
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0948
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8139
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3889
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.6014
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.3862
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.8316
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.8851
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8835
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.0905
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1675
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.3921
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.5182
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1583
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.9249
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5324
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.0249
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.5987
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0793
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.1658
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.5451
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.0213
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6718
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.7426
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 5.4118
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.0497
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.5946
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.4105
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.9145
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.5799
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.0228
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.4391
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.0558
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.2788
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.4923
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.1979
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.2638
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.5536
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2999
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1679
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.9812
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.1826
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.0618
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.6227
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.384
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 3.6128
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.8144
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.5048
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 6.7841
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.7661
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7157
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.1116
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2589
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.6111
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.0885
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.9653
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.1755
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.5912
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.2693
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.2511
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.3403
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.1919
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.542
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.7562
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0304
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.1573
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 4.6185
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.5623
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.7935
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 3.2859
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 3.1667
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 2.3508
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 3.1714
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.4215
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 3.5896
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 2.6019
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 2.9994
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0468
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8295
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.9673
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4341
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9102
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.6657
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.0179
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.8462
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.8536
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.5395
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 4.1566
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.8106
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.5213
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 2.7481
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.137
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6253
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.4428
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1519
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9633
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.668
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.0826
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.849
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5021
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4116
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4367
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8587
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.8102
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.5765
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 2.7632
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.3248
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.7091
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.074
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.3134
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.5852
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.5494
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.7195
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9163
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.729
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.5202
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.5252
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.3761
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.0457
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.3113
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6396
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7682
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1316
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.1416
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.0294
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.8964
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0218
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.981
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.1628
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.6646
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9117
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.8088
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.5753
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.9798
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5867
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.1411
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3231
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.8852
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.553
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.9415
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.7322
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8225
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7266
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 3.3063
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2481
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.5559
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.7422
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.6712
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6063
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.949
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1096
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.8808
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.7956
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.2999
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.8241
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.5797
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.8208
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.698
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.9475
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.0389
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.5616
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 5.5913
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.3152
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.0717
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2324
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9642
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.1286
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.3574
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.3457
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.2706
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.3635
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2668
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.5343
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.4228
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.5066
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.9896
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.7542
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.6268
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.5526
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.3493
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.1838
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.2179
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.4722
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.7999
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.3709
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.3592
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.753
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.9922
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 3.6663
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.2133
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.4048
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.1559
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.5507
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.9108
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.2355
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 2.8695
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.2061
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6576
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.3913
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1868
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0493
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.62
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 2.7598
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.8226
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8726
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.2558
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1552
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.99
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.0263
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.7923
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.6327
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8933
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.8562
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 4.8486
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.9596
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.6305
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.1189
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.7914
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0785
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.6466
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1878
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.9239
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.9131
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.4973
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.3356
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.7914
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.673
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1809
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.6059
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.9975
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.6692
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.1966
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.5494
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.6736
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.5973
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.8897
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.2084
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1788
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7304
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.2056
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.696
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2668
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2185
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.9965
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.847
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.0407
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.391
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.6733
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1516
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1487
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.1774
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.5829
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 5.0344
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.7179
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.537
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.4936
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.4967
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.8897
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.1048
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.2198
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9186
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.87
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3824
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.7569
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.5437
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.1792
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.9178
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5784
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.0518
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.7975
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.3897
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.3131
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.3272
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0472
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5715
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.4311
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3828
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0189
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.2693
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.1158
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8734
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6015
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.983
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.5977
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.4212
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.1843
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.9866
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.9775
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.8465
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.9038
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.6808
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.0232
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.3861
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.6604
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.05
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6284
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.1085
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1849
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.4901
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.4042
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.8807
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.0647
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5791
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.4763
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2645
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.348
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.173
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.2699
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7663
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9937
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4425
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1182
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8434
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.1922
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.0919
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.2257
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5903
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.9223
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3828
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.6105
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.543
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.5156
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.9646
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6879
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.6543
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.6027
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.657
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.521
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.7466
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.7531
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8728
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.2902
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.5541
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2109
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.4867
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.3986
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7005
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5464
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8237
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.174
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8698
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.5899
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.6809
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.7322
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.7828
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.5452
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.1894
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.0538
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.2037
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.0836
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7854
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7123
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.1649
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3128
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9502
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.6058
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1009
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.5786
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7662
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.0115
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2857
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0045
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.7727
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.7753
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.805
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9598
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.1119
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.5905
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 5.024
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 6.0716
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.6415
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.7682
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9739
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7048
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2974
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.1561
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.1258
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.8855
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.5376
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7899
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4158
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4114
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2968
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.9754
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.2055
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.1208
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7816
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8749
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1433
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8837
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.4546
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.6919
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 2.8413
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4623
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.8528
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1196
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.3532
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.1898
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 2.9025
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.5522
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8743
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.3188
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.554
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.9027
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.6094
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.4045
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.9932
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8953
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7822
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4028
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.205
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.2662
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.9021
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7059
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.2107
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8704
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2895
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4603
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.2905
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.8335
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.1559
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9282
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.3899
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2533
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.899
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.478
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.4788
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.1947
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.3605
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.0842
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.6618
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.0053
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.8748
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.7923
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 5.3169
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.865
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.1839
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2762
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.8997
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.1251
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 2.9994
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.0033
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.7403
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.0773
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.6265
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.5636
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.5224
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.0003
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8883
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5943
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4355
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.473
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8382
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.5358
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 3.8849
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.3486
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.6017
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.7305
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.3827
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.8844
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.6767
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1211
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 2.9344
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4096
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.4421
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3064
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.3801
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 2.6574
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 3.9397
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.7878
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.7959
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 3.7667
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 4.2136
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.0054
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.5649
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.8753
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7366
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5579
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.2453
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.6451
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8679
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.6742
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.6837
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.8951
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.1039
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.7526
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 4.097
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.9486
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.3691
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.4359
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.7725
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0806
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.5056
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 3.9889
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.4657
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.2305
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 5.8243
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.5363
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.5872
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 3.9725
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.4668
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.6485
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.0212
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.3112
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.5628
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4569
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7576
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2586
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.5315
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.6444
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.458
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.4961
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.7025
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 3.8638
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.426
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.7563
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.3613
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.7605
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 5.8597
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.2992
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.469
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.7801
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.9403
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.6579
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.487
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.8188
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.6607
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.1955
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.3728
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.447
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.8952
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.7946
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.2524
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.2439
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.6416
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2554
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.3166
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 2.7476
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.8
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 2.9926
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.2715
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.2453
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3281
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.6332
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.3354
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.3971
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.7894
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.9461
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.0138
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.5385
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.2625
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.1872
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.2589
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0508
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.777
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.9125
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.6845
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9255
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.0673
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.126
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7883
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9367
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.3627
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4579
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2648
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.6549
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.7713
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.1321
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9844
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.6057
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.446
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2703
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.8206
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.9229
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.2891
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.899
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.1558
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.6866
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.3801
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 5.0793
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.3521
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.711
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0238
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.1987
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4858
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.921
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.0115
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.6964
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.1796
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.3999
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.1021
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3998
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.1487
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.08
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.031
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.9878
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0736
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.7032
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2733
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.0669
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.9491
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 6.0509
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.1181
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8815
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.1176
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.4964
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.9463
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.8097
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1765
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.284
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8718
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.208
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 3.0069
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.5095
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.5516
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 3.5585
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.9809
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 3.4466
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 6.2105
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 3.1146
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 5.0623
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 5.7218
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.4275
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7135
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6917
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4543
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2078
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2918
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.735
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1493
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.3906
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0482
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.2385
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.8116
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4595
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.1642
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 2.7333
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.8102
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9613
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.5459
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2789
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.4908
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.05
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.7702
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.1391
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.4918
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.1935
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.0971
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1875
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.5076
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.4671
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.4584
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8204
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.4452
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.9127
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.8787
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.265
+  },
+  {
+    "grade": "G4",
+    "gene": "TP53",
+    "exprs": 2.9274
+  },
+  {
+    "grade": "G4",
+    "gene": "KRAS",
+    "exprs": 3.3791
+  },
+  {
+    "grade": "G4",
+    "gene": "BRAF",
+    "exprs": 2.7109
+  },
+  {
+    "grade": "G4",
+    "gene": "AKT1",
+    "exprs": 2.9774
+  },
+  {
+    "grade": "G4",
+    "gene": "CD274",
+    "exprs": 2.1539
+  },
+  {
+    "grade": "G4",
+    "gene": "CTCF",
+    "exprs": 3.4956
+  },
+  {
+    "grade": "G4",
+    "gene": "EP300",
+    "exprs": 3.4031
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.8263
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.3051
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6356
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.0039
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.7294
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2103
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.4266
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.7845
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.281
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.4431
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.4603
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3276
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.5111
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 2.9922
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.7664
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.564
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.8425
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.5746
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.0664
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.3667
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.5595
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.4403
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.1976
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.7069
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.7864
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.5106
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1777
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.719
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.847
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.0346
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6614
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.9837
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.4221
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.233
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.6084
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.3268
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 2.7846
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5373
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.5781
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1499
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1567
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.4886
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.2643
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.9348
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0591
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.7985
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4437
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.71
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.4688
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.8724
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.8987
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.4815
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.9423
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 3.1401
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 5.1557
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.9011
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.3305
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.4079
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.1768
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.2208
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 3.0171
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.7654
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.8706
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 3.7693
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.3117
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.7345
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.3947
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.5082
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.3569
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.8126
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.0295
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.2579
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6711
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.3392
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1586
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.5047
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.2628
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.7387
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.3421
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.3311
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.809
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3565
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.2317
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.1815
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 3.9295
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.6554
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 3.2953
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.8645
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.2758
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.8189
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.7717
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1604
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8352
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.84
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.6497
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4971
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.1208
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.1779
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.6451
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.2311
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6528
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.3411
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2638
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.6661
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.3887
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.1532
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.962
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.3354
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.6454
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.7095
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 5.3265
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.601
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.3605
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.9095
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5252
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.1213
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.9857
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.1993
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.0002
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.2669
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.5066
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6901
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.1906
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4797
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8497
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.196
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.069
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.4589
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.3903
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.9968
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.7937
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.5614
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.3932
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.9886
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 5.3388
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.6679
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.9968
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.193
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.0613
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.016
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 2.7333
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.5399
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.3016
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 6.2879
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.141
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.946
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.3604
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 2.8298
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.4105
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0225
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.8575
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.385
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.0808
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.788
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.0373
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.6485
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.1495
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.109
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.3698
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.1863
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.9672
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.8915
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.2126
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6463
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8141
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.751
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.7842
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.836
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.5221
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.7429
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.787
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.5337
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.6147
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.0551
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.9513
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.5111
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8152
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5846
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.2001
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3671
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0396
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.5271
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.1102
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.9636
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.8406
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.0752
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.837
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.604
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.565
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.2555
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.5048
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5088
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.6105
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2238
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.6091
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.8288
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.8156
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.7044
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.2372
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.188
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1522
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.2595
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.156
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 5.3016
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.4383
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.9436
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.4549
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.3541
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.2961
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 3.9637
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.4867
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.5005
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.7143
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.4206
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1577
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.8768
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.3185
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.5556
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.5643
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5915
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.7158
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1196
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.4503
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.7174
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.416
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8416
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5266
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5357
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.8024
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.3506
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.9505
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 2.5911
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.5208
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.5048
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.8834
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1154
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9477
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.3071
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 2.7468
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.8101
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9716
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.7035
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.0722
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.3986
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.1011
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.4252
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.678
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6196
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.9871
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.2604
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0412
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.1594
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.5654
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.7302
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.9454
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.4006
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.567
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4177
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 5.1215
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.4342
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.4378
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7922
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.9139
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 3.0594
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.3171
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.3026
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.8892
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 5.0079
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.1702
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8248
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.526
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4996
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.6086
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.9593
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.2539
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.5741
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 3.5026
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.3754
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.877
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.6171
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.006
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.9929
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5117
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.5248
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2033
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.4061
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.1189
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.8569
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.0614
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7505
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.2467
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4152
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.4883
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.6403
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 5.2502
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.3013
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.7629
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.867
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.5762
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.6476
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.0812
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 2.8755
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 5.0394
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9205
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.4303
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.7904
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.9905
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.1599
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 3.8686
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.3267
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.4776
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.1298
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.2565
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.965
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.7577
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1131
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.1693
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0344
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5737
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.272
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.1956
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.9123
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 6.2359
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 5.2442
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.241
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.6822
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.9245
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.655
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 5.1898
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 6.3278
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 5.3451
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 3.4449
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.6081
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.6829
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 5.083
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 5.4356
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 3.3824
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 3.5354
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.4772
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 5.007
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.2647
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 3.698
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.1362
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 3.5125
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8894
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.6364
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.8105
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.44
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0081
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.8538
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.6815
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.4333
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.491
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 4.7379
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.1767
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.293
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.8226
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.6874
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.8801
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.617
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.4095
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 3.2686
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.9728
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 3.6537
+  },
+  {
+    "grade": "G1",
+    "gene": "TP53",
+    "exprs": 4.6272
+  },
+  {
+    "grade": "G1",
+    "gene": "KRAS",
+    "exprs": 4.7662
+  },
+  {
+    "grade": "G1",
+    "gene": "BRAF",
+    "exprs": 2.892
+  },
+  {
+    "grade": "G1",
+    "gene": "AKT1",
+    "exprs": 4.802
+  },
+  {
+    "grade": "G1",
+    "gene": "CD274",
+    "exprs": 2.2489
+  },
+  {
+    "grade": "G1",
+    "gene": "CTCF",
+    "exprs": 4.3679
+  },
+  {
+    "grade": "G1",
+    "gene": "EP300",
+    "exprs": 4.7068
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.9716
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.3002
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.687
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.3472
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.4737
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.0798
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.3156
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 6.6636
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 5.2753
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.9359
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 5.6636
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 5.3521
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.9902
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.9872
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.3303
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 4.256
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 3.0351
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 3.9027
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.235
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 4.4657
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 4.9202
+  },
+  {
+    "grade": "G3",
+    "gene": "TP53",
+    "exprs": 4.627
+  },
+  {
+    "grade": "G3",
+    "gene": "KRAS",
+    "exprs": 3.9509
+  },
+  {
+    "grade": "G3",
+    "gene": "BRAF",
+    "exprs": 2.5175
+  },
+  {
+    "grade": "G3",
+    "gene": "AKT1",
+    "exprs": 2.9904
+  },
+  {
+    "grade": "G3",
+    "gene": "CD274",
+    "exprs": 2.7127
+  },
+  {
+    "grade": "G3",
+    "gene": "CTCF",
+    "exprs": 3.6318
+  },
+  {
+    "grade": "G3",
+    "gene": "EP300",
+    "exprs": 3.1105
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 4.6903
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 3.9004
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 3.0369
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 4.5479
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 2.1717
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 3.8328
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.5044
+  },
+  {
+    "grade": "G2",
+    "gene": "TP53",
+    "exprs": 5.1487
+  },
+  {
+    "grade": "G2",
+    "gene": "KRAS",
+    "exprs": 4.4123
+  },
+  {
+    "grade": "G2",
+    "gene": "BRAF",
+    "exprs": 2.7776
+  },
+  {
+    "grade": "G2",
+    "gene": "AKT1",
+    "exprs": 5.0615
+  },
+  {
+    "grade": "G2",
+    "gene": "CD274",
+    "exprs": 3.986
+  },
+  {
+    "grade": "G2",
+    "gene": "CTCF",
+    "exprs": 4.3825
+  },
+  {
+    "grade": "G2",
+    "gene": "EP300",
+    "exprs": 4.6248
+  }
+]

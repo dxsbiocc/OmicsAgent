@@ -1,0 +1,133 @@
+{
+  "name": "生存分析曲线",
+  "description": "生存分析曲线是一种特殊的折线图，适合展示多个类别的生存曲线",
+  "ggplot2": {
+    "mapping": {
+      "x": "OS_time",
+      "y": "OS",
+      "colour": "group"
+    },
+    "layers": [
+      {
+        "type": "ggsurvplot",
+        "arguments": {
+          "legend.title": {
+            "type": "element_blank"
+          },
+          "legend": [
+            0.8,
+            0.9
+          ],
+          "title": "TCGA-BRCA",
+          "pval": false,
+          "censor": true,
+          "risk.table": false,
+          "risk.table.height": 0.3,
+          "risk.table.col": "strata",
+          "risk.table.y.text.col": false,
+          "risk.table.y.text": false,
+          "ggtheme": [
+            {
+              "type": "theme_prism"
+            },
+            {
+              "type": "theme",
+              "arguments": {
+                "legend.title": {
+                  "type": "element_text",
+                  "arguments": {
+                    "face": "bold",
+                    "family": "Times",
+                    "colour": "black",
+                    "size": 12
+                  }
+                },
+                "legend.text": {
+                  "type": "element_text",
+                  "arguments": {
+                    "face": "bold",
+                    "family": "Times",
+                    "colour": "black",
+                    "size": 12
+                  }
+                },
+                "plot.title": {
+                  "type": "element_text",
+                  "arguments": {
+                    "hjust": 0.5,
+                    "size": 16,
+                    "face": "bold"
+                  }
+                },
+                "panel.border": {
+                  "type": "element_rect",
+                  "arguments": {
+                    "fill": "transparent",
+                    "linewidth": 2
+                  }
+                },
+                "axis.line": {
+                  "type": "element_blank"
+                }
+              }
+            }
+          ],
+          "palette": [
+            "#d46780",
+            "#798234"
+          ]
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "text",
+          "x": [
+            0
+          ],
+          "y": [
+            0.2
+          ],
+          "hjust": [
+            0
+          ],
+          "size": [
+            4
+          ]
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_x_continuous",
+        "arguments": {
+          "expand": [
+            0.1,
+            0
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "TCGA-BRCA",
+        "x": "Overall survival(Days)",
+        "y": "Survival Probability"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 550,
+    "height": 500
+  },
+  "has_js": false
+}

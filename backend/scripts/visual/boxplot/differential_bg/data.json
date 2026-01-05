@@ -1,0 +1,2002 @@
+[
+    {
+        "gene": "TP53",
+        "exprs": 2.0671,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.2672,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5926,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.4656,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.9894,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.3609,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4082,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.5289,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.8467,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.0275,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6095,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.6798,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.1684,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.2845,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5554,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.1355,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.9836,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.3143,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.7756,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.721,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.6565,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.9353,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6045,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.5206,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.0758,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.7991,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5995,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.4947,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.8343,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.7507,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5941,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.1471,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.9625,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.1707,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6285,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.3469,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.1027,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.4688,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4664,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.9737,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.7199,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.8944,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4963,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.0255,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.9836,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.1462,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6978,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.8226,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.9069,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.7585,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5613,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.915,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.2772,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.2781,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6728,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 4.0585,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.7115,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.1086,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5587,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.647,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.8114,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.4541,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5191,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.2582,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.2812,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.2928,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.712,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.4803,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.8052,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.5025,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.3958,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.0285,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.8786,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.7924,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4991,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.8493,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.8439,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.4942,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4309,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.8686,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.2613,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.8092,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5731,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.6117,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.7341,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.7047,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.44,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.2104,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.1005,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.9096,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5763,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.8593,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.876,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 0.7548,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.2894,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.4815,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.8488,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.1518,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.3275,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.0096,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.2147,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.6473,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6941,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.3678,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.9414,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.7517,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5709,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.096,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.2715,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.8686,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.68,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.2056,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.0009,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.3937,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6996,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.4198,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.2092,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.5068,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6226,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.5087,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.1859,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.0037,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6115,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.5403,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.7088,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.1286,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.8966,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.9734,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.6853,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.2108,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5876,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.2436,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.2443,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.1906,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6757,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.3514,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.5593,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.894,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.7904,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.434,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.1925,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.5799,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5558,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.5487,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.0646,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.8698,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5974,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.7307,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.6454,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.7281,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.7165,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.687,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.9805,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.547,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6339,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 4.0192,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.0258,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.5451,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4975,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.9838,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.1728,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.0041,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6642,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.2681,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.2277,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.5243,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6571,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.4145,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.6322,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.101,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4243,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.1144,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.4198,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.8765,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6589,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.3075,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.4226,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.9419,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6998,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.0533,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.9922,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.2125,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6005,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.3115,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.2189,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.9221,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6378,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.1582,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.1493,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.4244,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4208,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.141,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.2451,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.6517,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4777,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.7166,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.556,
+        "group": "Normal"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.052,
+        "group": "Normal"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.7796,
+        "group": "Normal"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.8,
+        "group": "Normal"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.9914,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.4169,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.626,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.166,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.6604,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.05,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6284,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.1975,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.8184,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.2874,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.2387,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.2416,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.7048,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.2831,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4464,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.3061,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.7168,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.1257,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.138,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.0576,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.6837,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.8951,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.1039,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 4.0353,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.5503,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.8645,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.0751,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 4.549,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.7314,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.5365,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6346,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 0.7494,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.5191,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.936,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.1898,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.8129,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.6361,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.7654,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.964,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.1925,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.2611,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.8216,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.7599,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.7761,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.6727,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.2355,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.7737,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.1706,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.4412,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 0.9778,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.3375,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 1.3615,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.7503,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.403,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.8251,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 4.8887,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.7946,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.2524,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.2439,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.5365,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.5556,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.5643,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5915,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 1.5775,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.0163,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.2609,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5369,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.1919,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.8892,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 3.0079,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.1702,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.278,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.5125,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.8894,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6364,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.0301,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.5032,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.736,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5621,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 1.1654,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.5829,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 3.0344,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.7179,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.3729,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.7256,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.6113,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.8125,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.8242,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.1286,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.554,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5322,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 1.729,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.0369,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.8104,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4441,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.127,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.4966,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.1166,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.4026,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 1.4674,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.542,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.7562,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.0304,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 4.686,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.6323,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.8397,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.7481,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.9124,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.8265,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.3697,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.0161,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.7966,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.1826,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.0618,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6227,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.9213,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.7635,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.0434,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.7786,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.4682,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.1056,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.392,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.6215,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.8656,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.8821,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.3948,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.1644,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 4.2564,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.5298,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 3.1937,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5687,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 5.2393,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.1788,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.7304,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.2056,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.8422,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.0923,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.3435,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.8573,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.4486,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.1792,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.9178,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5784,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 1.6165,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.8575,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.5875,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.9816,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.9376,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.8807,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.0647,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5791,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.5811,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.3986,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.7005,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5464,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.6735,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.1009,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.5786,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.7662,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.3414,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 1.6877,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 3.0264,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.8408,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.384,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 0.8097,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.2559,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.0038,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 4.2113,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.8,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 0.9926,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.2715,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 1.8936,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.9229,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.2891,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.899,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.8413,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.3971,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.7894,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.9461,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.3565,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.3337,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.4722,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.8792,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 5.6263,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.1604,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.8352,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.84,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 3.3745,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.3605,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 1.9095,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.5252,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 1.5848,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 3.2524,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.7585,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 1.2469,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.2392,
+        "group": "Tumor"
+    },
+    {
+        "gene": "TP53",
+        "exprs": 2.083,
+        "group": "Tumor"
+    },
+    {
+        "gene": "KRAS",
+        "exprs": 2.242,
+        "group": "Tumor"
+    },
+    {
+        "gene": "BRAF",
+        "exprs": 0.8048,
+        "group": "Tumor"
+    },
+    {
+        "gene": "EGFR",
+        "exprs": 2.9669,
+        "group": "Tumor"
+    }
+]

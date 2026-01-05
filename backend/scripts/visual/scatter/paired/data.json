@@ -1,0 +1,1502 @@
+[
+    {
+        "cell_line": "ACH-000002",
+        "drug": "erastin",
+        "auc": 12.498
+    },
+    {
+        "cell_line": "ACH-000004",
+        "drug": "erastin",
+        "auc": 10.445
+    },
+    {
+        "cell_line": "ACH-000005",
+        "drug": "erastin",
+        "auc": 13.795
+    },
+    {
+        "cell_line": "ACH-000007",
+        "drug": "erastin",
+        "auc": 11.858
+    },
+    {
+        "cell_line": "ACH-000008",
+        "drug": "erastin",
+        "auc": 15.39
+    },
+    {
+        "cell_line": "ACH-000009",
+        "drug": "erastin",
+        "auc": 12.777
+    },
+    {
+        "cell_line": "ACH-000012",
+        "drug": "erastin",
+        "auc": 11.51
+    },
+    {
+        "cell_line": "ACH-000013",
+        "drug": "erastin",
+        "auc": 10.303
+    },
+    {
+        "cell_line": "ACH-000014",
+        "drug": "erastin",
+        "auc": 13.614
+    },
+    {
+        "cell_line": "ACH-000015",
+        "drug": "erastin",
+        "auc": 10.674
+    },
+    {
+        "cell_line": "ACH-000017",
+        "drug": "erastin",
+        "auc": 10.789
+    },
+    {
+        "cell_line": "ACH-000018",
+        "drug": "erastin",
+        "auc": 10.544
+    },
+    {
+        "cell_line": "ACH-000019",
+        "drug": "erastin",
+        "auc": 12.619
+    },
+    {
+        "cell_line": "ACH-000021",
+        "drug": "erastin",
+        "auc": 9.5895
+    },
+    {
+        "cell_line": "ACH-000022",
+        "drug": "erastin",
+        "auc": 13.074
+    },
+    {
+        "cell_line": "ACH-000023",
+        "drug": "erastin",
+        "auc": 14.501
+    },
+    {
+        "cell_line": "ACH-000027",
+        "drug": "erastin",
+        "auc": 11.822
+    },
+    {
+        "cell_line": "ACH-000028",
+        "drug": "erastin",
+        "auc": 15.619
+    },
+    {
+        "cell_line": "ACH-000030",
+        "drug": "erastin",
+        "auc": 13.753
+    },
+    {
+        "cell_line": "ACH-000032",
+        "drug": "erastin",
+        "auc": 10.348
+    },
+    {
+        "cell_line": "ACH-000035",
+        "drug": "erastin",
+        "auc": 10.418
+    },
+    {
+        "cell_line": "ACH-000038",
+        "drug": "erastin",
+        "auc": 13.117
+    },
+    {
+        "cell_line": "ACH-000039",
+        "drug": "erastin",
+        "auc": 11.552
+    },
+    {
+        "cell_line": "ACH-000040",
+        "drug": "erastin",
+        "auc": 11.112
+    },
+    {
+        "cell_line": "ACH-000042",
+        "drug": "erastin",
+        "auc": 13.562
+    },
+    {
+        "cell_line": "ACH-000043",
+        "drug": "erastin",
+        "auc": 12.144
+    },
+    {
+        "cell_line": "ACH-000045",
+        "drug": "erastin",
+        "auc": 10.998
+    },
+    {
+        "cell_line": "ACH-000046",
+        "drug": "erastin",
+        "auc": 10.56
+    },
+    {
+        "cell_line": "ACH-000048",
+        "drug": "erastin",
+        "auc": 13.895
+    },
+    {
+        "cell_line": "ACH-000050",
+        "drug": "erastin",
+        "auc": 13.206
+    },
+    {
+        "cell_line": "ACH-000051",
+        "drug": "erastin",
+        "auc": 12.645
+    },
+    {
+        "cell_line": "ACH-000052",
+        "drug": "erastin",
+        "auc": 10.745
+    },
+    {
+        "cell_line": "ACH-000053",
+        "drug": "erastin",
+        "auc": 12.605
+    },
+    {
+        "cell_line": "ACH-000054",
+        "drug": "erastin",
+        "auc": 11.21
+    },
+    {
+        "cell_line": "ACH-000055",
+        "drug": "erastin",
+        "auc": 9.1277
+    },
+    {
+        "cell_line": "ACH-000056",
+        "drug": "erastin",
+        "auc": 4.5711
+    },
+    {
+        "cell_line": "ACH-000058",
+        "drug": "erastin",
+        "auc": 11.941
+    },
+    {
+        "cell_line": "ACH-000059",
+        "drug": "erastin",
+        "auc": 13.5
+    },
+    {
+        "cell_line": "ACH-000060",
+        "drug": "erastin",
+        "auc": 10.296
+    },
+    {
+        "cell_line": "ACH-000062",
+        "drug": "erastin",
+        "auc": 13.687
+    },
+    {
+        "cell_line": "ACH-000065",
+        "drug": "erastin",
+        "auc": 15.344
+    },
+    {
+        "cell_line": "ACH-000066",
+        "drug": "erastin",
+        "auc": 12.027
+    },
+    {
+        "cell_line": "ACH-000067",
+        "drug": "erastin",
+        "auc": 11.647
+    },
+    {
+        "cell_line": "ACH-000068",
+        "drug": "erastin",
+        "auc": 12.975
+    },
+    {
+        "cell_line": "ACH-000069",
+        "drug": "erastin",
+        "auc": 10.588
+    },
+    {
+        "cell_line": "ACH-000070",
+        "drug": "erastin",
+        "auc": 7.5012
+    },
+    {
+        "cell_line": "ACH-000073",
+        "drug": "erastin",
+        "auc": 11.193
+    },
+    {
+        "cell_line": "ACH-000074",
+        "drug": "erastin",
+        "auc": 9.2212
+    },
+    {
+        "cell_line": "ACH-000075",
+        "drug": "erastin",
+        "auc": 14.014
+    },
+    {
+        "cell_line": "ACH-000076",
+        "drug": "erastin",
+        "auc": 6.6458
+    },
+    {
+        "cell_line": "ACH-000078",
+        "drug": "erastin",
+        "auc": 11.609
+    },
+    {
+        "cell_line": "ACH-000081",
+        "drug": "erastin",
+        "auc": 10.829
+    },
+    {
+        "cell_line": "ACH-000082",
+        "drug": "erastin",
+        "auc": 8.965
+    },
+    {
+        "cell_line": "ACH-000086",
+        "drug": "erastin",
+        "auc": 14.654
+    },
+    {
+        "cell_line": "ACH-000087",
+        "drug": "erastin",
+        "auc": 8.3897
+    },
+    {
+        "cell_line": "ACH-000090",
+        "drug": "erastin",
+        "auc": 14.894
+    },
+    {
+        "cell_line": "ACH-000091",
+        "drug": "erastin",
+        "auc": 14.773
+    },
+    {
+        "cell_line": "ACH-000092",
+        "drug": "erastin",
+        "auc": 11.084
+    },
+    {
+        "cell_line": "ACH-000093",
+        "drug": "erastin",
+        "auc": 11.431
+    },
+    {
+        "cell_line": "ACH-000094",
+        "drug": "erastin",
+        "auc": 11.628
+    },
+    {
+        "cell_line": "ACH-000096",
+        "drug": "erastin",
+        "auc": 10.154
+    },
+    {
+        "cell_line": "ACH-000097",
+        "drug": "erastin",
+        "auc": 17.118
+    },
+    {
+        "cell_line": "ACH-000098",
+        "drug": "erastin",
+        "auc": 14.744
+    },
+    {
+        "cell_line": "ACH-000099",
+        "drug": "erastin",
+        "auc": 9.158
+    },
+    {
+        "cell_line": "ACH-000100",
+        "drug": "erastin",
+        "auc": 8.6203
+    },
+    {
+        "cell_line": "ACH-000101",
+        "drug": "erastin",
+        "auc": 9.6162
+    },
+    {
+        "cell_line": "ACH-000102",
+        "drug": "erastin",
+        "auc": 11.001
+    },
+    {
+        "cell_line": "ACH-000106",
+        "drug": "erastin",
+        "auc": 7.463
+    },
+    {
+        "cell_line": "ACH-000107",
+        "drug": "erastin",
+        "auc": 10.882
+    },
+    {
+        "cell_line": "ACH-000108",
+        "drug": "erastin",
+        "auc": 11.451
+    },
+    {
+        "cell_line": "ACH-000110",
+        "drug": "erastin",
+        "auc": 11.134
+    },
+    {
+        "cell_line": "ACH-000112",
+        "drug": "erastin",
+        "auc": 11.226
+    },
+    {
+        "cell_line": "ACH-000113",
+        "drug": "erastin",
+        "auc": 12.339
+    },
+    {
+        "cell_line": "ACH-000114",
+        "drug": "erastin",
+        "auc": 11.225
+    },
+    {
+        "cell_line": "ACH-000115",
+        "drug": "erastin",
+        "auc": 14.186
+    },
+    {
+        "cell_line": "ACH-000116",
+        "drug": "erastin",
+        "auc": 11.137
+    },
+    {
+        "cell_line": "ACH-000118",
+        "drug": "erastin",
+        "auc": 11.817
+    },
+    {
+        "cell_line": "ACH-000120",
+        "drug": "erastin",
+        "auc": 13.09
+    },
+    {
+        "cell_line": "ACH-000121",
+        "drug": "erastin",
+        "auc": 13.852
+    },
+    {
+        "cell_line": "ACH-000122",
+        "drug": "erastin",
+        "auc": 10.927
+    },
+    {
+        "cell_line": "ACH-000123",
+        "drug": "erastin",
+        "auc": 9.0514
+    },
+    {
+        "cell_line": "ACH-000124",
+        "drug": "erastin",
+        "auc": 14.689
+    },
+    {
+        "cell_line": "ACH-000126",
+        "drug": "erastin",
+        "auc": 14.476
+    },
+    {
+        "cell_line": "ACH-000129",
+        "drug": "erastin",
+        "auc": 7.7654
+    },
+    {
+        "cell_line": "ACH-000132",
+        "drug": "erastin",
+        "auc": 12.446
+    },
+    {
+        "cell_line": "ACH-000133",
+        "drug": "erastin",
+        "auc": 12.681
+    },
+    {
+        "cell_line": "ACH-000135",
+        "drug": "erastin",
+        "auc": 11.65
+    },
+    {
+        "cell_line": "ACH-000136",
+        "drug": "erastin",
+        "auc": 12.121
+    },
+    {
+        "cell_line": "ACH-000137",
+        "drug": "erastin",
+        "auc": 14.756
+    },
+    {
+        "cell_line": "ACH-000138",
+        "drug": "erastin",
+        "auc": 12.293
+    },
+    {
+        "cell_line": "ACH-000139",
+        "drug": "erastin",
+        "auc": 11.767
+    },
+    {
+        "cell_line": "ACH-000141",
+        "drug": "erastin",
+        "auc": 13.042
+    },
+    {
+        "cell_line": "ACH-000146",
+        "drug": "erastin",
+        "auc": 11.76
+    },
+    {
+        "cell_line": "ACH-000147",
+        "drug": "erastin",
+        "auc": 13.031
+    },
+    {
+        "cell_line": "ACH-000148",
+        "drug": "erastin",
+        "auc": 14.216
+    },
+    {
+        "cell_line": "ACH-000149",
+        "drug": "erastin",
+        "auc": 13.591
+    },
+    {
+        "cell_line": "ACH-000150",
+        "drug": "erastin",
+        "auc": 14.741
+    },
+    {
+        "cell_line": "ACH-000151",
+        "drug": "erastin",
+        "auc": 9.6313
+    },
+    {
+        "cell_line": "ACH-000152",
+        "drug": "erastin",
+        "auc": 10.92
+    },
+    {
+        "cell_line": "ACH-000153",
+        "drug": "erastin",
+        "auc": 10.938
+    },
+    {
+        "cell_line": "ACH-000002",
+        "drug": "ML162",
+        "auc": 10.467
+    },
+    {
+        "cell_line": "ACH-000004",
+        "drug": "ML162",
+        "auc": 7.0524
+    },
+    {
+        "cell_line": "ACH-000005",
+        "drug": "ML162",
+        "auc": 6.7487
+    },
+    {
+        "cell_line": "ACH-000007",
+        "drug": "ML162",
+        "auc": 8.565
+    },
+    {
+        "cell_line": "ACH-000008",
+        "drug": "ML162",
+        "auc": 10.455
+    },
+    {
+        "cell_line": "ACH-000009",
+        "drug": "ML162",
+        "auc": 10.157
+    },
+    {
+        "cell_line": "ACH-000012",
+        "drug": "ML162",
+        "auc": 7.5232
+    },
+    {
+        "cell_line": "ACH-000013",
+        "drug": "ML162",
+        "auc": 7.3517
+    },
+    {
+        "cell_line": "ACH-000014",
+        "drug": "ML162",
+        "auc": 7.2436
+    },
+    {
+        "cell_line": "ACH-000015",
+        "drug": "ML162",
+        "auc": 6.8405
+    },
+    {
+        "cell_line": "ACH-000017",
+        "drug": "ML162",
+        "auc": 9.0642
+    },
+    {
+        "cell_line": "ACH-000018",
+        "drug": "ML162",
+        "auc": 9.0002
+    },
+    {
+        "cell_line": "ACH-000019",
+        "drug": "ML162",
+        "auc": 12.999
+    },
+    {
+        "cell_line": "ACH-000021",
+        "drug": "ML162",
+        "auc": 5.586
+    },
+    {
+        "cell_line": "ACH-000022",
+        "drug": "ML162",
+        "auc": 12.338
+    },
+    {
+        "cell_line": "ACH-000023",
+        "drug": "ML162",
+        "auc": 13.639
+    },
+    {
+        "cell_line": "ACH-000027",
+        "drug": "ML162",
+        "auc": 7.0317
+    },
+    {
+        "cell_line": "ACH-000028",
+        "drug": "ML162",
+        "auc": 14.587
+    },
+    {
+        "cell_line": "ACH-000030",
+        "drug": "ML162",
+        "auc": 13.441
+    },
+    {
+        "cell_line": "ACH-000032",
+        "drug": "ML162",
+        "auc": 10.016
+    },
+    {
+        "cell_line": "ACH-000035",
+        "drug": "ML162",
+        "auc": 6.9307
+    },
+    {
+        "cell_line": "ACH-000038",
+        "drug": "ML162",
+        "auc": 7.6589
+    },
+    {
+        "cell_line": "ACH-000039",
+        "drug": "ML162",
+        "auc": 6.9706
+    },
+    {
+        "cell_line": "ACH-000040",
+        "drug": "ML162",
+        "auc": 9.0613
+    },
+    {
+        "cell_line": "ACH-000042",
+        "drug": "ML162",
+        "auc": 10.421
+    },
+    {
+        "cell_line": "ACH-000043",
+        "drug": "ML162",
+        "auc": 6.7978
+    },
+    {
+        "cell_line": "ACH-000045",
+        "drug": "ML162",
+        "auc": 9.8385
+    },
+    {
+        "cell_line": "ACH-000046",
+        "drug": "ML162",
+        "auc": 6.7633
+    },
+    {
+        "cell_line": "ACH-000048",
+        "drug": "ML162",
+        "auc": 10.397
+    },
+    {
+        "cell_line": "ACH-000050",
+        "drug": "ML162",
+        "auc": 7.077
+    },
+    {
+        "cell_line": "ACH-000051",
+        "drug": "ML162",
+        "auc": 9.91
+    },
+    {
+        "cell_line": "ACH-000052",
+        "drug": "ML162",
+        "auc": 6.4476
+    },
+    {
+        "cell_line": "ACH-000053",
+        "drug": "ML162",
+        "auc": 7.6181
+    },
+    {
+        "cell_line": "ACH-000054",
+        "drug": "ML162",
+        "auc": 6.5831
+    },
+    {
+        "cell_line": "ACH-000055",
+        "drug": "ML162",
+        "auc": 2.7238
+    },
+    {
+        "cell_line": "ACH-000056",
+        "drug": "ML162",
+        "auc": 1.2697
+    },
+    {
+        "cell_line": "ACH-000058",
+        "drug": "ML162",
+        "auc": 11.359
+    },
+    {
+        "cell_line": "ACH-000059",
+        "drug": "ML162",
+        "auc": 9.529
+    },
+    {
+        "cell_line": "ACH-000060",
+        "drug": "ML162",
+        "auc": 11.246
+    },
+    {
+        "cell_line": "ACH-000062",
+        "drug": "ML162",
+        "auc": 10.626
+    },
+    {
+        "cell_line": "ACH-000065",
+        "drug": "ML162",
+        "auc": 10.478
+    },
+    {
+        "cell_line": "ACH-000066",
+        "drug": "ML162",
+        "auc": 7.1114
+    },
+    {
+        "cell_line": "ACH-000067",
+        "drug": "ML162",
+        "auc": 9.2496
+    },
+    {
+        "cell_line": "ACH-000068",
+        "drug": "ML162",
+        "auc": 11.806
+    },
+    {
+        "cell_line": "ACH-000069",
+        "drug": "ML162",
+        "auc": 6.2576
+    },
+    {
+        "cell_line": "ACH-000070",
+        "drug": "ML162",
+        "auc": 3.4721
+    },
+    {
+        "cell_line": "ACH-000073",
+        "drug": "ML162",
+        "auc": 6.3561
+    },
+    {
+        "cell_line": "ACH-000074",
+        "drug": "ML162",
+        "auc": 7.3302
+    },
+    {
+        "cell_line": "ACH-000075",
+        "drug": "ML162",
+        "auc": 8.9741
+    },
+    {
+        "cell_line": "ACH-000076",
+        "drug": "ML162",
+        "auc": 4.3266
+    },
+    {
+        "cell_line": "ACH-000078",
+        "drug": "ML162",
+        "auc": 11.698
+    },
+    {
+        "cell_line": "ACH-000081",
+        "drug": "ML162",
+        "auc": 7.4731
+    },
+    {
+        "cell_line": "ACH-000082",
+        "drug": "ML162",
+        "auc": 7.0571
+    },
+    {
+        "cell_line": "ACH-000086",
+        "drug": "ML162",
+        "auc": 10.615
+    },
+    {
+        "cell_line": "ACH-000087",
+        "drug": "ML162",
+        "auc": 7.0405
+    },
+    {
+        "cell_line": "ACH-000090",
+        "drug": "ML162",
+        "auc": 7.3078
+    },
+    {
+        "cell_line": "ACH-000091",
+        "drug": "ML162",
+        "auc": 9.6939
+    },
+    {
+        "cell_line": "ACH-000092",
+        "drug": "ML162",
+        "auc": 11.717
+    },
+    {
+        "cell_line": "ACH-000093",
+        "drug": "ML162",
+        "auc": 9.9771
+    },
+    {
+        "cell_line": "ACH-000094",
+        "drug": "ML162",
+        "auc": 11.529
+    },
+    {
+        "cell_line": "ACH-000096",
+        "drug": "ML162",
+        "auc": 6.5984
+    },
+    {
+        "cell_line": "ACH-000097",
+        "drug": "ML162",
+        "auc": 14.187
+    },
+    {
+        "cell_line": "ACH-000098",
+        "drug": "ML162",
+        "auc": 14.416
+    },
+    {
+        "cell_line": "ACH-000099",
+        "drug": "ML162",
+        "auc": 10.062
+    },
+    {
+        "cell_line": "ACH-000100",
+        "drug": "ML162",
+        "auc": 6.5738
+    },
+    {
+        "cell_line": "ACH-000101",
+        "drug": "ML162",
+        "auc": 6.8747
+    },
+    {
+        "cell_line": "ACH-000102",
+        "drug": "ML162",
+        "auc": 7.0891
+    },
+    {
+        "cell_line": "ACH-000106",
+        "drug": "ML162",
+        "auc": 5.0302
+    },
+    {
+        "cell_line": "ACH-000107",
+        "drug": "ML162",
+        "auc": 13.427
+    },
+    {
+        "cell_line": "ACH-000108",
+        "drug": "ML162",
+        "auc": 7.4592
+    },
+    {
+        "cell_line": "ACH-000110",
+        "drug": "ML162",
+        "auc": 7.5992
+    },
+    {
+        "cell_line": "ACH-000112",
+        "drug": "ML162",
+        "auc": 10.421
+    },
+    {
+        "cell_line": "ACH-000113",
+        "drug": "ML162",
+        "auc": 9.4037
+    },
+    {
+        "cell_line": "ACH-000114",
+        "drug": "ML162",
+        "auc": 9.7789
+    },
+    {
+        "cell_line": "ACH-000115",
+        "drug": "ML162",
+        "auc": 8.373
+    },
+    {
+        "cell_line": "ACH-000116",
+        "drug": "ML162",
+        "auc": 8.2841
+    },
+    {
+        "cell_line": "ACH-000118",
+        "drug": "ML162",
+        "auc": 7.9831
+    },
+    {
+        "cell_line": "ACH-000120",
+        "drug": "ML162",
+        "auc": 10.352
+    },
+    {
+        "cell_line": "ACH-000121",
+        "drug": "ML162",
+        "auc": 9.3542
+    },
+    {
+        "cell_line": "ACH-000122",
+        "drug": "ML162",
+        "auc": 7.1657
+    },
+    {
+        "cell_line": "ACH-000123",
+        "drug": "ML162",
+        "auc": 6.909
+    },
+    {
+        "cell_line": "ACH-000124",
+        "drug": "ML162",
+        "auc": 9.8499
+    },
+    {
+        "cell_line": "ACH-000126",
+        "drug": "ML162",
+        "auc": 7.6727
+    },
+    {
+        "cell_line": "ACH-000129",
+        "drug": "ML162",
+        "auc": 4.645
+    },
+    {
+        "cell_line": "ACH-000132",
+        "drug": "ML162",
+        "auc": 6.4905
+    },
+    {
+        "cell_line": "ACH-000133",
+        "drug": "ML162",
+        "auc": 7.2187
+    },
+    {
+        "cell_line": "ACH-000135",
+        "drug": "ML162",
+        "auc": 10.262
+    },
+    {
+        "cell_line": "ACH-000136",
+        "drug": "ML162",
+        "auc": 6.7112
+    },
+    {
+        "cell_line": "ACH-000137",
+        "drug": "ML162",
+        "auc": 10.076
+    },
+    {
+        "cell_line": "ACH-000138",
+        "drug": "ML162",
+        "auc": 14.73
+    },
+    {
+        "cell_line": "ACH-000139",
+        "drug": "ML162",
+        "auc": 9.7675
+    },
+    {
+        "cell_line": "ACH-000141",
+        "drug": "ML162",
+        "auc": 10.641
+    },
+    {
+        "cell_line": "ACH-000146",
+        "drug": "ML162",
+        "auc": 10.42
+    },
+    {
+        "cell_line": "ACH-000147",
+        "drug": "ML162",
+        "auc": 7.9289
+    },
+    {
+        "cell_line": "ACH-000148",
+        "drug": "ML162",
+        "auc": 9.397
+    },
+    {
+        "cell_line": "ACH-000149",
+        "drug": "ML162",
+        "auc": 10.739
+    },
+    {
+        "cell_line": "ACH-000150",
+        "drug": "ML162",
+        "auc": 9.6598
+    },
+    {
+        "cell_line": "ACH-000151",
+        "drug": "ML162",
+        "auc": 4.8636
+    },
+    {
+        "cell_line": "ACH-000152",
+        "drug": "ML162",
+        "auc": 6.8633
+    },
+    {
+        "cell_line": "ACH-000153",
+        "drug": "ML162",
+        "auc": 8.5597
+    },
+    {
+        "cell_line": "ACH-000002",
+        "drug": "1S,3R-RSL-3",
+        "auc": 10.415
+    },
+    {
+        "cell_line": "ACH-000004",
+        "drug": "1S,3R-RSL-3",
+        "auc": 4.5275
+    },
+    {
+        "cell_line": "ACH-000005",
+        "drug": "1S,3R-RSL-3",
+        "auc": 4.7393
+    },
+    {
+        "cell_line": "ACH-000007",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.9164
+    },
+    {
+        "cell_line": "ACH-000008",
+        "drug": "1S,3R-RSL-3",
+        "auc": 9.2353
+    },
+    {
+        "cell_line": "ACH-000009",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.3567
+    },
+    {
+        "cell_line": "ACH-000012",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.0075
+    },
+    {
+        "cell_line": "ACH-000013",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.3504
+    },
+    {
+        "cell_line": "ACH-000014",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.5865
+    },
+    {
+        "cell_line": "ACH-000015",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.2994
+    },
+    {
+        "cell_line": "ACH-000017",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.4451
+    },
+    {
+        "cell_line": "ACH-000018",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.7461
+    },
+    {
+        "cell_line": "ACH-000019",
+        "drug": "1S,3R-RSL-3",
+        "auc": 11.061
+    },
+    {
+        "cell_line": "ACH-000021",
+        "drug": "1S,3R-RSL-3",
+        "auc": 3.6344
+    },
+    {
+        "cell_line": "ACH-000022",
+        "drug": "1S,3R-RSL-3",
+        "auc": 12.25
+    },
+    {
+        "cell_line": "ACH-000023",
+        "drug": "1S,3R-RSL-3",
+        "auc": 13.432
+    },
+    {
+        "cell_line": "ACH-000027",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.2026
+    },
+    {
+        "cell_line": "ACH-000028",
+        "drug": "1S,3R-RSL-3",
+        "auc": 14.222
+    },
+    {
+        "cell_line": "ACH-000030",
+        "drug": "1S,3R-RSL-3",
+        "auc": 9.7918
+    },
+    {
+        "cell_line": "ACH-000032",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.4665
+    },
+    {
+        "cell_line": "ACH-000035",
+        "drug": "1S,3R-RSL-3",
+        "auc": 3.4527
+    },
+    {
+        "cell_line": "ACH-000038",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.673
+    },
+    {
+        "cell_line": "ACH-000039",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.4983
+    },
+    {
+        "cell_line": "ACH-000040",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.2001
+    },
+    {
+        "cell_line": "ACH-000042",
+        "drug": "1S,3R-RSL-3",
+        "auc": 9.8581
+    },
+    {
+        "cell_line": "ACH-000043",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.8096
+    },
+    {
+        "cell_line": "ACH-000045",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.5055
+    },
+    {
+        "cell_line": "ACH-000046",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.4922
+    },
+    {
+        "cell_line": "ACH-000048",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.2086
+    },
+    {
+        "cell_line": "ACH-000050",
+        "drug": "1S,3R-RSL-3",
+        "auc": 4.5514
+    },
+    {
+        "cell_line": "ACH-000051",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.82
+    },
+    {
+        "cell_line": "ACH-000052",
+        "drug": "1S,3R-RSL-3",
+        "auc": 4.0847
+    },
+    {
+        "cell_line": "ACH-000053",
+        "drug": "1S,3R-RSL-3",
+        "auc": 4.5172
+    },
+    {
+        "cell_line": "ACH-000054",
+        "drug": "1S,3R-RSL-3",
+        "auc": 4.0795
+    },
+    {
+        "cell_line": "ACH-000055",
+        "drug": "1S,3R-RSL-3",
+        "auc": 4.0083
+    },
+    {
+        "cell_line": "ACH-000056",
+        "drug": "1S,3R-RSL-3",
+        "auc": 1.0629
+    },
+    {
+        "cell_line": "ACH-000058",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.5102
+    },
+    {
+        "cell_line": "ACH-000059",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.3328
+    },
+    {
+        "cell_line": "ACH-000060",
+        "drug": "1S,3R-RSL-3",
+        "auc": 9.6013
+    },
+    {
+        "cell_line": "ACH-000062",
+        "drug": "1S,3R-RSL-3",
+        "auc": 9.0387
+    },
+    {
+        "cell_line": "ACH-000065",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.798
+    },
+    {
+        "cell_line": "ACH-000066",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.5042
+    },
+    {
+        "cell_line": "ACH-000067",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.8039
+    },
+    {
+        "cell_line": "ACH-000068",
+        "drug": "1S,3R-RSL-3",
+        "auc": 10.804
+    },
+    {
+        "cell_line": "ACH-000069",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.6854
+    },
+    {
+        "cell_line": "ACH-000070",
+        "drug": "1S,3R-RSL-3",
+        "auc": 2.6734
+    },
+    {
+        "cell_line": "ACH-000073",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.3319
+    },
+    {
+        "cell_line": "ACH-000074",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.2839
+    },
+    {
+        "cell_line": "ACH-000075",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.5255
+    },
+    {
+        "cell_line": "ACH-000076",
+        "drug": "1S,3R-RSL-3",
+        "auc": 2.5442
+    },
+    {
+        "cell_line": "ACH-000078",
+        "drug": "1S,3R-RSL-3",
+        "auc": 11.821
+    },
+    {
+        "cell_line": "ACH-000081",
+        "drug": "1S,3R-RSL-3",
+        "auc": 2.7079
+    },
+    {
+        "cell_line": "ACH-000082",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.5563
+    },
+    {
+        "cell_line": "ACH-000086",
+        "drug": "1S,3R-RSL-3",
+        "auc": 9.3209
+    },
+    {
+        "cell_line": "ACH-000087",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.223
+    },
+    {
+        "cell_line": "ACH-000090",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.2901
+    },
+    {
+        "cell_line": "ACH-000091",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.5919
+    },
+    {
+        "cell_line": "ACH-000092",
+        "drug": "1S,3R-RSL-3",
+        "auc": 10.052
+    },
+    {
+        "cell_line": "ACH-000093",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.5425
+    },
+    {
+        "cell_line": "ACH-000094",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.3196
+    },
+    {
+        "cell_line": "ACH-000096",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.8418
+    },
+    {
+        "cell_line": "ACH-000097",
+        "drug": "1S,3R-RSL-3",
+        "auc": 12.43
+    },
+    {
+        "cell_line": "ACH-000098",
+        "drug": "1S,3R-RSL-3",
+        "auc": 11.424
+    },
+    {
+        "cell_line": "ACH-000099",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.4914
+    },
+    {
+        "cell_line": "ACH-000100",
+        "drug": "1S,3R-RSL-3",
+        "auc": 4.5469
+    },
+    {
+        "cell_line": "ACH-000101",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.0908
+    },
+    {
+        "cell_line": "ACH-000102",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.7422
+    },
+    {
+        "cell_line": "ACH-000106",
+        "drug": "1S,3R-RSL-3",
+        "auc": 2.8419
+    },
+    {
+        "cell_line": "ACH-000107",
+        "drug": "1S,3R-RSL-3",
+        "auc": 12.834
+    },
+    {
+        "cell_line": "ACH-000108",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.2925
+    },
+    {
+        "cell_line": "ACH-000110",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.7726
+    },
+    {
+        "cell_line": "ACH-000112",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.7233
+    },
+    {
+        "cell_line": "ACH-000113",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.4613
+    },
+    {
+        "cell_line": "ACH-000114",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.3857
+    },
+    {
+        "cell_line": "ACH-000115",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.5315
+    },
+    {
+        "cell_line": "ACH-000116",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.40315
+    },
+    {
+        "cell_line": "ACH-000118",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.4061
+    },
+    {
+        "cell_line": "ACH-000120",
+        "drug": "1S,3R-RSL-3",
+        "auc": 9.6657
+    },
+    {
+        "cell_line": "ACH-000121",
+        "drug": "1S,3R-RSL-3",
+        "auc": 7.939
+    },
+    {
+        "cell_line": "ACH-000122",
+        "drug": "1S,3R-RSL-3",
+        "auc": 3.694
+    },
+    {
+        "cell_line": "ACH-000123",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.2811
+    },
+    {
+        "cell_line": "ACH-000124",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.82
+    },
+    {
+        "cell_line": "ACH-000126",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.1751
+    },
+    {
+        "cell_line": "ACH-000129",
+        "drug": "1S,3R-RSL-3",
+        "auc": 3.724
+    },
+    {
+        "cell_line": "ACH-000132",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.4445
+    },
+    {
+        "cell_line": "ACH-000133",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.5507
+    },
+    {
+        "cell_line": "ACH-000135",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.9548
+    },
+    {
+        "cell_line": "ACH-000136",
+        "drug": "1S,3R-RSL-3",
+        "auc": 3.9727
+    },
+    {
+        "cell_line": "ACH-000137",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.0385
+    },
+    {
+        "cell_line": "ACH-000138",
+        "drug": "1S,3R-RSL-3",
+        "auc": 12.908
+    },
+    {
+        "cell_line": "ACH-000139",
+        "drug": "1S,3R-RSL-3",
+        "auc": 9.2354
+    },
+    {
+        "cell_line": "ACH-000141",
+        "drug": "1S,3R-RSL-3",
+        "auc": 9.5735
+    },
+    {
+        "cell_line": "ACH-000146",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.7573
+    },
+    {
+        "cell_line": "ACH-000147",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.1579
+    },
+    {
+        "cell_line": "ACH-000148",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.782
+    },
+    {
+        "cell_line": "ACH-000149",
+        "drug": "1S,3R-RSL-3",
+        "auc": 10.434
+    },
+    {
+        "cell_line": "ACH-000150",
+        "drug": "1S,3R-RSL-3",
+        "auc": 8.9814
+    },
+    {
+        "cell_line": "ACH-000151",
+        "drug": "1S,3R-RSL-3",
+        "auc": 4.3391
+    },
+    {
+        "cell_line": "ACH-000152",
+        "drug": "1S,3R-RSL-3",
+        "auc": 5.9445
+    },
+    {
+        "cell_line": "ACH-000153",
+        "drug": "1S,3R-RSL-3",
+        "auc": 6.3798
+    }
+]

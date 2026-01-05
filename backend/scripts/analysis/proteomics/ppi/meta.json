@@ -1,0 +1,6 @@
+{
+    "name": "蛋白质相互作用分析",
+    "description": "蛋白质-蛋白质相互作用（PPI）网络构建和分析，识别功能模块和关键蛋白质。",
+    "type": "analysis",
+    "category": "proteomics"
+}

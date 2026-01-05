@@ -1,0 +1,292 @@
+[
+    {
+        "specie": "sorgho",
+        "condition": "cond_A",
+        "value": 12.8071
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_B",
+        "value": 11.1581
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_C",
+        "value": 0.7467
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_A",
+        "value": 8.9512
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_B",
+        "value": 4.8525
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_C",
+        "value": 10.0527
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_A",
+        "value": 3.7114
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_B",
+        "value": 4.2195
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_C",
+        "value": 3.6014
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_A",
+        "value": 3.9413
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_B",
+        "value": 17.7231
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_C",
+        "value": 1.5379
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_A",
+        "value": 3.5939
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_B",
+        "value": 6.7494
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_C",
+        "value": 4.0549
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_A",
+        "value": 7.8764
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_B",
+        "value": 8.8947
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_C",
+        "value": 4.2113
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_A",
+        "value": 4.153
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_B",
+        "value": 9.9097
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_C",
+        "value": 9.4397
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_A",
+        "value": 12.7517
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_B",
+        "value": 6.5487
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_C",
+        "value": 5.3389
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_A",
+        "value": 18.4004
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_B",
+        "value": 9.5506
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_C",
+        "value": 8.0162
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_A",
+        "value": 4.8519
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_B",
+        "value": 9.1069
+    },
+    {
+        "specie": "sorgho",
+        "condition": "cond_C",
+        "value": 3.0028
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_A",
+        "value": 13.151
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_B",
+        "value": 7.3539
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_C",
+        "value": 5.8578
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_A",
+        "value": 13.0762
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_B",
+        "value": 8.1959
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_C",
+        "value": 3.7013
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_A",
+        "value": 11.3288
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_B",
+        "value": 7.8978
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_C",
+        "value": 5.3783
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_A",
+        "value": 5.9665
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_B",
+        "value": 14.3854
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_C",
+        "value": 1.4185
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_A",
+        "value": 9.5222
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_B",
+        "value": 5.776
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_A",
+        "value": 8.8784
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_B",
+        "value": 4.712
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_C",
+        "value": 12.9889
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_A",
+        "value": 12.252
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_B",
+        "value": 8.1134
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_C",
+        "value": 7.4028
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_A",
+        "value": 8.5102
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_B",
+        "value": 8.9314
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_A",
+        "value": 13.9079
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_B",
+        "value": 9.3096
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_C",
+        "value": 2.5553
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_A",
+        "value": 8.5017
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_B",
+        "value": 6.6249
+    },
+    {
+        "specie": "poacee",
+        "condition": "cond_C",
+        "value": 0.2581
+    }
+]

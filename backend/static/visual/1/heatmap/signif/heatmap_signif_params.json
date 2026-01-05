@@ -1,0 +1,120 @@
+{
+  "chart_type": "heatmap_signif",
+  "engine": "r",
+  "data": "/Users/dengxsh/Downloads/Work/OmicsAgent/backend/static/visual/1/heatmap/signif/heatmap_signif_data.csv",
+  "ggplot2": {
+    "qcorrplot": {
+      "arguments": {}
+    },
+    "correlate": {
+      "method": "spearman",
+      "engine": "default",
+      "cor.test": true
+    },
+    "layers": [
+      {
+        "type": "geom_square",
+        "mapping": {
+          "fill": "r"
+        },
+        "arguments": {
+          "type": "lower"
+        }
+      },
+      {
+        "type": "geom_shade",
+        "arguments": {
+          "type": "lower",
+          "sign": 1
+        }
+      },
+      {
+        "type": "geom_circle2",
+        "mapping": {
+          "fill": "r"
+        },
+        "arguments": {
+          "type": "upper"
+        }
+      },
+      {
+        "type": "geom_mark",
+        "arguments": {
+          "type": "upper",
+          "filters": [
+            "r != 1",
+            "p.value < 0.05",
+            "abs(r) >= 0.3"
+          ],
+          "size": 3,
+          "sep": "\n"
+        }
+      },
+      {
+        "type": "geom_cross",
+        "arguments": {
+          "filters": [
+            "abs(r) < 0.5"
+          ]
+        }
+      },
+      {
+        "type": "geom_diag_label",
+        "arguments": {
+          "size": 2.5
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_gradientn",
+        "arguments": {
+          "name": "Correlation",
+          "colours": [
+            "#1cc7d0",
+            "#ffffffff",
+            "#fbb05b"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.text": {
+            "type": "element_blank"
+          },
+          "axis.title": {
+            "type": "element_blank"
+          },
+          "axis.ticks": {
+            "type": "element_blank"
+          },
+          "axis.text.x.bottom": {
+            "type": "element_blank"
+          },
+          "legend.background": {
+            "type": "element_blank"
+          },
+          "panel.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 600,
+    "height": 500
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "GEO",
+    "description": "GEO 数据检索与分析工具.",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/",
+    "type": "database",
+    "category": "database",
+    "tools": [
+        {
+            "name": "differential_expression",
+            "title": "差异表达分析",
+            "description": "GEO 差异表达分析",
+            "icon": "mdi:chart-scatter-plot"
+        },
+        {
+            "name": "batch_search",
+            "title": "批量检索",
+            "description": "GEO 批量检索",
+            "icon": "mdi:chart-scatter-plot"
+        }
+    ]
+}

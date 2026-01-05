@@ -1,0 +1,187 @@
+{
+  "name": "极坐标棒棒糖图",
+  "description": "极坐标棒棒糖图是一种特殊的极坐标图，适合展示多个类别的数值",
+  "ggplot2": {
+    "mapping": {
+      "x": "age_group",
+      "y": "mean_prev",
+      "colour": "group"
+    },
+    "layers": [
+      {
+        "type": "geom_hline",
+        "arguments": {
+          "yintercept": [
+            0,
+            0.1,
+            0.2
+          ],
+          "colour": [
+            "grey90"
+          ]
+        }
+      },
+      {
+        "type": "geom_segment",
+        "mapping": {
+          "x": "age_group",
+          "xend": "age_group",
+          "y": 0,
+          "yend": "mean_prev"
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 5,
+          "shape": 21,
+          "fill": "#ffffff"
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 3
+        }
+      },
+      {
+        "type": "geom_text",
+        "mapping": {
+          "label": "age_group"
+        },
+        "arguments": {
+          "angle": 0,
+          "hjust": 0.2
+        }
+      },
+      {
+        "type": "geom_text",
+        "mapping": {
+          "label": "round(mean_prev, 2)"
+        },
+        "arguments": {
+          "angle": -6,
+          "hjust": 0.4,
+          "vjust": 2
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "rect",
+          "xmin": [
+            "-Inf"
+          ],
+          "xmax": [
+            "Inf"
+          ],
+          "ymin": [
+            -0.1
+          ],
+          "ymax": [
+            0
+          ],
+          "fill": [
+            "#81947a"
+          ],
+          "alpha": [
+            0.5
+          ]
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "text",
+          "x": [
+            0
+          ],
+          "y": [
+            -0.1
+          ],
+          "label": [
+            "Age"
+          ],
+          "size": [
+            6
+          ],
+          "vjust": [
+            0.5
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Polar Lollipop Plot",
+        "x": "",
+        "y": ""
+      }
+    },
+    "coordinates": {
+      "type": "coord_polar"
+    },
+    "guides": {
+      "colour": {
+        "type": "guide_none"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#1aafd0",
+            "#2dde98",
+            "#ffc168"
+          ]
+        }
+      },
+      {
+        "type": "scale_y_continuous",
+        "arguments": {
+          "limits": [
+            -0.1,
+            0.3
+          ]
+        }
+      }
+    ],
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "panel.background": {
+            "type": "element_blank"
+          },
+          "panel.grid.major": {
+            "type": "element_blank"
+          },
+          "axis.title": {
+            "type": "element_blank"
+          },
+          "axis.text": {
+            "type": "element_blank"
+          },
+          "axis.ticks": {
+            "type": "element_blank"
+          },
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "size": 14,
+              "hjust": 0.5
+            }
+          }
+        }
+      }
+    ],
+    "width": 500,
+    "height": 500
+  },
+  "has_js": false
+}

@@ -1,0 +1,6 @@
+{
+    "name": "基因组-转录组整合分析",
+    "description": "整合基因组和转录组数据，研究基因变异对表达的影响，识别表达定量性状位点（eQTL）。",
+    "type": "analysis",
+    "category": "multiomics"
+}

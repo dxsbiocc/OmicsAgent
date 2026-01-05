@@ -1,0 +1,72 @@
+{
+  "name": "分箱散点图",
+  "description": "分箱散点图通过分箱展示两个变量之间的分布",
+  "ggplot2": {
+    "mapping": {
+      "x": "BRCA1",
+      "y": "BRCA2"
+    },
+    "layers": [
+      {
+        "type": "geom_hex",
+        "arguments": {
+          "bins": 30,
+          "colour": "#caccd1"
+        }
+      },
+      {
+        "type": "geom_smooth",
+        "arguments": {
+          "method": "lm",
+          "formula": "y ~ x",
+          "colour": "#009392",
+          "fill": "#B1C7B3"
+        }
+      },
+      {
+        "type": "stat_cor",
+        "arguments": {
+          "method": "pearson",
+          "size": 6
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_gradient2",
+        "arguments": {
+          "low": "#e4c1d9",
+          "high": "#c75dab"
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Correlation of BRCA1 and BRCA2"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "hjust": 0.5
+            }
+          }
+        }
+      }
+    ],
+    "width": 750,
+    "height": 700
+  },
+  "has_js": false
+}

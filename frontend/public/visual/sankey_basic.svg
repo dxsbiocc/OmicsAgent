@@ -1,0 +1,93 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<path d="M20 0C341.2 0 341.2 108.2874 662.4 108.2874L662.4 256.5769C341.2 256.5769 341.2 148.2895 20 148.2895Z" transform="translate(85.3 31.75)" fill="url(#zr1-g0)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M20 237.2632C341.2 237.2632 341.2 294.2348 662.4 294.2348L662.4 383.2085C341.2 383.2085 341.2 326.2368 20 326.2368Z" transform="translate(85.3 31.75)" fill="url(#zr1-g1)" fill-opacity="0.2" class="zr1-cls-1"></path>
+<path d="M20 334.2368C175.6 334.2368 175.6 293.7813 331.2 293.7813L331.2 531.0444C175.6 531.0444 175.6 571.5 20 571.5Z" transform="translate(85.3 31.75)" fill="url(#zr1-g2)" fill-opacity="0.2" class="zr1-cls-2"></path>
+<path d="M20 148.2895C175.6 148.2895 175.6 204.8076 331.2 204.8076L331.2 293.7813C175.6 293.7813 175.6 237.2632 20 237.2632Z" transform="translate(85.3 31.75)" fill="url(#zr1-g3)" fill-opacity="0.2" class="zr1-cls-3"></path>
+<path d="M351.2 204.8076C506.8 204.8076 506.8 256.5769 662.4 256.5769L662.4 286.2348C506.8 286.2348 506.8 234.4655 351.2 234.4655Z" transform="translate(85.3 31.75)" fill="url(#zr1-g0)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M351.2 234.4655C506.8 234.4655 506.8 391.2085 662.4 391.2085L662.4 450.5243C506.8 450.5243 506.8 293.7813 351.2 293.7813Z" transform="translate(85.3 31.75)" fill="url(#zr1-g4)" fill-opacity="0.2" class="zr1-cls-4"></path>
+<path d="M0 0l20 0l0 326.2368l-20 0Z" transform="translate(85.3 31.75)" fill="rgb(225,95,95)" class="zr1-cls-5"></path>
+<path d="M0 334.2368l20 0l0 237.2632l-20 0Z" transform="translate(85.3 31.75)" fill="rgb(148,73,149)" class="zr1-cls-6"></path>
+<path d="M331.2 204.8076l20 0l0 326.2368l-20 0Z" transform="translate(85.3 31.75)" fill="rgb(225,95,95)" class="zr1-cls-5"></path>
+<path d="M662.4 108.2874l20 0l0 177.9474l-20 0Z" transform="translate(85.3 31.75)" fill="rgb(84,104,206)" class="zr1-cls-7"></path>
+<path d="M662.4 294.2348l20 0l0 88.9737l-20 0Z" transform="translate(85.3 31.75)" fill="rgb(47,157,158)" class="zr1-cls-8"></path>
+<path d="M662.4 391.2085l20 0l0 59.3158l-20 0Z" transform="translate(85.3 31.75)" fill="rgb(9,157,132)" class="zr1-cls-9"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(110.3 194.8684)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">a</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(110.3 484.6184)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">b</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(441.5 399.676)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">b1</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(772.7 229.0111)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">a1</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(772.7 370.4716)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">a2</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(772.7 452.6164)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">c</text>
+<path d="M-62.654 -5l125.3079 0l0 28l-125.3079 0Z" transform="translate(426.5 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-10"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(426.5 20)" fill="#3c3c41">Sankey Basic</text>
+<defs >
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr1-g0">
+<stop offset="0%" stop-color="rgb(225,95,95)"></stop>
+<stop offset="100%" stop-color="rgb(84,104,206)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr1-g1">
+<stop offset="0%" stop-color="rgb(225,95,95)"></stop>
+<stop offset="100%" stop-color="rgb(47,157,158)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr1-g2">
+<stop offset="0%" stop-color="rgb(148,73,149)"></stop>
+<stop offset="100%" stop-color="rgb(225,95,95)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr1-g3">
+<stop offset="0%" stop-color="rgb(225,95,95)"></stop>
+<stop offset="100%" stop-color="rgb(225,95,95)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr1-g4">
+<stop offset="0%" stop-color="rgb(225,95,95)"></stop>
+<stop offset="100%" stop-color="rgb(9,157,132)"></stop>
+</linearGradient>
+</defs>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(247,104,104,1);
+}
+.zr1-cls-6:hover {
+cursor:pointer;
+fill:rgba(162,80,163,1);
+}
+.zr1-cls-7:hover {
+cursor:pointer;
+fill:rgba(92,114,226,1);
+}
+.zr1-cls-8:hover {
+cursor:pointer;
+fill:rgba(51,172,173,1);
+}
+.zr1-cls-9:hover {
+cursor:pointer;
+fill:rgba(9,172,145,1);
+}
+.zr1-cls-10:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
+</svg>

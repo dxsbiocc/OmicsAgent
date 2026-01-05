@@ -1,0 +1,127 @@
+{
+  "name": "贝塞尔曲线配对散点图",
+  "description": "Render a basic line plot using ggplot2.",
+  "ggplot2": {
+    "mapping": {
+      "x": "sample_type",
+      "y": "BRCA1"
+    },
+    "layers": [
+      {
+        "type": "geom_blank"
+      },
+      {
+        "type": "geom_bezier",
+        "mapping": {
+          "x": "x",
+          "y": "y",
+          "group": "group"
+        },
+        "arguments": {
+          "colour": "#caccd1",
+          "alpha": 0.5,
+          "inherit.aes": false
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "position": {
+            "type": "position_dodge2",
+            "arguments": {
+              "width": 0.3
+            }
+          },
+          "size": 4,
+          "colour": "white"
+        }
+      },
+      {
+        "type": "geom_point",
+        "mapping": {
+          "fill": "sample_type"
+        },
+        "arguments": {
+          "position": {
+            "type": "position_dodge2",
+            "arguments": {
+              "width": 0.3
+            }
+          },
+          "size": 3,
+          "shape": 21,
+          "stroke": 0.5,
+          "alpha": 0.9,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_signif",
+        "arguments": {
+          "test": "wilcox.test",
+          "test.args": {
+            "type": "list",
+            "arguments": {
+              "paired": true
+            }
+          },
+          "margin_top": [
+            0.1
+          ],
+          "map_signif_level": "pvalue = %.2g"
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#2dde98",
+            "#ff4f81"
+          ]
+        }
+      },
+      {
+        "type": "scale_y_continuous",
+        "arguments": {
+          "expand": [
+            0.1,
+            0.1
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "TCGA-ACC",
+        "x": "",
+        "y": "Expression of BRCA1"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "size": 14,
+              "hjust": 0.5
+            }
+          }
+        }
+      }
+    ],
+    "width": 300,
+    "height": 400
+  },
+  "has_js": false
+}

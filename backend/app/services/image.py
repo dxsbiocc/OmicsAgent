@@ -14,7 +14,7 @@ from sqlalchemy import select, func, and_
 from sqlalchemy.orm import selectinload
 from fastapi import UploadFile, HTTPException, status
 from PIL import Image
-import aiofiles
+from aiofile import AIOFile
 
 from app.models.image_library import ImageLibrary
 from app.models.user import User
@@ -25,15 +25,32 @@ logger = get_logger("image")
 
 # 配置上传目录
 UPLOAD_DIR = Path("uploads")
-IMAGES_DIR = UPLOAD_DIR / "images"
 STATIC_DIR = Path("static")
-IMAGES_STATIC_DIR = STATIC_DIR / "images"
 
 # 确保目录存在
 UPLOAD_DIR.mkdir(exist_ok=True)
-IMAGES_DIR.mkdir(exist_ok=True)
 STATIC_DIR.mkdir(exist_ok=True)
-IMAGES_STATIC_DIR.mkdir(exist_ok=True)
+
+
+def get_user_upload_dir(user_id: int) -> Path:
+    """获取用户上传目录"""
+    user_dir = UPLOAD_DIR / str(user_id)
+    user_dir.mkdir(exist_ok=True)
+    return user_dir
+
+
+def get_user_images_dir(user_id: int) -> Path:
+    """获取用户图片目录"""
+    images_dir = get_user_upload_dir(user_id) / "上传"
+    images_dir.mkdir(exist_ok=True)
+    return images_dir
+
+
+def get_user_static_dir(user_id: int) -> Path:
+    """获取用户静态文件目录（已弃用，用户文件统一存储在uploads目录）"""
+    # 不再使用static目录存储用户文件，统一使用uploads目录
+    return get_user_upload_dir(user_id)
+
 
 # 允许的图片格式
 ALLOWED_IMAGE_TYPES = {"image/jpeg", "image/png", "image/gif", "image/webp"}
@@ -85,9 +102,8 @@ class ImageService:
     ) -> Tuple[str, str, int, int, int]:
         """处理图片文件：保存、调整尺寸、获取信息"""
         try:
-            # 生成用户目录和文件名
-            user_dir = IMAGES_DIR / str(user_id)
-            user_dir.mkdir(exist_ok=True)
+            # 获取用户图片目录
+            images_dir = get_user_images_dir(user_id)
 
             # 生成唯一文件名：用户ID_时间戳_UUID.扩展名
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -95,10 +111,10 @@ class ImageService:
             file_extension = Path(file.filename).suffix.lower()
             filename = f"{user_id}_{timestamp}_{file_id}{file_extension}"
 
-            file_path = user_dir / filename
+            file_path = images_dir / filename
 
             # 保存原始文件
-            async with aiofiles.open(file_path, "wb") as f:
+            async with AIOFile(file_path, "wb") as f:
                 content = await file.read()
                 await f.write(content)
 
@@ -131,12 +147,6 @@ class ImageService:
                 # 保存处理后的图片
                 img.save(file_path, "JPEG", quality=90, optimize=True)
 
-            # 复制到静态文件目录
-            static_user_dir = IMAGES_STATIC_DIR / str(user_id)
-            static_user_dir.mkdir(exist_ok=True)
-            static_file_path = static_user_dir / filename
-            shutil.copy2(file_path, static_file_path)
-
             logger.info(f"图片处理完成: {filename}, 尺寸: {width}x{height}")
             return filename, str(file_path), file_size, width, height
 
@@ -150,7 +160,7 @@ class ImageService:
     @staticmethod
     def get_image_url(user_id: int, filename: str) -> str:
         """获取图片的访问URL"""
-        return f"/static/images/{user_id}/{filename}"
+        return f"/uploads/{user_id}/上传/{filename}"
 
     @staticmethod
     async def upload_image(
@@ -306,11 +316,6 @@ class ImageService:
             file_path = Path(image.file_path)
             if file_path.exists():
                 file_path.unlink()
-
-            # 删除静态文件
-            static_file_path = IMAGES_STATIC_DIR / str(user_id) / image.filename
-            if static_file_path.exists():
-                static_file_path.unlink()
 
             logger.info(f"图片删除成功: {image.filename}")
         except Exception as e:

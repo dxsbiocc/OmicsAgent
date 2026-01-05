@@ -1,0 +1,138 @@
+[
+    {
+        "index": 1,
+        "ONTOLOGY": "KEGG",
+        "Description": "Endocytosis",
+        "p.adjust": 1.4598e-06,
+        "geneID": "CBL/TSG101/CHMP2B/CBLC/RAB11FIP1/EPS15/EPN2/HGS/WIPF2/ASAP1/HSPA1B/RBSN/DAB2/SNX2/RAB11FIP5",
+        "Count": 15
+    },
+    {
+        "index": 2,
+        "ONTOLOGY": "KEGG",
+        "Description": "Protein processing in endoplasmic reticulum",
+        "p.adjust": 0.0104,
+        "geneID": "DNAJB11/HYOU1/SEC24A/SEC31A/DNAJA2/SEC23B/FBXO6/HSPA1B",
+        "Count": 8
+    },
+    {
+        "index": 3,
+        "ONTOLOGY": "KEGG",
+        "Description": "Regulation of actin cytoskeleton",
+        "p.adjust": 0.0243,
+        "geneID": "APC/PIK3CA/INS/PIK3R1/EZR/WASF2/BCAR1/RDX",
+        "Count": 8
+    },
+    {
+        "index": 4,
+        "ONTOLOGY": "KEGG",
+        "Description": "Fc gamma R-mediated phagocytosis",
+        "p.adjust": 0.0336,
+        "geneID": "PIK3CA/PIK3R1/ASAP1/WASF2/LYN",
+        "Count": 5
+    },
+    {
+        "index": 5,
+        "ONTOLOGY": "KEGG",
+        "Description": "Longevity regulating pathway - multiple species",
+        "p.adjust": 0.0376,
+        "geneID": "PIK3CA/INS/PIK3R1/HSPA1B",
+        "Count": 4
+    },
+    {
+        "index": 6,
+        "ONTOLOGY": "MF",
+        "Description": "cadherin binding",
+        "p.adjust": 2.4555e-08,
+        "geneID": "CBL/CHMP2B/SWAP70/EPS15/EPN2/PARK7/MICALL1/PDXDC1/EZR/ASAP1/PFKP/ARHGAP1/PACSIN2/YWHAB/MAPRE1/WASF2/RDX/SNX2",
+        "Count": 18
+    },
+    {
+        "index": 7,
+        "ONTOLOGY": "MF",
+        "Description": "SH3 domain binding",
+        "p.adjust": 0.0004,
+        "geneID": "CBL/CBLC/EPS15/ARHGAP1/WASF2/PTPN12/BCAR1/LYN",
+        "Count": 8
+    },
+    {
+        "index": 8,
+        "ONTOLOGY": "MF",
+        "Description": "ephrin receptor binding",
+        "p.adjust": 0.0048,
+        "geneID": "CBL/ANKS1A/EPHA4/LYN",
+        "Count": 4
+    },
+    {
+        "index": 9,
+        "ONTOLOGY": "MF",
+        "Description": "phospholipid binding",
+        "p.adjust": 0.0065,
+        "geneID": "PIK3C2B/BCAS3/EPDR1/EPN2/MICALL1/FERMT2/HGS/ASAP1/SH3PXD2B/APPL1/PACSIN2/GGA1/SNX2",
+        "Count": 13
+    },
+    {
+        "index": 10,
+        "ONTOLOGY": "CC",
+        "Description": "cell leading edge",
+        "p.adjust": 2.9585e-07,
+        "geneID": "APC/PIK3CA/BCAS3/SWAP70/MTMR6/FERMT2/STON1/EZR/TMEM87A/APPL1/PACSIN2/FLOT2/WASF2/BCAR1/ABLIM1/RDX/SNX2/SH3RF1",
+        "Count": 18
+    },
+    {
+        "index": 11,
+        "ONTOLOGY": "CC",
+        "Description": "lamellipodium",
+        "p.adjust": 0,
+        "geneID": "APC/PIK3CA/SWAP70/FERMT2/FLOT2/WASF2/BCAR1/ABLIM1/RDX/SNX2/SH3RF1",
+        "Count": 11
+    },
+    {
+        "index": 12,
+        "ONTOLOGY": "CC",
+        "Description": "focal adhesion",
+        "p.adjust": 0.0001,
+        "geneID": "CBL/HYOU1/FERMT2/EZR/PACSIN2/FLOT2/HSPA1B/YWHAB/MAPRE1/PTPN12/PPFIA1/BCAR1/DAB2/RDX",
+        "Count": 14
+    },
+    {
+        "index": 13,
+        "ONTOLOGY": "BP",
+        "Description": "endosomal transport",
+        "p.adjust": 0,
+        "geneID": "TSG101/CHMP2B/EVI5/EPS15/MICALL1/HGS/EZR/TMEM87A/BECN1/ARHGAP1/RBSN/GGA1/DAB2/RDX/SNX2",
+        "Count": 15
+    },
+    {
+        "index": 14,
+        "ONTOLOGY": "BP",
+        "Description": "protein localization to plasma membrane",
+        "p.adjust": 0,
+        "geneID": "LYPD1/INS/ZDHHC5/GORASP2/PIK3R1/EZR/ASAP1/TMEM59/APPL1/FLOT2/GGA1/PPFIA1/DAB2/RDX",
+        "Count": 14
+    },
+    {
+        "index": 15,
+        "ONTOLOGY": "BP",
+        "Description": "regulation of protein localization to plasma membrane",
+        "p.adjust": 0.0002,
+        "geneID": "LYPD1/INS/ZDHHC5/PIK3R1/EZR/TMEM59/APPL1/PPFIA1/DAB2",
+        "Count": 9
+    },
+    {
+        "index": 16,
+        "ONTOLOGY": "BP",
+        "Description": "protein localization to cell periphery",
+        "p.adjust": 0.0003,
+        "geneID": "LYPD1/INS/ZDHHC5/GORASP2/PIK3R1/EZR/ASAP1/TMEM59/APPL1/FLOT2/GGA1/PPFIA1/DAB2/RDX",
+        "Count": 14
+    },
+    {
+        "index": 17,
+        "ONTOLOGY": "BP",
+        "Description": "regulation of protein kinase activity",
+        "p.adjust": 0.0003,
+        "geneID": "APC/TSG101/CDKN2B/CBLC/INS/CDKN2A/DNAJA3/EPHA4/FERMT2/TNFRSF10A/HGS/SYAP1/CEP85/LATS2/LYN",
+        "Count": 15
+    }
+]

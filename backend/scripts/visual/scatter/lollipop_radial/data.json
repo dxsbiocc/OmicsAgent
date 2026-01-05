@@ -1,0 +1,77 @@
+[
+    {
+        "age_group": "25 to 29",
+        "mean_prev": 0.1198354149,
+        "group": "Low"
+    },
+    {
+        "age_group": "30 to 34",
+        "mean_prev": 0.1478490868,
+        "group": "Low"
+    },
+    {
+        "age_group": "35 to 39",
+        "mean_prev": 0.1750576206,
+        "group": "Medium"
+    },
+    {
+        "age_group": "40 to 44",
+        "mean_prev": 0.1947254167,
+        "group": "Medium"
+    },
+    {
+        "age_group": "45 to 49",
+        "mean_prev": 0.1989868928,
+        "group": "Medium"
+    },
+    {
+        "age_group": "50 to 54",
+        "mean_prev": 0.2045157514,
+        "group": "Medium"
+    },
+    {
+        "age_group": "55 to 59",
+        "mean_prev": 0.209810224,
+        "group": "High"
+    },
+    {
+        "age_group": "60 to 64",
+        "mean_prev": 0.2181728452,
+        "group": "High"
+    },
+    {
+        "age_group": "65 to 69",
+        "mean_prev": 0.2061157345,
+        "group": "Medium"
+    },
+    {
+        "age_group": "70 to 74",
+        "mean_prev": 0.1954865219,
+        "group": "Medium"
+    },
+    {
+        "age_group": "75 to 79",
+        "mean_prev": 0.1786905122,
+        "group": "Medium"
+    },
+    {
+        "age_group": "80 to 84",
+        "mean_prev": 0.150088629,
+        "group": "Medium"
+    },
+    {
+        "age_group": "85 to 89",
+        "mean_prev": 0.1558262172,
+        "group": "Medium"
+    },
+    {
+        "age_group": "90 to 94",
+        "mean_prev": 0.1680344348,
+        "group": "Medium"
+    },
+    {
+        "age_group": "95 plus",
+        "mean_prev": 0.1719485712,
+        "group": "Medium"
+    }
+]

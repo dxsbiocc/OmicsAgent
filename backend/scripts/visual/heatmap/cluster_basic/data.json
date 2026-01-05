@@ -1,0 +1,1153 @@
+{
+    "matrix": [
+        {
+            "sample": "YAP1",
+            "TCGA-DD-A3A2": 2.0459,
+            "TCGA-DD-A39Z": 2.2483,
+            "TCGA-FV-A3I0": 2.733,
+            "TCGA-DD-A39X": 2.2839,
+            "TCGA-BC-A10U": 3.2591,
+            "TCGA-5R-AA1C": 3.5278,
+            "TCGA-ED-A66Y": 4.4178,
+            "TCGA-DD-AAEI": 2.664,
+            "TCGA-ED-A8O5": 4.0921,
+            "TCGA-DD-AACH": 3.624
+        },
+        {
+            "sample": "WWTR1",
+            "TCGA-DD-A3A2": 1.6907,
+            "TCGA-DD-A39Z": 1.4233,
+            "TCGA-FV-A3I0": 2.1989,
+            "TCGA-DD-A39X": 1.7649,
+            "TCGA-BC-A10U": 2.8865,
+            "TCGA-5R-AA1C": 3.3939,
+            "TCGA-ED-A66Y": 2.895,
+            "TCGA-DD-AAEI": 1.1903,
+            "TCGA-ED-A8O5": 1.9787,
+            "TCGA-DD-AACH": 2.4678
+        },
+        {
+            "sample": "TEAD1",
+            "TCGA-DD-A3A2": 1.7479,
+            "TCGA-DD-A39Z": 1.4397,
+            "TCGA-FV-A3I0": 2.5218,
+            "TCGA-DD-A39X": 1.9216,
+            "TCGA-BC-A10U": 2.9212,
+            "TCGA-5R-AA1C": 2.986,
+            "TCGA-ED-A66Y": 3.0577,
+            "TCGA-DD-AAEI": 1.8161,
+            "TCGA-ED-A8O5": 2.4443,
+            "TCGA-DD-AACH": 3.0068
+        },
+        {
+            "sample": "TEAD2",
+            "TCGA-DD-A3A2": 0.9541,
+            "TCGA-DD-A39Z": 0.9217,
+            "TCGA-FV-A3I0": 0.7404,
+            "TCGA-DD-A39X": 1.2849,
+            "TCGA-BC-A10U": 1.5434,
+            "TCGA-5R-AA1C": 2.4374,
+            "TCGA-ED-A66Y": 3.4145,
+            "TCGA-DD-AAEI": 1.116,
+            "TCGA-ED-A8O5": 3.2725,
+            "TCGA-DD-AACH": 4.7664
+        },
+        {
+            "sample": "TEAD3",
+            "TCGA-DD-A3A2": 1.7889,
+            "TCGA-DD-A39Z": 1.9619,
+            "TCGA-FV-A3I0": 2.3207,
+            "TCGA-DD-A39X": 1.6849,
+            "TCGA-BC-A10U": 2.7553,
+            "TCGA-5R-AA1C": 2.9906,
+            "TCGA-ED-A66Y": 3.8502,
+            "TCGA-DD-AAEI": 2.0837,
+            "TCGA-ED-A8O5": 3.8324,
+            "TCGA-DD-AACH": 3.8546
+        },
+        {
+            "sample": "TEAD4",
+            "TCGA-DD-A3A2": 0.4479,
+            "TCGA-DD-A39Z": 0.3976,
+            "TCGA-FV-A3I0": 1.1482,
+            "TCGA-DD-A39X": 0.4413,
+            "TCGA-BC-A10U": 2.0047,
+            "TCGA-5R-AA1C": 0.1989,
+            "TCGA-ED-A66Y": 1.9099,
+            "TCGA-DD-AAEI": 0.7465,
+            "TCGA-ED-A8O5": 1.0952,
+            "TCGA-DD-AACH": 1.063
+        },
+        {
+            "sample": "SMAD1",
+            "TCGA-DD-A3A2": 1.2331,
+            "TCGA-DD-A39Z": 1.495,
+            "TCGA-FV-A3I0": 1.8644,
+            "TCGA-DD-A39X": 1.4205,
+            "TCGA-BC-A10U": 2.1757,
+            "TCGA-5R-AA1C": 1.8151,
+            "TCGA-ED-A66Y": 1.4366,
+            "TCGA-DD-AAEI": 1.4673,
+            "TCGA-ED-A8O5": 1.051,
+            "TCGA-DD-AACH": 2.0273
+        },
+        {
+            "sample": "SMAD2",
+            "TCGA-DD-A3A2": 0.6179,
+            "TCGA-DD-A39Z": 0.5149,
+            "TCGA-FV-A3I0": 0.4908,
+            "TCGA-DD-A39X": 0.6288,
+            "TCGA-BC-A10U": 0.6732,
+            "TCGA-5R-AA1C": 1.4779,
+            "TCGA-ED-A66Y": 1.4712,
+            "TCGA-DD-AAEI": 0.6863,
+            "TCGA-ED-A8O5": 1.4386,
+            "TCGA-DD-AACH": 1.8085
+        },
+        {
+            "sample": "SMAD3",
+            "TCGA-DD-A3A2": 1.8922,
+            "TCGA-DD-A39Z": 1.6318,
+            "TCGA-FV-A3I0": 2.1511,
+            "TCGA-DD-A39X": 1.8925,
+            "TCGA-BC-A10U": 2.4747,
+            "TCGA-5R-AA1C": 2.8478,
+            "TCGA-ED-A66Y": 3.4732,
+            "TCGA-DD-AAEI": 1.8557,
+            "TCGA-ED-A8O5": 3.0729,
+            "TCGA-DD-AACH": 2.6632
+        },
+        {
+            "sample": "SMAD4",
+            "TCGA-DD-A3A2": 1.9417,
+            "TCGA-DD-A39Z": 1.7115,
+            "TCGA-FV-A3I0": 1.8888,
+            "TCGA-DD-A39X": 1.8428,
+            "TCGA-BC-A10U": 2.0344,
+            "TCGA-5R-AA1C": 2.2738,
+            "TCGA-ED-A66Y": 2.6068,
+            "TCGA-DD-AAEI": 1.7556,
+            "TCGA-ED-A8O5": 3.2644,
+            "TCGA-DD-AACH": 2.814
+        },
+        {
+            "sample": "ABCC1",
+            "TCGA-DD-A3A2": 0.3818,
+            "TCGA-DD-A39Z": 0.3219,
+            "TCGA-FV-A3I0": 0.3994,
+            "TCGA-DD-A39X": 0.3061,
+            "TCGA-BC-A10U": 1.0325,
+            "TCGA-5R-AA1C": 1.9928,
+            "TCGA-ED-A66Y": 2.1521,
+            "TCGA-DD-AAEI": 1.4035,
+            "TCGA-ED-A8O5": 0.4984,
+            "TCGA-DD-AACH": 2.8809
+        },
+        {
+            "sample": "ACACA",
+            "TCGA-DD-A3A2": 0.933,
+            "TCGA-DD-A39Z": 0.8148,
+            "TCGA-FV-A3I0": 0.8597,
+            "TCGA-DD-A39X": 1.6198,
+            "TCGA-BC-A10U": 0.9133,
+            "TCGA-5R-AA1C": 1.9578,
+            "TCGA-ED-A66Y": 2.4381,
+            "TCGA-DD-AAEI": 1.5459,
+            "TCGA-ED-A8O5": 1.4801,
+            "TCGA-DD-AACH": 2.6129
+        },
+        {
+            "sample": "ACO1",
+            "TCGA-DD-A3A2": 4.4971,
+            "TCGA-DD-A39Z": 4.0028,
+            "TCGA-FV-A3I0": 4.7822,
+            "TCGA-DD-A39X": 4.4905,
+            "TCGA-BC-A10U": 4.5293,
+            "TCGA-5R-AA1C": 4.2799,
+            "TCGA-ED-A66Y": 3.9187,
+            "TCGA-DD-AAEI": 4.6179,
+            "TCGA-ED-A8O5": 3.6862,
+            "TCGA-DD-AACH": 5.0394
+        },
+        {
+            "sample": "ACSF2",
+            "TCGA-DD-A3A2": 2.7189,
+            "TCGA-DD-A39Z": 2.9229,
+            "TCGA-FV-A3I0": 3.3983,
+            "TCGA-DD-A39X": 3.1543,
+            "TCGA-BC-A10U": 2.91,
+            "TCGA-5R-AA1C": 3.5745,
+            "TCGA-ED-A66Y": 2.8932,
+            "TCGA-DD-AAEI": 3.0416,
+            "TCGA-ED-A8O5": 2.9282,
+            "TCGA-DD-AACH": 3.8889
+        },
+        {
+            "sample": "ACSL3",
+            "TCGA-DD-A3A2": 2.2744,
+            "TCGA-DD-A39Z": 2.7236,
+            "TCGA-FV-A3I0": 3.07,
+            "TCGA-DD-A39X": 2.898,
+            "TCGA-BC-A10U": 3.3302,
+            "TCGA-5R-AA1C": 3.8682,
+            "TCGA-ED-A66Y": 3.7188,
+            "TCGA-DD-AAEI": 2.8622,
+            "TCGA-ED-A8O5": 3.5177,
+            "TCGA-DD-AACH": 4.3614
+        },
+        {
+            "sample": "ACSL4",
+            "TCGA-DD-A3A2": 1.3211,
+            "TCGA-DD-A39Z": 1.2629,
+            "TCGA-FV-A3I0": 1.1418,
+            "TCGA-DD-A39X": 1.5834,
+            "TCGA-BC-A10U": 2.4241,
+            "TCGA-5R-AA1C": 1.0403,
+            "TCGA-ED-A66Y": 6.2862,
+            "TCGA-DD-AAEI": 2.1569,
+            "TCGA-ED-A8O5": 5.9139,
+            "TCGA-DD-AACH": 5.0536
+        },
+        {
+            "sample": "ALOX15",
+            "TCGA-DD-A3A2": 0.0138,
+            "TCGA-DD-A39Z": 0.0156,
+            "TCGA-FV-A3I0": 0.0082,
+            "TCGA-DD-A39X": 0.0128,
+            "TCGA-BC-A10U": 0.023,
+            "TCGA-5R-AA1C": 0.0203,
+            "TCGA-ED-A66Y": 0.0642,
+            "TCGA-DD-AAEI": 0.1027,
+            "TCGA-ED-A8O5": 0.0239,
+            "TCGA-DD-AACH": 0.0616
+        },
+        {
+            "sample": "CARS1",
+            "TCGA-DD-A3A2": 1.2686,
+            "TCGA-DD-A39Z": 1.7597,
+            "TCGA-FV-A3I0": 1.8587,
+            "TCGA-DD-A39X": 1.8322,
+            "TCGA-BC-A10U": 1.7776,
+            "TCGA-5R-AA1C": 1.7191,
+            "TCGA-ED-A66Y": 2.2547,
+            "TCGA-DD-AAEI": 1.5764,
+            "TCGA-ED-A8O5": 1.9208,
+            "TCGA-DD-AACH": 3.4687
+        },
+        {
+            "sample": "CBS",
+            "TCGA-DD-A3A2": 1.1649,
+            "TCGA-DD-A39Z": 0.771,
+            "TCGA-FV-A3I0": 1.2384,
+            "TCGA-DD-A39X": 1.4817,
+            "TCGA-BC-A10U": 0.5559,
+            "TCGA-5R-AA1C": 0.173,
+            "TCGA-ED-A66Y": 0.5207,
+            "TCGA-DD-AAEI": 1.5975,
+            "TCGA-ED-A8O5": 1.6256,
+            "TCGA-DD-AACH": 1.763
+        },
+        {
+            "sample": "CDKN1A",
+            "TCGA-DD-A3A2": 4.7487,
+            "TCGA-DD-A39Z": 3.4831,
+            "TCGA-FV-A3I0": 6.8972,
+            "TCGA-DD-A39X": 3.4393,
+            "TCGA-BC-A10U": 7.2189,
+            "TCGA-5R-AA1C": 6.2522,
+            "TCGA-ED-A66Y": 6.0189,
+            "TCGA-DD-AAEI": 3.2654,
+            "TCGA-ED-A8O5": 3.3799,
+            "TCGA-DD-AACH": 6.6664
+        },
+        {
+            "sample": "CHAC1",
+            "TCGA-DD-A3A2": 2.5993,
+            "TCGA-DD-A39Z": 1.5426,
+            "TCGA-FV-A3I0": 0.8451,
+            "TCGA-DD-A39X": 1.1791,
+            "TCGA-BC-A10U": 0.6333,
+            "TCGA-5R-AA1C": 0.5311,
+            "TCGA-ED-A66Y": 1.6439,
+            "TCGA-DD-AAEI": 0.1262,
+            "TCGA-ED-A8O5": 0.9273,
+            "TCGA-DD-AACH": 1.9382
+        },
+        {
+            "sample": "CISD1",
+            "TCGA-DD-A3A2": 2.7901,
+            "TCGA-DD-A39Z": 3.2167,
+            "TCGA-FV-A3I0": 2.7282,
+            "TCGA-DD-A39X": 2.7181,
+            "TCGA-BC-A10U": 3.1377,
+            "TCGA-5R-AA1C": 3.6637,
+            "TCGA-ED-A66Y": 2.3824,
+            "TCGA-DD-AAEI": 3.4177,
+            "TCGA-ED-A8O5": 3.1884,
+            "TCGA-DD-AACH": 2.9515
+        },
+        {
+            "sample": "CS",
+            "TCGA-DD-A3A2": 2.3105,
+            "TCGA-DD-A39Z": 2.1834,
+            "TCGA-FV-A3I0": 2.3474,
+            "TCGA-DD-A39X": 2.3658,
+            "TCGA-BC-A10U": 2.3725,
+            "TCGA-5R-AA1C": 4.088,
+            "TCGA-ED-A66Y": 4.0254,
+            "TCGA-DD-AAEI": 3.4519,
+            "TCGA-ED-A8O5": 4.6149,
+            "TCGA-DD-AACH": 3.7672
+        },
+        {
+            "sample": "DPP4",
+            "TCGA-DD-A3A2": 2.0554,
+            "TCGA-DD-A39Z": 1.0377,
+            "TCGA-FV-A3I0": 1.9067,
+            "TCGA-DD-A39X": 1.8158,
+            "TCGA-BC-A10U": 1.8301,
+            "TCGA-5R-AA1C": 4.9445,
+            "TCGA-ED-A66Y": 1.6254,
+            "TCGA-DD-AAEI": 3.2514,
+            "TCGA-ED-A8O5": 3.3332,
+            "TCGA-DD-AACH": 3.2575
+        },
+        {
+            "sample": "EMC2",
+            "TCGA-DD-A3A2": 2.036,
+            "TCGA-DD-A39Z": 1.7866,
+            "TCGA-FV-A3I0": 1.7806,
+            "TCGA-DD-A39X": 2.083,
+            "TCGA-BC-A10U": 1.8454,
+            "TCGA-5R-AA1C": 3.3811,
+            "TCGA-ED-A66Y": 2.847,
+            "TCGA-DD-AAEI": 2.6676,
+            "TCGA-ED-A8O5": 3.044,
+            "TCGA-DD-AACH": 3.4009
+        },
+        {
+            "sample": "FADS2",
+            "TCGA-DD-A3A2": 2.3143,
+            "TCGA-DD-A39Z": 3.0686,
+            "TCGA-FV-A3I0": 3.4048,
+            "TCGA-DD-A39X": 3.4615,
+            "TCGA-BC-A10U": 2.3092,
+            "TCGA-5R-AA1C": 1.9933,
+            "TCGA-ED-A66Y": 0.7769,
+            "TCGA-DD-AAEI": 5.2826,
+            "TCGA-ED-A8O5": 2.0707,
+            "TCGA-DD-AACH": 3.471
+        },
+        {
+            "sample": "FANCD2",
+            "TCGA-DD-A3A2": 0.0709,
+            "TCGA-DD-A39Z": 0.128,
+            "TCGA-FV-A3I0": 0.0488,
+            "TCGA-DD-A39X": 0.1148,
+            "TCGA-BC-A10U": 0.1,
+            "TCGA-5R-AA1C": 0.6325,
+            "TCGA-ED-A66Y": 0.7533,
+            "TCGA-DD-AAEI": 0.6478,
+            "TCGA-ED-A8O5": 0.9368,
+            "TCGA-DD-AACH": 1.4862
+        },
+        {
+            "sample": "FDFT1",
+            "TCGA-DD-A3A2": 3.4359,
+            "TCGA-DD-A39Z": 2.7105,
+            "TCGA-FV-A3I0": 3.1565,
+            "TCGA-DD-A39X": 3.6709,
+            "TCGA-BC-A10U": 3.1526,
+            "TCGA-5R-AA1C": 3.851,
+            "TCGA-ED-A66Y": 2.9896,
+            "TCGA-DD-AAEI": 4.5961,
+            "TCGA-ED-A8O5": 4.9501,
+            "TCGA-DD-AACH": 4.4796
+        },
+        {
+            "sample": "FTH1",
+            "TCGA-DD-A3A2": 3.4595,
+            "TCGA-DD-A39Z": 2.8005,
+            "TCGA-FV-A3I0": 4.0041,
+            "TCGA-DD-A39X": 3.134,
+            "TCGA-BC-A10U": 5.4397,
+            "TCGA-5R-AA1C": 7.892,
+            "TCGA-ED-A66Y": 4.2508,
+            "TCGA-DD-AAEI": 6.8743,
+            "TCGA-ED-A8O5": 5.7312,
+            "TCGA-DD-AACH": 6.6877
+        },
+        {
+            "sample": "FTL",
+            "TCGA-DD-A3A2": 12.4974,
+            "TCGA-DD-A39Z": 12.6362,
+            "TCGA-FV-A3I0": 12.3249,
+            "TCGA-DD-A39X": 12.588,
+            "TCGA-BC-A10U": 11.8359,
+            "TCGA-5R-AA1C": 13.8689,
+            "TCGA-ED-A66Y": 11.6983,
+            "TCGA-DD-AAEI": 15.2297,
+            "TCGA-ED-A8O5": 11.8805,
+            "TCGA-DD-AACH": 13.6396
+        },
+        {
+            "sample": "G6PD",
+            "TCGA-DD-A3A2": 0.8922,
+            "TCGA-DD-A39Z": 0.6723,
+            "TCGA-FV-A3I0": 1.0207,
+            "TCGA-DD-A39X": 0.83,
+            "TCGA-BC-A10U": 1.3189,
+            "TCGA-5R-AA1C": 3.2139,
+            "TCGA-ED-A66Y": 4.3448,
+            "TCGA-DD-AAEI": 3.6878,
+            "TCGA-ED-A8O5": 1.9555,
+            "TCGA-DD-AACH": 5.8446
+        },
+        {
+            "sample": "GCLC",
+            "TCGA-DD-A3A2": 3.4228,
+            "TCGA-DD-A39Z": 2.8859,
+            "TCGA-FV-A3I0": 3.6425,
+            "TCGA-DD-A39X": 3.2428,
+            "TCGA-BC-A10U": 3.9317,
+            "TCGA-5R-AA1C": 4.552,
+            "TCGA-ED-A66Y": 1.9083,
+            "TCGA-DD-AAEI": 3.5289,
+            "TCGA-ED-A8O5": 4.6428,
+            "TCGA-DD-AACH": 4.1163
+        },
+        {
+            "sample": "GLS2",
+            "TCGA-DD-A3A2": 1.2152,
+            "TCGA-DD-A39Z": 0.3679,
+            "TCGA-FV-A3I0": 0.8833,
+            "TCGA-DD-A39X": 0.4518,
+            "TCGA-BC-A10U": 0.7914,
+            "TCGA-5R-AA1C": 0.0331,
+            "TCGA-ED-A66Y": 0.0152,
+            "TCGA-DD-AAEI": 0.6213,
+            "TCGA-ED-A8O5": 0.1498,
+            "TCGA-DD-AACH": 0.1621
+        },
+        {
+            "sample": "GOT1",
+            "TCGA-DD-A3A2": 7.2949,
+            "TCGA-DD-A39Z": 6.8739,
+            "TCGA-FV-A3I0": 7.8459,
+            "TCGA-DD-A39X": 7.3774,
+            "TCGA-BC-A10U": 7.7585,
+            "TCGA-5R-AA1C": 4.812,
+            "TCGA-ED-A66Y": 5.4631,
+            "TCGA-DD-AAEI": 6.261,
+            "TCGA-ED-A8O5": 6.6474,
+            "TCGA-DD-AACH": 6.4329
+        },
+        {
+            "sample": "GPX4",
+            "TCGA-DD-A3A2": 7.0277,
+            "TCGA-DD-A39Z": 6.8003,
+            "TCGA-FV-A3I0": 6.8504,
+            "TCGA-DD-A39X": 6.8957,
+            "TCGA-BC-A10U": 7.0025,
+            "TCGA-5R-AA1C": 7.6994,
+            "TCGA-ED-A66Y": 7.0277,
+            "TCGA-DD-AAEI": 7.9866,
+            "TCGA-ED-A8O5": 6.5213,
+            "TCGA-DD-AACH": 6.8523
+        },
+        {
+            "sample": "HMGCR",
+            "TCGA-DD-A3A2": 2.0302,
+            "TCGA-DD-A39Z": 1.4946,
+            "TCGA-FV-A3I0": 2.6767,
+            "TCGA-DD-A39X": 2.0589,
+            "TCGA-BC-A10U": 2.5243,
+            "TCGA-5R-AA1C": 3.1461,
+            "TCGA-ED-A66Y": 3.3269,
+            "TCGA-DD-AAEI": 4.2196,
+            "TCGA-ED-A8O5": 3.7785,
+            "TCGA-DD-AACH": 3.5909
+        },
+        {
+            "sample": "HMOX1",
+            "TCGA-DD-A3A2": 5.1083,
+            "TCGA-DD-A39Z": 4.0632,
+            "TCGA-FV-A3I0": 6.564,
+            "TCGA-DD-A39X": 4.4127,
+            "TCGA-BC-A10U": 6.4597,
+            "TCGA-5R-AA1C": 7.227,
+            "TCGA-ED-A66Y": 1.5454,
+            "TCGA-DD-AAEI": 4.9564,
+            "TCGA-ED-A8O5": 3.428,
+            "TCGA-DD-AACH": 3.9351
+        },
+        {
+            "sample": "HSBP1",
+            "TCGA-DD-A3A2": 2.395,
+            "TCGA-DD-A39Z": 2.3281,
+            "TCGA-FV-A3I0": 1.9978,
+            "TCGA-DD-A39X": 2.3401,
+            "TCGA-BC-A10U": 2.3032,
+            "TCGA-5R-AA1C": 2.8085,
+            "TCGA-ED-A66Y": 2.2869,
+            "TCGA-DD-AAEI": 2.2538,
+            "TCGA-ED-A8O5": 2.5142,
+            "TCGA-DD-AACH": 2.4474
+        },
+        {
+            "sample": "HSPA5",
+            "TCGA-DD-A3A2": 5.5361,
+            "TCGA-DD-A39Z": 7.0005,
+            "TCGA-FV-A3I0": 6.6093,
+            "TCGA-DD-A39X": 5.7182,
+            "TCGA-BC-A10U": 6.9973,
+            "TCGA-5R-AA1C": 7.9496,
+            "TCGA-ED-A66Y": 7.7384,
+            "TCGA-DD-AAEI": 7.0617,
+            "TCGA-ED-A8O5": 7.9372,
+            "TCGA-DD-AACH": 8.1738
+        },
+        {
+            "sample": "HSPB1",
+            "TCGA-DD-A3A2": 5.8139,
+            "TCGA-DD-A39Z": 6.1537,
+            "TCGA-FV-A3I0": 6.0215,
+            "TCGA-DD-A39X": 5.7372,
+            "TCGA-BC-A10U": 6.0982,
+            "TCGA-5R-AA1C": 6.9031,
+            "TCGA-ED-A66Y": 7.7033,
+            "TCGA-DD-AAEI": 8.4315,
+            "TCGA-ED-A8O5": 8.6627,
+            "TCGA-DD-AACH": 8.3794
+        },
+        {
+            "sample": "IREB2",
+            "TCGA-DD-A3A2": 1.884,
+            "TCGA-DD-A39Z": 1.4227,
+            "TCGA-FV-A3I0": 1.5743,
+            "TCGA-DD-A39X": 1.8294,
+            "TCGA-BC-A10U": 1.9494,
+            "TCGA-5R-AA1C": 2.2147,
+            "TCGA-ED-A66Y": 2.7572,
+            "TCGA-DD-AAEI": 1.4365,
+            "TCGA-ED-A8O5": 2.0315,
+            "TCGA-DD-AACH": 1.7526
+        },
+        {
+            "sample": "KEAP1",
+            "TCGA-DD-A3A2": 3.8879,
+            "TCGA-DD-A39Z": 3.7433,
+            "TCGA-FV-A3I0": 3.6641,
+            "TCGA-DD-A39X": 3.7333,
+            "TCGA-BC-A10U": 3.3591,
+            "TCGA-5R-AA1C": 5.2231,
+            "TCGA-ED-A66Y": 4.7664,
+            "TCGA-DD-AAEI": 4.8938,
+            "TCGA-ED-A8O5": 4.2535,
+            "TCGA-DD-AACH": 4.8348
+        },
+        {
+            "sample": "LOX",
+            "TCGA-DD-A3A2": 0.1881,
+            "TCGA-DD-A39Z": 0.3612,
+            "TCGA-FV-A3I0": 0.3999,
+            "TCGA-DD-A39X": 0.0904,
+            "TCGA-BC-A10U": 0.6052,
+            "TCGA-5R-AA1C": 1.7923,
+            "TCGA-ED-A66Y": 3.5021,
+            "TCGA-DD-AAEI": 0.1136,
+            "TCGA-ED-A8O5": 1.0419,
+            "TCGA-DD-AACH": 0.8508
+        },
+        {
+            "sample": "LPCAT3",
+            "TCGA-DD-A3A2": 1.8448,
+            "TCGA-DD-A39Z": 1.4497,
+            "TCGA-FV-A3I0": 2.3078,
+            "TCGA-DD-A39X": 2.0812,
+            "TCGA-BC-A10U": 1.994,
+            "TCGA-5R-AA1C": 1.9393,
+            "TCGA-ED-A66Y": 3.1361,
+            "TCGA-DD-AAEI": 3.0097,
+            "TCGA-ED-A8O5": 2.9929,
+            "TCGA-DD-AACH": 1.8217
+        },
+        {
+            "sample": "MT1G",
+            "TCGA-DD-A3A2": 9.6219,
+            "TCGA-DD-A39Z": 10.2823,
+            "TCGA-FV-A3I0": 10.7558,
+            "TCGA-DD-A39X": 10.7985,
+            "TCGA-BC-A10U": 10.311,
+            "TCGA-5R-AA1C": 1.342,
+            "TCGA-ED-A66Y": 0.0822,
+            "TCGA-DD-AAEI": 1.806,
+            "TCGA-ED-A8O5": 0.8311,
+            "TCGA-DD-AACH": 4.2028
+        },
+        {
+            "sample": "NCOA4",
+            "TCGA-DD-A3A2": 5.629,
+            "TCGA-DD-A39Z": 5.3415,
+            "TCGA-FV-A3I0": 5.8629,
+            "TCGA-DD-A39X": 5.1026,
+            "TCGA-BC-A10U": 5.7129,
+            "TCGA-5R-AA1C": 6.7644,
+            "TCGA-ED-A66Y": 5.9553,
+            "TCGA-DD-AAEI": 5.6654,
+            "TCGA-ED-A8O5": 6.6278,
+            "TCGA-DD-AACH": 5.1788
+        },
+        {
+            "sample": "NFE2L2",
+            "TCGA-DD-A3A2": 3.9899,
+            "TCGA-DD-A39Z": 3.4698,
+            "TCGA-FV-A3I0": 4.1859,
+            "TCGA-DD-A39X": 3.9149,
+            "TCGA-BC-A10U": 4.2356,
+            "TCGA-5R-AA1C": 4.0731,
+            "TCGA-ED-A66Y": 4.1985,
+            "TCGA-DD-AAEI": 3.7257,
+            "TCGA-ED-A8O5": 4.6553,
+            "TCGA-DD-AACH": 4.4221
+        },
+        {
+            "sample": "NFS1",
+            "TCGA-DD-A3A2": 2.1358,
+            "TCGA-DD-A39Z": 1.9259,
+            "TCGA-FV-A3I0": 2.1761,
+            "TCGA-DD-A39X": 2.0457,
+            "TCGA-BC-A10U": 2.0075,
+            "TCGA-5R-AA1C": 2.1729,
+            "TCGA-ED-A66Y": 2.2222,
+            "TCGA-DD-AAEI": 2.0329,
+            "TCGA-ED-A8O5": 2.892,
+            "TCGA-DD-AACH": 2.5894
+        },
+        {
+            "sample": "NOX1",
+            "TCGA-DD-A3A2": 0.2683,
+            "TCGA-DD-A39Z": 0.3106,
+            "TCGA-FV-A3I0": 0.1152,
+            "TCGA-DD-A39X": 0.2142,
+            "TCGA-BC-A10U": 0.138,
+            "TCGA-5R-AA1C": 0.5945,
+            "TCGA-ED-A66Y": 0.262,
+            "TCGA-DD-AAEI": 0.1353,
+            "TCGA-ED-A8O5": 0.3331,
+            "TCGA-DD-AACH": 0.4451
+        },
+        {
+            "sample": "NOX4",
+            "TCGA-DD-A3A2": 0.0191,
+            "TCGA-DD-A39Z": 0.0174,
+            "TCGA-FV-A3I0": 0.027,
+            "TCGA-DD-A39X": 0.0142,
+            "TCGA-BC-A10U": 0.0632,
+            "TCGA-5R-AA1C": 0.2782,
+            "TCGA-ED-A66Y": 0.2525,
+            "TCGA-DD-AAEI": 0.0674,
+            "TCGA-ED-A8O5": 0.2644,
+            "TCGA-DD-AACH": 0.5672
+        },
+        {
+            "sample": "NQO1",
+            "TCGA-DD-A3A2": 0.3173,
+            "TCGA-DD-A39Z": 1.5017,
+            "TCGA-FV-A3I0": 0.5706,
+            "TCGA-DD-A39X": 0.7871,
+            "TCGA-BC-A10U": 1.5644,
+            "TCGA-5R-AA1C": 8.0523,
+            "TCGA-ED-A66Y": 3.0216,
+            "TCGA-DD-AAEI": 7.3081,
+            "TCGA-ED-A8O5": 1.4907,
+            "TCGA-DD-AACH": 8.1937
+        },
+        {
+            "sample": "PEBP1",
+            "TCGA-DD-A3A2": 10.1363,
+            "TCGA-DD-A39Z": 9.7915,
+            "TCGA-FV-A3I0": 9.6319,
+            "TCGA-DD-A39X": 9.9616,
+            "TCGA-BC-A10U": 9.6619,
+            "TCGA-5R-AA1C": 9.5724,
+            "TCGA-ED-A66Y": 8.4983,
+            "TCGA-DD-AAEI": 10.3978,
+            "TCGA-ED-A8O5": 9.9038,
+            "TCGA-DD-AACH": 8.1795
+        },
+        {
+            "sample": "PGD",
+            "TCGA-DD-A3A2": 3.3838,
+            "TCGA-DD-A39Z": 3.9417,
+            "TCGA-FV-A3I0": 4.4822,
+            "TCGA-DD-A39X": 4.0492,
+            "TCGA-BC-A10U": 4.269,
+            "TCGA-5R-AA1C": 5.5494,
+            "TCGA-ED-A66Y": 3.3793,
+            "TCGA-DD-AAEI": 6.0556,
+            "TCGA-ED-A8O5": 4.1756,
+            "TCGA-DD-AACH": 6.9415
+        },
+        {
+            "sample": "PHKG2",
+            "TCGA-DD-A3A2": 1.397,
+            "TCGA-DD-A39Z": 1.4918,
+            "TCGA-FV-A3I0": 1.311,
+            "TCGA-DD-A39X": 1.7759,
+            "TCGA-BC-A10U": 1.315,
+            "TCGA-5R-AA1C": 1.6374,
+            "TCGA-ED-A66Y": 1.7629,
+            "TCGA-DD-AAEI": 1.9206,
+            "TCGA-ED-A8O5": 0.9279,
+            "TCGA-DD-AACH": 1.9971
+        },
+        {
+            "sample": "PTGS2",
+            "TCGA-DD-A3A2": 0.6988,
+            "TCGA-DD-A39Z": 0.3733,
+            "TCGA-FV-A3I0": 0.2683,
+            "TCGA-DD-A39X": 0.1785,
+            "TCGA-BC-A10U": 1.514,
+            "TCGA-5R-AA1C": 0.1017,
+            "TCGA-ED-A66Y": 0.0298,
+            "TCGA-DD-AAEI": 0.0171,
+            "TCGA-ED-A8O5": 0.095,
+            "TCGA-DD-AACH": 0.3426
+        },
+        {
+            "sample": "RPL8",
+            "TCGA-DD-A3A2": 8.0644,
+            "TCGA-DD-A39Z": 7.9068,
+            "TCGA-FV-A3I0": 7.5641,
+            "TCGA-DD-A39X": 7.9201,
+            "TCGA-BC-A10U": 7.8782,
+            "TCGA-5R-AA1C": 8.571,
+            "TCGA-ED-A66Y": 9.2528,
+            "TCGA-DD-AAEI": 9.9284,
+            "TCGA-ED-A8O5": 9.7906,
+            "TCGA-DD-AACH": 8.783
+        },
+        {
+            "sample": "SAT1",
+            "TCGA-DD-A3A2": 7.0731,
+            "TCGA-DD-A39Z": 6.6617,
+            "TCGA-FV-A3I0": 6.9529,
+            "TCGA-DD-A39X": 6.6387,
+            "TCGA-BC-A10U": 7.3253,
+            "TCGA-5R-AA1C": 6.6307,
+            "TCGA-ED-A66Y": 4.6427,
+            "TCGA-DD-AAEI": 6.0813,
+            "TCGA-ED-A8O5": 6.1756,
+            "TCGA-DD-AACH": 5.9351
+        },
+        {
+            "sample": "SLC1A5",
+            "TCGA-DD-A3A2": 1.317,
+            "TCGA-DD-A39Z": 1.0238,
+            "TCGA-FV-A3I0": 1.6795,
+            "TCGA-DD-A39X": 1.2344,
+            "TCGA-BC-A10U": 2.8357,
+            "TCGA-5R-AA1C": 0.8189,
+            "TCGA-ED-A66Y": 6.259,
+            "TCGA-DD-AAEI": 1.3926,
+            "TCGA-ED-A8O5": 1.6062,
+            "TCGA-DD-AACH": 4.0601
+        },
+        {
+            "sample": "SLC40A1",
+            "TCGA-DD-A3A2": 6.3401,
+            "TCGA-DD-A39Z": 4.7448,
+            "TCGA-FV-A3I0": 4.7554,
+            "TCGA-DD-A39X": 5.3166,
+            "TCGA-BC-A10U": 4.9819,
+            "TCGA-5R-AA1C": 9.0071,
+            "TCGA-ED-A66Y": 4.703,
+            "TCGA-DD-AAEI": 6.2052,
+            "TCGA-ED-A8O5": 6.3592,
+            "TCGA-DD-AACH": 6.2981
+        },
+        {
+            "sample": "SLC7A11",
+            "TCGA-DD-A3A2": 0.0407,
+            "TCGA-DD-A39Z": 0.0055,
+            "TCGA-FV-A3I0": 0.0199,
+            "TCGA-DD-A39X": 0.0488,
+            "TCGA-BC-A10U": 0.1841,
+            "TCGA-5R-AA1C": 2.2035,
+            "TCGA-ED-A66Y": 0.039,
+            "TCGA-DD-AAEI": 0.7599,
+            "TCGA-ED-A8O5": 0.1902,
+            "TCGA-DD-AACH": 2.4965
+        },
+        {
+            "sample": "SQLE",
+            "TCGA-DD-A3A2": 1.1691,
+            "TCGA-DD-A39Z": 0.4126,
+            "TCGA-FV-A3I0": 1.3423,
+            "TCGA-DD-A39X": 1.1989,
+            "TCGA-BC-A10U": 1.8275,
+            "TCGA-5R-AA1C": 3.4191,
+            "TCGA-ED-A66Y": 2.7357,
+            "TCGA-DD-AAEI": 5.7478,
+            "TCGA-ED-A8O5": 3.6176,
+            "TCGA-DD-AACH": 4.481
+        },
+        {
+            "sample": "STEAP3",
+            "TCGA-DD-A3A2": 5.0165,
+            "TCGA-DD-A39Z": 5.8097,
+            "TCGA-FV-A3I0": 5.6625,
+            "TCGA-DD-A39X": 5.8268,
+            "TCGA-BC-A10U": 4.7911,
+            "TCGA-5R-AA1C": 4.5885,
+            "TCGA-ED-A66Y": 4.8939,
+            "TCGA-DD-AAEI": 4.8476,
+            "TCGA-ED-A8O5": 4.3075,
+            "TCGA-DD-AACH": 3.044
+        },
+        {
+            "sample": "TF",
+            "TCGA-DD-A3A2": 8.4213,
+            "TCGA-DD-A39Z": 8.0779,
+            "TCGA-FV-A3I0": 8.9725,
+            "TCGA-DD-A39X": 8.1267,
+            "TCGA-BC-A10U": 8.1147,
+            "TCGA-5R-AA1C": 6.9439,
+            "TCGA-ED-A66Y": 7.5041,
+            "TCGA-DD-AAEI": 8.6058,
+            "TCGA-ED-A8O5": 7.9736,
+            "TCGA-DD-AACH": 6.7906
+        },
+        {
+            "sample": "TFRC",
+            "TCGA-DD-A3A2": 2.1254,
+            "TCGA-DD-A39Z": 1.1479,
+            "TCGA-FV-A3I0": 1.32,
+            "TCGA-DD-A39X": 1.57,
+            "TCGA-BC-A10U": 2.0096,
+            "TCGA-5R-AA1C": 4.5501,
+            "TCGA-ED-A66Y": 3.4788,
+            "TCGA-DD-AAEI": 3.718,
+            "TCGA-ED-A8O5": 3.3841,
+            "TCGA-DD-AACH": 4.3614
+        },
+        {
+            "sample": "ZEB1",
+            "TCGA-DD-A3A2": 1.1906,
+            "TCGA-DD-A39Z": 0.9364,
+            "TCGA-FV-A3I0": 1.2695,
+            "TCGA-DD-A39X": 1.0412,
+            "TCGA-BC-A10U": 1.4096,
+            "TCGA-5R-AA1C": 2.2559,
+            "TCGA-ED-A66Y": 2.3081,
+            "TCGA-DD-AAEI": 0.7886,
+            "TCGA-ED-A8O5": 2.0218,
+            "TCGA-DD-AACH": 2.0963
+        }
+    ],
+    "colInfo": [
+        {
+            "sample": "TCGA-DD-A3A2",
+            "group": "Normal"
+        },
+        {
+            "sample": "TCGA-DD-A39Z",
+            "group": "Normal"
+        },
+        {
+            "sample": "TCGA-FV-A3I0",
+            "group": "Normal"
+        },
+        {
+            "sample": "TCGA-DD-A39X",
+            "group": "Normal"
+        },
+        {
+            "sample": "TCGA-BC-A10U",
+            "group": "Normal"
+        },
+        {
+            "sample": "TCGA-5R-AA1C",
+            "group": "Tumor"
+        },
+        {
+            "sample": "TCGA-ED-A66Y",
+            "group": "Tumor"
+        },
+        {
+            "sample": "TCGA-DD-AAEI",
+            "group": "Tumor"
+        },
+        {
+            "sample": "TCGA-ED-A8O5",
+            "group": "Tumor"
+        },
+        {
+            "sample": "TCGA-DD-AACH",
+            "group": "Tumor"
+        }
+    ],
+    "rowInfo": [
+        {
+            "gene": "YAP1",
+            "group": "Hippo"
+        },
+        {
+            "gene": "WWTR1",
+            "group": "Hippo"
+        },
+        {
+            "gene": "TEAD1",
+            "group": "Hippo"
+        },
+        {
+            "gene": "TEAD2",
+            "group": "Hippo"
+        },
+        {
+            "gene": "TEAD3",
+            "group": "Hippo"
+        },
+        {
+            "gene": "TEAD4",
+            "group": "Hippo"
+        },
+        {
+            "gene": "SMAD1",
+            "group": "Hippo"
+        },
+        {
+            "gene": "SMAD2",
+            "group": "Hippo"
+        },
+        {
+            "gene": "SMAD3",
+            "group": "Hippo"
+        },
+        {
+            "gene": "SMAD4",
+            "group": "Hippo"
+        },
+        {
+            "gene": "ABCC1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "ACACA",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "ACO1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "ACSF2",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "ACSL3",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "ACSL4",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "ALOX15",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "CARS1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "CBS",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "CDKN1A",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "CHAC1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "CISD1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "CS",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "DPP4",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "EMC2",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "FADS2",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "FANCD2",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "FDFT1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "FTH1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "FTL",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "G6PD",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "GCLC",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "GLS2",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "GOT1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "GPX4",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "HMGCR",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "HMOX1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "HSBP1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "HSPA5",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "HSPB1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "IREB2",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "KEAP1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "LOX",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "LPCAT3",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "MT1G",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "NCOA4",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "NFE2L2",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "NFS1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "NOX1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "NOX4",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "NQO1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "PEBP1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "PGD",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "PHKG2",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "PTGS2",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "RPL8",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "SAT1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "SLC1A5",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "SLC40A1",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "SLC7A11",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "SQLE",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "STEAP3",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "TF",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "TFRC",
+            "group": "Ferroptosis"
+        },
+        {
+            "gene": "ZEB1",
+            "group": "Ferroptosis"
+        }
+    ]
+}

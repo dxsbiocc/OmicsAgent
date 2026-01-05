@@ -1,0 +1,152 @@
+{
+  "name": "linkET 版双组连接热图",
+  "description": "双组连接热图用于展示变量在不同分组中的分布情况",
+  "ggplot2": {
+    "mapping": {},
+    "layers": [
+      {
+        "type": "geom_shaping",
+        "arguments": {
+          "marker": {
+            "type": "marker",
+            "arguments": {
+              "x": "heart"
+            }
+          }
+        }
+      },
+      {
+        "type": "geom_couple",
+        "mapping": {
+          "colour": "color",
+          "size": "size"
+        },
+        "arguments": {
+          "curvature": {
+            "type": "nice_curvature"
+          }
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_gradientn",
+        "arguments": {
+          "colours": [
+            "#2dde98",
+            "#ffffffff",
+            "#ffc168"
+          ],
+          "name": "Correlation"
+        }
+      },
+      {
+        "type": "scale_size_manual",
+        "arguments": {
+          "values": [
+            0.6,
+            0.9,
+            1.2,
+            1.5
+          ]
+        }
+      },
+      {
+        "type": "scale_colour_gradientn",
+        "arguments": {
+          "colours": [
+            "#2dde98",
+            "#ffffffff",
+            "#ffc168"
+          ],
+          "na.value": "transparent"
+        }
+      }
+    ],
+    "guides": {
+      "size": {
+        "type": "guide_legend",
+        "arguments": {
+          "title": "Spearman's R",
+          "override.aes": {
+            "type": "list",
+            "arguments": {
+              "colour": "grey50"
+            }
+          },
+          "order": 2
+        }
+      },
+      "fill": {
+        "type": "guide_colorbar",
+        "arguments": {
+          "title": "Spearman's R",
+          "order": 3
+        }
+      },
+      "colour": {
+        "type": "guide_none"
+      }
+    },
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.text": {
+            "type": "element_text",
+            "arguments": {
+              "face": "bold",
+              "size": 8
+            }
+          },
+          "axis.title": {
+            "type": "element_blank"
+          },
+          "legend.position": "left",
+          "panel.background": {
+            "type": "element_blank",
+            "arguments": {}
+          },
+          "legend.background": {
+            "type": "element_blank",
+            "arguments": {}
+          }
+        }
+      }
+    ],
+    "correlate": {
+      "x": [
+        "YAP1",
+        "WWTR1"
+      ],
+      "method": "spearman",
+      "engine": "default",
+      "cor.test": true,
+      "breaks": [
+        0.5,
+        0.6,
+        0.7
+      ]
+    },
+    "qcorrplot": {
+      "arguments": {
+        "type": "upper"
+      }
+    },
+    "width": 600,
+    "height": 500
+  },
+  "has_js": false,
+  "has_r": true
+}

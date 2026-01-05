@@ -1,0 +1,6 @@
+{
+    "name": "转录组-蛋白质组整合分析",
+    "description": "整合转录组和蛋白质组数据，研究转录与翻译的关联，识别转录后调控机制。",
+    "type": "analysis",
+    "category": "multiomics"
+}

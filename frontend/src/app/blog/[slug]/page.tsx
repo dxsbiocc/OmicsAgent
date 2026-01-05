@@ -41,6 +41,8 @@ import {
 import { useParams, useRouter } from "next/navigation";
 import { blogApi } from "@/libs/api/blog";
 import { useAuthContext } from "@/contexts/AuthContext";
+import { useThemeContext } from "@/contexts/ThemeContext";
+import { useTheme } from "@mui/material";
 import {
   generateAvatarFromUsername,
   getDefaultAvatar,
@@ -58,6 +60,8 @@ export default function BlogDetailPage() {
   const router = useRouter();
   const slug = params.slug as string;
   const { user } = useAuthContext();
+  const { mode } = useThemeContext();
+  const theme = useTheme();
 
   const [blogPost, setBlogPost] = useState<BlogPostResponse | null>(null);
   const [loading, setLoading] = useState(true);
@@ -282,20 +286,8 @@ export default function BlogDetailPage() {
     <Box
       sx={{
         minHeight: "100vh",
-        background:
-          "linear-gradient(135deg,rgb(174, 236, 209) 0%,rgb(77, 198, 164) 100%)",
+        bgcolor: "background.default",
         position: "relative",
-        "&::before": {
-          content: '""',
-          position: "absolute",
-          top: 0,
-          left: 0,
-          right: 0,
-          bottom: 0,
-          background: "rgba(255, 255, 255, 0.1)",
-          backdropFilter: "blur(10px)",
-          zIndex: 0,
-        },
       }}
     >
       <Container
@@ -382,10 +374,16 @@ export default function BlogDetailPage() {
                       router.push(`/blog/create?edit=${blogPost?.id}`)
                     }
                     sx={{
-                      backgroundColor: "rgba(255, 255, 255, 0.9)",
+                      backgroundColor:
+                        mode === "dark"
+                          ? "rgba(255, 255, 255, 0.2)"
+                          : "rgba(255, 255, 255, 0.9)",
                       color: "primary.main",
                       "&:hover": {
-                        backgroundColor: "white",
+                        backgroundColor:
+                          mode === "dark"
+                            ? "rgba(255, 255, 255, 0.3)"
+                            : "white",
                         transform: "scale(1.1)",
                       },
                       transition: "all 0.3s ease",
@@ -400,10 +398,16 @@ export default function BlogDetailPage() {
                   <IconButton
                     onClick={() => setDeleteDialogOpen(true)}
                     sx={{
-                      backgroundColor: "rgba(255, 255, 255, 0.9)",
+                      backgroundColor:
+                        mode === "dark"
+                          ? "rgba(255, 255, 255, 0.2)"
+                          : "rgba(255, 255, 255, 0.9)",
                       color: "error.main",
                       "&:hover": {
-                        backgroundColor: "white",
+                        backgroundColor:
+                          mode === "dark"
+                            ? "rgba(255, 255, 255, 0.3)"
+                            : "white",
                         transform: "scale(1.1)",
                       },
                       transition: "all 0.3s ease",
@@ -529,10 +533,9 @@ export default function BlogDetailPage() {
                 sx={{
                   p: 4,
                   mb: 4,
-                  bgcolor: "rgba(255, 255, 255, 0.9)",
-                  backdropFilter: "blur(10px)",
-                  border: "1px solid rgba(255, 255, 255, 0.3)",
-                  boxShadow: "0 8px 32px rgba(0, 0, 0, 0.1)",
+                  bgcolor: "background.paper",
+                  border: "1px solid",
+                  borderColor: "divider",
                 }}
               >
                 <ReactMarkdown
@@ -729,7 +732,10 @@ export default function BlogDetailPage() {
                       <Box
                         component="code"
                         sx={{
-                          backgroundColor: "grey.100",
+                          backgroundColor:
+                            mode === "dark"
+                              ? "rgba(255,255,255,0.1)"
+                              : "grey.100",
                           px: 1,
                           py: 0.5,
                           borderRadius: 1,
@@ -744,7 +750,8 @@ export default function BlogDetailPage() {
                       <Box
                         component="pre"
                         sx={{
-                          backgroundColor: "grey.100",
+                          backgroundColor:
+                            mode === "dark" ? "rgba(0,0,0,0.3)" : "grey.100",
                           p: 2,
                           borderRadius: 1,
                           overflow: "auto",
@@ -768,10 +775,9 @@ export default function BlogDetailPage() {
               sx={{
                 p: 3,
                 mb: 4,
-                bgcolor: "rgba(255, 255, 255, 0.85)",
-                backdropFilter: "blur(10px)",
-                border: "1px solid rgba(255, 255, 255, 0.3)",
-                boxShadow: "0 8px 32px rgba(0, 0, 0, 0.1)",
+                bgcolor: "background.paper",
+                border: "1px solid",
+                borderColor: "divider",
               }}
             >
               <Stack spacing={3} alignItems="center">
@@ -885,10 +891,9 @@ export default function BlogDetailPage() {
                 elevation={1}
                 sx={{
                   p: 3,
-                  bgcolor: "rgba(255, 255, 255, 0.8)",
-                  backdropFilter: "blur(10px)",
-                  border: "1px solid rgba(255, 255, 255, 0.3)",
-                  boxShadow: "0 8px 32px rgba(0, 0, 0, 0.1)",
+                  bgcolor: "background.paper",
+                  border: "1px solid",
+                  borderColor: "divider",
                 }}
               >
                 <Typography variant="h6" gutterBottom>

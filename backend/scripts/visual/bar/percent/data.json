@@ -1,0 +1,257 @@
+[
+    {
+        "type": "BLCA",
+        "symbol": "BRAF",
+        "freq": 0.0001
+    },
+    {
+        "type": "BLCA",
+        "symbol": "CDKN2A",
+        "freq": 0.0002
+    },
+    {
+        "type": "BLCA",
+        "symbol": "KRAS",
+        "freq": 0.0001
+    },
+    {
+        "type": "BLCA",
+        "symbol": "PIK3CA",
+        "freq": 0.0007
+    },
+    {
+        "type": "BLCA",
+        "symbol": "PTEN",
+        "freq": 0.0001
+    },
+    {
+        "type": "BLCA",
+        "symbol": "TP53",
+        "freq": 0.0017
+    },
+    {
+        "type": "COAD",
+        "symbol": "BRAF",
+        "freq": 0.0002
+    },
+    {
+        "type": "COAD",
+        "symbol": "CDKN2A",
+        "freq": 0
+    },
+    {
+        "type": "COAD",
+        "symbol": "KRAS",
+        "freq": 0.0007
+    },
+    {
+        "type": "COAD",
+        "symbol": "PIK3CA",
+        "freq": 0.0006
+    },
+    {
+        "type": "COAD",
+        "symbol": "PTEN",
+        "freq": 0.0002
+    },
+    {
+        "type": "COAD",
+        "symbol": "TP53",
+        "freq": 0.0009
+    },
+    {
+        "type": "GBM",
+        "symbol": "BRAF",
+        "freq": 0.0001
+    },
+    {
+        "type": "GBM",
+        "symbol": "CDKN2A",
+        "freq": 0.0001
+    },
+    {
+        "type": "GBM",
+        "symbol": "KRAS",
+        "freq": 0
+    },
+    {
+        "type": "GBM",
+        "symbol": "PIK3CA",
+        "freq": 0.0006
+    },
+    {
+        "type": "GBM",
+        "symbol": "PTEN",
+        "freq": 0.002
+    },
+    {
+        "type": "GBM",
+        "symbol": "TP53",
+        "freq": 0.0022
+    },
+    {
+        "type": "LIHC",
+        "symbol": "CDKN2A",
+        "freq": 0.0002
+    },
+    {
+        "type": "LIHC",
+        "symbol": "KRAS",
+        "freq": 0.0001
+    },
+    {
+        "type": "LIHC",
+        "symbol": "PIK3CA",
+        "freq": 0.0002
+    },
+    {
+        "type": "LIHC",
+        "symbol": "PTEN",
+        "freq": 0.0002
+    },
+    {
+        "type": "LIHC",
+        "symbol": "TP53",
+        "freq": 0.002
+    },
+    {
+        "type": "LUAD",
+        "symbol": "BRAF",
+        "freq": 0.0002
+    },
+    {
+        "type": "LUAD",
+        "symbol": "CDKN2A",
+        "freq": 0.0001
+    },
+    {
+        "type": "LUAD",
+        "symbol": "KRAS",
+        "freq": 0.0008
+    },
+    {
+        "type": "LUAD",
+        "symbol": "PIK3CA",
+        "freq": 0.0002
+    },
+    {
+        "type": "LUAD",
+        "symbol": "PTEN",
+        "freq": 0.0001
+    },
+    {
+        "type": "LUAD",
+        "symbol": "TP53",
+        "freq": 0.0014
+    },
+    {
+        "type": "LUSC",
+        "symbol": "BRAF",
+        "freq": 0.0001
+    },
+    {
+        "type": "LUSC",
+        "symbol": "CDKN2A",
+        "freq": 0.0004
+    },
+    {
+        "type": "LUSC",
+        "symbol": "KRAS",
+        "freq": 0
+    },
+    {
+        "type": "LUSC",
+        "symbol": "PIK3CA",
+        "freq": 0.0003
+    },
+    {
+        "type": "LUSC",
+        "symbol": "PTEN",
+        "freq": 0.0003
+    },
+    {
+        "type": "LUSC",
+        "symbol": "TP53",
+        "freq": 0.0023
+    },
+    {
+        "type": "PAAD",
+        "symbol": "BRAF",
+        "freq": 0.0001
+    },
+    {
+        "type": "PAAD",
+        "symbol": "CDKN2A",
+        "freq": 0.0013
+    },
+    {
+        "type": "PAAD",
+        "symbol": "KRAS",
+        "freq": 0.004
+    },
+    {
+        "type": "PAAD",
+        "symbol": "PIK3CA",
+        "freq": 0.0002
+    },
+    {
+        "type": "PAAD",
+        "symbol": "TP53",
+        "freq": 0.0036
+    },
+    {
+        "type": "READ",
+        "symbol": "BRAF",
+        "freq": 0.0001
+    },
+    {
+        "type": "READ",
+        "symbol": "KRAS",
+        "freq": 0.0009
+    },
+    {
+        "type": "READ",
+        "symbol": "PIK3CA",
+        "freq": 0.0004
+    },
+    {
+        "type": "READ",
+        "symbol": "PTEN",
+        "freq": 0.0002
+    },
+    {
+        "type": "READ",
+        "symbol": "TP53",
+        "freq": 0.0017
+    },
+    {
+        "type": "STAD",
+        "symbol": "BRAF",
+        "freq": 0.0001
+    },
+    {
+        "type": "STAD",
+        "symbol": "CDKN2A",
+        "freq": 0.0001
+    },
+    {
+        "type": "STAD",
+        "symbol": "KRAS",
+        "freq": 0.0002
+    },
+    {
+        "type": "STAD",
+        "symbol": "PIK3CA",
+        "freq": 0.0004
+    },
+    {
+        "type": "STAD",
+        "symbol": "PTEN",
+        "freq": 0.0002
+    },
+    {
+        "type": "STAD",
+        "symbol": "TP53",
+        "freq": 0.001
+    }
+]

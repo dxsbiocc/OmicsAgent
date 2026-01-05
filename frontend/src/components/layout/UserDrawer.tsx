@@ -58,6 +58,7 @@ import {
   RocketLaunch,
   PhotoCamera,
   CloudUpload,
+  CloudQueue,
 } from "@mui/icons-material";
 import { useAuthContext } from "@/contexts/AuthContext";
 import { useRouter } from "next/navigation";
@@ -394,35 +395,6 @@ export default function UserDrawer({ open, onClose }: UserDrawerProps) {
           <List sx={{ px: 2 }}>
             <ListItem disablePadding>
               <ListItemButton
-                onClick={() => handleNavigate("/")}
-                sx={{
-                  borderRadius: 2,
-                  mb: 0.5,
-                  "&:hover": {
-                    background: "rgba(255, 255, 255, 0.3)",
-                    backdropFilter: "blur(12px)",
-                    WebkitBackdropFilter: "blur(12px)",
-                  },
-                }}
-              >
-                <ListItemIcon sx={{ minWidth: 40, color: "#666" }}>
-                  <Home />
-                </ListItemIcon>
-                <ListItemText
-                  primary="首页"
-                  slotProps={{
-                    primary: {
-                      fontSize: "0.95rem",
-                      fontWeight: 500,
-                      color: "#333",
-                    },
-                  }}
-                />
-              </ListItemButton>
-            </ListItem>
-
-            <ListItem disablePadding>
-              <ListItemButton
                 onClick={() => handleNavigate("/profile")}
                 sx={{
                   borderRadius: 2,
@@ -439,6 +411,35 @@ export default function UserDrawer({ open, onClose }: UserDrawerProps) {
                 </ListItemIcon>
                 <ListItemText
                   primary="个人资料"
+                  slotProps={{
+                    primary: {
+                      fontSize: "0.95rem",
+                      fontWeight: 500,
+                      color: "#333",
+                    },
+                  }}
+                />
+              </ListItemButton>
+            </ListItem>
+
+            <ListItem disablePadding>
+              <ListItemButton
+                onClick={() => handleNavigate("/cloud-disk")}
+                sx={{
+                  borderRadius: 2,
+                  mb: 0.5,
+                  "&:hover": {
+                    background: "rgba(255, 255, 255, 0.3)",
+                    backdropFilter: "blur(12px)",
+                    WebkitBackdropFilter: "blur(12px)",
+                  },
+                }}
+              >
+                <ListItemIcon sx={{ minWidth: 40, color: "#666" }}>
+                  <CloudQueue />
+                </ListItemIcon>
+                <ListItemText
+                  primary="我的云盘"
                   slotProps={{
                     primary: {
                       fontSize: "0.95rem",

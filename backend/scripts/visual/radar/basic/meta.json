@@ -1,0 +1,44 @@
+{
+  "name": "基础雷达图",
+  "description": "用于比较多个维度上不同对象的表现。每个轴代表一个维度，数据点连成多边形，适合展示综合能力或多指标对比。",
+  "params_schema": {
+    "data": {
+      "type": "string",
+      "description": "CSV file path"
+    },
+    "x_col": {
+      "type": "string"
+    },
+    "y_col": {
+      "type": "string"
+    },
+    "color_col": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "point_size": {
+      "type": "number"
+    },
+    "width": {
+      "type": "integer"
+    },
+    "height": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    }
+  },
+  "defaults": {
+    "x_col": "x",
+    "y_col": "y",
+    "color_col": null,
+    "point_size": 2.0,
+    "width": 800,
+    "height": 600,
+    "title": "基础雷达图"
+  },
+  "has_js": true
+}

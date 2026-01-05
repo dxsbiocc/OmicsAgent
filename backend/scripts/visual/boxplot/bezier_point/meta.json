@@ -1,0 +1,139 @@
+{
+  "name": "贝塞尔曲线箱线图",
+  "description": "同时展示箱线图、点图和贝塞尔曲线",
+  "ggplot2": {
+    "mapping": {
+      "x": "group",
+      "y": "exprs",
+      "colour": "group"
+    },
+    "layers": [
+      {
+        "type": "geom_round_boxplot",
+        "arguments": {
+          "outliers": false,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_bezier",
+        "mapping": {
+          "x": "x",
+          "y": "y",
+          "group": "index"
+        },
+        "arguments": {
+          "colour": "#caccd1",
+          "alpha": 0.7,
+          "inherit.aes": false
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "position": {
+            "type": "position_dodge2",
+            "arguments": {
+              "width": 0.2
+            }
+          },
+          "size": 3,
+          "show.legend": false,
+          "alpha": 0.7
+        }
+      },
+      {
+        "type": "stat_compare_means",
+        "mapping": {
+          "group": "group"
+        },
+        "arguments": {
+          "label": "p.signif",
+          "hide.ns": true,
+          "show.legend": false,
+          "label.x": 1.5
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#ed6ca4",
+            "#fbb05b",
+            "#acd372",
+            "#7bc4e2"
+          ]
+        }
+      }
+    ],
+    "facets": {
+      "type": "facet_wrap",
+      "arguments": {
+        "facets": "gene",
+        "nrow": 1,
+        "scales": "free_x"
+      }
+    },
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": "Gene expression level"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_bw"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.text": {
+            "type": "element_text",
+            "arguments": {
+              "face": "bold",
+              "size": 8
+            }
+          },
+          "axis.title.y": {
+            "type": "element_text",
+            "arguments": {
+              "size": 10,
+              "face": "bold"
+            }
+          },
+          "strip.text": {
+            "type": "element_text",
+            "arguments": {
+              "face": "bold"
+            }
+          },
+          "strip.background": {
+            "type": "element_rect",
+            "arguments": {
+              "fill": "#a0c44387"
+            }
+          },
+          "panel.grid": {
+            "type": "element_blank",
+            "arguments": {}
+          },
+          "panel.background": {
+            "type": "element_blank",
+            "arguments": {}
+          }
+        }
+      }
+    ],
+    "width": 600,
+    "height": 500
+  },
+  "has_js": false,
+  "has_r": true
+}

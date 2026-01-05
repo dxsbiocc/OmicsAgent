@@ -1,0 +1,83 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="426.5" y="49.5" fill="#54555a">0</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="552.9043666794847" y="82.00939870147542" fill="#54555a">5</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="647.9398024124743" y="171.46995355451617" fill="#54555a">10</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="688.0219952065092" y="301.6808336753611" fill="#54555a">15</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="663.2040138679201" y="435.81745108760026" fill="#54555a">20</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="579.6447717577909" y="536.0809937018221" fill="#54555a">25</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="458.0806102268946" y="583.5897250136902" fill="#54555a">30</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="328.6792987028533" y="566.5537191604654" fill="#54555a">35</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="223.5535000011544" y="489.20068840598867" fill="#54555a">40</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="168.79158437984842" y="364.72681990724345" fill="#54555a">45</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="177.98345220984783" y="228.53298562401437" fill="#54555a">50</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="248.8480187881247" y="118.92852347376183" fill="#54555a">55</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="363.7992959566601" y="57.113243834374316" fill="#54555a">60</text>
+<path d="M426.5 58.5L426.5 63.5M551.457 90.6372L549.0447 95.0167M645.4042 179.0734L641.1783 181.7457M685.0275 301.862L680.0366 302.1639M660.4937 428.5314L655.9764 426.3879M577.8912 527.6469L574.9686 523.59M457.719 574.6116L457.1163 569.6481M329.7994 557.7707L331.6662 553.1322M225.8773 481.3034L229.7503 478.1411M171.7424 364.1861L176.6605 363.2848M180.8291 235.483L185.5717 237.0663M250.8822 127.1335L254.2725 130.8086M364.5172 66.0261L365.7138 70.8808" fill="#000" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 63.5L426.5 287.5M549.0447 95.0167L440.9738 291.2225M641.1783 181.7457L451.8557 301.466M680.0366 302.1639L456.4453 315.6886M655.9764 426.3879L453.6035 330.3608M574.9686 523.59L444.0357 341.8413M457.1163 569.6481L430.1161 347.2813M331.6662 553.1322L415.2992 345.3306M229.7503 478.1411L403.2619 336.4734M176.6605 363.2848L396.9914 322.9077M185.5717 237.0663L398.0439 308M254.2725 130.8086L406.1582 295.4498M365.7138 70.8808L419.3205 288.3717" fill="#000" stroke="#dbdee4" class="zr1-cls-1"></path>
+<path d="M426.5 287.5L426.5 63.5" fill="none" stroke="#54555a" stroke-linecap="round" class="zr1-cls-1"></path>
+<path d="M680.5 317.5A254 254 0 1 1 680.5 317.4746M456.5 317.5A30 30 0 1 0 456.5 317.503" fill="none" stroke="#54555a" class="zr1-cls-1"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 271.5)" fill="#54555a">Mon</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 239.5)" fill="#54555a">Tue</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 207.5)" fill="#54555a">Wed</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 175.5)" fill="#54555a">Thu</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 143.5)" fill="#54555a">Fri</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 111.5)" fill="#54555a">Sat</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 79.5)" fill="#54555a">Sun</text>
+<path d="M426.5 258.7A58.8 58.8 0 0 1 476.1972 286.0734L454.5603 299.7557A33.2 33.2 0 0 0 426.5 284.3Z" fill="#5070dd" class="zr1-cls-2"></path>
+<path d="M426.5 226.7A90.8 90.8 0 1 1 347.8649 272.1L370.0351 284.9A65.2 65.2 0 1 0 426.5 252.3Z" fill="#b6d634" class="zr1-cls-3"></path>
+<path d="M426.5 194.7A122.8 122.8 0 1 1 348.8357 412.6215L365.0263 392.7916A97.2 97.2 0 1 0 426.5 220.3Z" fill="#505372" class="zr1-cls-4"></path>
+<path d="M426.5 162.7A154.8 154.8 0 1 1 279.6666 268.4798L303.9491 276.5865A129.2 129.2 0 1 0 426.5 188.3Z" fill="#ff994d" class="zr1-cls-5"></path>
+<path d="M426.5 130.7A186.8 186.8 0 0 1 586.3599 414.1387L564.4519 400.8949A161.2 161.2 0 0 0 426.5 156.3Z" fill="#0ca8df" class="zr1-cls-6"></path>
+<path d="M426.5 98.7A218.8 218.8 0 0 1 638.9421 369.8623L614.086 363.7358A193.2 193.2 0 0 0 426.5 124.3Z" fill="#ffd10a" class="zr1-cls-7"></path>
+<path d="M426.5 66.7A250.8 250.8 0 1 1 381.292 564.1919L385.9066 539.0112A225.2 225.2 0 1 0 426.5 92.3Z" fill="#fb628b" class="zr1-cls-8"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(1,0,0,1,448.6931,277.2078)" fill="#eee" stroke="#5070dd" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(1,0.001,-0.001,1,465.5,385.05)" fill="#333">52</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(1,0.001,-0.001,1,530.1164,354.4275)" fill="#eee" stroke="#505372" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">38</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(1,0.001,-0.001,1,509.5021,432.7157)" fill="#333">50</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(1,0.001,-0.001,1,578.0568,232.0217)" fill="#333">21</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(1,0,0,1,588.6598,190.4559)" fill="#333">18</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(1,0.001,-0.001,1,663.5234,339.0387)" fill="#333">33</text>
+<path d="M-77 -5l154 0l0 28l-154 0Z" transform="translate(426.5 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-1"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" y="9" transform="translate(426.5 20)" fill="#3c3c41">水平极坐标柱状图</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr1-cls-1:hover {
+pointer-events:none;
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(88,123,243,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(200,235,57,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(88,91,125,1);
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(255,168,84,1);
+}
+.zr1-cls-6:hover {
+cursor:pointer;
+fill:rgba(13,184,245,1);
+}
+.zr1-cls-7:hover {
+cursor:pointer;
+fill:rgba(255,229,11,1);
+}
+.zr1-cls-8:hover {
+cursor:pointer;
+fill:rgba(255,107,152,1);
+}
+
+]]>
+
+</style>
+</svg>

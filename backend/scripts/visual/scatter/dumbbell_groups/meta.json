@@ -1,0 +1,129 @@
+{
+  "name": "多组哑铃图",
+  "description": "多组哑铃图是一种特殊的散点图，适合展示多个类别的数值",
+  "ggplot2": {
+    "mapping": {
+      "x": "mean_prev",
+      "y": "age_group"
+    },
+    "layers": [
+      {
+        "type": "geom_line",
+        "mapping": {
+          "group": "age_group"
+        },
+        "arguments": {
+          "colour": "#cba7a2",
+          "linewidth": 1
+        }
+      },
+      {
+        "type": "geom_vline",
+        "arguments": {
+          "xintercept": [
+            0.06,
+            0.07,
+            0.08,
+            0.09,
+            0.10,
+            0.11
+          ],
+          "linetype": "dashed",
+          "colour": [
+            "grey90"
+          ]
+        }
+      },
+      {
+        "type": "geom_point",
+        "mapping": {
+          "fill": "factor(year_id)",
+          "shape": "factor(year_id)"
+        },
+        "arguments": {
+          "size": 4,
+          "stroke": 1,
+          "colour": "#ffffff"
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "Mean Prevalence of obesity",
+        "y": ""
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#f784b6",
+            "#ffdf8b",
+            "#79ceb8"
+          ]
+        }
+      },
+      {
+        "type": "scale_shape_manual",
+        "arguments": {
+          "values": [
+            21,
+            22,
+            23
+          ]
+        }
+      },
+      {
+        "type": "scale_x_continuous",
+        "arguments": {
+          "breaks": [
+            0.06,
+            0.07,
+            0.08,
+            0.09,
+            0.10,
+            0.11
+          ]
+        }
+      }
+    ],
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "legend.position": "inside",
+          "legend.position.inside": [
+            0.8,
+            0.87
+          ],
+          "legend.direction": "horizontal",
+          "axis.line.x": {
+            "type": "element_blank"
+          },
+          "axis.line.y": {
+            "type": "element_line",
+            "arguments": {
+              "colour": "grey90",
+              "linewidth": 0.8
+            }
+          },
+          "axis.ticks": {
+            "type": "element_blank"
+          },
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": false
+}

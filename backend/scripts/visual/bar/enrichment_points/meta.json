@@ -1,0 +1,165 @@
+{
+  "name": "复合散点图与条形图",
+  "description": "复合散点图与条形图展示富集到的通路及其基因数量",
+  "ggplot2": {
+    "mapping": {
+      "x": "-log10(qvalue)",
+      "y": "Description",
+      "fill": "ONTOLOGY"
+    },
+    "layers": [
+      {
+        "type": "geom_round_col",
+        "arguments": {
+          "alpha": 0.6,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_line",
+        "mapping": {
+          "x": "-GeneRatio*100",
+          "group": 1
+        },
+        "arguments": {
+          "orientation": "y"
+        }
+      },
+      {
+        "type": "geom_point",
+        "mapping": {
+          "x": "-GeneRatio*100"
+        },
+        "arguments": {
+          "colour": "white",
+          "size": 4,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_point",
+        "mapping": {
+          "x": "-GeneRatio*100",
+          "colour": "ONTOLOGY"
+        },
+        "arguments": {
+          "size": 3,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_text",
+        "mapping": {
+          "x": 0,
+          "label": "Description"
+        },
+        "arguments": {
+          "hjust": 0,
+          "size": 3,
+          "lineheight": 0.7
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "name": "Category",
+          "values": [
+            "#3BE8B0",
+            "#1AAFD0",
+            "#6A67CE",
+            "#FFB900",
+            "#FC636B"
+          ]
+        }
+      },
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#3be8b0",
+            "#1aafd0",
+            "#6a67ce",
+            "#ffb900",
+            "#fc636b"
+          ]
+        }
+      },
+      {
+        "type": "scale_x_continuous",
+        "arguments": {
+          "limits": [
+            -9,
+            35
+          ],
+          "expand": [
+            0,
+            0
+          ]
+        }
+      }
+    ],
+    "facets": {
+      "type": "facet_wrap",
+      "arguments": {
+        "facets": "ONTOLOGY",
+        "scale": "free"
+      }
+    },
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "Gene Ratio(%) \t -log10(p.adjust)",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "axis.text.y": {
+            "type": "element_blank"
+          },
+          "axis.ticks.y": {
+            "type": "element_blank"
+          },
+          "axis.title.x": {
+            "type": "element_text",
+            "arguments": {
+              "size": 12
+            }
+          },
+          "axis.text.x": {
+            "type": "element_text",
+            "arguments": {
+              "size": 10
+            }
+          },
+          "strip.background": {
+            "type": "element_blank"
+          },
+          "strip.text": {
+            "type": "element_text",
+            "arguments": {
+              "size": 12
+            }
+          },
+          "legend.title": {
+            "type": "element_blank"
+          },
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 900,
+    "height": 700
+  },
+  "has_js": false
+}

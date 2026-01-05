@@ -1,0 +1,112 @@
+{
+  "name": "径向柱状图",
+  "description": "简单绘制一个径向柱状图",
+  "ggplot2": {
+    "mapping": {
+      "x": "type",
+      "y": "n",
+      "fill": "type"
+    },
+    "layers": [
+      {
+        "type": "geom_hline",
+        "arguments": {
+          "yintercept": [
+            0,
+            500,
+            1000
+          ],
+          "color": "grey",
+          "linetype": [
+            "solid",
+            "dashed",
+            "dashed"
+          ],
+          "linewidth": 1
+        }
+      },
+      {
+        "type": "geom_round_col",
+        "arguments": {
+          "radius": 1,
+          "show.legend": false
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#d7689d",
+            "#f3d337",
+            "#a0c443",
+            "#66b5ae",
+            "#5da4dc",
+            "#40769e"
+          ]
+        }
+      },
+      {
+        "type": "scale_y_continuous",
+        "arguments": {
+          "limits": [
+            -500,
+            1100
+          ],
+          "breaks": [
+            -500,
+            0,
+            500,
+            1000
+          ]
+        }
+      }
+    ],
+    "coordinates": {
+      "type": "coord_polar"
+    },
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_minimal"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "axis.text.y": {
+            "type": "element_blank"
+          },
+          "axis.line": {
+            "type": "element_blank"
+          },
+          "axis.text.x": {
+            "type": "element_text",
+            "arguments": {
+              "size": 14
+            }
+          },
+          "panel.grid.major": {
+            "type": "element_blank"
+          },
+          "panel.grid.minor": {
+            "type": "element_blank"
+          },
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 800
+  },
+  "has_js": false
+}

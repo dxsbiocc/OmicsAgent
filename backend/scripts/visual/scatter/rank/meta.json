@@ -1,0 +1,90 @@
+{
+    "name": "排序散点图",
+    "description": "排序散点图用于展示变化最大的基因",
+    "ggplot2": {
+        "mapping": {
+            "x": "rank",
+            "y": "log2FC",
+            "colour": "log2FC"
+        },
+        "layers": [
+            {
+                "type": "geom_point",
+                "mapping": {
+                    "size": "abs(log2FC)"
+                },
+                "arguments": {
+                    "stroke": 0,
+                    "show.legend": false
+                }
+            },
+            {
+                "type": "geom_point",
+                "mapping": {
+                    "size": "abs(log2FC)"
+                },
+                "arguments": {
+                    "size": 5,
+                    "top": "rank",
+                    "top.k": 10,
+                    "fill": "transparent",
+                    "colour": "grey60",
+                    "shape": 21,
+                    "show.legend": false
+                }
+            },
+            {
+                "type": "geom_label_repel",
+                "mapping": {
+                    "label": "symbol"
+                },
+                "arguments": {
+                    "top": "rank",
+                    "top.k": 10,
+                    "max.overlaps": 2000,
+                    "show.legend": false
+                }
+            }
+        ],
+        "scales": [
+            {
+                "type": "scale_colour_gradient2",
+                "arguments": {
+                    "low": "#7fbc41",
+                    "mid": "#f7f7f7",
+                    "high": "#de77ae"
+                }
+            }
+        ],
+        "labs": {
+            "type": "labs",
+            "arguments": {
+                "title": "Yap1-KO",
+                "x": "Rank",
+                "y": "log2FC"
+            }
+        },
+        "themes": [
+            {
+                "type": "theme_prism"
+            },
+            {
+                "type": "theme",
+                "arguments": {
+                    "plot.background": {
+                        "type": "element_blank"
+                    },
+                    "legend.title": {
+                        "type": "element_text",
+                        "arguments": {
+                            "size": 12
+                        }
+                    }
+                }
+            }
+        ],
+        "width": 600,
+        "height": 600
+    },
+    "has_js": false
+}

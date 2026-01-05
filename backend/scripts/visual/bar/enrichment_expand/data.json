@@ -1,0 +1,116 @@
+[
+    {
+        "category": "Metabolism",
+        "Description": "Inositol phosphate metabolism",
+        "p.adjust": 0.0002,
+        "Count": 19
+    },
+    {
+        "category": "Environmental Information Processing",
+        "Description": "ErbB signaling pathway",
+        "p.adjust": 0.0002,
+        "Count": 21
+    },
+    {
+        "category": "Genetic Information Processing",
+        "Description": "Polycomb repressive complex",
+        "p.adjust": 0,
+        "Count": 22
+    },
+    {
+        "category": "Cellular Processes",
+        "Description": "Adherens junction",
+        "p.adjust": 0.0002,
+        "Count": 22
+    },
+    {
+        "category": "Environmental Information Processing",
+        "Description": "TGF-beta signaling pathway",
+        "p.adjust": 0.0001,
+        "Count": 25
+    },
+    {
+        "category": "Genetic Information Processing",
+        "Description": "Nucleocytoplasmic transport",
+        "p.adjust": 6.1948e-06,
+        "Count": 28
+    },
+    {
+        "category": "Organismal Systems",
+        "Description": "Neurotrophin signaling pathway",
+        "p.adjust": 0,
+        "Count": 28
+    },
+    {
+        "category": "Genetic Information Processing",
+        "Description": "ATP-dependent chromatin remodeling",
+        "p.adjust": 7.8693e-06,
+        "Count": 29
+    },
+    {
+        "category": "Genetic Information Processing",
+        "Description": "Ubiquitin mediated proteolysis",
+        "p.adjust": 7.119e-09,
+        "Count": 39
+    },
+    {
+        "category": "Metabolism",
+        "Description": "Cysteine and methionine metabolism",
+        "p.adjust": 0.0377,
+        "Count": 2
+    },
+    {
+        "category": "Metabolism",
+        "Description": "Tryptophan metabolism",
+        "p.adjust": 0.0276,
+        "Count": 2
+    },
+    {
+        "category": "Cellular Processes",
+        "Description": "Endocytosis",
+        "p.adjust": 1.7841e-08,
+        "Count": 54
+    },
+    {
+        "category": "Metabolism",
+        "Description": "Biosynthesis of amino acids",
+        "p.adjust": 0.0072,
+        "Count": 3
+    },
+    {
+        "category": "Metabolism",
+        "Description": "Glycine, serine and threonine metabolism",
+        "p.adjust": 0.0013,
+        "Count": 3
+    },
+    {
+        "category": "Organismal Systems",
+        "Description": "Cholesterol metabolism",
+        "p.adjust": 0.0026,
+        "Count": 3
+    },
+    {
+        "category": "Metabolism",
+        "Description": "Carbon metabolism",
+        "p.adjust": 0.0002,
+        "Count": 5
+    },
+    {
+        "category": "Organismal Systems",
+        "Description": "Cardiac muscle contraction",
+        "p.adjust": 2.6638e-06,
+        "Count": 6
+    },
+    {
+        "category": "Metabolism",
+        "Description": "Oxidative phosphorylation",
+        "p.adjust": 1.4792e-12,
+        "Count": 12
+    },
+    {
+        "category": "Organismal Systems",
+        "Description": "Thermogenesis",
+        "p.adjust": 4.6901e-10,
+        "Count": 12
+    }
+]

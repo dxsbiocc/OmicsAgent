@@ -1,0 +1,6 @@
+{
+    "name": "蛋白质-代谢组整合分析",
+    "description": "整合蛋白质组和代谢组数据，研究蛋白质与代谢物的关联，揭示代谢调控机制。",
+    "type": "analysis",
+    "category": "multiomics"
+}

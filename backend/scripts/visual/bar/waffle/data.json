@@ -1,0 +1,482 @@
+[
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "BLCA",
+        "Gender": "FEMALE",
+        "Count": 8
+    },
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "BLCA",
+        "Gender": "MALE",
+        "Count": 40
+    },
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "COAD",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "COAD",
+        "Gender": "MALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "GBM",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "LIHC",
+        "Gender": "FEMALE",
+        "Count": 4
+    },
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "LIHC",
+        "Gender": "MALE",
+        "Count": 9
+    },
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "LUAD",
+        "Gender": "FEMALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "LUSC",
+        "Gender": "MALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "READ",
+        "Gender": "MALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "STAD",
+        "Gender": "FEMALE",
+        "Count": 5
+    },
+    {
+        "Symbol": "CDKN1A",
+        "Cancer_type": "STAD",
+        "Gender": "MALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "BLCA",
+        "Gender": "FEMALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "BLCA",
+        "Gender": "MALE",
+        "Count": 22
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "COAD",
+        "Gender": "FEMALE",
+        "Count": 14
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "COAD",
+        "Gender": "MALE",
+        "Count": 9
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "GBM",
+        "Gender": "FEMALE",
+        "Count": 6
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "LIHC",
+        "Gender": "FEMALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "LIHC",
+        "Gender": "MALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "LUAD",
+        "Gender": "FEMALE",
+        "Count": 10
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "LUAD",
+        "Gender": "MALE",
+        "Count": 10
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "LUSC",
+        "Gender": "FEMALE",
+        "Count": 5
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "LUSC",
+        "Gender": "MALE",
+        "Count": 26
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "PAAD",
+        "Gender": "FEMALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "PAAD",
+        "Gender": "MALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "READ",
+        "Gender": "FEMALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "READ",
+        "Gender": "MALE",
+        "Count": 5
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "STAD",
+        "Gender": "FEMALE",
+        "Count": 8
+    },
+    {
+        "Symbol": "LATS1",
+        "Cancer_type": "STAD",
+        "Gender": "MALE",
+        "Count": 18
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "BLCA",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "BLCA",
+        "Gender": "MALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "COAD",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "COAD",
+        "Gender": "MALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "GBM",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "LIHC",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "LUAD",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "LUAD",
+        "Gender": "MALE",
+        "Count": 6
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "LUSC",
+        "Gender": "MALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "READ",
+        "Gender": "MALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "STAD",
+        "Gender": "FEMALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "SAV1",
+        "Cancer_type": "STAD",
+        "Gender": "MALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "BLCA",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "BLCA",
+        "Gender": "MALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "COAD",
+        "Gender": "FEMALE",
+        "Count": 8
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "COAD",
+        "Gender": "MALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "GBM",
+        "Gender": "FEMALE",
+        "Count": 4
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "GBM",
+        "Gender": "MALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "LIHC",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "LIHC",
+        "Gender": "MALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "LUAD",
+        "Gender": "FEMALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "LUAD",
+        "Gender": "MALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "LUSC",
+        "Gender": "MALE",
+        "Count": 4
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "STAD",
+        "Gender": "FEMALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "TEAD1",
+        "Cancer_type": "STAD",
+        "Gender": "MALE",
+        "Count": 5
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "BLCA",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "BLCA",
+        "Gender": "MALE",
+        "Count": 5
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "COAD",
+        "Gender": "FEMALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "COAD",
+        "Gender": "MALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "GBM",
+        "Gender": "FEMALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "LUAD",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "LUAD",
+        "Gender": "MALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "LUSC",
+        "Gender": "FEMALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "LUSC",
+        "Gender": "MALE",
+        "Count": 4
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "PAAD",
+        "Gender": "FEMALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "READ",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "READ",
+        "Gender": "MALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "WWTR1",
+        "Cancer_type": "STAD",
+        "Gender": "MALE",
+        "Count": 5
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "BLCA",
+        "Gender": "FEMALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "BLCA",
+        "Gender": "MALE",
+        "Count": 5
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "COAD",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "COAD",
+        "Gender": "MALE",
+        "Count": 5
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "GBM",
+        "Gender": "MALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "LUAD",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "LUAD",
+        "Gender": "MALE",
+        "Count": 2
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "LUSC",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "LUSC",
+        "Gender": "MALE",
+        "Count": 4
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "PAAD",
+        "Gender": "FEMALE",
+        "Count": 3
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "READ",
+        "Gender": "FEMALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "READ",
+        "Gender": "MALE",
+        "Count": 1
+    },
+    {
+        "Symbol": "YAP1",
+        "Cancer_type": "STAD",
+        "Gender": "MALE",
+        "Count": 5
+    }
+]

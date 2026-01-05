@@ -1,0 +1,1486 @@
+[
+    {
+        "gender": "Male",
+        "TP53": 3.024
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.6809
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.0276
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.8039
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.1297
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.6812
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.7976
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6682
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.4323
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.5191
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.5156
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.6178
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2146
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.6727
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1367
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.141
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.137
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.74
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.0213
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.4234
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.9125
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.4412
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.8184
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2022
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.5098
+    },
+    {
+        "gender": "Female",
+        "TP53": 4.3171
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.7034
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.9883
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.5276
+    },
+    {
+        "gender": "Female",
+        "TP53": 4.1185
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.3502
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.6877
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.0776
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.3196
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.9502
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.5312
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.1594
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3388
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.0888
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.3395
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.6011
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.9613
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.7048
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.656
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.8155
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.9467
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.8196
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.5389
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.5472
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.1127
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.1287
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.2908
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.7314
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.0179
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.7578
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.0392
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.2947
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.0267
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.9088
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.7198
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.5979
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.6361
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3294
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.1081
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.4724
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1626
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.585
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.9914
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2611
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.8575
+    },
+    {
+        "gender": "Male",
+        "TP53": 4.5271
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.2249
+    },
+    {
+        "gender": "Male",
+        "TP53": 4.0727
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.8802
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2222
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.9906
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1313
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3196
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.876
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.3833
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.9955
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.0671
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.8937
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.5521
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.194
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.5198
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.2001
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.2254
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.3354
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.7256
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.2839
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.4548
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.1286
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.2381
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3577
+    },
+    {
+        "gender": "Female",
+        "TP53": 0.8802
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.4268
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.8419
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.5298
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.2042
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3594
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.5563
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.9461
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.9101
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.4645
+    },
+    {
+        "gender": "Female",
+        "TP53": 4.2881
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.8877
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.7575
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.9137
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.0163
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.4526
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.3337
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.3694
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1265
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.4804
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6376
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.768
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.424
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.0682
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.5947
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.2434
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6949
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.8154
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.3615
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.7817
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.8091
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.476
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1358
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.0898
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.2524
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.7839
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.9951
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.8821
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.0722
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6568
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.9634
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.5234
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2226
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.6607
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.083
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.5841
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.0889
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.5285
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.1276
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.0068
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.5032
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3861
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.4699
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.7557
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.1943
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.1714
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.6181
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.1386
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.9872
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2145
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.6719
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3382
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.8127
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.3044
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.847
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.8138
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.6779
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.0923
+    },
+    {
+        "gender": "Male",
+        "TP53": 4.0226
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.8554
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.959
+    },
+    {
+        "gender": "Male",
+        "TP53": 4.2472
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.3704
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.0369
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.0946
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2485
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.5407
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.9228
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2564
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.7493
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.4676
+    },
+    {
+        "gender": "Female",
+        "TP53": 4.8488
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.5059
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.9813
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.24
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2988
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.7503
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.8297
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.0332
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.1843
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.4751
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.4762
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.4966
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.7635
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.5128
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.2901
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.9219
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.1056
+    },
+    {
+        "gender": "Female",
+        "TP53": 0.755
+    },
+    {
+        "gender": "Male",
+        "TP53": 4.0573
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2176
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.7136
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.1346
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.7938
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.009
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.0364
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6323
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.283
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.5503
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.1435
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2692
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.8265
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3887
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.2721
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.5572
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.803
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.7168
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3303
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.8097
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.3506
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.83
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.8316
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1583
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.5451
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.4105
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.4923
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.1826
+    },
+    {
+        "gender": "Female",
+        "TP53": 4.7841
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.9653
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.542
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.2859
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.9994
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.0179
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.7481
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.0826
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.5765
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.5494
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.0457
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.8964
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.5753
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.9415
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.7422
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2999
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.5616
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3574
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.5066
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2179
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.6663
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.8695
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.2015
+    },
+    {
+        "gender": "Female",
+        "TP53": 0.7598
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.7923
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1189
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.4973
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6692
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.1788
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.847
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.5829
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.1048
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1792
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.3272
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.1158
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.9866
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.6604
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.8807
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.2699
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.0919
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.5156
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.7466
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.3986
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6809
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.0836
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1009
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.7753
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6415
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.8855
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2055
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6919
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.9025
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.4045
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.9021
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.8335
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.4788
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.7923
+    },
+    {
+        "gender": "Female",
+        "TP53": 0.9994
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.0003
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.8849
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1211
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.9397
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.8753
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.6837
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.4359
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.8243
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3112
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.458
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.7605
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.487
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.7946
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.8
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3971
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.2589
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.126
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.7713
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.9229
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.3521
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.6964
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.031
+    },
+    {
+        "gender": "Female",
+        "TP53": 4.0509
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1765
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.5585
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.4275
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.1493
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.7333
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.7702
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.4671
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.9274
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.8263
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.7845
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.7664
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.4403
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.847
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3268
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.2643
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.8724
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.3305
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.7693
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.0295
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.7387
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.9295
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.1604
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.6451
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1532
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.3605
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.8196
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.2669
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.069
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.9886
+    },
+    {
+        "gender": "Female",
+        "TP53": 0.7333
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.8298
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.0373
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.8915
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.5221
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.5111
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.1102
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.2555
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.8156
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.3016
+    },
+    {
+        "gender": "Female",
+        "TP53": 3.4867
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.5556
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.416
+    },
+    {
+        "gender": "Female",
+        "TP53": 0.5911
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.7468
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.4252
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.5654
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.4342
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.8892
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.9593
+    },
+    {
+        "gender": "Female",
+        "TP53": 2.006
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.8569
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.2502
+    },
+    {
+        "gender": "Male",
+        "TP53": 0.8755
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.8686
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1131
+    },
+    {
+        "gender": "Female",
+        "TP53": 4.2359
+    },
+    {
+        "gender": "Female",
+        "TP53": 4.3278
+    },
+    {
+        "gender": "Male",
+        "TP53": 1.3824
+    },
+    {
+        "gender": "Female",
+        "TP53": 1.5125
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6815
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6874
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6272
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.9716
+    },
+    {
+        "gender": "Male",
+        "TP53": 4.6636
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.3303
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.627
+    },
+    {
+        "gender": "Male",
+        "TP53": 2.6903
+    },
+    {
+        "gender": "Male",
+        "TP53": 3.1487
+    }
+]

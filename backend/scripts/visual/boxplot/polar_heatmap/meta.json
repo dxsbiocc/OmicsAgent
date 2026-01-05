@@ -1,0 +1,173 @@
+{
+  "name": "极坐标扇子图",
+  "description": "极坐标扇子图用于同时展示变量在不同分组中的分布情况和热图",
+  "ggplot2": {
+    "mapping": {
+      "x": "gene",
+      "y": "exprs",
+      "fill": "gene"
+    },
+    "layers": [
+      {
+        "type": "geom_violin",
+        "arguments": {
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_tile",
+        "mapping": {
+          "x": "gene",
+          "y": "grade",
+          "fill": "mu"
+        },
+        "arguments": {
+          "colour": "#fffffe",
+          "linewidth": 0.5,
+          "inherit.aes": false
+        }
+      },
+      {
+        "type": "geom_textpath",
+        "mapping": {
+          "x": "gene",
+          "label": "gene"
+        },
+        "arguments": {
+          "vjust": 1.5,
+          "inherit.aes": false
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "segment"
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#d7689d",
+            "#f3d337",
+            "#a0c443",
+            "#66b5ae",
+            "#5da4dc",
+            "#40769e"
+          ]
+        }
+      },
+      {
+        "type": "new_scale_fill",
+        "layer": 1
+      },
+      {
+        "type": "scale_fill_gradientn",
+        "arguments": {
+          "name": null,
+          "colours": [
+            "#E9E29C",
+            "#d7689d"
+          ]
+        }
+      },
+      {
+        "type": "scale_y_continuous",
+        "arguments": {
+          "expand": [
+            0,
+            0
+          ],
+          "guide": {
+            "type": "guide_axis",
+            "arguments": {
+              "angle": -5
+            }
+          }
+        }
+      },
+      {
+        "type": "scale_x_discrete",
+        "arguments": {
+          "expand": [
+            0,
+            0
+          ]
+        }
+      }
+    ],
+    "coordinates": {
+      "type": "coord_radial",
+      "arguments": {
+        "start": -1.047198,
+        "end": 1.047198
+      }
+    },
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.text.x": {
+            "type": "element_blank"
+          },
+          "axis.text.y": {
+            "type": "element_text",
+            "arguments": {
+              "face": "bold"
+            }
+          },
+          "axis.ticks.x": {
+            "type": "element_blank"
+          },
+          "axis.line": {
+            "type": "element_blank"
+          },
+          "panel.grid.major.x": {
+            "type": "element_line",
+            "arguments": {
+              "linetype": "dashed",
+              "linewidth": 0.5,
+              "colour": "grey50"
+            }
+          },
+          "panel.background": {
+            "type": "element_blank"
+          },
+          "legend.background": {
+            "type": "element_blank",
+            "arguments": {}
+          },
+          "legend.position": "inside",
+          "legend.position.inside": [
+            0.517,
+            0.01
+          ],
+          "legend.key.height": {
+            "type": "unit",
+            "arguments": {
+              "x": 4,
+              "units": "mm"
+            }
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": false,
+  "has_r": true
+}

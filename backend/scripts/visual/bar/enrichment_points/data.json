@@ -1,0 +1,242 @@
+[
+    {
+        "Description": "RNA splicing",
+        "ONTOLOGY": "BP",
+        "GeneRatio": 0.059,
+        "qvalue": 3.9556e-12
+    },
+    {
+        "Description": "endosomal transport",
+        "ONTOLOGY": "BP",
+        "GeneRatio": 0.041,
+        "qvalue": 3.9564e-11
+    },
+    {
+        "Description": "regulation of DNA repair",
+        "ONTOLOGY": "BP",
+        "GeneRatio": 0.037,
+        "qvalue": 1.4965e-12
+    },
+    {
+        "Description": "RNA localization",
+        "ONTOLOGY": "BP",
+        "GeneRatio": 0.036,
+        "qvalue": 1.0838e-13
+    },
+    {
+        "Description": "stem cell population maintenance",
+        "ONTOLOGY": "BP",
+        "GeneRatio": 0.033,
+        "qvalue": 1.0203e-12
+    },
+    {
+        "Description": "maintenance of cell number",
+        "ONTOLOGY": "BP",
+        "GeneRatio": 0.033,
+        "qvalue": 1.4965e-12
+    },
+    {
+        "Description": "establishment of RNA localization",
+        "ONTOLOGY": "BP",
+        "GeneRatio": 0.029,
+        "qvalue": 1.9031e-11
+    },
+    {
+        "Description": "nucleic acid transport",
+        "ONTOLOGY": "BP",
+        "GeneRatio": 0.028,
+        "qvalue": 1.1058e-10
+    },
+    {
+        "Description": "DNA-templated transcription elongation",
+        "ONTOLOGY": "BP",
+        "GeneRatio": 0.026,
+        "qvalue": 6.6326e-12
+    },
+    {
+        "Description": "transcription elongation by RNA polymerase II",
+        "ONTOLOGY": "BP",
+        "GeneRatio": 0.024,
+        "qvalue": 2.9477e-11
+    },
+    {
+        "Description": "nuclear speck",
+        "ONTOLOGY": "CC",
+        "GeneRatio": 0.056,
+        "qvalue": 9.6893e-17
+    },
+    {
+        "Description": "chromosomal region",
+        "ONTOLOGY": "CC",
+        "GeneRatio": 0.046,
+        "qvalue": 2.3136e-10
+    },
+    {
+        "Description": "ribonucleoprotein granule",
+        "ONTOLOGY": "CC",
+        "GeneRatio": 0.039,
+        "qvalue": 9.4311e-13
+    },
+    {
+        "Description": "cytoplasmic ribonucleoprotein granule",
+        "ONTOLOGY": "CC",
+        "GeneRatio": 0.038,
+        "qvalue": 3.9642e-13
+    },
+    {
+        "Description": "protein acetyltransferase complex",
+        "ONTOLOGY": "CC",
+        "GeneRatio": 0.024,
+        "qvalue": 8.0914e-15
+    },
+    {
+        "Description": "acetyltransferase complex",
+        "ONTOLOGY": "CC",
+        "GeneRatio": 0.024,
+        "qvalue": 8.0914e-15
+    },
+    {
+        "Description": "histone acetyltransferase complex",
+        "ONTOLOGY": "CC",
+        "GeneRatio": 0.022,
+        "qvalue": 1.8848e-13
+    },
+    {
+        "Description": "cytoplasmic stress granule",
+        "ONTOLOGY": "CC",
+        "GeneRatio": 0.02,
+        "qvalue": 3.2727e-12
+    },
+    {
+        "Description": "histone deacetylase complex",
+        "ONTOLOGY": "CC",
+        "GeneRatio": 0.019,
+        "qvalue": 9.246e-12
+    },
+    {
+        "Description": "SWI/SNF superfamily-type complex",
+        "ONTOLOGY": "CC",
+        "GeneRatio": 0.019,
+        "qvalue": 9.5488e-11
+    },
+    {
+        "Description": "histone modifying activity",
+        "ONTOLOGY": "MF",
+        "GeneRatio": 0.064,
+        "qvalue": 1.2431e-19
+    },
+    {
+        "Description": "ubiquitin-like protein transferase activity",
+        "ONTOLOGY": "MF",
+        "GeneRatio": 0.063,
+        "qvalue": 8.787e-16
+    },
+    {
+        "Description": "aminoacyltransferase activity",
+        "ONTOLOGY": "MF",
+        "GeneRatio": 0.063,
+        "qvalue": 3.0364e-15
+    },
+    {
+        "Description": "ubiquitin-protein transferase activity",
+        "ONTOLOGY": "MF",
+        "GeneRatio": 0.058,
+        "qvalue": 2.9437e-14
+    },
+    {
+        "Description": "DNA-binding transcription factor binding",
+        "ONTOLOGY": "MF",
+        "GeneRatio": 0.055,
+        "qvalue": 1.3515e-10
+    },
+    {
+        "Description": "transcription coactivator activity",
+        "ONTOLOGY": "MF",
+        "GeneRatio": 0.047,
+        "qvalue": 6.9504e-18
+    },
+    {
+        "Description": "GTPase binding",
+        "ONTOLOGY": "MF",
+        "GeneRatio": 0.044,
+        "qvalue": 2.3139e-12
+    },
+    {
+        "Description": "histone binding",
+        "ONTOLOGY": "MF",
+        "GeneRatio": 0.038,
+        "qvalue": 5.3768e-13
+    },
+    {
+        "Description": "small GTPase binding",
+        "ONTOLOGY": "MF",
+        "GeneRatio": 0.038,
+        "qvalue": 6.4455e-10
+    },
+    {
+        "Description": "helicase activity",
+        "ONTOLOGY": "MF",
+        "GeneRatio": 0.026,
+        "qvalue": 5.7383e-10
+    },
+    {
+        "Description": "Endocytosis",
+        "ONTOLOGY": "KEGG",
+        "GeneRatio": 0.072,
+        "qvalue": 1.3159e-08
+    },
+    {
+        "Description": "Ubiquitin mediated proteolysis",
+        "ONTOLOGY": "KEGG",
+        "GeneRatio": 0.052,
+        "qvalue": 5.2508e-09
+    },
+    {
+        "Description": "ATP-dependent chromatin remodeling",
+        "ONTOLOGY": "KEGG",
+        "GeneRatio": 0.039,
+        "qvalue": 5.8043e-06
+    },
+    {
+        "Description": "Nucleocytoplasmic transport",
+        "ONTOLOGY": "KEGG",
+        "GeneRatio": 0.037,
+        "qvalue": 4.5692e-06
+    },
+    {
+        "Description": "Neurotrophin signaling pathway",
+        "ONTOLOGY": "KEGG",
+        "GeneRatio": 0.037,
+        "qvalue": 0
+    },
+    {
+        "Description": "TGF-beta signaling pathway",
+        "ONTOLOGY": "KEGG",
+        "GeneRatio": 0.033,
+        "qvalue": 0.0001
+    },
+    {
+        "Description": "Polycomb repressive complex",
+        "ONTOLOGY": "KEGG",
+        "GeneRatio": 0.029,
+        "qvalue": 0
+    },
+    {
+        "Description": "Adherens junction",
+        "ONTOLOGY": "KEGG",
+        "GeneRatio": 0.029,
+        "qvalue": 0.0001
+    },
+    {
+        "Description": "ErbB signaling pathway",
+        "ONTOLOGY": "KEGG",
+        "GeneRatio": 0.028,
+        "qvalue": 0.0001
+    },
+    {
+        "Description": "Inositol phosphate metabolism",
+        "ONTOLOGY": "KEGG",
+        "GeneRatio": 0.025,
+        "qvalue": 0.0001
+    }
+]

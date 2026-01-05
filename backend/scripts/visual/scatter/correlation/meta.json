@@ -1,0 +1,83 @@
+{
+  "name": "相关性散点图",
+  "description": "相关性散点图（Correlation Scatter Plot） 是一种数据可视化工具，通过散点图展示两个变量之间的相关性",
+  "ggplot2": {
+    "mapping": {
+      "x": "BRCA1",
+      "y": "BRCA2"
+    },
+    "layers": [
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 4.5,
+          "colour": "black"
+        }
+      },
+      {
+        "type": "geom_point",
+        "mapping": {
+          "colour": "BRCA1"
+        },
+        "arguments": {
+          "size": 4,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_smooth",
+        "arguments": {
+          "method": "lm",
+          "formula": "y ~ x",
+          "colour": "#009392",
+          "fill": "#B1C7B3"
+        }
+      },
+      {
+        "type": "stat_cor",
+        "arguments": {
+          "method": "pearson",
+          "size": 6
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_colour_gradient2",
+        "arguments": {
+          "low": "#F1EAC8",
+          "mid": "#E5B9AD",
+          "high": "#D0587E"
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Correlation of BRCA1 and BRCA2"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "hjust": 0.5
+            }
+          }
+        }
+      }
+    ],
+    "width": 700,
+    "height": 700
+  },
+  "has_js": false
+}

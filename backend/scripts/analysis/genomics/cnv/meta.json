@@ -1,0 +1,6 @@
+{
+    "name": "拷贝数变异分析",
+    "description": "检测和分析基因组拷贝数变异（CNV），识别基因拷贝数增加或减少的区域。",
+    "type": "analysis",
+    "category": "genomics"
+}

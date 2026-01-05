@@ -1,0 +1,95 @@
+{
+  "name": "双组半角热图",
+  "description": "双组半角热图用于展示一组变量在不同条件中的相关性变化",
+  "ggplot2": {
+    "qcorrplot": {
+      "arguments": {
+        "group": "group"
+      }
+    },
+    "correlate": {
+      "method": "pearson",
+      "engine": "default",
+      "cor.test": true
+    },
+    "layers": [
+      {
+        "type": "geom_ring",
+        "mapping": {
+          "fill": "r"
+        },
+        "arguments": {
+          "type": "lower"
+        }
+      },
+      {
+        "type": "geom_star",
+        "mapping": {
+          "fill": "r2"
+        },
+        "arguments": {
+          "type": "upper"
+        }
+      },
+      {
+        "type": "geom_diag_label",
+        "arguments": {
+          "size": 2.5
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_gradientn",
+        "arguments": {
+          "name": "Correlation",
+          "colours": [
+            "#ed6ca4",
+            "#ffffffff",
+            "#7bc4e2"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.text": {
+            "type": "element_blank"
+          },
+          "axis.title": {
+            "type": "element_blank"
+          },
+          "axis.ticks": {
+            "type": "element_blank"
+          },
+          "axis.text.x.bottom": {
+            "type": "element_blank"
+          },
+          "legend.background": {
+            "type": "element_blank"
+          },
+          "panel.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 600,
+    "height": 500
+  },
+  "has_js": false,
+  "has_r": true
+}

@@ -1,0 +1,6 @@
+{
+    "name": "进化分析",
+    "description": "微生物进化分析，包括系统发育树构建、进化关系推断和共同祖先分析。",
+    "type": "analysis",
+    "category": "metagenomics"
+}

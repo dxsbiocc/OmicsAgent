@@ -1,0 +1,102 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<path d="M127.95 555.5L767.7 555.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M127.95 432.5L767.7 432.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M127.95 310.5L767.7 310.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M127.95 187.5L767.7 187.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M127.95 65.5L767.7 65.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M127.95 555.5L767.7 555.5" fill="none" stroke="#54555a" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 555)" fill="#54555a">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 432.5)" fill="#54555a">100</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 310)" fill="#54555a">200</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 187.5)" fill="#54555a">300</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 65)" fill="#54555a">400</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(191.925 563)" fill="#54555a">2012</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(319.875 563)" fill="#54555a">2013</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(447.825 563)" fill="#54555a">2014</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(575.775 563)" fill="#54555a">2015</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(703.725 563)" fill="#54555a">2016</text>
+<path d="M140.1052 555l24.1022 0l0 -392l-24.1022 0Z" fill="#1cc7d0" class="zr1-cls-1"></path>
+<path d="M268.0553 555l24.1022 0l0 -406.7l-24.1022 0Z" fill="#1cc7d0" class="zr1-cls-1"></path>
+<path d="M396.0053 555l24.1022 0l0 -368.725l-24.1022 0Z" fill="#1cc7d0" class="zr1-cls-1"></path>
+<path d="M523.9553 555l24.1022 0l0 -409.15l-24.1022 0Z" fill="#1cc7d0" class="zr1-cls-1"></path>
+<path d="M651.9052 555l24.1022 0l0 -477.75l-24.1022 0Z" fill="rgb(28,199,208)" class="zr1-cls-1"></path>
+<path d="M166.6177 555l24.1022 0l0 -269.5l-24.1022 0Z" fill="#2dde98" class="zr1-cls-2"></path>
+<path d="M294.5677 555l24.1022 0l0 -222.95l-24.1022 0Z" fill="#2dde98" class="zr1-cls-2"></path>
+<path d="M422.5177 555l24.1022 0l0 -233.975l-24.1022 0Z" fill="#2dde98" class="zr1-cls-2"></path>
+<path d="M550.4677 555l24.1022 0l0 -286.65l-24.1022 0Z" fill="#2dde98" class="zr1-cls-2"></path>
+<path d="M678.4177 555l24.1022 0l0 -355.25l-24.1022 0Z" fill="rgb(45,222,152)" class="zr1-cls-2"></path>
+<path d="M193.1301 555l24.1022 0l0 -183.75l-24.1022 0Z" fill="#ffc168" class="zr1-cls-3"></path>
+<path d="M321.0801 555l24.1022 0l0 -284.2l-24.1022 0Z" fill="#ffc168" class="zr1-cls-3"></path>
+<path d="M449.0301 555l24.1022 0l0 -246.225l-24.1022 0Z" fill="#ffc168" class="zr1-cls-3"></path>
+<path d="M576.9801 555l24.1022 0l0 -188.65l-24.1022 0Z" fill="#ffc168" class="zr1-cls-3"></path>
+<path d="M704.9301 555l24.1022 0l0 -232.75l-24.1022 0Z" fill="rgb(255,193,104)" class="zr1-cls-3"></path>
+<path d="M219.6425 555l24.1022 0l0 -120.05l-24.1022 0Z" fill="#ff6c5f" class="zr1-cls-4"></path>
+<path d="M347.5925 555l24.1022 0l0 -94.325l-24.1022 0Z" fill="#ff6c5f" class="zr1-cls-4"></path>
+<path d="M475.5425 555l24.1022 0l0 -123.725l-24.1022 0Z" fill="#ff6c5f" class="zr1-cls-4"></path>
+<path d="M603.4925 555l24.1022 0l0 -121.275l-24.1022 0Z" fill="#ff6c5f" class="zr1-cls-4"></path>
+<path d="M731.4425 555l24.1022 0l0 -49l-24.1022 0Z" fill="rgb(255,108,95)" class="zr1-cls-4"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,152.1564,540)" fill="#333">320</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,280.1064,540)" fill="#333">332</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,408.0564,540)" fill="#333">301</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,536.0064,540)" fill="#333">334</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,663.9564,540)" fill="#333">390</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,178.6688,540)" fill="#333">220</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,306.6188,540)" fill="#333">182</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,434.5688,540)" fill="#333">191</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,562.5188,540)" fill="#333">234</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,690.4688,540)" fill="#333">290</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,205.1812,540)" fill="#333">150</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,333.1312,540)" fill="#333">232</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,461.0812,540)" fill="#333">201</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,589.0312,540)" fill="#333">154</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,716.9812,540)" fill="#333">190</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,231.6936,540)" fill="#333">98</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,359.6436,540)" fill="#333">77</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,487.5936,540)" fill="#333">101</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,615.5436,540)" fill="#333">99</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="matrix(0,-1,1,0,743.4936,540)" fill="#333">40</text>
+<path d="M-5 -5l310.3838 0l0 24l-310.3838 0Z" transform="translate(276.3081 601)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-0"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(276.3081 601)" fill="#1cc7d0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(276.3081 601)" fill="#54555a">Forest</text>
+<path d="M0 0l65.316 0l0 14l-65.316 0Z" transform="translate(276.3081 601)" fill="none" class="zr1-cls-5"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(349.6241 601)" fill="#2dde98" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(349.6241 601)" fill="#54555a">Steppe</text>
+<path d="M0 0l69.228 0l0 14l-69.228 0Z" transform="translate(349.6241 601)" fill="none" class="zr1-cls-5"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(426.852 601)" fill="#ffc168" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(426.852 601)" fill="#54555a">Desert</text>
+<path d="M0 0l66.4919 0l0 14l-66.4919 0Z" transform="translate(426.852 601)" fill="none" class="zr1-cls-5"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(501.344 601)" fill="#ff6c5f" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(501.344 601)" fill="#54555a">Wetland</text>
+<path d="M0 0l75.3479 0l0 14l-75.3479 0Z" transform="translate(501.344 601)" fill="none" class="zr1-cls-5"></path>
+<path d="M-47.012 -5l94.0239 0l0 28l-94.0239 0Z" transform="translate(426.5 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(426.5 20)" fill="#3c3c41">Stack Bar</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(30,218,228,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(49,244,167,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,212,114,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(255,118,104,1);
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

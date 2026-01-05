@@ -1,0 +1,6 @@
+{
+    "name": "增强子分析",
+    "description": "增强子识别和分析，研究基因调控元件的功能和活性模式。",
+    "type": "analysis",
+    "category": "epigenetics"
+}

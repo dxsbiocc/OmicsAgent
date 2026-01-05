@@ -1,0 +1,802 @@
+[
+    {
+        "gene": "TP53",
+        "expression": 1.9914
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.4169
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.626
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.166
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.6604
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.05
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.6284
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.1975
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.8184
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.2874
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.2387
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.2416
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.7048
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.2831
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.4464
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.3061
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.7168
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.1257
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.138
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.0576
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.6837
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.8951
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.1039
+    },
+    {
+        "gene": "EGFR",
+        "expression": 4.0353
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.5503
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.8645
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.0751
+    },
+    {
+        "gene": "EGFR",
+        "expression": 4.549
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.7314
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.5365
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.6346
+    },
+    {
+        "gene": "EGFR",
+        "expression": 0.7494
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.5191
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.936
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.1898
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.8129
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.6361
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.7654
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.964
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.1925
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.2611
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.8216
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.7599
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.7761
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.6727
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.2355
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.7737
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.1706
+    },
+    {
+        "gene": "TP53",
+        "expression": 1.4412
+    },
+    {
+        "gene": "KRAS",
+        "expression": 0.9778
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.3375
+    },
+    {
+        "gene": "EGFR",
+        "expression": 1.3615
+    },
+    {
+        "gene": "TP53",
+        "expression": 1.7503
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.403
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.8251
+    },
+    {
+        "gene": "EGFR",
+        "expression": 4.8887
+    },
+    {
+        "gene": "TP53",
+        "expression": 1.7946
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.2524
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.2439
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.5365
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.5556
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.5643
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.5915
+    },
+    {
+        "gene": "EGFR",
+        "expression": 1.5775
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.0163
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.2609
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.5369
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.1919
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.8892
+    },
+    {
+        "gene": "KRAS",
+        "expression": 3.0079
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.1702
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.278
+    },
+    {
+        "gene": "TP53",
+        "expression": 1.5125
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.8894
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.6364
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.0301
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.5032
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.736
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.5621
+    },
+    {
+        "gene": "EGFR",
+        "expression": 1.1654
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.5829
+    },
+    {
+        "gene": "KRAS",
+        "expression": 3.0344
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.7179
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.3729
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.7256
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.6113
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.8125
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.8242
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.1286
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.554
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.5322
+    },
+    {
+        "gene": "EGFR",
+        "expression": 1.729
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.0369
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.8104
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.4441
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.127
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.4966
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.1166
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.4026
+    },
+    {
+        "gene": "EGFR",
+        "expression": 1.4674
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.542
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.7562
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.0304
+    },
+    {
+        "gene": "EGFR",
+        "expression": 4.686
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.6323
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.8397
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.7481
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.9124
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.8265
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.3697
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.0161
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.7966
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.1826
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.0618
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.6227
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.9213
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.7635
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.0434
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.7786
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.4682
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.1056
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.392
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.6215
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.8656
+    },
+    {
+        "gene": "TP53",
+        "expression": 1.8821
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.3948
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.1644
+    },
+    {
+        "gene": "EGFR",
+        "expression": 4.2564
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.5298
+    },
+    {
+        "gene": "KRAS",
+        "expression": 3.1937
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.5687
+    },
+    {
+        "gene": "EGFR",
+        "expression": 5.2393
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.1788
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.7304
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.2056
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.8422
+    },
+    {
+        "gene": "TP53",
+        "expression": 1.0923
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.3435
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.8573
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.4486
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.1792
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.9178
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.5784
+    },
+    {
+        "gene": "EGFR",
+        "expression": 1.6165
+    },
+    {
+        "gene": "TP53",
+        "expression": 1.8575
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.5875
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.9816
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.9376
+    },
+    {
+        "gene": "TP53",
+        "expression": 1.8807
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.0647
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.5791
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.5811
+    },
+    {
+        "gene": "TP53",
+        "expression": 1.3986
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.7005
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.5464
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.6735
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.1009
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.5786
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.7662
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.3414
+    },
+    {
+        "gene": "TP53",
+        "expression": 1.6877
+    },
+    {
+        "gene": "KRAS",
+        "expression": 3.0264
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.8408
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.384
+    },
+    {
+        "gene": "TP53",
+        "expression": 0.8097
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.2559
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.0038
+    },
+    {
+        "gene": "EGFR",
+        "expression": 4.2113
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.8
+    },
+    {
+        "gene": "KRAS",
+        "expression": 0.9926
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.2715
+    },
+    {
+        "gene": "EGFR",
+        "expression": 1.8936
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.9229
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.2891
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.899
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.8413
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.3971
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.7894
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.9461
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.3565
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.3337
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.4722
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.8792
+    },
+    {
+        "gene": "EGFR",
+        "expression": 5.6263
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.1604
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.8352
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.84
+    },
+    {
+        "gene": "EGFR",
+        "expression": 3.3745
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.3605
+    },
+    {
+        "gene": "KRAS",
+        "expression": 1.9095
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.5252
+    },
+    {
+        "gene": "EGFR",
+        "expression": 1.5848
+    },
+    {
+        "gene": "TP53",
+        "expression": 3.2524
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.7585
+    },
+    {
+        "gene": "BRAF",
+        "expression": 1.2469
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.2392
+    },
+    {
+        "gene": "TP53",
+        "expression": 2.083
+    },
+    {
+        "gene": "KRAS",
+        "expression": 2.242
+    },
+    {
+        "gene": "BRAF",
+        "expression": 0.8048
+    },
+    {
+        "gene": "EGFR",
+        "expression": 2.9669
+    }
+]

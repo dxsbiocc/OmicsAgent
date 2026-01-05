@@ -1,0 +1,42 @@
+[
+    {
+        "Tissue": "Brain",
+        "Count": 8035
+    },
+    {
+        "Tissue": "Blood",
+        "Count": 4717
+    },
+    {
+        "Tissue": "Skin",
+        "Count": 4469
+    },
+    {
+        "Tissue": "Esophagus",
+        "Count": 3394
+    },
+    {
+        "Tissue": "Blood Vessel",
+        "Count": 3286
+    },
+    {
+        "Tissue": "Adipose Tissue",
+        "Count": 2461
+    },
+    {
+        "Tissue": "Muscle",
+        "Count": 2352
+    },
+    {
+        "Tissue": "Heart",
+        "Count": 2138
+    },
+    {
+        "Tissue": "Colon",
+        "Count": 2085
+    },
+    {
+        "Tissue": "Thyroid",
+        "Count": 2033
+    }
+]

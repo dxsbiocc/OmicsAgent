@@ -1,0 +1,101 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<polyline points="522.2 86.5 527.9 72.7 557.9 72.7" fill="none" stroke="#9b59b6" class="zr3-cls-9"></polyline>
+<polyline points="627.5 234.2 671.3 216.1 701.3 216.1" fill="none" stroke="#e74c3c" class="zr3-cls-9"></polyline>
+<polyline points="617.5 396.6 671.3 418.9 701.3 418.9" fill="none" stroke="#2980b9" class="zr3-cls-9"></polyline>
+<polyline points="493.2 478.6 527.9 562.3 557.9 562.3" fill="none" stroke="#f1c40f" class="zr3-cls-9"></polyline>
+<polyline points="368.1 458.6 325.1 562.3 295.1 562.3" fill="none" stroke="#16a085" class="zr3-cls-9"></polyline>
+<polyline points="295.4 371.8 181.7 418.9 151.7 418.9" fill="none" stroke="#34495e" class="zr3-cls-9"></polyline>
+<polyline points="315.4 271.5 181.7 216.1 151.7 216.1" fill="none" stroke="#3498db" class="zr3-cls-9"></polyline>
+<polyline points="384.6 216.4 325.1 72.7 295.1 72.7" fill="none" stroke="#2ecc71" class="zr3-cls-9"></polyline>
+<path d="M426.5 75.6323A8 8 0 0 1 434.7645 67.6366A250 250 0 0 1 597.3362 134.9761A8 8 0 0 1 597.5263 146.4737L467.1202 276.8798A8 8 0 0 1 456.6408 277.606A50 50 0 0 0 433.3966 267.9779A8 8 0 0 1 426.5 260.0544Z" fill="rgb(155,89,182)" class="zr3-cls-10"></path>
+<path d="M574.5786 169.4214A8 8 0 0 1 586.1042 169.6414A217.5676 217.5676 0 0 1 643.909 309.1946A8 8 0 0 1 635.9148 317.5L483.9456 317.5A8 8 0 0 1 476.0221 310.6034A50 50 0 0 0 466.394 287.3592A8 8 0 0 1 467.1202 276.8798Z" fill="#e74c3c" class="zr3-cls-11"></path>
+<path d="M625.0957 317.5A8 8 0 0 1 633.0892 325.822A206.7568 206.7568 0 0 1 578.4652 457.6961A8 8 0 0 1 566.9284 457.9284L467.1202 358.1202A8 8 0 0 1 466.394 347.6408A50 50 0 0 0 476.0221 324.3966A8 8 0 0 1 483.9456 317.5Z" fill="#2980b9" class="zr3-cls-12"></path>
+<path d="M543.9729 434.9729A8 8 0 0 1 543.6943 446.5522A174.3243 174.3243 0 0 1 434.8848 491.6226A8 8 0 0 1 426.5 483.6318L426.5 374.9456A8 8 0 0 1 433.3966 367.0221A50 50 0 0 0 456.6408 357.394A8 8 0 0 1 467.1202 358.1202Z" fill="#f1c40f" class="zr3-cls-13"></path>
+<path d="M426.5 461.9814A8 8 0 0 1 418.0577 469.9692A152.7027 152.7027 0 0 1 324.6576 431.2816A8 8 0 0 1 324.3362 419.6638L385.8798 358.1202A8 8 0 0 1 396.3592 357.394A50 50 0 0 0 419.6034 367.0221A8 8 0 0 1 426.5 374.9456Z" fill="#16a085" class="zr3-cls-14"></path>
+<path d="M331.9933 412.0067A8 8 0 0 1 320.3517 411.6586A141.8919 141.8919 0 0 1 284.8616 325.978A8 8 0 0 1 292.8473 317.5L369.0544 317.5A8 8 0 0 1 376.9779 324.3966A50 50 0 0 0 386.606 347.6408A8 8 0 0 1 385.8798 358.1202Z" fill="#34495e" class="zr3-cls-15"></path>
+<path d="M314.5151 317.5A8 8 0 0 1 306.5355 308.9299A120.2703 120.2703 0 0 1 335.6123 238.7322A8 8 0 0 1 347.3147 238.3147L385.8798 276.8798A8 8 0 0 1 386.606 287.3592A50 50 0 0 0 376.9779 310.6034A8 8 0 0 1 369.0544 317.5Z" fill="#3498db" class="zr3-cls-16"></path>
+<path d="M354.9807 245.9807A8 8 0 0 1 355.4443 234.2386A109.4595 109.4595 0 0 1 417.8692 208.3813A8 8 0 0 1 426.5 216.3564L426.5 260.0544A8 8 0 0 1 419.6034 267.9779A50 50 0 0 0 396.3592 277.606A8 8 0 0 1 385.8798 276.8798Z" fill="rgb(46,204,113)" class="zr3-cls-17"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(562.9111 72.6719)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Rose 1</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(706.3281 216.0889)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Rose 2</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(706.3281 418.9111)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Rose 3</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(562.9111 562.3281)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Rose 4</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(290.0889 562.3281)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Rose 5</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(146.6719 418.9111)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Rose 6</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(146.6719 216.0889)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Rose 7</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(290.0889 72.6719)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Rose 8</text>
+<path d="M-5 -5l615.4557 0l0 24l-615.4557 0Z" transform="translate(123.7721 608.25)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr3-cls-18"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(123.7721 608.25)" fill="#9b59b6" class="zr3-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(123.7721 608.25)" fill="#54555a">Rose 1</text>
+<path d="M0 0l66.672 0l0 14l-66.672 0Z" transform="translate(123.7721 608.25)" fill="none" class="zr3-cls-19"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(198.4441 608.25)" fill="#e74c3c" class="zr3-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(198.4441 608.25)" fill="#54555a">Rose 2</text>
+<path d="M0 0l69.06 0l0 14l-69.06 0Z" transform="translate(198.4441 608.25)" fill="none" class="zr3-cls-19"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(275.5041 608.25)" fill="#2980b9" class="zr3-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(275.5041 608.25)" fill="#54555a">Rose 3</text>
+<path d="M0 0l69.06 0l0 14l-69.06 0Z" transform="translate(275.5041 608.25)" fill="none" class="zr3-cls-19"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(352.564 608.25)" fill="#f1c40f" class="zr3-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(352.564 608.25)" fill="#54555a">Rose 4</text>
+<path d="M0 0l69.06 0l0 14l-69.06 0Z" transform="translate(352.564 608.25)" fill="none" class="zr3-cls-19"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(429.624 608.25)" fill="#16a085" class="zr3-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(429.624 608.25)" fill="#54555a">Rose 5</text>
+<path d="M0 0l69.06 0l0 14l-69.06 0Z" transform="translate(429.624 608.25)" fill="none" class="zr3-cls-19"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(506.684 608.25)" fill="#34495e" class="zr3-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(506.684 608.25)" fill="#54555a">Rose 6</text>
+<path d="M0 0l69.06 0l0 14l-69.06 0Z" transform="translate(506.684 608.25)" fill="none" class="zr3-cls-19"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(583.7439 608.25)" fill="#3498db" class="zr3-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(583.7439 608.25)" fill="#54555a">Rose 7</text>
+<path d="M0 0l68.424 0l0 14l-68.424 0Z" transform="translate(583.7439 608.25)" fill="none" class="zr3-cls-19"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(660.1679 608.25)" fill="#2ecc71" class="zr3-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(660.1679 608.25)" fill="#54555a">Rose 8</text>
+<path d="M0 0l69.06 0l0 14l-69.06 0Z" transform="translate(660.1679 608.25)" fill="none" class="zr3-cls-19"></path>
+<path d="M-104.6389 -5l209.2778 0l0 28l-209.2778 0Z" transform="translate(426.5 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr3-cls-18"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(426.5 20)" fill="#3c3c41">Nightingale Rose Chart</text>
+<style ><![CDATA[
+.zr3-cls-9:hover {
+cursor:pointer;
+}
+.zr3-cls-10:hover {
+cursor:pointer;
+fill:rgba(170,97,200,1);
+}
+.zr3-cls-11:hover {
+cursor:pointer;
+fill:rgba(254,83,66,1);
+}
+.zr3-cls-12:hover {
+cursor:pointer;
+fill:rgba(45,140,203,1);
+}
+.zr3-cls-13:hover {
+cursor:pointer;
+fill:rgba(255,215,16,1);
+}
+.zr3-cls-14:hover {
+cursor:pointer;
+fill:rgba(24,176,146,1);
+}
+.zr3-cls-15:hover {
+cursor:pointer;
+fill:rgba(57,80,103,1);
+}
+.zr3-cls-16:hover {
+cursor:pointer;
+fill:rgba(57,167,240,1);
+}
+.zr3-cls-17:hover {
+cursor:pointer;
+fill:rgba(50,224,124,1);
+}
+.zr3-cls-18:hover {
+pointer-events:none;
+}
+.zr3-cls-19:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

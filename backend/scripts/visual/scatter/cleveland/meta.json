@@ -1,0 +1,92 @@
+{
+  "name": "克利夫兰点图",
+  "description": "克利夫兰点图（Cleveland Dot Plot） 是一种数据可视化工具，通过点的大小和位置来展示数据的分布形态、密度和个体差异",
+  "ggplot2": {
+    "mapping": {
+      "x": "Count",
+      "y": "Tissue"
+    },
+    "layers": [
+      {
+        "type": "geom_segment",
+        "mapping": {
+          "x": 0,
+          "xend": "Count",
+          "yend": "Tissue"
+        },
+        "arguments": {
+          "colour": "#caccd1"
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 5,
+          "colour": "#1aafd0",
+          "fill": "#ffffffff",
+          "shape": 21
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 3,
+          "colour": "#1aafd0"
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Cleveland Dot Plot",
+        "x": "Count",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_minimal",
+        "arguments": {
+          "base_size": 14
+        }
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "panel.grid.major.y": {
+            "type": "element_blank"
+          },
+          "panel.grid.minor": {
+            "type": "element_blank"
+          },
+          "axis.title.y": {
+            "type": "element_blank"
+          },
+          "axis.title.x": {
+            "type": "element_text",
+            "arguments": {
+              "size": 14,
+              "face": "bold"
+            }
+          },
+          "axis.text.y": {
+            "type": "element_text",
+            "arguments": {
+              "size": 12
+            }
+          },
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "size": 16,
+              "face": "bold"
+            }
+          }
+        }
+      }
+    ],
+    "width": 400,
+    "height": 400
+  },
+  "has_js": false
+}

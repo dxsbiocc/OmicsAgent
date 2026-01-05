@@ -1,0 +1,34 @@
+[
+  {
+    "roseName": "Rose 1",
+    "value": 37
+  },
+  {
+    "roseName": "Rose 2",
+    "value": 31
+  },
+  {
+    "roseName": "Rose 3",
+    "value": 29
+  },
+  {
+    "roseName": "Rose 4",
+    "value": 23
+  },
+  {
+    "roseName": "Rose 5",
+    "value": 19
+  },
+  {
+    "roseName": "Rose 6",
+    "value": 17
+  },
+  {
+    "roseName": "Rose 7",
+    "value": 13
+  },
+  {
+    "roseName": "Rose 8",
+    "value": 11
+  }
+]

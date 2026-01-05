@@ -1,0 +1,30 @@
+[
+  {
+    "day": "Mon",
+    "direct": "10"
+  },
+  {
+    "day": "Tue",
+    "direct": "52"
+  },
+  {
+    "day": "Wed",
+    "direct": "200"
+  },
+  {
+    "day": "Thu",
+    "direct": "334"
+  },
+  {
+    "day": "Fri",
+    "direct": "390"
+  },
+  {
+    "day": "Sat",
+    "direct": "330"
+  },
+  {
+    "day": "Sun",
+    "direct": "220"
+  }
+]

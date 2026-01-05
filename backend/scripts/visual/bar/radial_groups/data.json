@@ -1,0 +1,302 @@
+[
+    {
+        "gene": "TTN",
+        "group": "Ins",
+        "count": 65
+    },
+    {
+        "gene": "TP53",
+        "group": "Ins",
+        "count": 55
+    },
+    {
+        "gene": "CTNNB1",
+        "group": "Ins",
+        "count": 25
+    },
+    {
+        "gene": "MUC16",
+        "group": "Ins",
+        "count": 64
+    },
+    {
+        "gene": "PCLO",
+        "group": "Ins",
+        "count": 66
+    },
+    {
+        "gene": "ALB",
+        "group": "Ins",
+        "count": 22
+    },
+    {
+        "gene": "OBSCN",
+        "group": "Ins",
+        "count": 64
+    },
+    {
+        "gene": "RYR2",
+        "group": "Ins",
+        "count": 90
+    },
+    {
+        "gene": "CSMD3",
+        "group": "Ins",
+        "count": 24
+    },
+    {
+        "gene": "FLG",
+        "group": "Ins",
+        "count": 16
+    },
+    {
+        "gene": "HMCN1",
+        "group": "Mismatch",
+        "count": 92
+    },
+    {
+        "gene": "XIRP2",
+        "group": "Mismatch",
+        "count": 41
+    },
+    {
+        "gene": "LRP1B",
+        "group": "Mismatch",
+        "count": 45
+    },
+    {
+        "gene": "USH2A",
+        "group": "Mismatch",
+        "count": 88
+    },
+    {
+        "gene": "ABCA13",
+        "group": "Mismatch",
+        "count": 79
+    },
+    {
+        "gene": "APOB",
+        "group": "Mismatch",
+        "count": 65
+    },
+    {
+        "gene": "CSMD1",
+        "group": "Mismatch",
+        "count": 18
+    },
+    {
+        "gene": "CACNA1E",
+        "group": "Mismatch",
+        "count": 64
+    },
+    {
+        "gene": "ADGRV1",
+        "group": "Mismatch",
+        "count": 70
+    },
+    {
+        "gene": "ARID1A",
+        "group": "Mismatch",
+        "count": 90
+    },
+    {
+        "gene": "DNAH7",
+        "group": "Mismatch",
+        "count": 78
+    },
+    {
+        "gene": "RYR1",
+        "group": "Mismatch",
+        "count": 84
+    },
+    {
+        "gene": "FASN",
+        "group": "Mismatch",
+        "count": 91
+    },
+    {
+        "gene": "FAT3",
+        "group": "Mismatch",
+        "count": 100
+    },
+    {
+        "gene": "MUC5B",
+        "group": "Mismatch",
+        "count": 11
+    },
+    {
+        "gene": "SPTA1",
+        "group": "Mismatch",
+        "count": 21
+    },
+    {
+        "gene": "AXIN1",
+        "group": "Mismatch",
+        "count": 88
+    },
+    {
+        "gene": "COL11A1",
+        "group": "Mismatch",
+        "count": 64
+    },
+    {
+        "gene": "CUBN",
+        "group": "Mismatch",
+        "count": 72
+    },
+    {
+        "gene": "DMD",
+        "group": "Mismatch",
+        "count": 13
+    },
+    {
+        "gene": "DOCK2",
+        "group": "Mismatch",
+        "count": 20
+    },
+    {
+        "gene": "DNAH5",
+        "group": "Mismatch",
+        "count": 80
+    },
+    {
+        "gene": "FAT2",
+        "group": "Mismatch",
+        "count": 26
+    },
+    {
+        "gene": "FBN2",
+        "group": "Mismatch",
+        "count": 81
+    },
+    {
+        "gene": "AHNAK2",
+        "group": "Mismatch",
+        "count": 69
+    },
+    {
+        "gene": "RYR3",
+        "group": "Mismatch",
+        "count": 38
+    },
+    {
+        "gene": "DNAH9",
+        "group": "Mismatch",
+        "count": 30
+    },
+    {
+        "gene": "DST",
+        "group": "Mismatch",
+        "count": 28
+    },
+    {
+        "gene": "FREM2",
+        "group": "Mismatch",
+        "count": 84
+    },
+    {
+        "gene": "NBEA",
+        "group": "Mismatch",
+        "count": 82
+    },
+    {
+        "gene": "PCDH15",
+        "group": "Del",
+        "count": 28
+    },
+    {
+        "gene": "PKHD1L1",
+        "group": "Del",
+        "count": 38
+    },
+    {
+        "gene": "HERC2",
+        "group": "Del",
+        "count": 89
+    },
+    {
+        "gene": "KIF26B",
+        "group": "Del",
+        "count": 14
+    },
+    {
+        "gene": "ZFHX4",
+        "group": "Del",
+        "count": 23
+    },
+    {
+        "gene": "ARID2",
+        "group": "Del",
+        "count": 24
+    },
+    {
+        "gene": "DNAH8",
+        "group": "Del",
+        "count": 89
+    },
+    {
+        "gene": "FAT4",
+        "group": "Del",
+        "count": 30
+    },
+    {
+        "gene": "FRAS1",
+        "group": "Del",
+        "count": 57
+    },
+    {
+        "gene": "KIAA1109",
+        "group": "Del",
+        "count": 16
+    },
+    {
+        "gene": "LAMA1",
+        "group": "Del",
+        "count": 11
+    },
+    {
+        "gene": "BAP1",
+        "group": "Del",
+        "count": 22
+    },
+    {
+        "gene": "CSMD2",
+        "group": "Del",
+        "count": 29
+    },
+    {
+        "gene": "KMT2D",
+        "group": "Del",
+        "count": 72
+    },
+    {
+        "gene": "MUC17",
+        "group": "Silent",
+        "count": 85
+    },
+    {
+        "gene": "PLXNA4",
+        "group": "Silent",
+        "count": 28
+    },
+    {
+        "gene": "PRKDC",
+        "group": "Silent",
+        "count": 64
+    },
+    {
+        "gene": "PRUNE2",
+        "group": "Silent",
+        "count": 10
+    },
+    {
+        "gene": "SPEG",
+        "group": "Silent",
+        "count": 80
+    },
+    {
+        "gene": "SYNE1",
+        "group": "Silent",
+        "count": 54
+    }
+]

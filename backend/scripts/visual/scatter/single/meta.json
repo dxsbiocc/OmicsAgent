@@ -1,0 +1,44 @@
+{
+  "name": "单轴散点图",
+  "description": "单轴散点图用于显示单个变量的分布和离散程度。与传统的散点图相比，单轴散点图只在一个轴上表示数据。在单轴散点图中，每个数据点表示一个观测值，并根据其数值在水平轴上进行放置。",
+  "params_schema": {
+    "data": {
+      "type": "string",
+      "description": "CSV file path"
+    },
+    "x_col": {
+      "type": "string"
+    },
+    "y_col": {
+      "type": "string"
+    },
+    "color_col": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "point_size": {
+      "type": "number"
+    },
+    "width": {
+      "type": "integer"
+    },
+    "height": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    }
+  },
+  "defaults": {
+    "x_col": "x",
+    "y_col": "y",
+    "color_col": null,
+    "point_size": 2.0,
+    "width": 800,
+    "height": 600,
+    "title": "单轴散点图"
+  },
+  "has_js": true
+}

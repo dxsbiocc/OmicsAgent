@@ -1,0 +1,181 @@
+{
+  "name": "区域哑铃图",
+  "description": "哑铃图是一种特殊的散点图，适合展示多个类别的数值",
+  "ggplot2": {
+    "mapping": {
+      "x": "mean_prev",
+      "y": "age_group",
+      "colour": "Sex"
+    },
+    "layers": [
+      {
+        "type": "geom_rect",
+        "mapping": {
+          "xmin": "lower",
+          "xmax": "upper",
+          "fill": "Sex"
+        },
+        "arguments": {
+          "ymin": "-Inf",
+          "ymax": "Inf",
+          "alpha": 0.2,
+          "inherit.aes": false
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "text",
+          "y": [
+            "95 plus"
+          ],
+          "label": [
+            "MEAN"
+          ],
+          "angle": [
+            90
+          ],
+          "size": [
+            3
+          ],
+          "vjust": [
+            -0.2
+          ],
+          "colour": [
+            "#79ceb8"
+          ]
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "text",
+          "y": [
+            "95 plus"
+          ],
+          "label": [
+            "STDEV"
+          ],
+          "angle": [
+            90
+          ],
+          "size": [
+            3
+          ],
+          "vjust": [
+            -0.2
+          ],
+          "colour": [
+            "#79ceb8"
+          ]
+        }
+      },
+      {
+        "type": "geom_vline",
+        "mapping": {
+          "xintercept": "mu",
+          "colour": "Sex"
+        },
+        "arguments": {
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_line",
+        "mapping": {
+          "group": "age_group"
+        },
+        "arguments": {
+          "colour": "#cba7a2"
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 5,
+          "shape": 21,
+          "fill": "#ffffff"
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 3
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Mean Prevalence of obesity",
+        "x": "",
+        "y": ""
+      }
+    },
+    "guides": {
+      "fill": {
+        "type": "guide_none"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#f784b6",
+            "#79ceb8"
+          ]
+        }
+      },
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#FFDEEA",
+            "#E5FAED"
+          ]
+        }
+      },
+      {
+        "type": "scale_y_discrete",
+        "arguments": {
+          "expand": {
+            "type": "expansion",
+            "arguments": {
+              "mult": [
+                0.1,
+                0.1
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "axis.line": {
+            "type": "element_blank"
+          },
+          "axis.ticks.y": {
+            "type": "element_blank"
+          },
+          "axis.title.y": {
+            "type": "element_blank"
+          },
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "legend.position": "top"
+        }
+      }
+    ],
+    "width": 600,
+    "height": 600
+  },
+  "has_js": false
+}

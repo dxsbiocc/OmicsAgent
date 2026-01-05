@@ -1,0 +1,42 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<path d="M127.95 555.5L767.7 555.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M127.95 432.5L767.7 432.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M127.95 310.5L767.7 310.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M127.95 187.5L767.7 187.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M127.95 65.5L767.7 65.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M127.95 555.5L767.7 555.5" fill="none" stroke="#54555a" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 555)" fill="#54555a">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 432.5)" fill="#54555a">100</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 310)" fill="#54555a">200</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 187.5)" fill="#54555a">300</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(119.95 65)" fill="#54555a">400</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(173.6464 563)" fill="#54555a">Mon</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(265.0393 563)" fill="#54555a">Tue</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(356.4321 563)" fill="#54555a">Wed</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(447.825 563)" fill="#54555a">Thu</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(539.2179 563)" fill="#54555a">Fri</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(630.6107 563)" fill="#54555a">Sat</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(722.0036 563)" fill="#54555a">Sun</text>
+<path d="M146.2286 555l54.8357 0l0 -12.25l-54.8357 0Z" fill="#1CC7D0" class="zr1-cls-1"></path>
+<path d="M237.6214 555l54.8357 0l0 -63.7l-54.8357 0Z" fill="#1CC7D0" class="zr1-cls-1"></path>
+<path d="M329.0143 555l54.8357 0l0 -245l-54.8357 0Z" fill="#1CC7D0" class="zr1-cls-1"></path>
+<path d="M420.4071 555l54.8357 0l0 -409.15l-54.8357 0Z" fill="#1CC7D0" class="zr1-cls-1"></path>
+<path d="M511.8 555l54.8357 0l0 -477.75l-54.8357 0Z" fill="#1CC7D0" class="zr1-cls-1"></path>
+<path d="M603.1929 555l54.8357 0l0 -404.25l-54.8357 0Z" fill="#1CC7D0" class="zr1-cls-1"></path>
+<path d="M694.5857 555l54.8357 0l0 -269.5l-54.8357 0Z" fill="#1CC7D0" class="zr1-cls-1"></path>
+<path d="M-46.328 -5l92.6559 0l0 28l-92.6559 0Z" transform="translate(426.5 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(426.5 20)" fill="#3c3c41">Basic Bar</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(30,218,228,1);
+}
+
+]]>
+
+</style>
+</svg>

@@ -9,9 +9,11 @@ import { Box, Container, Typography, Button, Stack } from "@mui/material";
 import { Home, ArrowBack, Security } from "@mui/icons-material";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
+import { useThemeContext } from "@/contexts/ThemeContext";
 
 export default function ForbiddenPage() {
   const router = useRouter();
+  const { mode } = useThemeContext();
 
   const handleGoHome = () => {
     router.push("/");
@@ -66,11 +68,10 @@ export default function ForbiddenPage() {
           }}
         >
           <Image
-            src="/images/plate/mushroom_2.svg"
-            alt="403 禁止访问蘑菇插图"
+            src="/icons/panda-oops.svg"
+            alt="403 禁止访问熊猫插图"
             fill
             style={{ objectFit: "contain" }}
-            priority
           />
         </Box>
 
@@ -98,7 +99,7 @@ export default function ForbiddenPage() {
         >
           抱歉，您没有权限访问这个页面。
           <br />
-          小蘑菇正在守护着这个区域，只有获得许可的用户才能进入。
+          小熊猫正在守护着这个区域，只有获得许可的用户才能进入。
         </Typography>
 
         <Stack
@@ -161,12 +162,18 @@ export default function ForbiddenPage() {
 
         <Box
           sx={{
-            backgroundColor: "warning.50",
+            backgroundColor:
+              mode === "dark"
+                ? "rgba(237, 108, 2, 0.1)"
+                : "warning.50",
             borderRadius: 2,
             p: 3,
             maxWidth: 600,
             border: "1px solid",
-            borderColor: "warning.200",
+            borderColor:
+              mode === "dark"
+                ? "rgba(237, 108, 2, 0.3)"
+                : "warning.200",
           }}
         >
           <Typography

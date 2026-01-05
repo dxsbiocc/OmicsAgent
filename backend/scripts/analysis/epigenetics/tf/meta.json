@@ -1,0 +1,6 @@
+{
+    "name": "转录因子结合分析",
+    "description": "转录因子结合位点分析，包括ChIP-seq和ChIP-chip数据处理和peak识别。",
+    "type": "analysis",
+    "category": "epigenetics"
+}

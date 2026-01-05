@@ -1,0 +1,6002 @@
+[
+    {
+        "symbol": "Rptoros",
+        "log2FC": 4.1843,
+        "baseMean": 3.802,
+        "group": "None"
+    },
+    {
+        "symbol": "Poglut3",
+        "log2FC": 0.537,
+        "baseMean": 101.8629,
+        "group": "None"
+    },
+    {
+        "symbol": "Dph6",
+        "log2FC": 0.1138,
+        "baseMean": 57.3375,
+        "group": "None"
+    },
+    {
+        "symbol": "Leng1",
+        "log2FC": -0.597,
+        "baseMean": 129.6343,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp871",
+        "log2FC": -0.55,
+        "baseMean": 1351.0719,
+        "group": "None"
+    },
+    {
+        "symbol": "Uck2",
+        "log2FC": -0.0662,
+        "baseMean": 36.5616,
+        "group": "None"
+    },
+    {
+        "symbol": "1700029J07Rik",
+        "log2FC": -1.0581,
+        "baseMean": 7.0199,
+        "group": "None"
+    },
+    {
+        "symbol": "Rab5a",
+        "log2FC": 0.0323,
+        "baseMean": 487.7017,
+        "group": "None"
+    },
+    {
+        "symbol": "Cyp2a5",
+        "log2FC": -0.783,
+        "baseMean": 6213.8326,
+        "group": "None"
+    },
+    {
+        "symbol": "Kbtbd12",
+        "log2FC": 0.7146,
+        "baseMean": 4.8902,
+        "group": "None"
+    },
+    {
+        "symbol": "Ubtd2",
+        "log2FC": 1.5167,
+        "baseMean": 67.6823,
+        "group": "Up"
+    },
+    {
+        "symbol": "Cenpo",
+        "log2FC": -0.1278,
+        "baseMean": 34.5099,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm1976",
+        "log2FC": 1.0688,
+        "baseMean": 12.1984,
+        "group": "None"
+    },
+    {
+        "symbol": "Bco1",
+        "log2FC": -0.6991,
+        "baseMean": 50.6791,
+        "group": "None"
+    },
+    {
+        "symbol": "Plekhg1",
+        "log2FC": 0.4185,
+        "baseMean": 88.9498,
+        "group": "None"
+    },
+    {
+        "symbol": "Minpp1",
+        "log2FC": -0.2041,
+        "baseMean": 706.6512,
+        "group": "None"
+    },
+    {
+        "symbol": "Cryz",
+        "log2FC": -0.2347,
+        "baseMean": 860.0125,
+        "group": "None"
+    },
+    {
+        "symbol": "Dnajb13",
+        "log2FC": 3.1272,
+        "baseMean": 5.4521,
+        "group": "None"
+    },
+    {
+        "symbol": "Spry4",
+        "log2FC": -0.9592,
+        "baseMean": 207.5337,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm16548",
+        "log2FC": -0.3712,
+        "baseMean": 181.2521,
+        "group": "None"
+    },
+    {
+        "symbol": "1700001P01Rik",
+        "log2FC": 1.5094,
+        "baseMean": 1.4598,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc2a3",
+        "log2FC": 0.4491,
+        "baseMean": 13.0167,
+        "group": "None"
+    },
+    {
+        "symbol": "Ube2j2",
+        "log2FC": 0.2067,
+        "baseMean": 284.7906,
+        "group": "None"
+    },
+    {
+        "symbol": "Sap30bp",
+        "log2FC": -0.0765,
+        "baseMean": 79.2194,
+        "group": "None"
+    },
+    {
+        "symbol": "Arl6",
+        "log2FC": -0.2699,
+        "baseMean": 11.55,
+        "group": "None"
+    },
+    {
+        "symbol": "Usp6nl",
+        "log2FC": 0.4571,
+        "baseMean": 312.0188,
+        "group": "None"
+    },
+    {
+        "symbol": "Prss12",
+        "log2FC": -0.0333,
+        "baseMean": 1.8921,
+        "group": "None"
+    },
+    {
+        "symbol": "Med8",
+        "log2FC": -0.3373,
+        "baseMean": 142.5783,
+        "group": "None"
+    },
+    {
+        "symbol": "Grb2",
+        "log2FC": 0.2378,
+        "baseMean": 662.8264,
+        "group": "None"
+    },
+    {
+        "symbol": "Pot1a",
+        "log2FC": -0.2316,
+        "baseMean": 36.4736,
+        "group": "None"
+    },
+    {
+        "symbol": "LOC102640673",
+        "log2FC": -0.2824,
+        "baseMean": 38.5513,
+        "group": "None"
+    },
+    {
+        "symbol": "Angptl8",
+        "log2FC": -1.0891,
+        "baseMean": 380.9338,
+        "group": "None"
+    },
+    {
+        "symbol": "Lamb1",
+        "log2FC": 0.6545,
+        "baseMean": 42.5604,
+        "group": "None"
+    },
+    {
+        "symbol": "Usp48",
+        "log2FC": 0.2584,
+        "baseMean": 250.5133,
+        "group": "None"
+    },
+    {
+        "symbol": "Milr1",
+        "log2FC": 0.5287,
+        "baseMean": 20.7592,
+        "group": "None"
+    },
+    {
+        "symbol": "Nars2",
+        "log2FC": -0.5661,
+        "baseMean": 135.156,
+        "group": "None"
+    },
+    {
+        "symbol": "Cyp4a14",
+        "log2FC": -2.6837,
+        "baseMean": 3812.5092,
+        "group": "Down"
+    },
+    {
+        "symbol": "Dph7",
+        "log2FC": 0.1991,
+        "baseMean": 40.1735,
+        "group": "None"
+    },
+    {
+        "symbol": "Tti1",
+        "log2FC": 0.393,
+        "baseMean": 173.681,
+        "group": "None"
+    },
+    {
+        "symbol": "Lsm14b",
+        "log2FC": -0.2893,
+        "baseMean": 217.18,
+        "group": "None"
+    },
+    {
+        "symbol": "Mug2",
+        "log2FC": 0.6349,
+        "baseMean": 1469.3738,
+        "group": "None"
+    },
+    {
+        "symbol": "Sfn",
+        "log2FC": -0.0393,
+        "baseMean": 31.4655,
+        "group": "None"
+    },
+    {
+        "symbol": "Armc10",
+        "log2FC": 0.126,
+        "baseMean": 116.3551,
+        "group": "None"
+    },
+    {
+        "symbol": "Ctdnep1",
+        "log2FC": -0.0744,
+        "baseMean": 287.4879,
+        "group": "None"
+    },
+    {
+        "symbol": "Mfsd9",
+        "log2FC": 0.5465,
+        "baseMean": 52.7712,
+        "group": "None"
+    },
+    {
+        "symbol": "Rnf26",
+        "log2FC": 0.283,
+        "baseMean": 309.5835,
+        "group": "None"
+    },
+    {
+        "symbol": "Azgp1",
+        "log2FC": -0.251,
+        "baseMean": 9903.2422,
+        "group": "None"
+    },
+    {
+        "symbol": "Antxr1",
+        "log2FC": 1.2045,
+        "baseMean": 52.5167,
+        "group": "Up"
+    },
+    {
+        "symbol": "Arl16",
+        "log2FC": -0.3074,
+        "baseMean": 67.2336,
+        "group": "None"
+    },
+    {
+        "symbol": "Nfil3",
+        "log2FC": 1.943,
+        "baseMean": 642.5062,
+        "group": "Up"
+    },
+    {
+        "symbol": "1700094J05Rik",
+        "log2FC": 1.0316,
+        "baseMean": 11.6784,
+        "group": "None"
+    },
+    {
+        "symbol": "Ctns",
+        "log2FC": -0.1603,
+        "baseMean": 247.8814,
+        "group": "None"
+    },
+    {
+        "symbol": "Tbx3",
+        "log2FC": -0.9418,
+        "baseMean": 495.5439,
+        "group": "None"
+    },
+    {
+        "symbol": "Pigt",
+        "log2FC": 0.206,
+        "baseMean": 566.6832,
+        "group": "None"
+    },
+    {
+        "symbol": "Lrrc32",
+        "log2FC": 0.1531,
+        "baseMean": 259.3098,
+        "group": "None"
+    },
+    {
+        "symbol": "Snord73a",
+        "log2FC": -1.1857,
+        "baseMean": 4.4166,
+        "group": "None"
+    },
+    {
+        "symbol": "Cd300lb",
+        "log2FC": 1.7685,
+        "baseMean": 37.0684,
+        "group": "Up"
+    },
+    {
+        "symbol": "Mrpl42",
+        "log2FC": 0.3541,
+        "baseMean": 15.421,
+        "group": "None"
+    },
+    {
+        "symbol": "9330175E14Rik",
+        "log2FC": -1.5528,
+        "baseMean": 7.8769,
+        "group": "None"
+    },
+    {
+        "symbol": "Fabp1",
+        "log2FC": -2.5687,
+        "baseMean": 1077.8485,
+        "group": "Down"
+    },
+    {
+        "symbol": "Mycn",
+        "log2FC": -2.1054,
+        "baseMean": 5.7012,
+        "group": "None"
+    },
+    {
+        "symbol": "Timm22",
+        "log2FC": -0.7808,
+        "baseMean": 95.915,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp512",
+        "log2FC": 0.3381,
+        "baseMean": 171.4802,
+        "group": "None"
+    },
+    {
+        "symbol": "Capn6",
+        "log2FC": 2.9764,
+        "baseMean": 48.9253,
+        "group": "Up"
+    },
+    {
+        "symbol": "P2rx6",
+        "log2FC": 1.7827,
+        "baseMean": 2.3435,
+        "group": "None"
+    },
+    {
+        "symbol": "Degs1",
+        "log2FC": 0.6063,
+        "baseMean": 1060.1546,
+        "group": "None"
+    },
+    {
+        "symbol": "Washc1",
+        "log2FC": -0.1154,
+        "baseMean": 145.937,
+        "group": "None"
+    },
+    {
+        "symbol": "Zc3h12a",
+        "log2FC": 1.3329,
+        "baseMean": 92.6888,
+        "group": "Up"
+    },
+    {
+        "symbol": "Trmt2b",
+        "log2FC": -0.3562,
+        "baseMean": 307.0256,
+        "group": "None"
+    },
+    {
+        "symbol": "Nfx1",
+        "log2FC": -0.1582,
+        "baseMean": 445.1065,
+        "group": "None"
+    },
+    {
+        "symbol": "Fanci",
+        "log2FC": -0.1295,
+        "baseMean": 126.889,
+        "group": "None"
+    },
+    {
+        "symbol": "Plekhh2",
+        "log2FC": -0.9493,
+        "baseMean": 24.9203,
+        "group": "None"
+    },
+    {
+        "symbol": "Dolpp1",
+        "log2FC": -0.3087,
+        "baseMean": 206.3288,
+        "group": "None"
+    },
+    {
+        "symbol": "Dsg1c",
+        "log2FC": -1.0939,
+        "baseMean": 77.9871,
+        "group": "Down"
+    },
+    {
+        "symbol": "Cyb5a",
+        "log2FC": -0.771,
+        "baseMean": 3181.9277,
+        "group": "None"
+    },
+    {
+        "symbol": "Gdpd1",
+        "log2FC": 1.0971,
+        "baseMean": 24.1338,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp846",
+        "log2FC": 0.4576,
+        "baseMean": 40.8023,
+        "group": "None"
+    },
+    {
+        "symbol": "Lyrm4",
+        "log2FC": -0.2555,
+        "baseMean": 68.6878,
+        "group": "None"
+    },
+    {
+        "symbol": "BC021767",
+        "log2FC": 0.5978,
+        "baseMean": 20.1559,
+        "group": "None"
+    },
+    {
+        "symbol": "Mrtfb",
+        "log2FC": 1.1221,
+        "baseMean": 622.2401,
+        "group": "Up"
+    },
+    {
+        "symbol": "Zfp91",
+        "log2FC": -0.4774,
+        "baseMean": 1343.3711,
+        "group": "None"
+    },
+    {
+        "symbol": "Cc2d1a",
+        "log2FC": 0.7001,
+        "baseMean": 52.9506,
+        "group": "None"
+    },
+    {
+        "symbol": "Pak1ip1",
+        "log2FC": -0.1964,
+        "baseMean": 146.7691,
+        "group": "None"
+    },
+    {
+        "symbol": "Cdk18",
+        "log2FC": -0.5131,
+        "baseMean": 359.9448,
+        "group": "None"
+    },
+    {
+        "symbol": "Acnat1",
+        "log2FC": -0.3727,
+        "baseMean": 2062.1692,
+        "group": "None"
+    },
+    {
+        "symbol": "Pnpla2",
+        "log2FC": 0.4681,
+        "baseMean": 802.7219,
+        "group": "None"
+    },
+    {
+        "symbol": "Lum",
+        "log2FC": 2.643,
+        "baseMean": 574.1193,
+        "group": "Up"
+    },
+    {
+        "symbol": "Rbms2",
+        "log2FC": 0.5057,
+        "baseMean": 225.6614,
+        "group": "None"
+    },
+    {
+        "symbol": "Ctsz",
+        "log2FC": 0.192,
+        "baseMean": 1664.7035,
+        "group": "None"
+    },
+    {
+        "symbol": "Syt6",
+        "log2FC": 0.3542,
+        "baseMean": 53.0771,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm20498",
+        "log2FC": -0.769,
+        "baseMean": 72.6362,
+        "group": "None"
+    },
+    {
+        "symbol": "Polr2d",
+        "log2FC": -0.2484,
+        "baseMean": 47.5811,
+        "group": "None"
+    },
+    {
+        "symbol": "Acaa1a",
+        "log2FC": -0.6663,
+        "baseMean": 1103.5743,
+        "group": "None"
+    },
+    {
+        "symbol": "Tkt",
+        "log2FC": 0.3224,
+        "baseMean": 223.2934,
+        "group": "None"
+    },
+    {
+        "symbol": "Glul",
+        "log2FC": -1.4497,
+        "baseMean": 12584.8873,
+        "group": "Down"
+    },
+    {
+        "symbol": "Dusp4",
+        "log2FC": 3.8941,
+        "baseMean": 70.6236,
+        "group": "Up"
+    },
+    {
+        "symbol": "Ptpmt1",
+        "log2FC": -0.0454,
+        "baseMean": 400.5099,
+        "group": "None"
+    },
+    {
+        "symbol": "Arhgap18",
+        "log2FC": 1.4139,
+        "baseMean": 193.3124,
+        "group": "Up"
+    },
+    {
+        "symbol": "Eif3c",
+        "log2FC": -0.1019,
+        "baseMean": 384.9269,
+        "group": "None"
+    },
+    {
+        "symbol": "Ccdc8",
+        "log2FC": 0.239,
+        "baseMean": 25.6764,
+        "group": "None"
+    },
+    {
+        "symbol": "Ruvbl1",
+        "log2FC": -0.5353,
+        "baseMean": 12.2967,
+        "group": "None"
+    },
+    {
+        "symbol": "B230217O12Rik",
+        "log2FC": -1.8753,
+        "baseMean": 15.6757,
+        "group": "Down"
+    },
+    {
+        "symbol": "Mrps30",
+        "log2FC": -0.2152,
+        "baseMean": 239.6357,
+        "group": "None"
+    },
+    {
+        "symbol": "Snx3",
+        "log2FC": -0.2356,
+        "baseMean": 708.2842,
+        "group": "None"
+    },
+    {
+        "symbol": "Fbxo44",
+        "log2FC": 0.9058,
+        "baseMean": 33.6847,
+        "group": "None"
+    },
+    {
+        "symbol": "Ing3",
+        "log2FC": 0.1057,
+        "baseMean": 67.9262,
+        "group": "None"
+    },
+    {
+        "symbol": "Ackr3",
+        "log2FC": 2.5105,
+        "baseMean": 53.7743,
+        "group": "Up"
+    },
+    {
+        "symbol": "Rnu73b",
+        "log2FC": -1.0105,
+        "baseMean": 4.1003,
+        "group": "None"
+    },
+    {
+        "symbol": "Hectd1",
+        "log2FC": -0.4314,
+        "baseMean": 933.8721,
+        "group": "None"
+    },
+    {
+        "symbol": "2310057M21Rik",
+        "log2FC": -0.7533,
+        "baseMean": 27.6181,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp811",
+        "log2FC": 0.132,
+        "baseMean": 3.5318,
+        "group": "None"
+    },
+    {
+        "symbol": "Cers5",
+        "log2FC": 0.5851,
+        "baseMean": 25.6659,
+        "group": "None"
+    },
+    {
+        "symbol": "B3galnt1",
+        "log2FC": 1.3271,
+        "baseMean": 15.2214,
+        "group": "None"
+    },
+    {
+        "symbol": "Mrpl3",
+        "log2FC": -0.1618,
+        "baseMean": 114.394,
+        "group": "None"
+    },
+    {
+        "symbol": "Gng5",
+        "log2FC": -0.8394,
+        "baseMean": 31.5836,
+        "group": "None"
+    },
+    {
+        "symbol": "Rab24",
+        "log2FC": -0.0443,
+        "baseMean": 343.9198,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc27a4",
+        "log2FC": 0.0885,
+        "baseMean": 327.0676,
+        "group": "None"
+    },
+    {
+        "symbol": "Zmat1",
+        "log2FC": 0.2213,
+        "baseMean": 108.2924,
+        "group": "None"
+    },
+    {
+        "symbol": "Ston2",
+        "log2FC": 0.2141,
+        "baseMean": 186.9432,
+        "group": "None"
+    },
+    {
+        "symbol": "Ccdc59",
+        "log2FC": -0.0466,
+        "baseMean": 68.4283,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm19522",
+        "log2FC": -2.2371,
+        "baseMean": 17.8731,
+        "group": "Down"
+    },
+    {
+        "symbol": "Tmem30a",
+        "log2FC": -0.1538,
+        "baseMean": 2392.8753,
+        "group": "None"
+    },
+    {
+        "symbol": "Adgb",
+        "log2FC": 1.8572,
+        "baseMean": 12.8287,
+        "group": "None"
+    },
+    {
+        "symbol": "Ndrg1",
+        "log2FC": 1.9765,
+        "baseMean": 469.0056,
+        "group": "Up"
+    },
+    {
+        "symbol": "Rmnd1",
+        "log2FC": -0.4268,
+        "baseMean": 113.3932,
+        "group": "None"
+    },
+    {
+        "symbol": "Cryzl1",
+        "log2FC": -0.1474,
+        "baseMean": 52.4719,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfr",
+        "log2FC": 0.188,
+        "baseMean": 344.573,
+        "group": "None"
+    },
+    {
+        "symbol": "Lurap1l",
+        "log2FC": 0.4649,
+        "baseMean": 787.1218,
+        "group": "None"
+    },
+    {
+        "symbol": "Dnajc19",
+        "log2FC": -1.2442,
+        "baseMean": 53.1454,
+        "group": "Down"
+    },
+    {
+        "symbol": "Traf5",
+        "log2FC": -0.3068,
+        "baseMean": 40.1649,
+        "group": "None"
+    },
+    {
+        "symbol": "Pkd2l2",
+        "log2FC": 0.089,
+        "baseMean": 116.0798,
+        "group": "None"
+    },
+    {
+        "symbol": "Golga2",
+        "log2FC": 0.1061,
+        "baseMean": 422.0624,
+        "group": "None"
+    },
+    {
+        "symbol": "Ces2d-ps",
+        "log2FC": -0.0025,
+        "baseMean": 67.7131,
+        "group": "None"
+    },
+    {
+        "symbol": "Ncln",
+        "log2FC": 0.1344,
+        "baseMean": 708.6515,
+        "group": "None"
+    },
+    {
+        "symbol": "Cinp",
+        "log2FC": 0.1009,
+        "baseMean": 109.2763,
+        "group": "None"
+    },
+    {
+        "symbol": "Olfr1372-ps1",
+        "log2FC": -0.9324,
+        "baseMean": 9.5769,
+        "group": "None"
+    },
+    {
+        "symbol": "Mcrs1",
+        "log2FC": -0.2054,
+        "baseMean": 23.5432,
+        "group": "None"
+    },
+    {
+        "symbol": "Ccn4",
+        "log2FC": 0.0648,
+        "baseMean": 21.7924,
+        "group": "None"
+    },
+    {
+        "symbol": "Lypd1",
+        "log2FC": 1.7975,
+        "baseMean": 108.6137,
+        "group": "Up"
+    },
+    {
+        "symbol": "Map1a",
+        "log2FC": 1.0852,
+        "baseMean": 23.5416,
+        "group": "None"
+    },
+    {
+        "symbol": "Nudt15",
+        "log2FC": -0.9438,
+        "baseMean": 23.497,
+        "group": "None"
+    },
+    {
+        "symbol": "Kansl3",
+        "log2FC": -0.1939,
+        "baseMean": 632.8024,
+        "group": "None"
+    },
+    {
+        "symbol": "Yap1",
+        "log2FC": -3.7697,
+        "baseMean": 544.6916,
+        "group": "Down"
+    },
+    {
+        "symbol": "Gm10432",
+        "log2FC": -0.0844,
+        "baseMean": 13.2991,
+        "group": "None"
+    },
+    {
+        "symbol": "Gda",
+        "log2FC": -0.9615,
+        "baseMean": 475.1481,
+        "group": "None"
+    },
+    {
+        "symbol": "Nudt2",
+        "log2FC": -0.2474,
+        "baseMean": 134.5895,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm4969",
+        "log2FC": 1.1298,
+        "baseMean": 8.0458,
+        "group": "None"
+    },
+    {
+        "symbol": "5033417F24Rik",
+        "log2FC": -0.5604,
+        "baseMean": 16.3777,
+        "group": "None"
+    },
+    {
+        "symbol": "Snora33",
+        "log2FC": -0.5245,
+        "baseMean": 4.0072,
+        "group": "None"
+    },
+    {
+        "symbol": "Lsm10",
+        "log2FC": -0.3473,
+        "baseMean": 145.1391,
+        "group": "None"
+    },
+    {
+        "symbol": "Ift122",
+        "log2FC": 0.7535,
+        "baseMean": 17.2855,
+        "group": "None"
+    },
+    {
+        "symbol": "Zscan25",
+        "log2FC": 0.0354,
+        "baseMean": 84.8621,
+        "group": "None"
+    },
+    {
+        "symbol": "Mup8",
+        "log2FC": -10.6246,
+        "baseMean": 705.0425,
+        "group": "Down"
+    },
+    {
+        "symbol": "D030028A08Rik",
+        "log2FC": -0.8285,
+        "baseMean": 16.5533,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm44502",
+        "log2FC": 0.4215,
+        "baseMean": 375.5371,
+        "group": "None"
+    },
+    {
+        "symbol": "Wdr24",
+        "log2FC": -0.0158,
+        "baseMean": 197.7738,
+        "group": "None"
+    },
+    {
+        "symbol": "Fam193a",
+        "log2FC": 0.3125,
+        "baseMean": 166.7665,
+        "group": "None"
+    },
+    {
+        "symbol": "Wfdc21",
+        "log2FC": -0.9813,
+        "baseMean": 134.4984,
+        "group": "None"
+    },
+    {
+        "symbol": "Cd37",
+        "log2FC": 0.291,
+        "baseMean": 25.0649,
+        "group": "None"
+    },
+    {
+        "symbol": "Rps6",
+        "log2FC": -0.0615,
+        "baseMean": 294.7473,
+        "group": "None"
+    },
+    {
+        "symbol": "Synpo",
+        "log2FC": 1.5211,
+        "baseMean": 405.3761,
+        "group": "Up"
+    },
+    {
+        "symbol": "1810030O07Rik",
+        "log2FC": 0.3318,
+        "baseMean": 122.8606,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc4a9",
+        "log2FC": 4.4891,
+        "baseMean": 8.7454,
+        "group": "Up"
+    },
+    {
+        "symbol": "Bcas1",
+        "log2FC": -0.0699,
+        "baseMean": 2.0536,
+        "group": "None"
+    },
+    {
+        "symbol": "Mif",
+        "log2FC": 0.1091,
+        "baseMean": 182.1595,
+        "group": "None"
+    },
+    {
+        "symbol": "B4galt5",
+        "log2FC": 1.3066,
+        "baseMean": 821.0079,
+        "group": "Up"
+    },
+    {
+        "symbol": "Mapk8",
+        "log2FC": -0.0269,
+        "baseMean": 244.3222,
+        "group": "None"
+    },
+    {
+        "symbol": "Sdc4",
+        "log2FC": 0.2109,
+        "baseMean": 6602.5448,
+        "group": "None"
+    },
+    {
+        "symbol": "Nup37",
+        "log2FC": 0.114,
+        "baseMean": 10.0839,
+        "group": "None"
+    },
+    {
+        "symbol": "Pola1",
+        "log2FC": 0.1068,
+        "baseMean": 26.7202,
+        "group": "None"
+    },
+    {
+        "symbol": "Cebpb",
+        "log2FC": 0.4521,
+        "baseMean": 4552.5492,
+        "group": "None"
+    },
+    {
+        "symbol": "4930455H04Rik",
+        "log2FC": 0.1222,
+        "baseMean": 33.6583,
+        "group": "None"
+    },
+    {
+        "symbol": "Capn1",
+        "log2FC": 0.8629,
+        "baseMean": 156.9999,
+        "group": "None"
+    },
+    {
+        "symbol": "Antxr2",
+        "log2FC": 0.5292,
+        "baseMean": 476.6958,
+        "group": "None"
+    },
+    {
+        "symbol": "Mief1",
+        "log2FC": -0.638,
+        "baseMean": 474.0255,
+        "group": "None"
+    },
+    {
+        "symbol": "Ptgr2",
+        "log2FC": -0.3225,
+        "baseMean": 820.7978,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmem160",
+        "log2FC": 0.1406,
+        "baseMean": 118.3423,
+        "group": "None"
+    },
+    {
+        "symbol": "Ankrd44",
+        "log2FC": 0.1764,
+        "baseMean": 76.4255,
+        "group": "None"
+    },
+    {
+        "symbol": "Ctdsp1",
+        "log2FC": -0.0903,
+        "baseMean": 2111.8925,
+        "group": "None"
+    },
+    {
+        "symbol": "Mtpap",
+        "log2FC": -0.1491,
+        "baseMean": 138.5229,
+        "group": "None"
+    },
+    {
+        "symbol": "C030006K11Rik",
+        "log2FC": -0.7824,
+        "baseMean": 399.5347,
+        "group": "None"
+    },
+    {
+        "symbol": "Ccdc146",
+        "log2FC": 0.1263,
+        "baseMean": 7.5126,
+        "group": "None"
+    },
+    {
+        "symbol": "Rap1gds1",
+        "log2FC": 0.1907,
+        "baseMean": 299.0704,
+        "group": "None"
+    },
+    {
+        "symbol": "Mtss1",
+        "log2FC": -1.4086,
+        "baseMean": 2652.6092,
+        "group": "Down"
+    },
+    {
+        "symbol": "Ntm",
+        "log2FC": -1.0347,
+        "baseMean": 10.8336,
+        "group": "None"
+    },
+    {
+        "symbol": "Ift74",
+        "log2FC": 0.4976,
+        "baseMean": 5.522,
+        "group": "None"
+    },
+    {
+        "symbol": "Ppid",
+        "log2FC": -0.3005,
+        "baseMean": 120.6493,
+        "group": "None"
+    },
+    {
+        "symbol": "Dars",
+        "log2FC": -0.3973,
+        "baseMean": 256.3656,
+        "group": "None"
+    },
+    {
+        "symbol": "Brsk1",
+        "log2FC": 0.8496,
+        "baseMean": 5.0088,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm28856",
+        "log2FC": 3.5543,
+        "baseMean": 2.5274,
+        "group": "None"
+    },
+    {
+        "symbol": "Atp2a3",
+        "log2FC": -0.3776,
+        "baseMean": 34.0281,
+        "group": "None"
+    },
+    {
+        "symbol": "Irx3",
+        "log2FC": -2.6977,
+        "baseMean": 9.019,
+        "group": "Down"
+    },
+    {
+        "symbol": "Rnf19a",
+        "log2FC": 0.4656,
+        "baseMean": 357.6357,
+        "group": "None"
+    },
+    {
+        "symbol": "Thap6",
+        "log2FC": -0.0936,
+        "baseMean": 147.1236,
+        "group": "None"
+    },
+    {
+        "symbol": "Fam107b",
+        "log2FC": -0.7164,
+        "baseMean": 797.3292,
+        "group": "None"
+    },
+    {
+        "symbol": "Snrpd2",
+        "log2FC": -0.1751,
+        "baseMean": 31.7359,
+        "group": "None"
+    },
+    {
+        "symbol": "Myo1g",
+        "log2FC": 0.3081,
+        "baseMean": 18.9723,
+        "group": "None"
+    },
+    {
+        "symbol": "1700028E10Rik",
+        "log2FC": -2.0761,
+        "baseMean": 9.2797,
+        "group": "Down"
+    },
+    {
+        "symbol": "Dock10",
+        "log2FC": 1.0451,
+        "baseMean": 39.0581,
+        "group": "None"
+    },
+    {
+        "symbol": "Apba3",
+        "log2FC": -0.4052,
+        "baseMean": 257.9089,
+        "group": "None"
+    },
+    {
+        "symbol": "Scoc",
+        "log2FC": -0.0828,
+        "baseMean": 139.802,
+        "group": "None"
+    },
+    {
+        "symbol": "A530072M11Rik",
+        "log2FC": -0.8339,
+        "baseMean": 3.195,
+        "group": "None"
+    },
+    {
+        "symbol": "Rsrc1",
+        "log2FC": -0.6735,
+        "baseMean": 169.1059,
+        "group": "None"
+    },
+    {
+        "symbol": "Fam131c",
+        "log2FC": 1.8884,
+        "baseMean": 29.5642,
+        "group": "Up"
+    },
+    {
+        "symbol": "Tlnrd1",
+        "log2FC": 0.5751,
+        "baseMean": 218.1841,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp692",
+        "log2FC": -0.3507,
+        "baseMean": 66.4805,
+        "group": "None"
+    },
+    {
+        "symbol": "Ccdc88b",
+        "log2FC": 0.7753,
+        "baseMean": 40.6392,
+        "group": "None"
+    },
+    {
+        "symbol": "Ttyh3",
+        "log2FC": 0.652,
+        "baseMean": 278.0321,
+        "group": "None"
+    },
+    {
+        "symbol": "Glyr1",
+        "log2FC": -0.076,
+        "baseMean": 973.7386,
+        "group": "None"
+    },
+    {
+        "symbol": "Gpr35",
+        "log2FC": 1.9369,
+        "baseMean": 39.7715,
+        "group": "Up"
+    },
+    {
+        "symbol": "Tmc3",
+        "log2FC": 1.7633,
+        "baseMean": 11.2928,
+        "group": "None"
+    },
+    {
+        "symbol": "Tnfrsf10b",
+        "log2FC": 4.1836,
+        "baseMean": 38.3177,
+        "group": "Up"
+    },
+    {
+        "symbol": "Asb14",
+        "log2FC": 0.6019,
+        "baseMean": 7.0914,
+        "group": "None"
+    },
+    {
+        "symbol": "Jun",
+        "log2FC": 4.7515,
+        "baseMean": 4292.0894,
+        "group": "Up"
+    },
+    {
+        "symbol": "Foxc2",
+        "log2FC": 2.161,
+        "baseMean": 11.9712,
+        "group": "None"
+    },
+    {
+        "symbol": "Apoc2",
+        "log2FC": 0.1493,
+        "baseMean": 593.7878,
+        "group": "None"
+    },
+    {
+        "symbol": "Tnfrsf4",
+        "log2FC": -1.1018,
+        "baseMean": 4.109,
+        "group": "None"
+    },
+    {
+        "symbol": "Mtfr1",
+        "log2FC": -0.5428,
+        "baseMean": 668.4946,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc39a10",
+        "log2FC": 0.979,
+        "baseMean": 47.1149,
+        "group": "None"
+    },
+    {
+        "symbol": "Fam129a",
+        "log2FC": 1.7179,
+        "baseMean": 73.9294,
+        "group": "Up"
+    },
+    {
+        "symbol": "Tmem248",
+        "log2FC": -0.1866,
+        "baseMean": 807.059,
+        "group": "None"
+    },
+    {
+        "symbol": "Aga",
+        "log2FC": 0.1305,
+        "baseMean": 17.9383,
+        "group": "None"
+    },
+    {
+        "symbol": "Keap1",
+        "log2FC": -0.2849,
+        "baseMean": 819.399,
+        "group": "None"
+    },
+    {
+        "symbol": "Hlx",
+        "log2FC": 0.2733,
+        "baseMean": 94.1907,
+        "group": "None"
+    },
+    {
+        "symbol": "Rnd3",
+        "log2FC": 1.1285,
+        "baseMean": 499.437,
+        "group": "Up"
+    },
+    {
+        "symbol": "Cd164",
+        "log2FC": -0.0088,
+        "baseMean": 4910.9527,
+        "group": "None"
+    },
+    {
+        "symbol": "Trim30a",
+        "log2FC": 0.1652,
+        "baseMean": 180.6363,
+        "group": "None"
+    },
+    {
+        "symbol": "Rbm4b",
+        "log2FC": -0.1877,
+        "baseMean": 181.9849,
+        "group": "None"
+    },
+    {
+        "symbol": "Cyp2d9",
+        "log2FC": 1.7366,
+        "baseMean": 491.8403,
+        "group": "Up"
+    },
+    {
+        "symbol": "Gzmb",
+        "log2FC": 0.9678,
+        "baseMean": 15.0757,
+        "group": "None"
+    },
+    {
+        "symbol": "Map2k3",
+        "log2FC": -0.5004,
+        "baseMean": 636.9678,
+        "group": "None"
+    },
+    {
+        "symbol": "B4galt3",
+        "log2FC": 0.2722,
+        "baseMean": 128.2011,
+        "group": "None"
+    },
+    {
+        "symbol": "Ago1",
+        "log2FC": 0.0955,
+        "baseMean": 522.9143,
+        "group": "None"
+    },
+    {
+        "symbol": "Mir7676-2",
+        "log2FC": 1.0174,
+        "baseMean": 20.7402,
+        "group": "None"
+    },
+    {
+        "symbol": "Lama4",
+        "log2FC": -0.4217,
+        "baseMean": 8.7536,
+        "group": "None"
+    },
+    {
+        "symbol": "Afap1",
+        "log2FC": 1.5978,
+        "baseMean": 46.6484,
+        "group": "Up"
+    },
+    {
+        "symbol": "Uts2",
+        "log2FC": -4.3744,
+        "baseMean": 1.7032,
+        "group": "None"
+    },
+    {
+        "symbol": "Plbd2",
+        "log2FC": 0.6818,
+        "baseMean": 924.8151,
+        "group": "None"
+    },
+    {
+        "symbol": "Ncoa5",
+        "log2FC": 0.5083,
+        "baseMean": 185.8066,
+        "group": "None"
+    },
+    {
+        "symbol": "4930412C18Rik",
+        "log2FC": -0.2131,
+        "baseMean": 70.3796,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmem212",
+        "log2FC": 4.6734,
+        "baseMean": 2.6052,
+        "group": "None"
+    },
+    {
+        "symbol": "Mkrn3",
+        "log2FC": 0.3026,
+        "baseMean": 8.2514,
+        "group": "None"
+    },
+    {
+        "symbol": "Rsph3b",
+        "log2FC": -0.1986,
+        "baseMean": 120.6551,
+        "group": "None"
+    },
+    {
+        "symbol": "Asah2",
+        "log2FC": 0.257,
+        "baseMean": 231.311,
+        "group": "None"
+    },
+    {
+        "symbol": "Jmjd4",
+        "log2FC": -0.6194,
+        "baseMean": 131.8025,
+        "group": "None"
+    },
+    {
+        "symbol": "Rbm5",
+        "log2FC": -0.4784,
+        "baseMean": 189.6888,
+        "group": "None"
+    },
+    {
+        "symbol": "Fam209",
+        "log2FC": -0.8565,
+        "baseMean": 2.8932,
+        "group": "None"
+    },
+    {
+        "symbol": "Katna1",
+        "log2FC": -0.3072,
+        "baseMean": 34.7858,
+        "group": "None"
+    },
+    {
+        "symbol": "H6pd",
+        "log2FC": 0.5568,
+        "baseMean": 5696.6685,
+        "group": "None"
+    },
+    {
+        "symbol": "Prpf40a",
+        "log2FC": -0.0279,
+        "baseMean": 429.7488,
+        "group": "None"
+    },
+    {
+        "symbol": "Tjap1",
+        "log2FC": 0.4386,
+        "baseMean": 114.8787,
+        "group": "None"
+    },
+    {
+        "symbol": "Inpp5j",
+        "log2FC": 6.3357,
+        "baseMean": 16.1971,
+        "group": "Up"
+    },
+    {
+        "symbol": "Mapk15",
+        "log2FC": -0.6942,
+        "baseMean": 59.7418,
+        "group": "None"
+    },
+    {
+        "symbol": "Adgrf5",
+        "log2FC": -0.3009,
+        "baseMean": 362.162,
+        "group": "None"
+    },
+    {
+        "symbol": "Dusp5",
+        "log2FC": 3.019,
+        "baseMean": 52.3514,
+        "group": "Up"
+    },
+    {
+        "symbol": "Arl8a",
+        "log2FC": 1.3837,
+        "baseMean": 271.6262,
+        "group": "Up"
+    },
+    {
+        "symbol": "Pxn",
+        "log2FC": 0.2718,
+        "baseMean": 685.6862,
+        "group": "None"
+    },
+    {
+        "symbol": "Hic1",
+        "log2FC": 0.1255,
+        "baseMean": 104.4881,
+        "group": "None"
+    },
+    {
+        "symbol": "Apold1",
+        "log2FC": 2.8983,
+        "baseMean": 124.7506,
+        "group": "Up"
+    },
+    {
+        "symbol": "Pknox1",
+        "log2FC": -0.1932,
+        "baseMean": 209.3516,
+        "group": "None"
+    },
+    {
+        "symbol": "Rbfox2",
+        "log2FC": -0.1108,
+        "baseMean": 662.1961,
+        "group": "None"
+    },
+    {
+        "symbol": "Ubl7",
+        "log2FC": -0.3615,
+        "baseMean": 66.2511,
+        "group": "None"
+    },
+    {
+        "symbol": "Jag1",
+        "log2FC": -0.397,
+        "baseMean": 53.127,
+        "group": "None"
+    },
+    {
+        "symbol": "Mup19",
+        "log2FC": -9.9178,
+        "baseMean": 2202.6854,
+        "group": "Down"
+    },
+    {
+        "symbol": "Hnrnph3",
+        "log2FC": -1.1284,
+        "baseMean": 125.9601,
+        "group": "Down"
+    },
+    {
+        "symbol": "Sspo",
+        "log2FC": -3.1445,
+        "baseMean": 11.1545,
+        "group": "Down"
+    },
+    {
+        "symbol": "Adamts12",
+        "log2FC": 4.1251,
+        "baseMean": 46.8989,
+        "group": "Up"
+    },
+    {
+        "symbol": "Elmo1",
+        "log2FC": 2.2068,
+        "baseMean": 57.9861,
+        "group": "Up"
+    },
+    {
+        "symbol": "Cdh19",
+        "log2FC": -1.9846,
+        "baseMean": 2.0566,
+        "group": "None"
+    },
+    {
+        "symbol": "Camk1d",
+        "log2FC": -0.4661,
+        "baseMean": 1484.0114,
+        "group": "None"
+    },
+    {
+        "symbol": "Fam174c",
+        "log2FC": -1.0727,
+        "baseMean": 16.3101,
+        "group": "None"
+    },
+    {
+        "symbol": "Paox",
+        "log2FC": -1.4911,
+        "baseMean": 99.7975,
+        "group": "Down"
+    },
+    {
+        "symbol": "Fgfr1op2",
+        "log2FC": -0.2221,
+        "baseMean": 510.7324,
+        "group": "None"
+    },
+    {
+        "symbol": "Vps16",
+        "log2FC": 0.0963,
+        "baseMean": 49.4604,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmem189",
+        "log2FC": 0.1847,
+        "baseMean": 128.6234,
+        "group": "None"
+    },
+    {
+        "symbol": "Cyp2c50",
+        "log2FC": -2.2831,
+        "baseMean": 4158.6369,
+        "group": "Down"
+    },
+    {
+        "symbol": "Zfp654",
+        "log2FC": -0.1485,
+        "baseMean": 206.4085,
+        "group": "None"
+    },
+    {
+        "symbol": "Gstm5",
+        "log2FC": 0.7521,
+        "baseMean": 9.952,
+        "group": "None"
+    },
+    {
+        "symbol": "Pcp4l1",
+        "log2FC": -5.114,
+        "baseMean": 214.2222,
+        "group": "Down"
+    },
+    {
+        "symbol": "Xaf1",
+        "log2FC": 0.0285,
+        "baseMean": 46.9553,
+        "group": "None"
+    },
+    {
+        "symbol": "Pdzk1ip1",
+        "log2FC": 0.8723,
+        "baseMean": 19.0203,
+        "group": "None"
+    },
+    {
+        "symbol": "Ankdd1b",
+        "log2FC": 0.273,
+        "baseMean": 13.5741,
+        "group": "None"
+    },
+    {
+        "symbol": "Leng8",
+        "log2FC": -0.3093,
+        "baseMean": 1625.7411,
+        "group": "None"
+    },
+    {
+        "symbol": "Kcnk5",
+        "log2FC": -0.0289,
+        "baseMean": 668.6878,
+        "group": "None"
+    },
+    {
+        "symbol": "Trmt10b",
+        "log2FC": -0.1388,
+        "baseMean": 26.6641,
+        "group": "None"
+    },
+    {
+        "symbol": "Pea15a",
+        "log2FC": 1.321,
+        "baseMean": 444.8857,
+        "group": "Up"
+    },
+    {
+        "symbol": "Auh",
+        "log2FC": -0.5878,
+        "baseMean": 96.3684,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm11127",
+        "log2FC": -0.0383,
+        "baseMean": 3.4768,
+        "group": "None"
+    },
+    {
+        "symbol": "Eif3d",
+        "log2FC": -0.1052,
+        "baseMean": 154.6265,
+        "group": "None"
+    },
+    {
+        "symbol": "Gstp1",
+        "log2FC": 2.4113,
+        "baseMean": 242.8314,
+        "group": "Up"
+    },
+    {
+        "symbol": "Plekha8",
+        "log2FC": -0.9296,
+        "baseMean": 342.5256,
+        "group": "None"
+    },
+    {
+        "symbol": "Tc2n",
+        "log2FC": 2.3311,
+        "baseMean": 88.4584,
+        "group": "Up"
+    },
+    {
+        "symbol": "Tax1bp3",
+        "log2FC": 1.27,
+        "baseMean": 176.425,
+        "group": "Up"
+    },
+    {
+        "symbol": "Anapc4",
+        "log2FC": 0.1366,
+        "baseMean": 54.3437,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc9a7",
+        "log2FC": 0.5562,
+        "baseMean": 67.5933,
+        "group": "None"
+    },
+    {
+        "symbol": "Coa5",
+        "log2FC": -0.2853,
+        "baseMean": 1406.0887,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm5113",
+        "log2FC": -0.7479,
+        "baseMean": 71.4303,
+        "group": "None"
+    },
+    {
+        "symbol": "Gch1",
+        "log2FC": -0.5978,
+        "baseMean": 2747.1777,
+        "group": "None"
+    },
+    {
+        "symbol": "Cap2",
+        "log2FC": 6.9815,
+        "baseMean": 25.1521,
+        "group": "Up"
+    },
+    {
+        "symbol": "Themis",
+        "log2FC": 2.7365,
+        "baseMean": 33.7106,
+        "group": "Up"
+    },
+    {
+        "symbol": "Ap3b1",
+        "log2FC": -0.0605,
+        "baseMean": 186.3503,
+        "group": "None"
+    },
+    {
+        "symbol": "Miga2",
+        "log2FC": -0.6426,
+        "baseMean": 580.829,
+        "group": "None"
+    },
+    {
+        "symbol": "Rab39",
+        "log2FC": 0.5762,
+        "baseMean": 16.4003,
+        "group": "None"
+    },
+    {
+        "symbol": "Wdr44",
+        "log2FC": 0.7365,
+        "baseMean": 39.0389,
+        "group": "None"
+    },
+    {
+        "symbol": "Nanp",
+        "log2FC": -0.9188,
+        "baseMean": 79.8355,
+        "group": "None"
+    },
+    {
+        "symbol": "Tnfrsf26",
+        "log2FC": 1.236,
+        "baseMean": 7.4623,
+        "group": "None"
+    },
+    {
+        "symbol": "Mplkip",
+        "log2FC": -0.6232,
+        "baseMean": 123.2582,
+        "group": "None"
+    },
+    {
+        "symbol": "Dcxr",
+        "log2FC": -1.4316,
+        "baseMean": 218.015,
+        "group": "Down"
+    },
+    {
+        "symbol": "Siae",
+        "log2FC": 0.5731,
+        "baseMean": 571.2277,
+        "group": "None"
+    },
+    {
+        "symbol": "Tchh",
+        "log2FC": -0.1876,
+        "baseMean": 18.0003,
+        "group": "None"
+    },
+    {
+        "symbol": "Sumo2",
+        "log2FC": -0.0185,
+        "baseMean": 202.3506,
+        "group": "None"
+    },
+    {
+        "symbol": "Cd52",
+        "log2FC": 0.9658,
+        "baseMean": 61.5656,
+        "group": "None"
+    },
+    {
+        "symbol": "Psmb9",
+        "log2FC": -0.6263,
+        "baseMean": 65.6956,
+        "group": "None"
+    },
+    {
+        "symbol": "Mir3470b",
+        "log2FC": -1.8304,
+        "baseMean": 2.0143,
+        "group": "None"
+    },
+    {
+        "symbol": "Plekha7",
+        "log2FC": 0.3989,
+        "baseMean": 71.9314,
+        "group": "None"
+    },
+    {
+        "symbol": "Lamb2",
+        "log2FC": 0.1022,
+        "baseMean": 51.1523,
+        "group": "None"
+    },
+    {
+        "symbol": "Ppip5k1",
+        "log2FC": -0.1968,
+        "baseMean": 44.7823,
+        "group": "None"
+    },
+    {
+        "symbol": "Dpm2",
+        "log2FC": -0.1397,
+        "baseMean": 134.3876,
+        "group": "None"
+    },
+    {
+        "symbol": "Ripk1",
+        "log2FC": 0.3252,
+        "baseMean": 406.113,
+        "group": "None"
+    },
+    {
+        "symbol": "Rab10",
+        "log2FC": -0.0478,
+        "baseMean": 1340.1928,
+        "group": "None"
+    },
+    {
+        "symbol": "Nup160",
+        "log2FC": -0.0696,
+        "baseMean": 35.2685,
+        "group": "None"
+    },
+    {
+        "symbol": "Zbtb25",
+        "log2FC": 0.7257,
+        "baseMean": 37.0968,
+        "group": "None"
+    },
+    {
+        "symbol": "Gp1ba",
+        "log2FC": -1.1606,
+        "baseMean": 32.8981,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc27a3",
+        "log2FC": -1.0905,
+        "baseMean": 8.5658,
+        "group": "None"
+    },
+    {
+        "symbol": "Hhat",
+        "log2FC": -0.9635,
+        "baseMean": 6.1715,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp637",
+        "log2FC": 0.1438,
+        "baseMean": 166.1029,
+        "group": "None"
+    },
+    {
+        "symbol": "Vamp2",
+        "log2FC": -0.662,
+        "baseMean": 407.3636,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp54",
+        "log2FC": 0.009,
+        "baseMean": 33.1372,
+        "group": "None"
+    },
+    {
+        "symbol": "Tnfaip3",
+        "log2FC": 2.9771,
+        "baseMean": 187.9186,
+        "group": "Up"
+    },
+    {
+        "symbol": "Ppfia2",
+        "log2FC": -1.6434,
+        "baseMean": 2.9885,
+        "group": "None"
+    },
+    {
+        "symbol": "Pqlc3",
+        "log2FC": 1.5642,
+        "baseMean": 24.2887,
+        "group": "Up"
+    },
+    {
+        "symbol": "Cog4",
+        "log2FC": -0.6312,
+        "baseMean": 243.3845,
+        "group": "None"
+    },
+    {
+        "symbol": "Ptger4",
+        "log2FC": 1.7358,
+        "baseMean": 21.0904,
+        "group": "Up"
+    },
+    {
+        "symbol": "Gm2274",
+        "log2FC": -0.3903,
+        "baseMean": 220.2345,
+        "group": "None"
+    },
+    {
+        "symbol": "Pigg",
+        "log2FC": -0.1581,
+        "baseMean": 119.9542,
+        "group": "None"
+    },
+    {
+        "symbol": "Hoxb6",
+        "log2FC": 0.6899,
+        "baseMean": 1.9495,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm10791",
+        "log2FC": 0.3335,
+        "baseMean": 5.3429,
+        "group": "None"
+    },
+    {
+        "symbol": "Unkl",
+        "log2FC": -0.1096,
+        "baseMean": 266.2301,
+        "group": "None"
+    },
+    {
+        "symbol": "U2af2",
+        "log2FC": -0.3239,
+        "baseMean": 265.0259,
+        "group": "None"
+    },
+    {
+        "symbol": "Ngb",
+        "log2FC": -1.996,
+        "baseMean": 4.91,
+        "group": "None"
+    },
+    {
+        "symbol": "Fkbp10",
+        "log2FC": 2.2656,
+        "baseMean": 43.6442,
+        "group": "Up"
+    },
+    {
+        "symbol": "Bbs1",
+        "log2FC": -0.105,
+        "baseMean": 23.4037,
+        "group": "None"
+    },
+    {
+        "symbol": "Endov",
+        "log2FC": -0.0753,
+        "baseMean": 88.6187,
+        "group": "None"
+    },
+    {
+        "symbol": "Rfng",
+        "log2FC": -0.0046,
+        "baseMean": 210.6587,
+        "group": "None"
+    },
+    {
+        "symbol": "Nipbl",
+        "log2FC": 0.0186,
+        "baseMean": 302.6965,
+        "group": "None"
+    },
+    {
+        "symbol": "Pappa",
+        "log2FC": 1.9763,
+        "baseMean": 3.7326,
+        "group": "None"
+    },
+    {
+        "symbol": "Senp6",
+        "log2FC": 0.1859,
+        "baseMean": 259.6842,
+        "group": "None"
+    },
+    {
+        "symbol": "Inhbb",
+        "log2FC": 2.2377,
+        "baseMean": 85.4563,
+        "group": "Up"
+    },
+    {
+        "symbol": "Rgs3",
+        "log2FC": -1.0441,
+        "baseMean": 121.1524,
+        "group": "Down"
+    },
+    {
+        "symbol": "Gprin3",
+        "log2FC": 0.2668,
+        "baseMean": 88.4524,
+        "group": "None"
+    },
+    {
+        "symbol": "A530016L24Rik",
+        "log2FC": -0.4657,
+        "baseMean": 3.2343,
+        "group": "None"
+    },
+    {
+        "symbol": "Micos10",
+        "log2FC": -0.3552,
+        "baseMean": 93.5471,
+        "group": "None"
+    },
+    {
+        "symbol": "N4bp2l1",
+        "log2FC": -1.9139,
+        "baseMean": 517.2582,
+        "group": "Down"
+    },
+    {
+        "symbol": "Eef1akmt4-ece2",
+        "log2FC": 0.2931,
+        "baseMean": 17.7812,
+        "group": "None"
+    },
+    {
+        "symbol": "Stard8",
+        "log2FC": -0.7502,
+        "baseMean": 148.3656,
+        "group": "None"
+    },
+    {
+        "symbol": "Clptm1",
+        "log2FC": -0.0503,
+        "baseMean": 666.3937,
+        "group": "None"
+    },
+    {
+        "symbol": "Rab36",
+        "log2FC": -0.1498,
+        "baseMean": 97.4264,
+        "group": "None"
+    },
+    {
+        "symbol": "Mecp2",
+        "log2FC": 0.0052,
+        "baseMean": 375.2005,
+        "group": "None"
+    },
+    {
+        "symbol": "Nkapd1",
+        "log2FC": -0.0646,
+        "baseMean": 226.5263,
+        "group": "None"
+    },
+    {
+        "symbol": "Cd247",
+        "log2FC": 0.1749,
+        "baseMean": 94.9603,
+        "group": "None"
+    },
+    {
+        "symbol": "Dnlz",
+        "log2FC": 0.1402,
+        "baseMean": 271.318,
+        "group": "None"
+    },
+    {
+        "symbol": "Ar",
+        "log2FC": -4.8858,
+        "baseMean": 201.4301,
+        "group": "Down"
+    },
+    {
+        "symbol": "Smg9",
+        "log2FC": 0.1998,
+        "baseMean": 56.0962,
+        "group": "None"
+    },
+    {
+        "symbol": "Trf",
+        "log2FC": 1.1283,
+        "baseMean": 25925.5896,
+        "group": "Up"
+    },
+    {
+        "symbol": "Sprr2a1",
+        "log2FC": 1.6237,
+        "baseMean": 20.0638,
+        "group": "None"
+    },
+    {
+        "symbol": "Acvr2a",
+        "log2FC": -0.6666,
+        "baseMean": 333.0436,
+        "group": "None"
+    },
+    {
+        "symbol": "Esrra",
+        "log2FC": -0.3508,
+        "baseMean": 378.3874,
+        "group": "None"
+    },
+    {
+        "symbol": "Psmc4",
+        "log2FC": 0.0916,
+        "baseMean": 119.5345,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp623",
+        "log2FC": -0.0533,
+        "baseMean": 210.4542,
+        "group": "None"
+    },
+    {
+        "symbol": "1700030K09Rik",
+        "log2FC": -0.4198,
+        "baseMean": 43.936,
+        "group": "None"
+    },
+    {
+        "symbol": "Phf24",
+        "log2FC": -0.0475,
+        "baseMean": 13.4063,
+        "group": "None"
+    },
+    {
+        "symbol": "Apol11b",
+        "log2FC": -0.5796,
+        "baseMean": 1.7841,
+        "group": "None"
+    },
+    {
+        "symbol": "Reep1",
+        "log2FC": 0.2285,
+        "baseMean": 24.9096,
+        "group": "None"
+    },
+    {
+        "symbol": "Kdm1b",
+        "log2FC": -0.0522,
+        "baseMean": 488.0451,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmem47",
+        "log2FC": -0.3102,
+        "baseMean": 115.6623,
+        "group": "None"
+    },
+    {
+        "symbol": "C530005A16Rik",
+        "log2FC": -0.3718,
+        "baseMean": 62.3668,
+        "group": "None"
+    },
+    {
+        "symbol": "Ftl1",
+        "log2FC": 0.3511,
+        "baseMean": 21728.624,
+        "group": "None"
+    },
+    {
+        "symbol": "Doc2a",
+        "log2FC": 0.0561,
+        "baseMean": 72.8561,
+        "group": "None"
+    },
+    {
+        "symbol": "Pacs2",
+        "log2FC": 0.5694,
+        "baseMean": 350.4401,
+        "group": "None"
+    },
+    {
+        "symbol": "Phf21a",
+        "log2FC": 0.3949,
+        "baseMean": 315.6733,
+        "group": "None"
+    },
+    {
+        "symbol": "Mir22",
+        "log2FC": 0.1106,
+        "baseMean": 7.7386,
+        "group": "None"
+    },
+    {
+        "symbol": "Arrdc3",
+        "log2FC": -0.5123,
+        "baseMean": 1536.8615,
+        "group": "None"
+    },
+    {
+        "symbol": "Mtmr12",
+        "log2FC": 0.1672,
+        "baseMean": 154.9682,
+        "group": "None"
+    },
+    {
+        "symbol": "Kit",
+        "log2FC": -0.1559,
+        "baseMean": 98.1108,
+        "group": "None"
+    },
+    {
+        "symbol": "4933440J02Rik",
+        "log2FC": -4.3716,
+        "baseMean": 1.6993,
+        "group": "None"
+    },
+    {
+        "symbol": "Frg2f1",
+        "log2FC": -1.0216,
+        "baseMean": 76.0407,
+        "group": "Down"
+    },
+    {
+        "symbol": "Marcksl1",
+        "log2FC": 0.502,
+        "baseMean": 297.0185,
+        "group": "None"
+    },
+    {
+        "symbol": "Rps18",
+        "log2FC": -0.4616,
+        "baseMean": 52.6436,
+        "group": "None"
+    },
+    {
+        "symbol": "Txndc17",
+        "log2FC": 0.1959,
+        "baseMean": 186.1403,
+        "group": "None"
+    },
+    {
+        "symbol": "Ptma",
+        "log2FC": 0.0001,
+        "baseMean": 1322.745,
+        "group": "None"
+    },
+    {
+        "symbol": "Prrg4",
+        "log2FC": 1.872,
+        "baseMean": 10.8835,
+        "group": "None"
+    },
+    {
+        "symbol": "Barx2",
+        "log2FC": 4.1925,
+        "baseMean": 1.853,
+        "group": "None"
+    },
+    {
+        "symbol": "Rab42",
+        "log2FC": 4.7468,
+        "baseMean": 2.7399,
+        "group": "Up"
+    },
+    {
+        "symbol": "Ankrd13c",
+        "log2FC": -0.1815,
+        "baseMean": 439.967,
+        "group": "None"
+    },
+    {
+        "symbol": "Pxdn",
+        "log2FC": 0.5061,
+        "baseMean": 160.0007,
+        "group": "None"
+    },
+    {
+        "symbol": "Eif2b2",
+        "log2FC": 0.1382,
+        "baseMean": 71.1179,
+        "group": "None"
+    },
+    {
+        "symbol": "Cryzl2",
+        "log2FC": -0.0258,
+        "baseMean": 160.3039,
+        "group": "None"
+    },
+    {
+        "symbol": "Mitd1",
+        "log2FC": -0.0993,
+        "baseMean": 71.2942,
+        "group": "None"
+    },
+    {
+        "symbol": "Vps25",
+        "log2FC": -0.2871,
+        "baseMean": 556.0265,
+        "group": "None"
+    },
+    {
+        "symbol": "Ppp2r3c",
+        "log2FC": -0.2854,
+        "baseMean": 29.2172,
+        "group": "None"
+    },
+    {
+        "symbol": "Cad",
+        "log2FC": 0.4058,
+        "baseMean": 59.5376,
+        "group": "None"
+    },
+    {
+        "symbol": "4932438A13Rik",
+        "log2FC": 0.6424,
+        "baseMean": 169.8268,
+        "group": "None"
+    },
+    {
+        "symbol": "Rapgef2",
+        "log2FC": 0.51,
+        "baseMean": 260.1822,
+        "group": "None"
+    },
+    {
+        "symbol": "Helb",
+        "log2FC": -0.6119,
+        "baseMean": 140.8847,
+        "group": "None"
+    },
+    {
+        "symbol": "Nedd4l",
+        "log2FC": 1.733,
+        "baseMean": 227.4262,
+        "group": "Up"
+    },
+    {
+        "symbol": "Gm14288",
+        "log2FC": 0.6273,
+        "baseMean": 16.008,
+        "group": "None"
+    },
+    {
+        "symbol": "H2-DMb1",
+        "log2FC": 1.4286,
+        "baseMean": 36.6189,
+        "group": "Up"
+    },
+    {
+        "symbol": "Akt1",
+        "log2FC": -0.2225,
+        "baseMean": 548.5127,
+        "group": "None"
+    },
+    {
+        "symbol": "Tram1",
+        "log2FC": -0.3012,
+        "baseMean": 1459.6838,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmem154",
+        "log2FC": 1.5042,
+        "baseMean": 12.6668,
+        "group": "None"
+    },
+    {
+        "symbol": "Tgm4",
+        "log2FC": 0.7171,
+        "baseMean": 74.7062,
+        "group": "None"
+    },
+    {
+        "symbol": "Rwdd4a",
+        "log2FC": -0.8507,
+        "baseMean": 201.7233,
+        "group": "None"
+    },
+    {
+        "symbol": "Cpb2",
+        "log2FC": 0.251,
+        "baseMean": 601.7631,
+        "group": "None"
+    },
+    {
+        "symbol": "Telo2",
+        "log2FC": -0.0081,
+        "baseMean": 51.548,
+        "group": "None"
+    },
+    {
+        "symbol": "Shoc2",
+        "log2FC": 0.1577,
+        "baseMean": 409.7171,
+        "group": "None"
+    },
+    {
+        "symbol": "Cct5",
+        "log2FC": 0.0228,
+        "baseMean": 328.2604,
+        "group": "None"
+    },
+    {
+        "symbol": "Lman2l",
+        "log2FC": -0.0146,
+        "baseMean": 168.6679,
+        "group": "None"
+    },
+    {
+        "symbol": "Stox1",
+        "log2FC": -1.5688,
+        "baseMean": 2.9894,
+        "group": "None"
+    },
+    {
+        "symbol": "Hnrnpll",
+        "log2FC": -0.1593,
+        "baseMean": 181.551,
+        "group": "None"
+    },
+    {
+        "symbol": "Tbx2",
+        "log2FC": 0.6196,
+        "baseMean": 84.6977,
+        "group": "None"
+    },
+    {
+        "symbol": "1810058I24Rik",
+        "log2FC": -1.19,
+        "baseMean": 926.9278,
+        "group": "Down"
+    },
+    {
+        "symbol": "Trp53bp1",
+        "log2FC": 0.1574,
+        "baseMean": 308.7343,
+        "group": "None"
+    },
+    {
+        "symbol": "Atg16l2",
+        "log2FC": 1.0092,
+        "baseMean": 44.2863,
+        "group": "None"
+    },
+    {
+        "symbol": "Serpina1b",
+        "log2FC": -0.9192,
+        "baseMean": 44920.2111,
+        "group": "None"
+    },
+    {
+        "symbol": "Ufc1",
+        "log2FC": -0.0215,
+        "baseMean": 341.2539,
+        "group": "None"
+    },
+    {
+        "symbol": "Fbln1",
+        "log2FC": 0.2278,
+        "baseMean": 7.4125,
+        "group": "None"
+    },
+    {
+        "symbol": "Rprd1a",
+        "log2FC": -0.4979,
+        "baseMean": 167.0068,
+        "group": "None"
+    },
+    {
+        "symbol": "Upf1",
+        "log2FC": -0.4632,
+        "baseMean": 622.121,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm13306",
+        "log2FC": -1.5477,
+        "baseMean": 3.5753,
+        "group": "None"
+    },
+    {
+        "symbol": "Ube2z",
+        "log2FC": 0.3024,
+        "baseMean": 963.3607,
+        "group": "None"
+    },
+    {
+        "symbol": "Mocs2",
+        "log2FC": -0.5735,
+        "baseMean": 416.7387,
+        "group": "None"
+    },
+    {
+        "symbol": "Nosip",
+        "log2FC": 0.2941,
+        "baseMean": 137.4038,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfhx4",
+        "log2FC": 0.1167,
+        "baseMean": 296.8667,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp764",
+        "log2FC": 0.1826,
+        "baseMean": 38.5984,
+        "group": "None"
+    },
+    {
+        "symbol": "Fdx1",
+        "log2FC": -0.3922,
+        "baseMean": 519.5598,
+        "group": "None"
+    },
+    {
+        "symbol": "Gapdh",
+        "log2FC": 0.7519,
+        "baseMean": 576.4048,
+        "group": "None"
+    },
+    {
+        "symbol": "Cnn2",
+        "log2FC": 0.6164,
+        "baseMean": 97.0073,
+        "group": "None"
+    },
+    {
+        "symbol": "Omd",
+        "log2FC": 5.7786,
+        "baseMean": 5.5955,
+        "group": "Up"
+    },
+    {
+        "symbol": "AU021092",
+        "log2FC": -0.696,
+        "baseMean": 7.1822,
+        "group": "None"
+    },
+    {
+        "symbol": "Dipk2a",
+        "log2FC": 0.1553,
+        "baseMean": 633.3037,
+        "group": "None"
+    },
+    {
+        "symbol": "Mfap2",
+        "log2FC": 4.3938,
+        "baseMean": 4.3621,
+        "group": "Up"
+    },
+    {
+        "symbol": "Adamts7",
+        "log2FC": 1.669,
+        "baseMean": 107.5043,
+        "group": "Up"
+    },
+    {
+        "symbol": "AU015228",
+        "log2FC": 0.1938,
+        "baseMean": 41.6228,
+        "group": "None"
+    },
+    {
+        "symbol": "Arl14ep",
+        "log2FC": -0.3513,
+        "baseMean": 173.5239,
+        "group": "None"
+    },
+    {
+        "symbol": "Txk",
+        "log2FC": 2.6553,
+        "baseMean": 5.2996,
+        "group": "None"
+    },
+    {
+        "symbol": "Tango6",
+        "log2FC": -0.022,
+        "baseMean": 51.4339,
+        "group": "None"
+    },
+    {
+        "symbol": "9330020H09Rik",
+        "log2FC": -0.5992,
+        "baseMean": 24.8489,
+        "group": "None"
+    },
+    {
+        "symbol": "Nrip1",
+        "log2FC": 0.9114,
+        "baseMean": 328.8422,
+        "group": "None"
+    },
+    {
+        "symbol": "Terf2ip",
+        "log2FC": -0.191,
+        "baseMean": 215.0112,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc10a7",
+        "log2FC": -0.0023,
+        "baseMean": 105.9226,
+        "group": "None"
+    },
+    {
+        "symbol": "Chst8",
+        "log2FC": 0.8583,
+        "baseMean": 2.5503,
+        "group": "None"
+    },
+    {
+        "symbol": "Fbxo36",
+        "log2FC": -0.8123,
+        "baseMean": 41.6528,
+        "group": "None"
+    },
+    {
+        "symbol": "Glyat",
+        "log2FC": -0.8916,
+        "baseMean": 1188.8899,
+        "group": "None"
+    },
+    {
+        "symbol": "Bmerb1",
+        "log2FC": -4.3358,
+        "baseMean": 1.6519,
+        "group": "None"
+    },
+    {
+        "symbol": "Rhobtb1",
+        "log2FC": -0.405,
+        "baseMean": 695.7356,
+        "group": "None"
+    },
+    {
+        "symbol": "Adcy4",
+        "log2FC": -0.7855,
+        "baseMean": 20.3564,
+        "group": "None"
+    },
+    {
+        "symbol": "Lancl2",
+        "log2FC": 0.1478,
+        "baseMean": 116.9274,
+        "group": "None"
+    },
+    {
+        "symbol": "Cry2",
+        "log2FC": -0.5229,
+        "baseMean": 556.9404,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc39a1",
+        "log2FC": 0.454,
+        "baseMean": 1254.5992,
+        "group": "None"
+    },
+    {
+        "symbol": "Iqsec2",
+        "log2FC": 0.1317,
+        "baseMean": 158.4552,
+        "group": "None"
+    },
+    {
+        "symbol": "Myh14",
+        "log2FC": 0.0864,
+        "baseMean": 120.4466,
+        "group": "None"
+    },
+    {
+        "symbol": "Mrpl10",
+        "log2FC": -0.2211,
+        "baseMean": 514.3174,
+        "group": "None"
+    },
+    {
+        "symbol": "Cdr2l",
+        "log2FC": 0.9272,
+        "baseMean": 78.7329,
+        "group": "None"
+    },
+    {
+        "symbol": "Map4k5",
+        "log2FC": 0.1419,
+        "baseMean": 165.492,
+        "group": "None"
+    },
+    {
+        "symbol": "Rpgrip1",
+        "log2FC": -0.2128,
+        "baseMean": 173.5793,
+        "group": "None"
+    },
+    {
+        "symbol": "Ttc39b",
+        "log2FC": -0.9362,
+        "baseMean": 935.5082,
+        "group": "None"
+    },
+    {
+        "symbol": "Atraid",
+        "log2FC": -0.5257,
+        "baseMean": 319.7056,
+        "group": "None"
+    },
+    {
+        "symbol": "Pprc1",
+        "log2FC": -0.0794,
+        "baseMean": 179.6075,
+        "group": "None"
+    },
+    {
+        "symbol": "Tex264",
+        "log2FC": -0.1722,
+        "baseMean": 594.0604,
+        "group": "None"
+    },
+    {
+        "symbol": "Osbpl7",
+        "log2FC": 1.0748,
+        "baseMean": 51.3625,
+        "group": "Up"
+    },
+    {
+        "symbol": "Zbtb4",
+        "log2FC": 0.6052,
+        "baseMean": 417.9477,
+        "group": "None"
+    },
+    {
+        "symbol": "Parp2",
+        "log2FC": -0.0747,
+        "baseMean": 30.7361,
+        "group": "None"
+    },
+    {
+        "symbol": "H2al1m",
+        "log2FC": -1.5181,
+        "baseMean": 2.1858,
+        "group": "None"
+    },
+    {
+        "symbol": "Pus10",
+        "log2FC": -0.0364,
+        "baseMean": 203.1327,
+        "group": "None"
+    },
+    {
+        "symbol": "Bscl2",
+        "log2FC": -0.1399,
+        "baseMean": 152.9917,
+        "group": "None"
+    },
+    {
+        "symbol": "Elp4",
+        "log2FC": -0.2929,
+        "baseMean": 160.0846,
+        "group": "None"
+    },
+    {
+        "symbol": "Ubqln4",
+        "log2FC": -0.5127,
+        "baseMean": 513.1266,
+        "group": "None"
+    },
+    {
+        "symbol": "Zmym2",
+        "log2FC": 0.1472,
+        "baseMean": 191.6963,
+        "group": "None"
+    },
+    {
+        "symbol": "Icam2",
+        "log2FC": -0.2227,
+        "baseMean": 21.3952,
+        "group": "None"
+    },
+    {
+        "symbol": "Pcsk7",
+        "log2FC": 0.0147,
+        "baseMean": 255.4771,
+        "group": "None"
+    },
+    {
+        "symbol": "Mapkapk3",
+        "log2FC": 0.1873,
+        "baseMean": 78.8237,
+        "group": "None"
+    },
+    {
+        "symbol": "Nsun2",
+        "log2FC": -0.4716,
+        "baseMean": 442.7821,
+        "group": "None"
+    },
+    {
+        "symbol": "Clptm1l",
+        "log2FC": 0.0917,
+        "baseMean": 610.3566,
+        "group": "None"
+    },
+    {
+        "symbol": "Nlrc4",
+        "log2FC": 0.4631,
+        "baseMean": 7.644,
+        "group": "None"
+    },
+    {
+        "symbol": "Msmo1",
+        "log2FC": -0.4847,
+        "baseMean": 3325.0523,
+        "group": "None"
+    },
+    {
+        "symbol": "Prdx4",
+        "log2FC": -0.2667,
+        "baseMean": 254.0373,
+        "group": "None"
+    },
+    {
+        "symbol": "Fis1",
+        "log2FC": -0.5552,
+        "baseMean": 159.4079,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmc5",
+        "log2FC": 7.5204,
+        "baseMean": 18.6673,
+        "group": "Up"
+    },
+    {
+        "symbol": "Tmem269",
+        "log2FC": 0.1671,
+        "baseMean": 5.7791,
+        "group": "None"
+    },
+    {
+        "symbol": "Tada3",
+        "log2FC": 0.0823,
+        "baseMean": 79.1797,
+        "group": "None"
+    },
+    {
+        "symbol": "Scube3",
+        "log2FC": 0.16,
+        "baseMean": 6.2376,
+        "group": "None"
+    },
+    {
+        "symbol": "Gabarapl1",
+        "log2FC": -0.4385,
+        "baseMean": 4841.1942,
+        "group": "None"
+    },
+    {
+        "symbol": "Apc",
+        "log2FC": -0.1182,
+        "baseMean": 602.5162,
+        "group": "None"
+    },
+    {
+        "symbol": "Csde1",
+        "log2FC": -0.0579,
+        "baseMean": 1136.3766,
+        "group": "None"
+    },
+    {
+        "symbol": "Wfdc2",
+        "log2FC": 1.4157,
+        "baseMean": 6.1715,
+        "group": "None"
+    },
+    {
+        "symbol": "Mir6936",
+        "log2FC": -0.3544,
+        "baseMean": 4.9502,
+        "group": "None"
+    },
+    {
+        "symbol": "Srsf2",
+        "log2FC": -0.6573,
+        "baseMean": 1820.9381,
+        "group": "None"
+    },
+    {
+        "symbol": "Inpp5a",
+        "log2FC": 0.2354,
+        "baseMean": 254.8244,
+        "group": "None"
+    },
+    {
+        "symbol": "Syce2",
+        "log2FC": -1.3343,
+        "baseMean": 73.8024,
+        "group": "Down"
+    },
+    {
+        "symbol": "Coro6",
+        "log2FC": 1.9456,
+        "baseMean": 5.2968,
+        "group": "None"
+    },
+    {
+        "symbol": "2010320M18Rik",
+        "log2FC": -0.6412,
+        "baseMean": 83.8503,
+        "group": "None"
+    },
+    {
+        "symbol": "Gt(ROSA)26Sor",
+        "log2FC": -0.9244,
+        "baseMean": 80.6831,
+        "group": "None"
+    },
+    {
+        "symbol": "Tecpr1",
+        "log2FC": -0.0505,
+        "baseMean": 159.1566,
+        "group": "None"
+    },
+    {
+        "symbol": "Ttc41",
+        "log2FC": -0.2555,
+        "baseMean": 32.857,
+        "group": "None"
+    },
+    {
+        "symbol": "Fbxw7",
+        "log2FC": 0.058,
+        "baseMean": 111.8285,
+        "group": "None"
+    },
+    {
+        "symbol": "Mmp2",
+        "log2FC": 2.8443,
+        "baseMean": 108.2727,
+        "group": "Up"
+    },
+    {
+        "symbol": "Cerkl",
+        "log2FC": 0.286,
+        "baseMean": 21.187,
+        "group": "None"
+    },
+    {
+        "symbol": "Ube2d3",
+        "log2FC": -0.1484,
+        "baseMean": 2350.8467,
+        "group": "None"
+    },
+    {
+        "symbol": "Try5",
+        "log2FC": 0.3238,
+        "baseMean": 3.4923,
+        "group": "None"
+    },
+    {
+        "symbol": "Camsap2",
+        "log2FC": 0.0061,
+        "baseMean": 257.3077,
+        "group": "None"
+    },
+    {
+        "symbol": "Grsf1",
+        "log2FC": -0.4912,
+        "baseMean": 832.7244,
+        "group": "None"
+    },
+    {
+        "symbol": "Psmg4",
+        "log2FC": -0.0053,
+        "baseMean": 19.2841,
+        "group": "None"
+    },
+    {
+        "symbol": "Ankrd24",
+        "log2FC": -0.5842,
+        "baseMean": 62.4537,
+        "group": "None"
+    },
+    {
+        "symbol": "Gpnmb",
+        "log2FC": 7.8986,
+        "baseMean": 47.5438,
+        "group": "Up"
+    },
+    {
+        "symbol": "Cuta",
+        "log2FC": -0.3424,
+        "baseMean": 131.2448,
+        "group": "None"
+    },
+    {
+        "symbol": "Casp3",
+        "log2FC": 0.0635,
+        "baseMean": 371.1666,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm10591",
+        "log2FC": 1.4533,
+        "baseMean": 13.267,
+        "group": "None"
+    },
+    {
+        "symbol": "Rpl7a",
+        "log2FC": -0.8097,
+        "baseMean": 59.2003,
+        "group": "None"
+    },
+    {
+        "symbol": "Sf3a3",
+        "log2FC": -0.1648,
+        "baseMean": 12.5334,
+        "group": "None"
+    },
+    {
+        "symbol": "Psen1",
+        "log2FC": -0.0885,
+        "baseMean": 336.8591,
+        "group": "None"
+    },
+    {
+        "symbol": "Stard3",
+        "log2FC": -0.3086,
+        "baseMean": 104.7107,
+        "group": "None"
+    },
+    {
+        "symbol": "Spata46",
+        "log2FC": 0.1771,
+        "baseMean": 3.2249,
+        "group": "None"
+    },
+    {
+        "symbol": "Sult2a1",
+        "log2FC": -5.9212,
+        "baseMean": 89.6782,
+        "group": "Down"
+    },
+    {
+        "symbol": "BC029722",
+        "log2FC": 0.7738,
+        "baseMean": 366.4866,
+        "group": "None"
+    },
+    {
+        "symbol": "Sycn",
+        "log2FC": 1.867,
+        "baseMean": 4.073,
+        "group": "None"
+    },
+    {
+        "symbol": "Urgcp",
+        "log2FC": -0.1904,
+        "baseMean": 459.408,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmem175",
+        "log2FC": -0.1277,
+        "baseMean": 215.4136,
+        "group": "None"
+    },
+    {
+        "symbol": "Rtp4",
+        "log2FC": -0.2063,
+        "baseMean": 227.0442,
+        "group": "None"
+    },
+    {
+        "symbol": "Lilr4b",
+        "log2FC": 2.242,
+        "baseMean": 81.6434,
+        "group": "Up"
+    },
+    {
+        "symbol": "Cbr1",
+        "log2FC": 0.7184,
+        "baseMean": 1528.3446,
+        "group": "None"
+    },
+    {
+        "symbol": "Cetn2",
+        "log2FC": -0.415,
+        "baseMean": 106.6476,
+        "group": "None"
+    },
+    {
+        "symbol": "Pik3r5",
+        "log2FC": 1.6696,
+        "baseMean": 34.583,
+        "group": "Up"
+    },
+    {
+        "symbol": "Psrc1",
+        "log2FC": 2.068,
+        "baseMean": 3.8429,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmem267",
+        "log2FC": 0.1898,
+        "baseMean": 105.1908,
+        "group": "None"
+    },
+    {
+        "symbol": "Vkorc1l1",
+        "log2FC": -0.1962,
+        "baseMean": 759.2892,
+        "group": "None"
+    },
+    {
+        "symbol": "Unc119",
+        "log2FC": 1.2249,
+        "baseMean": 78.9721,
+        "group": "Up"
+    },
+    {
+        "symbol": "Nradd",
+        "log2FC": 0.4197,
+        "baseMean": 12.288,
+        "group": "None"
+    },
+    {
+        "symbol": "Itgax",
+        "log2FC": 2.1875,
+        "baseMean": 21.826,
+        "group": "Up"
+    },
+    {
+        "symbol": "Pdgfb",
+        "log2FC": 1.658,
+        "baseMean": 46.9499,
+        "group": "Up"
+    },
+    {
+        "symbol": "Anks4b",
+        "log2FC": -1.0382,
+        "baseMean": 797.9341,
+        "group": "Down"
+    },
+    {
+        "symbol": "Rdh16f2",
+        "log2FC": -1.707,
+        "baseMean": 1803.7509,
+        "group": "Down"
+    },
+    {
+        "symbol": "Enox2",
+        "log2FC": -0.3069,
+        "baseMean": 84.8161,
+        "group": "None"
+    },
+    {
+        "symbol": "C1rb",
+        "log2FC": 0.4322,
+        "baseMean": 120.9917,
+        "group": "None"
+    },
+    {
+        "symbol": "Rab18",
+        "log2FC": -0.1833,
+        "baseMean": 1131.3756,
+        "group": "None"
+    },
+    {
+        "symbol": "Ankrd40",
+        "log2FC": 0.3732,
+        "baseMean": 597.8494,
+        "group": "None"
+    },
+    {
+        "symbol": "Kif24",
+        "log2FC": 0.7233,
+        "baseMean": 13.7334,
+        "group": "None"
+    },
+    {
+        "symbol": "Prmt1",
+        "log2FC": -1.6215,
+        "baseMean": 8.0952,
+        "group": "None"
+    },
+    {
+        "symbol": "Fbxo34",
+        "log2FC": 0.7035,
+        "baseMean": 437.932,
+        "group": "None"
+    },
+    {
+        "symbol": "Zup1",
+        "log2FC": 0.0697,
+        "baseMean": 33.3041,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm2027",
+        "log2FC": 0.3128,
+        "baseMean": 27.5373,
+        "group": "None"
+    },
+    {
+        "symbol": "Galc",
+        "log2FC": 0.3766,
+        "baseMean": 67.9692,
+        "group": "None"
+    },
+    {
+        "symbol": "Tbx1",
+        "log2FC": 1.7228,
+        "baseMean": 1.5651,
+        "group": "None"
+    },
+    {
+        "symbol": "Gars",
+        "log2FC": 0.7139,
+        "baseMean": 67.3736,
+        "group": "None"
+    },
+    {
+        "symbol": "Gpr183",
+        "log2FC": -0.4221,
+        "baseMean": 8.0239,
+        "group": "None"
+    },
+    {
+        "symbol": "Usp36",
+        "log2FC": -0.8964,
+        "baseMean": 241.4944,
+        "group": "None"
+    },
+    {
+        "symbol": "Sumf1",
+        "log2FC": 0.0218,
+        "baseMean": 379.102,
+        "group": "None"
+    },
+    {
+        "symbol": "Dhrs1",
+        "log2FC": -0.3389,
+        "baseMean": 483.8662,
+        "group": "None"
+    },
+    {
+        "symbol": "Aig1",
+        "log2FC": 0.4306,
+        "baseMean": 138.3354,
+        "group": "None"
+    },
+    {
+        "symbol": "Mamdc2",
+        "log2FC": 0.4672,
+        "baseMean": 27.3022,
+        "group": "None"
+    },
+    {
+        "symbol": "Als2cl",
+        "log2FC": 1.1033,
+        "baseMean": 503.4849,
+        "group": "Up"
+    },
+    {
+        "symbol": "Gm5434",
+        "log2FC": -0.0199,
+        "baseMean": 10.7554,
+        "group": "None"
+    },
+    {
+        "symbol": "Vxn",
+        "log2FC": 4.1403,
+        "baseMean": 10.4099,
+        "group": "Up"
+    },
+    {
+        "symbol": "Tfip11",
+        "log2FC": 0.073,
+        "baseMean": 217.756,
+        "group": "None"
+    },
+    {
+        "symbol": "Rpf2",
+        "log2FC": 0.6628,
+        "baseMean": 21.9961,
+        "group": "None"
+    },
+    {
+        "symbol": "Zc3h8",
+        "log2FC": -1.9399,
+        "baseMean": 25.6838,
+        "group": "Down"
+    },
+    {
+        "symbol": "0610012G03Rik",
+        "log2FC": -0.5894,
+        "baseMean": 584.3035,
+        "group": "None"
+    },
+    {
+        "symbol": "Anapc11",
+        "log2FC": -0.1615,
+        "baseMean": 141.6784,
+        "group": "None"
+    },
+    {
+        "symbol": "Rps15a-ps4",
+        "log2FC": 0.3918,
+        "baseMean": 101.754,
+        "group": "None"
+    },
+    {
+        "symbol": "Luc7l2",
+        "log2FC": -0.6564,
+        "baseMean": 2001.2648,
+        "group": "None"
+    },
+    {
+        "symbol": "Snord32a",
+        "log2FC": -0.8545,
+        "baseMean": 4.629,
+        "group": "None"
+    },
+    {
+        "symbol": "Apobec3",
+        "log2FC": 2.4579,
+        "baseMean": 60.9173,
+        "group": "Up"
+    },
+    {
+        "symbol": "1810013L24Rik",
+        "log2FC": -0.1391,
+        "baseMean": 488.2754,
+        "group": "None"
+    },
+    {
+        "symbol": "Rem2",
+        "log2FC": 1.9571,
+        "baseMean": 3.6908,
+        "group": "None"
+    },
+    {
+        "symbol": "Nudt4",
+        "log2FC": 0.8696,
+        "baseMean": 3798.8441,
+        "group": "None"
+    },
+    {
+        "symbol": "Cdadc1",
+        "log2FC": -0.7791,
+        "baseMean": 371.4959,
+        "group": "None"
+    },
+    {
+        "symbol": "Itga10",
+        "log2FC": -1.1783,
+        "baseMean": 17.3456,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmem176b",
+        "log2FC": 1.3771,
+        "baseMean": 1164.6053,
+        "group": "Up"
+    },
+    {
+        "symbol": "Zmynd10",
+        "log2FC": 0.2555,
+        "baseMean": 4.1477,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc35g1",
+        "log2FC": 0.5203,
+        "baseMean": 496.3715,
+        "group": "None"
+    },
+    {
+        "symbol": "Lzic",
+        "log2FC": 0.3277,
+        "baseMean": 45.8038,
+        "group": "None"
+    },
+    {
+        "symbol": "Wdr48",
+        "log2FC": -0.1419,
+        "baseMean": 330.4079,
+        "group": "None"
+    },
+    {
+        "symbol": "Rps17",
+        "log2FC": -0.3647,
+        "baseMean": 49.9364,
+        "group": "None"
+    },
+    {
+        "symbol": "Wnt9a",
+        "log2FC": -0.4245,
+        "baseMean": 12.0015,
+        "group": "None"
+    },
+    {
+        "symbol": "Dusp13",
+        "log2FC": -2.4238,
+        "baseMean": 1.9351,
+        "group": "None"
+    },
+    {
+        "symbol": "Sord",
+        "log2FC": -1.0949,
+        "baseMean": 12248.9338,
+        "group": "Down"
+    },
+    {
+        "symbol": "Nutf2",
+        "log2FC": -0.244,
+        "baseMean": 113.1826,
+        "group": "None"
+    },
+    {
+        "symbol": "Tm9sf2",
+        "log2FC": -0.3677,
+        "baseMean": 1013.0083,
+        "group": "None"
+    },
+    {
+        "symbol": "Mb21d2",
+        "log2FC": 0.0702,
+        "baseMean": 300.9919,
+        "group": "None"
+    },
+    {
+        "symbol": "Serf1",
+        "log2FC": 0.0876,
+        "baseMean": 10.1481,
+        "group": "None"
+    },
+    {
+        "symbol": "2610528J11Rik",
+        "log2FC": -0.4933,
+        "baseMean": 96.213,
+        "group": "None"
+    },
+    {
+        "symbol": "Leprotl1",
+        "log2FC": 1.1188,
+        "baseMean": 272.9043,
+        "group": "Up"
+    },
+    {
+        "symbol": "Arhgap35",
+        "log2FC": 0.112,
+        "baseMean": 1602.487,
+        "group": "None"
+    },
+    {
+        "symbol": "Safb2",
+        "log2FC": -0.5238,
+        "baseMean": 386.5517,
+        "group": "None"
+    },
+    {
+        "symbol": "Impg2",
+        "log2FC": -1.9049,
+        "baseMean": 50.0904,
+        "group": "Down"
+    },
+    {
+        "symbol": "Tfcp2",
+        "log2FC": -0.322,
+        "baseMean": 84.2897,
+        "group": "None"
+    },
+    {
+        "symbol": "Ly75",
+        "log2FC": -0.2169,
+        "baseMean": 57.2548,
+        "group": "None"
+    },
+    {
+        "symbol": "Elmsan1",
+        "log2FC": 0.9456,
+        "baseMean": 301.3796,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm572",
+        "log2FC": 1.5558,
+        "baseMean": 1.4777,
+        "group": "None"
+    },
+    {
+        "symbol": "Gid4",
+        "log2FC": -0.5156,
+        "baseMean": 537.0091,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp646",
+        "log2FC": -0.1336,
+        "baseMean": 264.0078,
+        "group": "None"
+    },
+    {
+        "symbol": "Grhl1",
+        "log2FC": 2.3177,
+        "baseMean": 19.7914,
+        "group": "Up"
+    },
+    {
+        "symbol": "Elovl2",
+        "log2FC": -0.3393,
+        "baseMean": 7692.4021,
+        "group": "None"
+    },
+    {
+        "symbol": "Hps3",
+        "log2FC": 0.1309,
+        "baseMean": 89.0918,
+        "group": "None"
+    },
+    {
+        "symbol": "0610039K10Rik",
+        "log2FC": 1.3617,
+        "baseMean": 10.4019,
+        "group": "None"
+    },
+    {
+        "symbol": "Tbc1d13",
+        "log2FC": -0.1475,
+        "baseMean": 539.1154,
+        "group": "None"
+    },
+    {
+        "symbol": "Smc4",
+        "log2FC": 0.2183,
+        "baseMean": 42.7107,
+        "group": "None"
+    },
+    {
+        "symbol": "Tax1bp1",
+        "log2FC": 0.0608,
+        "baseMean": 729.4383,
+        "group": "None"
+    },
+    {
+        "symbol": "Ppt1",
+        "log2FC": 0.5825,
+        "baseMean": 472.4077,
+        "group": "None"
+    },
+    {
+        "symbol": "Bloc1s6os",
+        "log2FC": -1.3185,
+        "baseMean": 1.5571,
+        "group": "None"
+    },
+    {
+        "symbol": "Ugdh",
+        "log2FC": 1.9023,
+        "baseMean": 2149.4486,
+        "group": "Up"
+    },
+    {
+        "symbol": "Taf4",
+        "log2FC": -0.2822,
+        "baseMean": 160.0269,
+        "group": "None"
+    },
+    {
+        "symbol": "Rfxap",
+        "log2FC": -0.3103,
+        "baseMean": 152.2178,
+        "group": "None"
+    },
+    {
+        "symbol": "Nipsnap1",
+        "log2FC": -0.3263,
+        "baseMean": 1828.4601,
+        "group": "None"
+    },
+    {
+        "symbol": "Hexb",
+        "log2FC": -0.0108,
+        "baseMean": 94.9989,
+        "group": "None"
+    },
+    {
+        "symbol": "Sorbs2",
+        "log2FC": 1.2691,
+        "baseMean": 751.2561,
+        "group": "Up"
+    },
+    {
+        "symbol": "Snord34",
+        "log2FC": -1.9788,
+        "baseMean": 3.6355,
+        "group": "None"
+    },
+    {
+        "symbol": "Nckap1",
+        "log2FC": 0.0449,
+        "baseMean": 633.731,
+        "group": "None"
+    },
+    {
+        "symbol": "Ralgps1",
+        "log2FC": 0.8211,
+        "baseMean": 132.2031,
+        "group": "None"
+    },
+    {
+        "symbol": "Atp8a1",
+        "log2FC": 0.6976,
+        "baseMean": 111.3533,
+        "group": "None"
+    },
+    {
+        "symbol": "Kif21b",
+        "log2FC": 1.1215,
+        "baseMean": 109.9406,
+        "group": "Up"
+    },
+    {
+        "symbol": "Atg5",
+        "log2FC": -0.6925,
+        "baseMean": 440.2104,
+        "group": "None"
+    },
+    {
+        "symbol": "Srp9",
+        "log2FC": -0.3252,
+        "baseMean": 599.465,
+        "group": "None"
+    },
+    {
+        "symbol": "Pde7a",
+        "log2FC": 0.1711,
+        "baseMean": 121.3256,
+        "group": "None"
+    },
+    {
+        "symbol": "2610203C22Rik",
+        "log2FC": 0.9884,
+        "baseMean": 13.9783,
+        "group": "None"
+    },
+    {
+        "symbol": "Fam81a",
+        "log2FC": -0.1127,
+        "baseMean": 30.083,
+        "group": "None"
+    },
+    {
+        "symbol": "AI504432",
+        "log2FC": 2.1875,
+        "baseMean": 8.1385,
+        "group": "None"
+    },
+    {
+        "symbol": "Gys2",
+        "log2FC": -1.1824,
+        "baseMean": 297.7815,
+        "group": "Down"
+    },
+    {
+        "symbol": "Cfap44",
+        "log2FC": 5.8741,
+        "baseMean": 5.9738,
+        "group": "Up"
+    },
+    {
+        "symbol": "Car11",
+        "log2FC": -1.2496,
+        "baseMean": 4.0693,
+        "group": "None"
+    },
+    {
+        "symbol": "Fundc2",
+        "log2FC": 0.4175,
+        "baseMean": 93.8113,
+        "group": "None"
+    },
+    {
+        "symbol": "Snx5",
+        "log2FC": 0.2544,
+        "baseMean": 294.4551,
+        "group": "None"
+    },
+    {
+        "symbol": "Pisd",
+        "log2FC": 0.1447,
+        "baseMean": 362.9884,
+        "group": "None"
+    },
+    {
+        "symbol": "Cherp",
+        "log2FC": -0.2049,
+        "baseMean": 270.6334,
+        "group": "None"
+    },
+    {
+        "symbol": "Inpp5f",
+        "log2FC": 0.2278,
+        "baseMean": 377.7007,
+        "group": "None"
+    },
+    {
+        "symbol": "Troap",
+        "log2FC": 4.238,
+        "baseMean": 3.9172,
+        "group": "Up"
+    },
+    {
+        "symbol": "Emsy",
+        "log2FC": 0.2837,
+        "baseMean": 67.265,
+        "group": "None"
+    },
+    {
+        "symbol": "Ero1lb",
+        "log2FC": -0.3938,
+        "baseMean": 535.2325,
+        "group": "None"
+    },
+    {
+        "symbol": "Ermard",
+        "log2FC": -0.4771,
+        "baseMean": 81.8574,
+        "group": "None"
+    },
+    {
+        "symbol": "Dclk1",
+        "log2FC": 2.3094,
+        "baseMean": 7.6612,
+        "group": "None"
+    },
+    {
+        "symbol": "Mapk8ip3",
+        "log2FC": 0.2734,
+        "baseMean": 323.0412,
+        "group": "None"
+    },
+    {
+        "symbol": "Kifbp",
+        "log2FC": -0.3511,
+        "baseMean": 151.1087,
+        "group": "None"
+    },
+    {
+        "symbol": "Klhl22",
+        "log2FC": -0.3565,
+        "baseMean": 156.5446,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp955b",
+        "log2FC": -0.2182,
+        "baseMean": 85.8771,
+        "group": "None"
+    },
+    {
+        "symbol": "Fam110a",
+        "log2FC": 1.3318,
+        "baseMean": 81.6915,
+        "group": "Up"
+    },
+    {
+        "symbol": "Dysf",
+        "log2FC": 0.3162,
+        "baseMean": 6.5599,
+        "group": "None"
+    },
+    {
+        "symbol": "Hspbp1",
+        "log2FC": 0.0253,
+        "baseMean": 77.9418,
+        "group": "None"
+    },
+    {
+        "symbol": "Babam1",
+        "log2FC": -0.3812,
+        "baseMean": 190.628,
+        "group": "None"
+    },
+    {
+        "symbol": "Tsr2",
+        "log2FC": 0.0543,
+        "baseMean": 157.5536,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm5141",
+        "log2FC": 0.3014,
+        "baseMean": 3.3832,
+        "group": "None"
+    },
+    {
+        "symbol": "Dsp",
+        "log2FC": 0.7695,
+        "baseMean": 1592.7245,
+        "group": "None"
+    },
+    {
+        "symbol": "Rbbp6",
+        "log2FC": -0.3259,
+        "baseMean": 752.4098,
+        "group": "None"
+    },
+    {
+        "symbol": "Serpind1",
+        "log2FC": -0.2207,
+        "baseMean": 6100.7939,
+        "group": "None"
+    },
+    {
+        "symbol": "Riok2",
+        "log2FC": -0.9844,
+        "baseMean": 222.8663,
+        "group": "None"
+    },
+    {
+        "symbol": "Mir677",
+        "log2FC": -0.9889,
+        "baseMean": 7.1534,
+        "group": "None"
+    },
+    {
+        "symbol": "Hivep1",
+        "log2FC": 0.1535,
+        "baseMean": 325.2035,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm5524",
+        "log2FC": -0.603,
+        "baseMean": 260.5773,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc34a2",
+        "log2FC": -2.3291,
+        "baseMean": 20.37,
+        "group": "Down"
+    },
+    {
+        "symbol": "Tbc1d12",
+        "log2FC": 0.2356,
+        "baseMean": 106.5149,
+        "group": "None"
+    },
+    {
+        "symbol": "Depdc7",
+        "log2FC": -0.4897,
+        "baseMean": 115.3196,
+        "group": "None"
+    },
+    {
+        "symbol": "Scmh1",
+        "log2FC": 0.3406,
+        "baseMean": 91.6773,
+        "group": "None"
+    },
+    {
+        "symbol": "Rims3",
+        "log2FC": 1.1232,
+        "baseMean": 48.4837,
+        "group": "Up"
+    },
+    {
+        "symbol": "Ern1",
+        "log2FC": 0.0967,
+        "baseMean": 264.2161,
+        "group": "None"
+    },
+    {
+        "symbol": "Snord16a",
+        "log2FC": 1.0163,
+        "baseMean": 9.3662,
+        "group": "None"
+    },
+    {
+        "symbol": "Hoxaas2",
+        "log2FC": 0.3759,
+        "baseMean": 6.6776,
+        "group": "None"
+    },
+    {
+        "symbol": "Rae1",
+        "log2FC": -0.2254,
+        "baseMean": 59.1223,
+        "group": "None"
+    },
+    {
+        "symbol": "Ppil6",
+        "log2FC": 0.1939,
+        "baseMean": 3.6468,
+        "group": "None"
+    },
+    {
+        "symbol": "Tnfaip6",
+        "log2FC": 3.7116,
+        "baseMean": 5.28,
+        "group": "None"
+    },
+    {
+        "symbol": "Sbsn",
+        "log2FC": 1.2401,
+        "baseMean": 11.5549,
+        "group": "None"
+    },
+    {
+        "symbol": "Nudt5",
+        "log2FC": 0.2542,
+        "baseMean": 69.7303,
+        "group": "None"
+    },
+    {
+        "symbol": "Cd200r1",
+        "log2FC": 1.0073,
+        "baseMean": 16.6005,
+        "group": "None"
+    },
+    {
+        "symbol": "Rps19bp1",
+        "log2FC": -0.4373,
+        "baseMean": 90.538,
+        "group": "None"
+    },
+    {
+        "symbol": "Txndc15",
+        "log2FC": -0.4499,
+        "baseMean": 611.6657,
+        "group": "None"
+    },
+    {
+        "symbol": "Zbtb7c",
+        "log2FC": 0.7294,
+        "baseMean": 21.0347,
+        "group": "None"
+    },
+    {
+        "symbol": "Coq10b",
+        "log2FC": -1.5365,
+        "baseMean": 433.4416,
+        "group": "Down"
+    },
+    {
+        "symbol": "Cdkn1b",
+        "log2FC": 0.4446,
+        "baseMean": 385.7552,
+        "group": "None"
+    },
+    {
+        "symbol": "Dlat",
+        "log2FC": 0.0398,
+        "baseMean": 441.1308,
+        "group": "None"
+    },
+    {
+        "symbol": "Plpp3",
+        "log2FC": -1.1002,
+        "baseMean": 2257.2984,
+        "group": "Down"
+    },
+    {
+        "symbol": "Mrps18a",
+        "log2FC": -0.36,
+        "baseMean": 103.5677,
+        "group": "None"
+    },
+    {
+        "symbol": "Ddx59",
+        "log2FC": -0.3688,
+        "baseMean": 35.4846,
+        "group": "None"
+    },
+    {
+        "symbol": "Gjb1",
+        "log2FC": -0.4586,
+        "baseMean": 12045.9625,
+        "group": "None"
+    },
+    {
+        "symbol": "Llph",
+        "log2FC": -0.7142,
+        "baseMean": 127.1463,
+        "group": "None"
+    },
+    {
+        "symbol": "Dnajb12",
+        "log2FC": 0.1917,
+        "baseMean": 635.5065,
+        "group": "None"
+    },
+    {
+        "symbol": "Usp28",
+        "log2FC": 0.0077,
+        "baseMean": 67.8763,
+        "group": "None"
+    },
+    {
+        "symbol": "Ndufa4",
+        "log2FC": -0.4256,
+        "baseMean": 61.734,
+        "group": "None"
+    },
+    {
+        "symbol": "Cwc27",
+        "log2FC": 0.1759,
+        "baseMean": 22.9101,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm2260",
+        "log2FC": -0.3903,
+        "baseMean": 220.2345,
+        "group": "None"
+    },
+    {
+        "symbol": "2900009J06Rik",
+        "log2FC": -0.7864,
+        "baseMean": 2.3886,
+        "group": "None"
+    },
+    {
+        "symbol": "Atp4a",
+        "log2FC": 2.0627,
+        "baseMean": 8.7429,
+        "group": "None"
+    },
+    {
+        "symbol": "Tal1",
+        "log2FC": -1.0449,
+        "baseMean": 21.4546,
+        "group": "None"
+    },
+    {
+        "symbol": "Polg2",
+        "log2FC": -0.4801,
+        "baseMean": 68.278,
+        "group": "None"
+    },
+    {
+        "symbol": "Scml4",
+        "log2FC": 0.203,
+        "baseMean": 3.5467,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm6034",
+        "log2FC": -2.3823,
+        "baseMean": 2.8511,
+        "group": "None"
+    },
+    {
+        "symbol": "Hsd17b11",
+        "log2FC": -0.5268,
+        "baseMean": 1187.4726,
+        "group": "None"
+    },
+    {
+        "symbol": "AB124611",
+        "log2FC": 1.4216,
+        "baseMean": 66.5139,
+        "group": "Up"
+    },
+    {
+        "symbol": "Gamt",
+        "log2FC": -1.1624,
+        "baseMean": 799.1337,
+        "group": "Down"
+    },
+    {
+        "symbol": "Spsb2",
+        "log2FC": 0.279,
+        "baseMean": 213.4591,
+        "group": "None"
+    },
+    {
+        "symbol": "Vegfd",
+        "log2FC": -0.2333,
+        "baseMean": 21.223,
+        "group": "None"
+    },
+    {
+        "symbol": "Atpaf1",
+        "log2FC": 0.1477,
+        "baseMean": 99.0488,
+        "group": "None"
+    },
+    {
+        "symbol": "Depp1",
+        "log2FC": 0.9883,
+        "baseMean": 1109.5041,
+        "group": "None"
+    },
+    {
+        "symbol": "Cdk14",
+        "log2FC": 0.4316,
+        "baseMean": 32.224,
+        "group": "None"
+    },
+    {
+        "symbol": "Rpgrip1l",
+        "log2FC": 0.5688,
+        "baseMean": 44.2319,
+        "group": "None"
+    },
+    {
+        "symbol": "Mrpl35",
+        "log2FC": -0.5654,
+        "baseMean": 142.3776,
+        "group": "None"
+    },
+    {
+        "symbol": "Abcb10",
+        "log2FC": -0.5728,
+        "baseMean": 349.8122,
+        "group": "None"
+    },
+    {
+        "symbol": "Lpar2",
+        "log2FC": 0.8722,
+        "baseMean": 49.053,
+        "group": "None"
+    },
+    {
+        "symbol": "Mir7036",
+        "log2FC": 0.2477,
+        "baseMean": 10.7236,
+        "group": "None"
+    },
+    {
+        "symbol": "Ubr4",
+        "log2FC": -0.1085,
+        "baseMean": 317.0828,
+        "group": "None"
+    },
+    {
+        "symbol": "Ipo7",
+        "log2FC": -0.2595,
+        "baseMean": 587.6655,
+        "group": "None"
+    },
+    {
+        "symbol": "Tcaf2",
+        "log2FC": 1.342,
+        "baseMean": 18.3353,
+        "group": "None"
+    },
+    {
+        "symbol": "Tm4sf1",
+        "log2FC": -0.5118,
+        "baseMean": 84.1887,
+        "group": "None"
+    },
+    {
+        "symbol": "Ahr",
+        "log2FC": 0.621,
+        "baseMean": 968.1254,
+        "group": "None"
+    },
+    {
+        "symbol": "St8sia1",
+        "log2FC": 0.8168,
+        "baseMean": 1.5151,
+        "group": "None"
+    },
+    {
+        "symbol": "Ep400",
+        "log2FC": 0.1266,
+        "baseMean": 430.2165,
+        "group": "None"
+    },
+    {
+        "symbol": "Tbx6",
+        "log2FC": -0.9285,
+        "baseMean": 13.729,
+        "group": "None"
+    },
+    {
+        "symbol": "2610028H24Rik",
+        "log2FC": -0.9243,
+        "baseMean": 10.5347,
+        "group": "None"
+    },
+    {
+        "symbol": "Wipi1",
+        "log2FC": 0.0261,
+        "baseMean": 78.6598,
+        "group": "None"
+    },
+    {
+        "symbol": "Rap1gap2",
+        "log2FC": 1.2811,
+        "baseMean": 26.5264,
+        "group": "None"
+    },
+    {
+        "symbol": "Hint1",
+        "log2FC": -0.1845,
+        "baseMean": 429.6787,
+        "group": "None"
+    },
+    {
+        "symbol": "Snx10",
+        "log2FC": 0.5217,
+        "baseMean": 482.128,
+        "group": "None"
+    },
+    {
+        "symbol": "Hrg",
+        "log2FC": -0.0525,
+        "baseMean": 9727.3571,
+        "group": "None"
+    },
+    {
+        "symbol": "Gnas",
+        "log2FC": -0.0845,
+        "baseMean": 2113.7631,
+        "group": "None"
+    },
+    {
+        "symbol": "Herc3",
+        "log2FC": 1.0283,
+        "baseMean": 72.0095,
+        "group": "Up"
+    },
+    {
+        "symbol": "4732416N19Rik",
+        "log2FC": -0.0162,
+        "baseMean": 5.9359,
+        "group": "None"
+    },
+    {
+        "symbol": "Oasl1",
+        "log2FC": 1.6804,
+        "baseMean": 264.0732,
+        "group": "Up"
+    },
+    {
+        "symbol": "Srbd1",
+        "log2FC": -0.2436,
+        "baseMean": 95.8323,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc16a1",
+        "log2FC": 0.6722,
+        "baseMean": 996.0136,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc18a2",
+        "log2FC": -0.388,
+        "baseMean": 27.8846,
+        "group": "None"
+    },
+    {
+        "symbol": "Gpr176",
+        "log2FC": 4.406,
+        "baseMean": 8.2611,
+        "group": "Up"
+    },
+    {
+        "symbol": "Hnrnpu",
+        "log2FC": -0.2711,
+        "baseMean": 2151.3525,
+        "group": "None"
+    },
+    {
+        "symbol": "Pcdhga6",
+        "log2FC": 0.5143,
+        "baseMean": 269.7494,
+        "group": "None"
+    },
+    {
+        "symbol": "Cenpa",
+        "log2FC": 0.1337,
+        "baseMean": 38.7573,
+        "group": "None"
+    },
+    {
+        "symbol": "Cbx5",
+        "log2FC": -0.059,
+        "baseMean": 602.8559,
+        "group": "None"
+    },
+    {
+        "symbol": "Ptprt",
+        "log2FC": -3.1794,
+        "baseMean": 4.2509,
+        "group": "None"
+    },
+    {
+        "symbol": "Mitf",
+        "log2FC": 0.9632,
+        "baseMean": 66.5101,
+        "group": "None"
+    },
+    {
+        "symbol": "Slfn9",
+        "log2FC": 0.7664,
+        "baseMean": 42.7543,
+        "group": "None"
+    },
+    {
+        "symbol": "Mcm2",
+        "log2FC": 1.3366,
+        "baseMean": 45.9903,
+        "group": "Up"
+    },
+    {
+        "symbol": "Kat8",
+        "log2FC": -0.7154,
+        "baseMean": 35.1555,
+        "group": "None"
+    },
+    {
+        "symbol": "Pcm1",
+        "log2FC": -0.1295,
+        "baseMean": 148.6899,
+        "group": "None"
+    },
+    {
+        "symbol": "Rpl34-ps1",
+        "log2FC": -1.2806,
+        "baseMean": 11.9594,
+        "group": "None"
+    },
+    {
+        "symbol": "Ttc30a2",
+        "log2FC": -1.3601,
+        "baseMean": 3.1252,
+        "group": "None"
+    },
+    {
+        "symbol": "Acod1",
+        "log2FC": 3.645,
+        "baseMean": 5.0545,
+        "group": "None"
+    },
+    {
+        "symbol": "Caprin2",
+        "log2FC": -0.8049,
+        "baseMean": 39.3446,
+        "group": "None"
+    },
+    {
+        "symbol": "Lrrc8e",
+        "log2FC": 2.5667,
+        "baseMean": 29.2698,
+        "group": "Up"
+    },
+    {
+        "symbol": "Supt16",
+        "log2FC": -0.2138,
+        "baseMean": 267.8569,
+        "group": "None"
+    },
+    {
+        "symbol": "Sspn",
+        "log2FC": 0.3086,
+        "baseMean": 50.0212,
+        "group": "None"
+    },
+    {
+        "symbol": "Snhg3",
+        "log2FC": 1.7198,
+        "baseMean": 46.7323,
+        "group": "Up"
+    },
+    {
+        "symbol": "Higd1c",
+        "log2FC": 2.7948,
+        "baseMean": 1.552,
+        "group": "None"
+    },
+    {
+        "symbol": "Mapk4",
+        "log2FC": -1.5284,
+        "baseMean": 11.927,
+        "group": "None"
+    },
+    {
+        "symbol": "Oas3",
+        "log2FC": 1.3557,
+        "baseMean": 38.8979,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm867",
+        "log2FC": -0.6268,
+        "baseMean": 3.8788,
+        "group": "None"
+    },
+    {
+        "symbol": "Synj2",
+        "log2FC": 2.0154,
+        "baseMean": 116.5066,
+        "group": "Up"
+    },
+    {
+        "symbol": "Prr7",
+        "log2FC": 2.0159,
+        "baseMean": 13.1303,
+        "group": "None"
+    },
+    {
+        "symbol": "Thy1",
+        "log2FC": 0.7444,
+        "baseMean": 39.0726,
+        "group": "None"
+    },
+    {
+        "symbol": "Taf1a",
+        "log2FC": -0.0905,
+        "baseMean": 59.7654,
+        "group": "None"
+    },
+    {
+        "symbol": "Ythdf2",
+        "log2FC": 0.0831,
+        "baseMean": 342.1287,
+        "group": "None"
+    },
+    {
+        "symbol": "Rad50",
+        "log2FC": 0.4772,
+        "baseMean": 90.0332,
+        "group": "None"
+    },
+    {
+        "symbol": "Malsu1",
+        "log2FC": 0.0651,
+        "baseMean": 35.1468,
+        "group": "None"
+    },
+    {
+        "symbol": "Zmat2",
+        "log2FC": -0.0979,
+        "baseMean": 210.4135,
+        "group": "None"
+    },
+    {
+        "symbol": "Bloc1s6",
+        "log2FC": -0.1175,
+        "baseMean": 209.4736,
+        "group": "None"
+    },
+    {
+        "symbol": "Podnl1",
+        "log2FC": -1.119,
+        "baseMean": 5.9874,
+        "group": "None"
+    },
+    {
+        "symbol": "Top1",
+        "log2FC": -0.4284,
+        "baseMean": 383.0608,
+        "group": "None"
+    },
+    {
+        "symbol": "Rbm43",
+        "log2FC": 0.7878,
+        "baseMean": 96.5146,
+        "group": "None"
+    },
+    {
+        "symbol": "Mir1892",
+        "log2FC": 0.6566,
+        "baseMean": 272.3592,
+        "group": "None"
+    },
+    {
+        "symbol": "Polr3g",
+        "log2FC": -1.7656,
+        "baseMean": 111.3188,
+        "group": "Down"
+    },
+    {
+        "symbol": "Coq3",
+        "log2FC": -0.4562,
+        "baseMean": 97.554,
+        "group": "None"
+    },
+    {
+        "symbol": "Mllt10",
+        "log2FC": -0.1112,
+        "baseMean": 342.9898,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm13199",
+        "log2FC": -0.9344,
+        "baseMean": 8.1891,
+        "group": "None"
+    },
+    {
+        "symbol": "Marveld1",
+        "log2FC": -1.121,
+        "baseMean": 688.6532,
+        "group": "Down"
+    },
+    {
+        "symbol": "Bmp6",
+        "log2FC": 2.4225,
+        "baseMean": 227.7468,
+        "group": "Up"
+    },
+    {
+        "symbol": "Selenbp1",
+        "log2FC": -0.2396,
+        "baseMean": 1529.5118,
+        "group": "None"
+    },
+    {
+        "symbol": "Magef1",
+        "log2FC": 0.2435,
+        "baseMean": 26.8013,
+        "group": "None"
+    },
+    {
+        "symbol": "Vps41",
+        "log2FC": 0.1891,
+        "baseMean": 213.9137,
+        "group": "None"
+    },
+    {
+        "symbol": "Slitrk4",
+        "log2FC": 4.5967,
+        "baseMean": 2.4551,
+        "group": "None"
+    },
+    {
+        "symbol": "Med6",
+        "log2FC": -0.1223,
+        "baseMean": 37.985,
+        "group": "None"
+    },
+    {
+        "symbol": "Golph3",
+        "log2FC": 0.05,
+        "baseMean": 1037.7938,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm5115",
+        "log2FC": 0.1098,
+        "baseMean": 14.4378,
+        "group": "None"
+    },
+    {
+        "symbol": "4921531C22Rik",
+        "log2FC": 0.5708,
+        "baseMean": 23.8375,
+        "group": "None"
+    },
+    {
+        "symbol": "Smg7",
+        "log2FC": -0.1775,
+        "baseMean": 463.2868,
+        "group": "None"
+    },
+    {
+        "symbol": "Ablim2",
+        "log2FC": 0.6711,
+        "baseMean": 37.4811,
+        "group": "None"
+    },
+    {
+        "symbol": "Fbxo46",
+        "log2FC": -0.3479,
+        "baseMean": 99.7606,
+        "group": "None"
+    },
+    {
+        "symbol": "Acot10",
+        "log2FC": 1.911,
+        "baseMean": 169.3625,
+        "group": "Up"
+    },
+    {
+        "symbol": "Slc44a2",
+        "log2FC": 0.4878,
+        "baseMean": 141.1447,
+        "group": "None"
+    },
+    {
+        "symbol": "Mcf2l",
+        "log2FC": 0.3462,
+        "baseMean": 4.1499,
+        "group": "None"
+    },
+    {
+        "symbol": "Abhd16a",
+        "log2FC": -0.6536,
+        "baseMean": 70.6946,
+        "group": "None"
+    },
+    {
+        "symbol": "Ptcd3",
+        "log2FC": -0.642,
+        "baseMean": 147.5644,
+        "group": "None"
+    },
+    {
+        "symbol": "Gfm1",
+        "log2FC": -0.1725,
+        "baseMean": 111.1534,
+        "group": "None"
+    },
+    {
+        "symbol": "Sacm1l",
+        "log2FC": -0.0542,
+        "baseMean": 724.4138,
+        "group": "None"
+    },
+    {
+        "symbol": "Nostrin",
+        "log2FC": 0.183,
+        "baseMean": 41.5513,
+        "group": "None"
+    },
+    {
+        "symbol": "Aida",
+        "log2FC": 0.6996,
+        "baseMean": 196.0803,
+        "group": "None"
+    },
+    {
+        "symbol": "Arsb",
+        "log2FC": 0.5653,
+        "baseMean": 488.8085,
+        "group": "None"
+    },
+    {
+        "symbol": "Txnl1",
+        "log2FC": -0.2745,
+        "baseMean": 215.2352,
+        "group": "None"
+    },
+    {
+        "symbol": "4933406C10Rik",
+        "log2FC": -0.8353,
+        "baseMean": 2.8038,
+        "group": "None"
+    },
+    {
+        "symbol": "Camta2",
+        "log2FC": 0.119,
+        "baseMean": 356.855,
+        "group": "None"
+    },
+    {
+        "symbol": "A830010M20Rik",
+        "log2FC": 2.393,
+        "baseMean": 172.203,
+        "group": "Up"
+    },
+    {
+        "symbol": "Scd4",
+        "log2FC": -1.3739,
+        "baseMean": 1.5453,
+        "group": "None"
+    },
+    {
+        "symbol": "Cited2",
+        "log2FC": 0.7567,
+        "baseMean": 459.4487,
+        "group": "None"
+    },
+    {
+        "symbol": "Cnn1",
+        "log2FC": -0.1472,
+        "baseMean": 3.9375,
+        "group": "None"
+    },
+    {
+        "symbol": "Msmp",
+        "log2FC": -0.6147,
+        "baseMean": 163.9711,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm6578",
+        "log2FC": 0.0273,
+        "baseMean": 202.058,
+        "group": "None"
+    },
+    {
+        "symbol": "Dlk1",
+        "log2FC": 0.4521,
+        "baseMean": 2.5766,
+        "group": "None"
+    },
+    {
+        "symbol": "Mirt1",
+        "log2FC": 0.9448,
+        "baseMean": 5.4597,
+        "group": "None"
+    },
+    {
+        "symbol": "Gpr153",
+        "log2FC": 1.2619,
+        "baseMean": 39.839,
+        "group": "Up"
+    },
+    {
+        "symbol": "Garnl3",
+        "log2FC": 0.7402,
+        "baseMean": 2.4863,
+        "group": "None"
+    },
+    {
+        "symbol": "Nudt16l1",
+        "log2FC": 0.0058,
+        "baseMean": 287.2296,
+        "group": "None"
+    },
+    {
+        "symbol": "Eif1b",
+        "log2FC": -1.0303,
+        "baseMean": 93.5758,
+        "group": "Down"
+    },
+    {
+        "symbol": "Borcs5",
+        "log2FC": -0.6599,
+        "baseMean": 104.9522,
+        "group": "None"
+    },
+    {
+        "symbol": "Ugcg",
+        "log2FC": 0.0448,
+        "baseMean": 572.3215,
+        "group": "None"
+    },
+    {
+        "symbol": "Ppm1g",
+        "log2FC": -0.2287,
+        "baseMean": 335.41,
+        "group": "None"
+    },
+    {
+        "symbol": "Lrrc75a",
+        "log2FC": 1.7125,
+        "baseMean": 28.2423,
+        "group": "Up"
+    },
+    {
+        "symbol": "Lims1",
+        "log2FC": 0.8073,
+        "baseMean": 351.1237,
+        "group": "None"
+    },
+    {
+        "symbol": "Arhgap15",
+        "log2FC": 1.3509,
+        "baseMean": 21.0957,
+        "group": "None"
+    },
+    {
+        "symbol": "Chaf1a",
+        "log2FC": 1.5058,
+        "baseMean": 22.7415,
+        "group": "Up"
+    },
+    {
+        "symbol": "Klhl23",
+        "log2FC": -0.849,
+        "baseMean": 19.3055,
+        "group": "None"
+    },
+    {
+        "symbol": "Neto2",
+        "log2FC": 0.5621,
+        "baseMean": 13.0371,
+        "group": "None"
+    },
+    {
+        "symbol": "Jdp2",
+        "log2FC": 1.4045,
+        "baseMean": 46.087,
+        "group": "None"
+    },
+    {
+        "symbol": "Ppfibp2",
+        "log2FC": 0.7455,
+        "baseMean": 144.6644,
+        "group": "None"
+    },
+    {
+        "symbol": "Ggn",
+        "log2FC": 0.5918,
+        "baseMean": 6.404,
+        "group": "None"
+    },
+    {
+        "symbol": "Sftpa1",
+        "log2FC": 1.1141,
+        "baseMean": 25.9975,
+        "group": "None"
+    },
+    {
+        "symbol": "Trappc4",
+        "log2FC": 0.0811,
+        "baseMean": 154.9999,
+        "group": "None"
+    },
+    {
+        "symbol": "Dele1",
+        "log2FC": -0.1794,
+        "baseMean": 216.6361,
+        "group": "None"
+    },
+    {
+        "symbol": "Colgalt1",
+        "log2FC": 0.6205,
+        "baseMean": 1072.6337,
+        "group": "None"
+    },
+    {
+        "symbol": "Adgra2",
+        "log2FC": 0.789,
+        "baseMean": 142.6242,
+        "group": "None"
+    },
+    {
+        "symbol": "Necab1",
+        "log2FC": 0.3769,
+        "baseMean": 454.9434,
+        "group": "None"
+    },
+    {
+        "symbol": "Yod1",
+        "log2FC": -0.0015,
+        "baseMean": 121.0804,
+        "group": "None"
+    },
+    {
+        "symbol": "Ddit4l",
+        "log2FC": 0.4656,
+        "baseMean": 17.748,
+        "group": "None"
+    },
+    {
+        "symbol": "Tnfrsf1b",
+        "log2FC": 0.8618,
+        "baseMean": 803.7526,
+        "group": "None"
+    },
+    {
+        "symbol": "Nup85",
+        "log2FC": -0.3017,
+        "baseMean": 29.9151,
+        "group": "None"
+    },
+    {
+        "symbol": "Spopl",
+        "log2FC": 0.2891,
+        "baseMean": 47.0056,
+        "group": "None"
+    },
+    {
+        "symbol": "Fli1",
+        "log2FC": 0.2661,
+        "baseMean": 61.339,
+        "group": "None"
+    },
+    {
+        "symbol": "Sh3tc2",
+        "log2FC": 0.0021,
+        "baseMean": 7.6105,
+        "group": "None"
+    },
+    {
+        "symbol": "Uckl1",
+        "log2FC": -0.5107,
+        "baseMean": 61.6308,
+        "group": "None"
+    },
+    {
+        "symbol": "Lrrc19",
+        "log2FC": -0.6412,
+        "baseMean": 3.2227,
+        "group": "None"
+    },
+    {
+        "symbol": "Magt1",
+        "log2FC": -0.5976,
+        "baseMean": 1022.2839,
+        "group": "None"
+    },
+    {
+        "symbol": "Adam17",
+        "log2FC": 0.1342,
+        "baseMean": 369.5583,
+        "group": "None"
+    },
+    {
+        "symbol": "Nfat5",
+        "log2FC": -0.0576,
+        "baseMean": 768.5577,
+        "group": "None"
+    },
+    {
+        "symbol": "Gigyf2",
+        "log2FC": -0.2517,
+        "baseMean": 341.2229,
+        "group": "None"
+    },
+    {
+        "symbol": "Rcor1",
+        "log2FC": 0.268,
+        "baseMean": 386.3677,
+        "group": "None"
+    },
+    {
+        "symbol": "Vcl",
+        "log2FC": 0.7854,
+        "baseMean": 583.0307,
+        "group": "None"
+    },
+    {
+        "symbol": "Ube2w",
+        "log2FC": -0.0431,
+        "baseMean": 273.8746,
+        "group": "None"
+    },
+    {
+        "symbol": "Drg1",
+        "log2FC": -0.1287,
+        "baseMean": 197.4141,
+        "group": "None"
+    },
+    {
+        "symbol": "Arpp19",
+        "log2FC": 0.5691,
+        "baseMean": 359.9681,
+        "group": "None"
+    },
+    {
+        "symbol": "Nhsl1",
+        "log2FC": 1.7514,
+        "baseMean": 244.5599,
+        "group": "Up"
+    },
+    {
+        "symbol": "Pms2",
+        "log2FC": -0.099,
+        "baseMean": 15.3345,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm9833",
+        "log2FC": 1.4468,
+        "baseMean": 70.9121,
+        "group": "Up"
+    },
+    {
+        "symbol": "Map3k14",
+        "log2FC": 1.2644,
+        "baseMean": 72.9718,
+        "group": "Up"
+    },
+    {
+        "symbol": "4632427E13Rik",
+        "log2FC": -0.2777,
+        "baseMean": 3.4877,
+        "group": "None"
+    },
+    {
+        "symbol": "Rpl36a",
+        "log2FC": -0.7303,
+        "baseMean": 11.7439,
+        "group": "None"
+    },
+    {
+        "symbol": "Brinp1",
+        "log2FC": 2.4549,
+        "baseMean": 2.3048,
+        "group": "None"
+    },
+    {
+        "symbol": "Herpud2",
+        "log2FC": 0.1758,
+        "baseMean": 335.0616,
+        "group": "None"
+    },
+    {
+        "symbol": "Msh6",
+        "log2FC": 0.1644,
+        "baseMean": 155.0458,
+        "group": "None"
+    },
+    {
+        "symbol": "Coro1a",
+        "log2FC": 0.2888,
+        "baseMean": 50.1558,
+        "group": "None"
+    },
+    {
+        "symbol": "Yeats2",
+        "log2FC": -0.522,
+        "baseMean": 109.5016,
+        "group": "None"
+    },
+    {
+        "symbol": "Psd2",
+        "log2FC": 4.2932,
+        "baseMean": 1.9881,
+        "group": "None"
+    },
+    {
+        "symbol": "Fam162a",
+        "log2FC": -0.1549,
+        "baseMean": 36.181,
+        "group": "None"
+    },
+    {
+        "symbol": "Hypk",
+        "log2FC": 0.0864,
+        "baseMean": 79.0362,
+        "group": "None"
+    },
+    {
+        "symbol": "Mknk2",
+        "log2FC": 0.323,
+        "baseMean": 2778.6602,
+        "group": "None"
+    },
+    {
+        "symbol": "Rad54b",
+        "log2FC": 0.5467,
+        "baseMean": 39.9205,
+        "group": "None"
+    },
+    {
+        "symbol": "Arhgap4",
+        "log2FC": 0.7567,
+        "baseMean": 60.408,
+        "group": "None"
+    },
+    {
+        "symbol": "Mmp12",
+        "log2FC": 6.321,
+        "baseMean": 44.6038,
+        "group": "Up"
+    },
+    {
+        "symbol": "Mpped2",
+        "log2FC": -4.4736,
+        "baseMean": 3.7036,
+        "group": "Down"
+    },
+    {
+        "symbol": "Sfrp2",
+        "log2FC": 3.9306,
+        "baseMean": 3.2198,
+        "group": "None"
+    },
+    {
+        "symbol": "Rnf219",
+        "log2FC": 0.8672,
+        "baseMean": 22.1402,
+        "group": "None"
+    },
+    {
+        "symbol": "Cdkn1c",
+        "log2FC": -0.0817,
+        "baseMean": 42.3745,
+        "group": "None"
+    },
+    {
+        "symbol": "Chd8",
+        "log2FC": -0.1081,
+        "baseMean": 344.0538,
+        "group": "None"
+    },
+    {
+        "symbol": "Rnf34",
+        "log2FC": 0.2111,
+        "baseMean": 81.6942,
+        "group": "None"
+    },
+    {
+        "symbol": "Csf3",
+        "log2FC": 3.256,
+        "baseMean": 2.0726,
+        "group": "None"
+    },
+    {
+        "symbol": "Pus7",
+        "log2FC": -1.1077,
+        "baseMean": 89.3713,
+        "group": "Down"
+    },
+    {
+        "symbol": "Cul9",
+        "log2FC": 0.1882,
+        "baseMean": 111.2926,
+        "group": "None"
+    },
+    {
+        "symbol": "Phldb3",
+        "log2FC": 0.7227,
+        "baseMean": 49.7612,
+        "group": "None"
+    },
+    {
+        "symbol": "Gdf6",
+        "log2FC": 1.1386,
+        "baseMean": 18.5613,
+        "group": "None"
+    },
+    {
+        "symbol": "Cd34",
+        "log2FC": 1.1696,
+        "baseMean": 49.433,
+        "group": "None"
+    },
+    {
+        "symbol": "Eno4",
+        "log2FC": 1.034,
+        "baseMean": 3.9027,
+        "group": "None"
+    },
+    {
+        "symbol": "Vps72",
+        "log2FC": -0.257,
+        "baseMean": 103.9526,
+        "group": "None"
+    },
+    {
+        "symbol": "Ciapin1",
+        "log2FC": -0.4222,
+        "baseMean": 191.4478,
+        "group": "None"
+    },
+    {
+        "symbol": "Get4",
+        "log2FC": -0.2193,
+        "baseMean": 128.1435,
+        "group": "None"
+    },
+    {
+        "symbol": "Cdipt",
+        "log2FC": 0.1937,
+        "baseMean": 589.7295,
+        "group": "None"
+    },
+    {
+        "symbol": "Gclm",
+        "log2FC": 0.4393,
+        "baseMean": 1914.7689,
+        "group": "None"
+    },
+    {
+        "symbol": "Trmt9b",
+        "log2FC": 1.1184,
+        "baseMean": 87.2446,
+        "group": "Up"
+    },
+    {
+        "symbol": "Cacnb4",
+        "log2FC": -1.7959,
+        "baseMean": 36.8894,
+        "group": "Down"
+    },
+    {
+        "symbol": "Ankrd55",
+        "log2FC": 0.7953,
+        "baseMean": 6.4316,
+        "group": "None"
+    },
+    {
+        "symbol": "Hdhd3",
+        "log2FC": -1.0179,
+        "baseMean": 347.7643,
+        "group": "Down"
+    },
+    {
+        "symbol": "Dhh",
+        "log2FC": 0.3631,
+        "baseMean": 4.5736,
+        "group": "None"
+    },
+    {
+        "symbol": "Rtn4",
+        "log2FC": 1.2905,
+        "baseMean": 2329.0334,
+        "group": "Up"
+    },
+    {
+        "symbol": "Cenpv",
+        "log2FC": -0.7587,
+        "baseMean": 96.8847,
+        "group": "None"
+    },
+    {
+        "symbol": "Usp38",
+        "log2FC": -0.2004,
+        "baseMean": 291.9188,
+        "group": "None"
+    },
+    {
+        "symbol": "Gsk3b",
+        "log2FC": 0.6641,
+        "baseMean": 588.7356,
+        "group": "None"
+    },
+    {
+        "symbol": "Fads3",
+        "log2FC": -1.7775,
+        "baseMean": 322.6407,
+        "group": "Down"
+    },
+    {
+        "symbol": "Ints6",
+        "log2FC": -0.1321,
+        "baseMean": 74.4516,
+        "group": "None"
+    },
+    {
+        "symbol": "Mrpl14",
+        "log2FC": -0.6814,
+        "baseMean": 317.9221,
+        "group": "None"
+    },
+    {
+        "symbol": "Dusp11",
+        "log2FC": -0.2439,
+        "baseMean": 909.2814,
+        "group": "None"
+    },
+    {
+        "symbol": "Prr13",
+        "log2FC": 0.062,
+        "baseMean": 404.1967,
+        "group": "None"
+    },
+    {
+        "symbol": "Coro1c",
+        "log2FC": 0.8157,
+        "baseMean": 530.6103,
+        "group": "None"
+    },
+    {
+        "symbol": "Adgrl1",
+        "log2FC": -0.1768,
+        "baseMean": 188.9178,
+        "group": "None"
+    },
+    {
+        "symbol": "Bach2os",
+        "log2FC": -0.0696,
+        "baseMean": 16.3755,
+        "group": "None"
+    },
+    {
+        "symbol": "Mir294",
+        "log2FC": -3.0525,
+        "baseMean": 1.4829,
+        "group": "None"
+    },
+    {
+        "symbol": "Mical3",
+        "log2FC": -0.2272,
+        "baseMean": 303.3112,
+        "group": "None"
+    },
+    {
+        "symbol": "Parp4",
+        "log2FC": 0.0455,
+        "baseMean": 187.7911,
+        "group": "None"
+    },
+    {
+        "symbol": "Romo1",
+        "log2FC": -0.4566,
+        "baseMean": 33.0977,
+        "group": "None"
+    },
+    {
+        "symbol": "Lrig1",
+        "log2FC": 0.155,
+        "baseMean": 313.6311,
+        "group": "None"
+    },
+    {
+        "symbol": "Cox7b",
+        "log2FC": -1.1079,
+        "baseMean": 77.0901,
+        "group": "Down"
+    },
+    {
+        "symbol": "Uba3",
+        "log2FC": 0.0206,
+        "baseMean": 177.1974,
+        "group": "None"
+    },
+    {
+        "symbol": "Mir1291",
+        "log2FC": -1.3911,
+        "baseMean": 8.8342,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm34746",
+        "log2FC": 3.0404,
+        "baseMean": 8.4332,
+        "group": "Up"
+    },
+    {
+        "symbol": "Pik3c2a",
+        "log2FC": 0.8803,
+        "baseMean": 551.8318,
+        "group": "None"
+    },
+    {
+        "symbol": "Olfm1",
+        "log2FC": 0.0684,
+        "baseMean": 60.6216,
+        "group": "None"
+    },
+    {
+        "symbol": "Aurkaip1",
+        "log2FC": -0.5333,
+        "baseMean": 402.6288,
+        "group": "None"
+    },
+    {
+        "symbol": "Rabif",
+        "log2FC": 0.0828,
+        "baseMean": 242.4051,
+        "group": "None"
+    },
+    {
+        "symbol": "Hras",
+        "log2FC": -0.1755,
+        "baseMean": 237.263,
+        "group": "None"
+    },
+    {
+        "symbol": "Catsper2",
+        "log2FC": 0.7458,
+        "baseMean": 18.8948,
+        "group": "None"
+    },
+    {
+        "symbol": "Cwc25",
+        "log2FC": 0.3369,
+        "baseMean": 120.9776,
+        "group": "None"
+    },
+    {
+        "symbol": "Nlgn3",
+        "log2FC": 1.1386,
+        "baseMean": 3.3781,
+        "group": "None"
+    },
+    {
+        "symbol": "Ttll12",
+        "log2FC": 0.6088,
+        "baseMean": 117.3574,
+        "group": "None"
+    },
+    {
+        "symbol": "Bglap3",
+        "log2FC": 1.7471,
+        "baseMean": 8.8442,
+        "group": "None"
+    },
+    {
+        "symbol": "Hspbap1",
+        "log2FC": 1.2896,
+        "baseMean": 30.3543,
+        "group": "Up"
+    },
+    {
+        "symbol": "Tstd2",
+        "log2FC": -0.0076,
+        "baseMean": 265.8249,
+        "group": "None"
+    },
+    {
+        "symbol": "Coq6",
+        "log2FC": -0.217,
+        "baseMean": 19.3038,
+        "group": "None"
+    },
+    {
+        "symbol": "Dennd2a",
+        "log2FC": -0.1932,
+        "baseMean": 54.3559,
+        "group": "None"
+    },
+    {
+        "symbol": "Dtwd2",
+        "log2FC": 0.539,
+        "baseMean": 30.0924,
+        "group": "None"
+    },
+    {
+        "symbol": "Tbc1d8b",
+        "log2FC": 0.2503,
+        "baseMean": 281.5479,
+        "group": "None"
+    },
+    {
+        "symbol": "Stk36",
+        "log2FC": 0.0219,
+        "baseMean": 6.7384,
+        "group": "None"
+    },
+    {
+        "symbol": "Pcdhb20",
+        "log2FC": 2.89,
+        "baseMean": 4.5505,
+        "group": "None"
+    },
+    {
+        "symbol": "Tigd2",
+        "log2FC": -0.1933,
+        "baseMean": 197.7384,
+        "group": "None"
+    },
+    {
+        "symbol": "Abhd6",
+        "log2FC": -1.5688,
+        "baseMean": 228.8128,
+        "group": "Down"
+    },
+    {
+        "symbol": "Cryab",
+        "log2FC": 0.7975,
+        "baseMean": 23.9865,
+        "group": "None"
+    },
+    {
+        "symbol": "A730017L22Rik",
+        "log2FC": -0.5767,
+        "baseMean": 184.108,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc12a5",
+        "log2FC": 0.163,
+        "baseMean": 25.8772,
+        "group": "None"
+    },
+    {
+        "symbol": "Proser3",
+        "log2FC": 0.2389,
+        "baseMean": 37.7741,
+        "group": "None"
+    },
+    {
+        "symbol": "Trmt2a",
+        "log2FC": 0.2536,
+        "baseMean": 180.1151,
+        "group": "None"
+    },
+    {
+        "symbol": "4933417A18Rik",
+        "log2FC": -4.1776,
+        "baseMean": 1.4818,
+        "group": "None"
+    },
+    {
+        "symbol": "Cx3cr1",
+        "log2FC": 4.3054,
+        "baseMean": 167.5578,
+        "group": "Up"
+    },
+    {
+        "symbol": "Pgghg",
+        "log2FC": -0.2655,
+        "baseMean": 323.7784,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmem35a",
+        "log2FC": 2.0072,
+        "baseMean": 1.8964,
+        "group": "None"
+    },
+    {
+        "symbol": "Arl4a",
+        "log2FC": 1.2862,
+        "baseMean": 391.0907,
+        "group": "Up"
+    },
+    {
+        "symbol": "2610524H06Rik",
+        "log2FC": 0.6294,
+        "baseMean": 7.9014,
+        "group": "None"
+    },
+    {
+        "symbol": "Plvap",
+        "log2FC": 0.0114,
+        "baseMean": 624.7014,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm28043",
+        "log2FC": -0.3334,
+        "baseMean": 523.7414,
+        "group": "None"
+    },
+    {
+        "symbol": "Fkbp8",
+        "log2FC": -0.4133,
+        "baseMean": 1549.7571,
+        "group": "None"
+    },
+    {
+        "symbol": "4930528A17Rik",
+        "log2FC": 0.5251,
+        "baseMean": 1.8082,
+        "group": "None"
+    },
+    {
+        "symbol": "E130308A19Rik",
+        "log2FC": 0.2615,
+        "baseMean": 55.5319,
+        "group": "None"
+    },
+    {
+        "symbol": "Lsr",
+        "log2FC": 0.8626,
+        "baseMean": 2586.2422,
+        "group": "None"
+    },
+    {
+        "symbol": "Atp6v1b2",
+        "log2FC": 0.4894,
+        "baseMean": 564.6449,
+        "group": "None"
+    },
+    {
+        "symbol": "Fut11",
+        "log2FC": -0.9774,
+        "baseMean": 98.5988,
+        "group": "None"
+    },
+    {
+        "symbol": "Jcad",
+        "log2FC": 1.3822,
+        "baseMean": 249.0684,
+        "group": "Up"
+    },
+    {
+        "symbol": "Pgm2",
+        "log2FC": 1.4265,
+        "baseMean": 25.0785,
+        "group": "Up"
+    },
+    {
+        "symbol": "Atrip",
+        "log2FC": -0.2585,
+        "baseMean": 61.3192,
+        "group": "None"
+    },
+    {
+        "symbol": "Mical2",
+        "log2FC": 1.4397,
+        "baseMean": 296.7776,
+        "group": "Up"
+    },
+    {
+        "symbol": "Msn",
+        "log2FC": 0.9313,
+        "baseMean": 498.3943,
+        "group": "None"
+    },
+    {
+        "symbol": "Fam216a",
+        "log2FC": -0.1918,
+        "baseMean": 51.2518,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmem229a",
+        "log2FC": -1.248,
+        "baseMean": 8.2723,
+        "group": "None"
+    },
+    {
+        "symbol": "Thsd4",
+        "log2FC": -1.4503,
+        "baseMean": 13.0577,
+        "group": "None"
+    },
+    {
+        "symbol": "Map1s",
+        "log2FC": 0.9519,
+        "baseMean": 133.8845,
+        "group": "None"
+    },
+    {
+        "symbol": "Scaf4",
+        "log2FC": -0.4008,
+        "baseMean": 261.3836,
+        "group": "None"
+    },
+    {
+        "symbol": "Rcbtb2",
+        "log2FC": 0.6643,
+        "baseMean": 112.9171,
+        "group": "None"
+    },
+    {
+        "symbol": "A430035B10Rik",
+        "log2FC": -0.3342,
+        "baseMean": 20.4493,
+        "group": "None"
+    },
+    {
+        "symbol": "Slc35c2",
+        "log2FC": 0.2543,
+        "baseMean": 234.3616,
+        "group": "None"
+    },
+    {
+        "symbol": "Guca1a",
+        "log2FC": 1.572,
+        "baseMean": 11.9592,
+        "group": "None"
+    },
+    {
+        "symbol": "Megf6",
+        "log2FC": -0.3884,
+        "baseMean": 8.0468,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm10033",
+        "log2FC": -0.6117,
+        "baseMean": 121.1112,
+        "group": "None"
+    },
+    {
+        "symbol": "Cdk19",
+        "log2FC": 0.5361,
+        "baseMean": 179.9217,
+        "group": "None"
+    },
+    {
+        "symbol": "Specc1",
+        "log2FC": 1.8301,
+        "baseMean": 83.486,
+        "group": "Up"
+    },
+    {
+        "symbol": "D830050J10Rik",
+        "log2FC": 0.3531,
+        "baseMean": 117.7825,
+        "group": "None"
+    },
+    {
+        "symbol": "Mpp4",
+        "log2FC": -0.5037,
+        "baseMean": 210.8642,
+        "group": "None"
+    },
+    {
+        "symbol": "Kidins220",
+        "log2FC": 0.0781,
+        "baseMean": 758.7914,
+        "group": "None"
+    },
+    {
+        "symbol": "Ebf1",
+        "log2FC": 0.4289,
+        "baseMean": 4.2848,
+        "group": "None"
+    },
+    {
+        "symbol": "Pcdha1",
+        "log2FC": 2.9508,
+        "baseMean": 1.7096,
+        "group": "None"
+    },
+    {
+        "symbol": "Wars",
+        "log2FC": 0.0865,
+        "baseMean": 146.4035,
+        "group": "None"
+    },
+    {
+        "symbol": "Daxx",
+        "log2FC": 0.3655,
+        "baseMean": 180.7547,
+        "group": "None"
+    },
+    {
+        "symbol": "Ndufb2",
+        "log2FC": -0.3654,
+        "baseMean": 12.5339,
+        "group": "None"
+    },
+    {
+        "symbol": "B4galnt2",
+        "log2FC": 0.2077,
+        "baseMean": 8.2295,
+        "group": "None"
+    },
+    {
+        "symbol": "Tacc2",
+        "log2FC": 1.3747,
+        "baseMean": 230.4717,
+        "group": "Up"
+    },
+    {
+        "symbol": "Mir1906-2",
+        "log2FC": -3.7376,
+        "baseMean": 23.4232,
+        "group": "Down"
+    },
+    {
+        "symbol": "Washc3",
+        "log2FC": -0.7733,
+        "baseMean": 18.1523,
+        "group": "None"
+    },
+    {
+        "symbol": "Zbtb10",
+        "log2FC": 0.7462,
+        "baseMean": 137.225,
+        "group": "None"
+    },
+    {
+        "symbol": "Npc2",
+        "log2FC": 0.3956,
+        "baseMean": 1225.0672,
+        "group": "None"
+    },
+    {
+        "symbol": "Zfp667",
+        "log2FC": -0.691,
+        "baseMean": 36.7879,
+        "group": "None"
+    },
+    {
+        "symbol": "Mea1",
+        "log2FC": -0.0721,
+        "baseMean": 289.7132,
+        "group": "None"
+    },
+    {
+        "symbol": "Pax8",
+        "log2FC": 4.6187,
+        "baseMean": 2.4977,
+        "group": "None"
+    },
+    {
+        "symbol": "Pzp",
+        "log2FC": -0.044,
+        "baseMean": 5655.5671,
+        "group": "None"
+    },
+    {
+        "symbol": "Pnpo",
+        "log2FC": 0.2245,
+        "baseMean": 2842.2813,
+        "group": "None"
+    },
+    {
+        "symbol": "Tmem234",
+        "log2FC": -0.4169,
+        "baseMean": 648.3036,
+        "group": "None"
+    },
+    {
+        "symbol": "Gemin5",
+        "log2FC": -0.1916,
+        "baseMean": 78.1499,
+        "group": "None"
+    },
+    {
+        "symbol": "Mir17hg",
+        "log2FC": -1.3622,
+        "baseMean": 47.9361,
+        "group": "None"
+    },
+    {
+        "symbol": "Rad51",
+        "log2FC": 0.9494,
+        "baseMean": 8.1895,
+        "group": "None"
+    },
+    {
+        "symbol": "Celf4",
+        "log2FC": -1.3336,
+        "baseMean": 7.4526,
+        "group": "None"
+    },
+    {
+        "symbol": "Wdr35",
+        "log2FC": -0.1608,
+        "baseMean": 22.4724,
+        "group": "None"
+    },
+    {
+        "symbol": "Rmi1",
+        "log2FC": -0.4827,
+        "baseMean": 197.6985,
+        "group": "None"
+    },
+    {
+        "symbol": "Atad5",
+        "log2FC": 0.2208,
+        "baseMean": 26.3653,
+        "group": "None"
+    },
+    {
+        "symbol": "Golim4",
+        "log2FC": -0.2273,
+        "baseMean": 805.2264,
+        "group": "None"
+    },
+    {
+        "symbol": "Proc",
+        "log2FC": -0.6036,
+        "baseMean": 3436.9588,
+        "group": "None"
+    },
+    {
+        "symbol": "Muc13",
+        "log2FC": 2.219,
+        "baseMean": 4.9792,
+        "group": "None"
+    },
+    {
+        "symbol": "Ly6d",
+        "log2FC": 7.5129,
+        "baseMean": 1183.0837,
+        "group": "Up"
+    },
+    {
+        "symbol": "Clstn2",
+        "log2FC": -2.5512,
+        "baseMean": 1.9167,
+        "group": "None"
+    },
+    {
+        "symbol": "Trim26",
+        "log2FC": -0.1159,
+        "baseMean": 556.0989,
+        "group": "None"
+    },
+    {
+        "symbol": "Frat2",
+        "log2FC": 0.3502,
+        "baseMean": 41.7426,
+        "group": "None"
+    },
+    {
+        "symbol": "Gm15441",
+        "log2FC": 1.101,
+        "baseMean": 402.2254,
+        "group": "None"
+    },
+    {
+        "symbol": "Surf6",
+        "log2FC": -0.1368,
+        "baseMean": 163.2979,
+        "group": "None"
+    },
+    {
+        "symbol": "Ebpl",
+        "log2FC": -1.0104,
+        "baseMean": 494.1682,
+        "group": "Down"
+    },
+    {
+        "symbol": "Traf2",
+        "log2FC": -0.1036,
+        "baseMean": 115.9021,
+        "group": "None"
+    },
+    {
+        "symbol": "Gspt1",
+        "log2FC": -0.4295,
+        "baseMean": 996.2753,
+        "group": "None"
+    },
+    {
+        "symbol": "Gimap9",
+        "log2FC": 0.3163,
+        "baseMean": 109.0848,
+        "group": "None"
+    },
+    {
+        "symbol": "Vamp3",
+        "log2FC": 0.0323,
+        "baseMean": 258.1383,
+        "group": "None"
+    }
+]

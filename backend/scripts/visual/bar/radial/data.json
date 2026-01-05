@@ -1,0 +1,134 @@
+[
+  {
+    "type": "ACC",
+    "n": 92
+  },
+  {
+    "type": "BLCA",
+    "n": 412
+  },
+  {
+    "type": "BRCA",
+    "n": 1097
+  },
+  {
+    "type": "CESC",
+    "n": 307
+  },
+  {
+    "type": "CHOL",
+    "n": 45
+  },
+  {
+    "type": "COAD",
+    "n": 459
+  },
+  {
+    "type": "DLBC",
+    "n": 48
+  },
+  {
+    "type": "ESCA",
+    "n": 185
+  },
+  {
+    "type": "GBM",
+    "n": 596
+  },
+  {
+    "type": "HNSC",
+    "n": 528
+  },
+  {
+    "type": "KICH",
+    "n": 113
+  },
+  {
+    "type": "KIRC",
+    "n": 537
+  },
+  {
+    "type": "KIRP",
+    "n": 291
+  },
+  {
+    "type": "LAML",
+    "n": 200
+  },
+  {
+    "type": "LGG",
+    "n": 515
+  },
+  {
+    "type": "LIHC",
+    "n": 377
+  },
+  {
+    "type": "LUAD",
+    "n": 522
+  },
+  {
+    "type": "LUSC",
+    "n": 504
+  },
+  {
+    "type": "MESO",
+    "n": 87
+  },
+  {
+    "type": "OV",
+    "n": 587
+  },
+  {
+    "type": "PAAD",
+    "n": 185
+  },
+  {
+    "type": "PCPG",
+    "n": 179
+  },
+  {
+    "type": "PRAD",
+    "n": 500
+  },
+  {
+    "type": "READ",
+    "n": 170
+  },
+  {
+    "type": "SARC",
+    "n": 261
+  },
+  {
+    "type": "SKCM",
+    "n": 470
+  },
+  {
+    "type": "STAD",
+    "n": 443
+  },
+  {
+    "type": "TGCT",
+    "n": 134
+  },
+  {
+    "type": "THCA",
+    "n": 507
+  },
+  {
+    "type": "THYM",
+    "n": 124
+  },
+  {
+    "type": "UCEC",
+    "n": 548
+  },
+  {
+    "type": "UCS",
+    "n": 57
+  },
+  {
+    "type": "UVM",
+    "n": 80
+  }
+]

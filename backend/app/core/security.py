@@ -10,8 +10,11 @@ from fastapi.security import OAuth2PasswordBearer
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select
 from app.core.config import settings
+from app.core.logging import get_logger
 from app.models.user import User
 from app.db.base import get_db
+
+logger = get_logger("security")
 
 # Password hashing context - 使用 Argon2 作为主要算法，bcrypt 作为后备
 pwd_context = CryptContext(
@@ -215,16 +218,23 @@ async def get_current_user(
         headers={"WWW-Authenticate": "Bearer"},
     )
 
-    # 从Cookie获取token
-    if request.headers.get("Authorization") and request.headers.get(
-        "Authorization"
-    ).startswith("Bearer "):
-        print("Authorization header found")
-        token = request.headers.get("Authorization").split(" ")[1]
-    elif request.cookies.get("access_token"):
-        print("Access token cookie found")
+    # 从Cookie或Authorization header获取token
+    token = None
+    
+    # 优先检查 Authorization header
+    auth_header = request.headers.get("Authorization")
+    if auth_header and auth_header.startswith("Bearer "):
+        token = auth_header.split(" ")[1]
+        logger.debug("Authorization header found")
+    
+    # 如果没有 Authorization header，检查 Cookie
+    if not token:
         token = request.cookies.get("access_token")
-    else:
+        if token:
+            logger.debug("Access token cookie found")
+    
+    if not token:
+        logger.warning("No authentication token found in request")
         raise credentials_exception
 
     try:

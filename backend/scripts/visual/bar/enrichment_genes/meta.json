@@ -1,0 +1,139 @@
+{
+  "name": "多组同向条形图",
+  "description": "分组条形图展示多组富集分析通路及其基因",
+  "ggplot2": {
+    "mapping": {
+      "x": "-log10(p.adjust)",
+      "y": "Description",
+      "fill": "Change"
+    },
+    "layers": [
+      {
+        "type": "geom_round_col",
+        "arguments": {
+          "width": 0.6
+        }
+      },
+      {
+        "type": "geom_text",
+        "mapping": {
+          "x": 0.1,
+          "label": "Description"
+        },
+        "arguments": {
+          "hjust": 0,
+          "size": 4
+        }
+      },
+      {
+        "type": "geom_text",
+        "mapping": {
+          "x": 0.1,
+          "label": "geneID",
+          "colour": "Change"
+        },
+        "arguments": {
+          "hjust": [
+            0
+          ],
+          "vjust": [
+            2.8
+          ],
+          "size": [
+            3.5
+          ],
+          "fontface": "italic",
+          "show.legend": false
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "name": "Correlation",
+          "values": [
+            "#79ceb8",
+            "#e95f5c"
+          ]
+        }
+      },
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "name": "Correlation",
+          "values": [
+            "#79ceb8",
+            "#e95f5c"
+          ]
+        }
+      },
+      {
+        "type": "scale_x_continuous",
+        "arguments": {
+          "expand": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "type": "scale_y_discrete",
+        "arguments": {
+          "expand": [
+            0.1,
+            0.1
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "-log10(p.adjust)",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "axis.text.y": {
+            "type": "element_blank"
+          },
+          "axis.ticks.y": {
+            "type": "element_blank"
+          },
+          "legend.title": {
+            "type": "element_text",
+            "arguments": {
+              "size": 13
+            }
+          },
+          "legend.text": {
+            "type": "element_text",
+            "arguments": {
+              "size": 11
+            }
+          },
+          "legend.direction": "horizontal",
+          "legend.position": "inside",
+          "legend.position.inside": [
+            0.7,
+            0.1
+          ],
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 700,
+    "height": 600
+  },
+  "has_js": false
+}

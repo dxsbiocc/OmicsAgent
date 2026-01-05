@@ -1,0 +1,342 @@
+{
+  "name": "一对多散点图",
+  "description": "一对多散点图（One-to-Many Scatter Plot） 是一种数据可视化工具，通过散点图展示一个变量与多个变量之间的关系",
+  "ggplot2": {
+    "mapping": {
+      "x": "x",
+      "y": "y",
+      "label": "label",
+      "fill": "category",
+      "size": "abs(correlation)"
+    },
+    "layers": [
+      {
+        "type": "geom_bezier",
+        "mapping": {
+          "x": "x",
+          "y": "y",
+          "group": "group",
+          "colour": "type"
+        },
+        "arguments": {
+          "linewidth": 0.4,
+          "inherit.aes": false,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "point",
+          "x": [
+            0
+          ],
+          "y": [
+            0
+          ],
+          "size": [
+            8
+          ],
+          "colour": [
+            "#2B393B"
+          ]
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "text",
+          "x": [
+            1.5
+          ],
+          "y": [
+            0
+          ],
+          "label": [
+            "ethyl glucuronide"
+          ],
+          "size": [
+            6
+          ],
+          "hjust": [
+            0.5
+          ],
+          "vjust": [
+            0.5
+          ],
+          "colour": [
+            "#2B393B"
+          ],
+          "fontface": "italic"
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "colour": "white",
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_point",
+        "mapping": {
+          "size": "abs(correlation)"
+        },
+        "arguments": {
+          "shape": 21
+        }
+      },
+      {
+        "type": "geom_text",
+        "arguments": {
+          "vjust": 0.5,
+          "nudge_x": 0.2,
+          "size": 4,
+          "alpha": 0.8,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "segment",
+          "x": [
+            -0.5
+          ],
+          "y": [
+            -13
+          ],
+          "xend": [
+            -2.5
+          ],
+          "yend": [
+            -13
+          ],
+          "arrow": {
+            "type": "arrow",
+            "arguments": {
+              "angle": 30,
+              "length": {
+                "type": "unit",
+                "arguments": {
+                  "x": 0.03,
+                  "units": "npc"
+                }
+              },
+              "type": "closed"
+            }
+          }
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "text",
+          "x": [
+            -2.3
+          ],
+          "y": [
+            -14
+          ],
+          "label": [
+            "Negative correlation"
+          ],
+          "hjust": [
+            0
+          ]
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "segment",
+          "x": [
+            0.5
+          ],
+          "y": [
+            -13
+          ],
+          "xend": [
+            2.5
+          ],
+          "yend": [
+            -13
+          ],
+          "arrow": {
+            "type": "arrow",
+            "arguments": {
+              "angle": 20,
+              "length": {
+                "type": "unit",
+                "arguments": {
+                  "x": 0.03,
+                  "units": "npc"
+                }
+              },
+              "type": "closed"
+            }
+          }
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "text",
+          "x": [
+            2.3
+          ],
+          "y": [
+            -14
+          ],
+          "label": [
+            "Positive correlation"
+          ],
+          "hjust": [
+            1
+          ]
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#84afa2",
+            "#f29556"
+          ]
+        }
+      },
+      {
+        "type": "new_scale",
+        "arguments": {
+          "new_aes": "colour"
+        },
+        "layer": 1
+      },
+      {
+        "type": "scale_size_continuous",
+        "arguments": {
+          "range": [
+            2,
+            7
+          ]
+        }
+      },
+      {
+        "type": "new_scale",
+        "arguments": {
+          "new_aes": "size"
+        },
+        "layer": 4
+      },
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "name": "Category",
+          "values": [
+            "#d7689d",
+            "#f3d337",
+            "#a0c443",
+            "#66b5ae",
+            "#5da4dc",
+            "#40769e"
+          ],
+          "guide": {
+            "type": "guide_legend",
+            "arguments": {
+              "override.aes": {
+                "type": "list",
+                "arguments": {
+                  "size": 3
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#d7689d",
+            "#f3d337",
+            "#a0c443",
+            "#66b5ae",
+            "#5da4dc",
+            "#40769e"
+          ]
+        }
+      },
+      {
+        "type": "scale_size_continuous",
+        "arguments": {
+          "name": "Correlation",
+          "range": [
+            1,
+            6
+          ]
+        }
+      },
+      {
+        "type": "scale_x_continuous",
+        "arguments": {
+          "limits": [
+            -3,
+            3
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "One-to-Many Scatter Plot",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "panel.background": {
+            "type": "element_blank"
+          },
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "panel.grid": {
+            "type": "element_blank"
+          },
+          "axis.title": {
+            "type": "element_blank"
+          },
+          "axis.text": {
+            "type": "element_blank"
+          },
+          "axis.ticks": {
+            "type": "element_blank"
+          },
+          "axis.line": {
+            "type": "element_blank"
+          },
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "hjust": 0.5
+            }
+          },
+          "legend.background": {
+            "type": "element_blank",
+            "arguments": {}
+          },
+          "legend.position": "top"
+        }
+      }
+    ],
+    "width": 700,
+    "height": 700
+  },
+  "has_js": false
+}

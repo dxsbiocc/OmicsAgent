@@ -1,0 +1,212 @@
+[
+    {
+        "Age": "0-4",
+        "Sex": "males",
+        "Count": 2099
+    },
+    {
+        "Age": "0-4",
+        "Sex": "females",
+        "Count": 2000
+    },
+    {
+        "Age": "5-9",
+        "Sex": "males",
+        "Count": 2485
+    },
+    {
+        "Age": "5-9",
+        "Sex": "females",
+        "Count": 2366
+    },
+    {
+        "Age": "10-14",
+        "Sex": "males",
+        "Count": 2691
+    },
+    {
+        "Age": "10-14",
+        "Sex": "females",
+        "Count": 2561
+    },
+    {
+        "Age": "15-19",
+        "Sex": "males",
+        "Count": 2824
+    },
+    {
+        "Age": "15-19",
+        "Sex": "females",
+        "Count": 2681
+    },
+    {
+        "Age": "20-24",
+        "Sex": "males",
+        "Count": 3196
+    },
+    {
+        "Age": "20-24",
+        "Sex": "females",
+        "Count": 3014
+    },
+    {
+        "Age": "25-29",
+        "Sex": "males",
+        "Count": 3322
+    },
+    {
+        "Age": "25-29",
+        "Sex": "females",
+        "Count": 3138
+    },
+    {
+        "Age": "30-34",
+        "Sex": "males",
+        "Count": 3275
+    },
+    {
+        "Age": "30-34",
+        "Sex": "females",
+        "Count": 3110
+    },
+    {
+        "Age": "35-39",
+        "Sex": "males",
+        "Count": 3596
+    },
+    {
+        "Age": "35-39",
+        "Sex": "females",
+        "Count": 3459
+    },
+    {
+        "Age": "40-44",
+        "Sex": "males",
+        "Count": 3942
+    },
+    {
+        "Age": "40-44",
+        "Sex": "females",
+        "Count": 3832
+    },
+    {
+        "Age": "45-49",
+        "Sex": "males",
+        "Count": 4632
+    },
+    {
+        "Age": "45-49",
+        "Sex": "females",
+        "Count": 4509
+    },
+    {
+        "Age": "50-54",
+        "Sex": "males",
+        "Count": 4858
+    },
+    {
+        "Age": "50-54",
+        "Sex": "females",
+        "Count": 4773
+    },
+    {
+        "Age": "55-59",
+        "Sex": "males",
+        "Count": 4131
+    },
+    {
+        "Age": "55-59",
+        "Sex": "females",
+        "Count": 4126
+    },
+    {
+        "Age": "60-64",
+        "Sex": "males",
+        "Count": 3717
+    },
+    {
+        "Age": "60-64",
+        "Sex": "females",
+        "Count": 3786
+    },
+    {
+        "Age": "65-69",
+        "Sex": "males",
+        "Count": 3572
+    },
+    {
+        "Age": "65-69",
+        "Sex": "females",
+        "Count": 3768
+    },
+    {
+        "Age": "70-74",
+        "Sex": "males",
+        "Count": 4183
+    },
+    {
+        "Age": "70-74",
+        "Sex": "females",
+        "Count": 4679
+    },
+    {
+        "Age": "75-79",
+        "Sex": "males",
+        "Count": 3353
+    },
+    {
+        "Age": "75-79",
+        "Sex": "females",
+        "Count": 4096
+    },
+    {
+        "Age": "80-84",
+        "Sex": "males",
+        "Count": 2444
+    },
+    {
+        "Age": "80-84",
+        "Sex": "females",
+        "Count": 3417
+    },
+    {
+        "Age": "85-89",
+        "Sex": "males",
+        "Count": 1449
+    },
+    {
+        "Age": "85-89",
+        "Sex": "females",
+        "Count": 2534
+    },
+    {
+        "Age": "90-94",
+        "Sex": "males",
+        "Count": 582
+    },
+    {
+        "Age": "90-94",
+        "Sex": "females",
+        "Count": 1462
+    },
+    {
+        "Age": "95-99",
+        "Sex": "males",
+        "Count": 120
+    },
+    {
+        "Age": "95-99",
+        "Sex": "females",
+        "Count": 475
+    },
+    {
+        "Age": "100 ~",
+        "Sex": "males",
+        "Count": 11
+    },
+    {
+        "Age": "100 ~",
+        "Sex": "females",
+        "Count": 77
+    }
+]

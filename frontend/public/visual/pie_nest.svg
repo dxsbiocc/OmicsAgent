@@ -1,0 +1,161 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<polyline points="609.3 263.8 638.1 255.4 668.1 255.4" fill="none" stroke="#30aabc" class="zr1-cls-0"></polyline>
+<polyline points="457 505.5 461.8 535.2 491.8 535.2" fill="none" stroke="#f79a3e" class="zr1-cls-0"></polyline>
+<polyline points="314.2 471.4 296.5 495.6 266.5 495.6" fill="none" stroke="#eb4962" class="zr1-cls-0"></polyline>
+<polyline points="242 365.1 217.7 372.6 187.7 372.6" fill="none" stroke="#37b8af" class="zr1-cls-0"></polyline>
+<polyline points="247 253.6 215 275.7 185 275.7" fill="none" stroke="#78a300" class="zr1-cls-0"></polyline>
+<polyline points="295.1 179.6 235.2 216.7 205.2 216.7" fill="none" stroke="#f0ca28" class="zr1-cls-0"></polyline>
+<polyline points="349.6 143.2 279 157.7 249 157.7" fill="none" stroke="#00363d" class="zr1-cls-0"></polyline>
+<polyline points="402.7 128.5 399 98.7 369 98.7" fill="none" stroke="#f79a3e" class="zr1-cls-0"></polyline>
+<path d="M426.5 222.25A95.25 95.25 0 1 1 417.1453 412.2895L426.5 317.5Z" fill="#00363d" class="zr1-cls-1"></path>
+<path d="M417.1453 412.2895A95.25 95.25 0 0 1 332.3146 303.299L426.5 317.5Z" fill="#f79a3e" class="zr1-cls-2"></path>
+<path d="M332.3146 303.299A95.25 95.25 0 0 1 426.5 222.25L426.5 317.5Z" fill="#eb6651" class="zr1-cls-3"></path>
+<path d="M426.5 127A190.5 190.5 0 0 1 529.5278 477.7358L503.7709 437.6769A142.875 142.875 0 0 0 426.5 174.625Z" fill="rgb(48,170,188)" class="zr1-cls-4"></path>
+<path d="M529.5278 477.7358A190.5 190.5 0 0 1 379.3418 502.0707L391.1314 455.9281A142.875 142.875 0 0 0 503.7709 437.6769Z" fill="#f79a3e" class="zr1-cls-2"></path>
+<path d="M379.3418 502.0707A190.5 190.5 0 0 1 265.1369 418.7532L305.4777 393.4399A142.875 142.875 0 0 0 391.1314 455.9281Z" fill="#eb4962" class="zr1-cls-5"></path>
+<path d="M265.1369 418.7532A190.5 190.5 0 0 1 236.2899 306.9935L283.8425 309.6201A142.875 142.875 0 0 0 305.4777 393.4399Z" fill="#37b8af" class="zr1-cls-6"></path>
+<path d="M236.2899 306.9935A190.5 190.5 0 0 1 272.4647 205.4136L310.9735 233.4352A142.875 142.875 0 0 0 283.8425 309.6201Z" fill="#78a300" class="zr1-cls-7"></path>
+<path d="M272.4647 205.4135A190.5 190.5 0 0 1 321.9053 158.2825L348.054 198.0869A142.875 142.875 0 0 0 310.9735 233.4352Z" fill="#f0ca28" class="zr1-cls-8"></path>
+<path d="M321.9053 158.2825A190.5 190.5 0 0 1 379.3418 132.9293L391.1314 179.0719A142.875 142.875 0 0 0 348.054 198.0869Z" fill="rgb(0,54,61)" class="zr1-cls-1"></path>
+<path d="M379.3418 132.9293A190.5 190.5 0 0 1 426.5 127L426.5 174.625A142.875 142.875 0 0 0 391.1314 179.0719Z" fill="rgb(247,154,62)" class="zr1-cls-2"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;" xml:space="preserve" transform="translate(477.0638 319.989)" fill="#ccc" stroke="#00363d" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Search Engine</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;" transform="translate(386.5498 348.5945)" fill="#333">Direct</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;" transform="translate(393.4789 279.1269)" fill="#333">Marketing</text>
+<path d="M4 -27.5L142.8899 -27.5A4 4 0 0 1 146.8899 -23.5L146.8899 23.5A4 4 0 0 1 142.8899 27.5L4 27.5A4 4 0 0 1 0 23.5L0 -23.5A4 4 0 0 1 4 -27.5" transform="translate(673.0613 255.3544)" fill="#F6F8FC" stroke="#8C8D8E" stroke-width="2" paint-order="stroke" class="zr1-cls-9"></path>
+<path d="M58.919 -22.5l29.052 0l0 12l-29.052 0Z" transform="translate(673.0613 255.3544)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="73.44493103027344" y="-16.5" transform="translate(673.0613 255.3544)" fill="#6E7079">outer</text>
+<path d="M0 -5.5l146.8899 0l0 0l-146.8899 0Z" transform="translate(673.0613 255.3544)" fill="none" stroke="#8C8D8E" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" y="11" transform="translate(673.0613 255.3544)" fill="#333">  </text>
+<path d="M7.992 4l52.094 0l0 14l-52.094 0Z" transform="translate(673.0613 255.3544)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:14px;font-family:sans-serif;font-weight:bold;" x="7.991973876953125" y="11" transform="translate(673.0613 255.3544)" fill="#4C5058">Baidu：</text>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="60.0859375" y="11" transform="translate(673.0613 255.3544)" fill="#333">1048  </text>
+<path d="M98.4899 2L134.8979 2A4 4 0 0 1 138.8979 6L138.8979 16A4 4 0 0 1 134.8979 20L98.4899 20A4 4 0 0 1 94.4899 16L94.4899 6A4 4 0 0 1 98.4899 2" transform="translate(673.0613 255.3544)" fill="#4C5058" class="zr1-cls-10"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="98.48989868164062" y="11" transform="translate(673.0613 255.3544)" fill="#fff">40.9%</text>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="138.89788818359375" y="11" transform="translate(673.0613 255.3544)" fill="#333">  </text>
+<path d="M4 -27.5L144.8218 -27.5A4 4 0 0 1 148.8218 -23.5L148.8218 23.5A4 4 0 0 1 144.8218 27.5L4 27.5A4 4 0 0 1 0 23.5L0 -23.5A4 4 0 0 1 4 -27.5" transform="translate(496.768 535.1612)" fill="#F6F8FC" stroke="#8C8D8E" stroke-width="2" paint-order="stroke" class="zr1-cls-9"></path>
+<path d="M59.8849 -22.5l29.052 0l0 12l-29.052 0Z" transform="translate(496.768 535.1612)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="74.41091918945312" y="-16.5" transform="translate(496.768 535.1612)" fill="#6E7079">outer</text>
+<path d="M0 -5.5l148.8218 0l0 0l-148.8218 0Z" transform="translate(496.768 535.1612)" fill="none" stroke="#8C8D8E" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" y="11" transform="translate(496.768 535.1612)" fill="#333">  </text>
+<path d="M7.992 4l54.0259 0l0 14l-54.0259 0Z" transform="translate(496.768 535.1612)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:14px;font-family:sans-serif;font-weight:bold;" x="7.991973876953125" y="11" transform="translate(496.768 535.1612)" fill="#4C5058">Direct：</text>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="62.017913818359375" y="11" transform="translate(496.768 535.1612)" fill="#333">335  </text>
+<path d="M95.6099 2L136.8299 2A4 4 0 0 1 140.8299 6L140.8299 16A4 4 0 0 1 136.8299 20L95.6099 20A4 4 0 0 1 91.6099 16L91.6099 6A4 4 0 0 1 95.6099 2" transform="translate(496.768 535.1612)" fill="#4C5058" class="zr1-cls-10"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="95.60987854003906" y="11" transform="translate(496.768 535.1612)" fill="#fff">13.08%</text>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="140.82986450195312" y="11" transform="translate(496.768 535.1612)" fill="#333">  </text>
+<path d="M-129.5979 -27.5L-4 -27.5A4 4 0 0 1 0 -23.5L0 23.5A4 4 0 0 1 -4 27.5L-129.5979 27.5A4 4 0 0 1 -133.5979 23.5L-133.5979 -23.5A4 4 0 0 1 -129.5979 -27.5" transform="translate(261.5436 495.6336)" fill="#F6F8FC" stroke="#8C8D8E" stroke-width="2" paint-order="stroke" class="zr1-cls-9"></path>
+<path d="M-81.3249 -22.5l29.052 0l0 12l-29.052 0Z" transform="translate(261.5436 495.6336)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="-66.79893493652344" y="-16.5" transform="translate(261.5436 495.6336)" fill="#6E7079">outer</text>
+<path d="M-133.5979 -5.5l133.5979 0l0 0l-133.5979 0Z" transform="translate(261.5436 495.6336)" fill="none" stroke="#8C8D8E" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" y="11" transform="translate(261.5436 495.6336)" fill="#333">  </text>
+<path d="M-43.624 2L-11.992 2A4 4 0 0 1 -7.992 6L-7.992 16A4 4 0 0 1 -11.992 20L-43.624 20A4 4 0 0 1 -47.624 16L-47.624 6A4 4 0 0 1 -43.624 2" transform="translate(261.5436 495.6336)" fill="#4C5058" class="zr1-cls-10"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-11.991973876953125" y="11" transform="translate(261.5436 495.6336)" fill="#fff">12.1%</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-47.62396240234375" y="11" transform="translate(261.5436 495.6336)" fill="#333">310  </text>
+<path d="M-125.6059 4l50.778 0l0 14l-50.778 0Z" transform="translate(261.5436 495.6336)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:sans-serif;font-weight:bold;" x="-74.82792663574219" y="11" transform="translate(261.5436 495.6336)" fill="#4C5058">Email：</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-125.60589599609375" y="11" transform="translate(261.5436 495.6336)" fill="#333">  </text>
+<path d="M-137.7019 -27.5L-4 -27.5A4 4 0 0 1 0 -23.5L0 23.5A4 4 0 0 1 -4 27.5L-137.7019 27.5A4 4 0 0 1 -141.7019 23.5L-141.7019 -23.5A4 4 0 0 1 -137.7019 -27.5" transform="translate(182.7008 372.6084)" fill="#F6F8FC" stroke="#8C8D8E" stroke-width="2" paint-order="stroke" class="zr1-cls-9"></path>
+<path d="M-85.3769 -22.5l29.052 0l0 12l-29.052 0Z" transform="translate(182.7008 372.6084)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="-70.85093688964844" y="-16.5" transform="translate(182.7008 372.6084)" fill="#6E7079">outer</text>
+<path d="M-141.7019 -5.5l141.7019 0l0 0l-141.7019 0Z" transform="translate(182.7008 372.6084)" fill="none" stroke="#8C8D8E" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" y="11" transform="translate(182.7008 372.6084)" fill="#333">  </text>
+<path d="M-41.2 2L-11.992 2A4 4 0 0 1 -7.992 6L-7.992 16A4 4 0 0 1 -11.992 20L-41.2 20A4 4 0 0 1 -45.2 16L-45.2 6A4 4 0 0 1 -41.2 2" transform="translate(182.7008 372.6084)" fill="#4C5058" class="zr1-cls-10"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-11.991973876953125" y="11" transform="translate(182.7008 372.6084)" fill="#fff">9.8%</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-45.19996643066406" y="11" transform="translate(182.7008 372.6084)" fill="#333">251  </text>
+<path d="M-133.7099 4l61.306 0l0 14l-61.306 0Z" transform="translate(182.7008 372.6084)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:sans-serif;font-weight:bold;" x="-72.4039306640625" y="11" transform="translate(182.7008 372.6084)" fill="#4C5058">Google：</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-133.70989990234375" y="11" transform="translate(182.7008 372.6084)" fill="#333">  </text>
+<path d="M-165.9686 -27.5L-4 -27.5A4 4 0 0 1 0 -23.5L0 23.5A4 4 0 0 1 -4 27.5L-165.9686 27.5A4 4 0 0 1 -169.9686 23.5L-169.9686 -23.5A4 4 0 0 1 -165.9686 -27.5" transform="translate(179.9686 275.7225)" fill="#F6F8FC" stroke="#8C8D8E" stroke-width="2" paint-order="stroke" class="zr1-cls-9"></path>
+<path d="M-99.5103 -22.5l29.052 0l0 12l-29.052 0Z" transform="translate(179.9686 275.7225)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="-84.98431863187763" y="-16.5" transform="translate(179.9686 275.7225)" fill="#6E7079">outer</text>
+<path d="M-169.9686 -5.5l169.9686 0l0 0l-169.9686 0Z" transform="translate(179.9686 275.7225)" fill="none" stroke="#8C8D8E" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" y="11" transform="translate(179.9686 275.7225)" fill="#333"> </text>
+<path d="M-42.016 2L-7.996 2A4 4 0 0 1 -3.996 6L-3.996 16A4 4 0 0 1 -7.996 20L-42.016 20A4 4 0 0 1 -46.016 16L-46.016 6A4 4 0 0 1 -42.016 2" transform="translate(179.9686 275.7225)" fill="#4C5058" class="zr1-cls-10"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-7.9959869384765625" y="11" transform="translate(179.9686 275.7225)" fill="#fff">9.13%</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-46.01597595214844" y="11" transform="translate(179.9686 275.7225)" fill="#333">234  </text>
+<path d="M-158.3479 4l82.7399 0l0 14l-82.7399 0Z" transform="translate(179.9686 275.7225)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" x="-75.60794067382812" y="11" transform="translate(179.9686 275.7225)" fill="#4C5058">Union Ads：</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-158.3478546142578" y="11" transform="translate(179.9686 275.7225)" fill="#333">  </text>
+<path d="M-126.3959 -27.5L-4 -27.5A4 4 0 0 1 0 -23.5L0 23.5A4 4 0 0 1 -4 27.5L-126.3959 27.5A4 4 0 0 1 -130.3959 23.5L-130.3959 -23.5A4 4 0 0 1 -126.3959 -27.5" transform="translate(200.215 216.7225)" fill="#F6F8FC" stroke="#8C8D8E" stroke-width="2" paint-order="stroke" class="zr1-cls-9"></path>
+<path d="M-79.7239 -22.5l29.052 0l0 12l-29.052 0Z" transform="translate(200.215 216.7225)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="-65.19792938232422" y="-16.5" transform="translate(200.215 216.7225)" fill="#6E7079">outer</text>
+<path d="M-130.3959 -5.5l130.3959 0l0 0l-130.3959 0Z" transform="translate(200.215 216.7225)" fill="none" stroke="#8C8D8E" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" y="11" transform="translate(200.215 216.7225)" fill="#333">  </text>
+<path d="M-47.764 2L-11.992 2A4 4 0 0 1 -7.992 6L-7.992 16A4 4 0 0 1 -11.992 20L-47.764 20A4 4 0 0 1 -51.764 16L-51.764 6A4 4 0 0 1 -47.764 2" transform="translate(200.215 216.7225)" fill="#4C5058" class="zr1-cls-10"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-11.991973876953125" y="11" transform="translate(200.215 216.7225)" fill="#fff">5.74%</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-51.76396179199219" y="11" transform="translate(200.215 216.7225)" fill="#333">147  </text>
+<path d="M-122.4039 4l44.072 0l0 14l-44.072 0Z" transform="translate(200.215 216.7225)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:sans-serif;font-weight:bold;" x="-78.33192443847656" y="11" transform="translate(200.215 216.7225)" fill="#4C5058">Bing：</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-122.40388488769531" y="11" transform="translate(200.215 216.7225)" fill="#333">  </text>
+<path d="M-164.7478 -27.5L-4 -27.5A4 4 0 0 1 0 -23.5L0 23.5A4 4 0 0 1 -4 27.5L-164.7478 27.5A4 4 0 0 1 -168.7478 23.5L-168.7478 -23.5A4 4 0 0 1 -164.7478 -27.5" transform="translate(244.0158 157.7225)" fill="#F6F8FC" stroke="#8C8D8E" stroke-width="2" paint-order="stroke" class="zr1-cls-9"></path>
+<path d="M-98.8999 -22.5l29.052 0l0 12l-29.052 0Z" transform="translate(244.0158 157.7225)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="-84.37391662597656" y="-16.5" transform="translate(244.0158 157.7225)" fill="#6E7079">outer</text>
+<path d="M-168.7478 -5.5l168.7478 0l0 0l-168.7478 0Z" transform="translate(244.0158 157.7225)" fill="none" stroke="#8C8D8E" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" y="11" transform="translate(244.0158 157.7225)" fill="#333">  </text>
+<path d="M-47.764 2L-11.992 2A4 4 0 0 1 -7.992 6L-7.992 16A4 4 0 0 1 -11.992 20L-47.764 20A4 4 0 0 1 -51.764 16L-51.764 6A4 4 0 0 1 -47.764 2" transform="translate(244.0158 157.7225)" fill="#4C5058" class="zr1-cls-10"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-11.991973876953125" y="11" transform="translate(244.0158 157.7225)" fill="#fff">5.27%</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-51.76396179199219" y="11" transform="translate(244.0158 157.7225)" fill="#333">135  </text>
+<path d="M-160.7559 4l81.7879 0l0 14l-81.7879 0Z" transform="translate(244.0158 157.7225)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" x="-78.96792602539062" y="11" transform="translate(244.0158 157.7225)" fill="#4C5058">Video Ads：</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-160.755859375" y="11" transform="translate(244.0158 157.7225)" fill="#333">  </text>
+<path d="M-142.1158 -27.5L-4 -27.5A4 4 0 0 1 0 -23.5L0 23.5A4 4 0 0 1 -4 27.5L-142.1158 27.5A4 4 0 0 1 -146.1158 23.5L-146.1158 -23.5A4 4 0 0 1 -142.1158 -27.5" transform="translate(363.9928 98.7225)" fill="#F6F8FC" stroke="#8C8D8E" stroke-width="2" paint-order="stroke" class="zr1-cls-9"></path>
+<path d="M-87.5839 -22.5l29.052 0l0 12l-29.052 0Z" transform="translate(363.9928 98.7225)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="-73.05792236328125" y="-16.5" transform="translate(363.9928 98.7225)" fill="#6E7079">outer</text>
+<path d="M-146.1158 -5.5l146.1158 0l0 0l-146.1158 0Z" transform="translate(363.9928 98.7225)" fill="none" stroke="#8C8D8E" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" y="11" transform="translate(363.9928 98.7225)" fill="#333">  </text>
+<path d="M-48.4 2L-11.992 2A4 4 0 0 1 -7.992 6L-7.992 16A4 4 0 0 1 -11.992 20L-48.4 20A4 4 0 0 1 -52.4 16L-52.4 6A4 4 0 0 1 -48.4 2" transform="translate(363.9928 98.7225)" fill="#4C5058" class="zr1-cls-10"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="-11.991973876953125" y="11" transform="translate(363.9928 98.7225)" fill="#fff">3.98%</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-52.39996337890625" y="11" transform="translate(363.9928 98.7225)" fill="#333">102  </text>
+<path d="M-138.1239 4l58.5199 0l0 14l-58.5199 0Z" transform="translate(363.9928 98.7225)" fill="none" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:sans-serif;font-weight:bold;" x="-79.60392761230469" y="11" transform="translate(363.9928 98.7225)" fill="#4C5058">Others：</text>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" xml:space="preserve" x="-138.12387084960938" y="11" transform="translate(363.9928 98.7225)" fill="#333">  </text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+cursor:pointer;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(0,59,67,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(255,169,68,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,112,89,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(52,187,206,1);
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(255,80,107,1);
+}
+.zr1-cls-6:hover {
+cursor:pointer;
+fill:rgba(60,202,192,1);
+}
+.zr1-cls-7:hover {
+cursor:pointer;
+fill:rgba(132,179,0,1);
+}
+.zr1-cls-8:hover {
+cursor:pointer;
+fill:rgba(255,222,44,1);
+}
+.zr1-cls-9:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
+}
+.zr1-cls-10:hover {
+cursor:pointer;
+fill:rgba(83,88,96,1);
+}
+
+]]>
+
+</style>
+</svg>

@@ -1,0 +1,5002 @@
+[
+    {
+        "rank": 10730,
+        "log2FC": 0.3335,
+        "symbol": "Myd88"
+    },
+    {
+        "rank": 3465,
+        "log2FC": -0.4789,
+        "symbol": "Mdn1"
+    },
+    {
+        "rank": 6569,
+        "log2FC": -0.1285,
+        "symbol": "Rab5b"
+    },
+    {
+        "rank": 5432,
+        "log2FC": -0.2359,
+        "symbol": "Tgif2"
+    },
+    {
+        "rank": 13999,
+        "log2FC": 1.3735,
+        "symbol": "Leo1"
+    },
+    {
+        "rank": 9825,
+        "log2FC": 0.2036,
+        "symbol": "Hdac4"
+    },
+    {
+        "rank": 3992,
+        "log2FC": -0.3996,
+        "symbol": "Timd4"
+    },
+    {
+        "rank": 2789,
+        "log2FC": -0.592,
+        "symbol": "Dpcd"
+    },
+    {
+        "rank": 15202,
+        "log2FC": 2.9,
+        "symbol": "Gm5150"
+    },
+    {
+        "rank": 14975,
+        "log2FC": 2.3537,
+        "symbol": "Mpzl1"
+    },
+    {
+        "rank": 5637,
+        "log2FC": -0.2165,
+        "symbol": "Fam20c"
+    },
+    {
+        "rank": 13813,
+        "log2FC": 1.2729,
+        "symbol": "Cd300ld"
+    },
+    {
+        "rank": 739,
+        "log2FC": -1.5237,
+        "symbol": "Poln"
+    },
+    {
+        "rank": 7240,
+        "log2FC": -0.0598,
+        "symbol": "Nt5dc2"
+    },
+    {
+        "rank": 2523,
+        "log2FC": -0.6459,
+        "symbol": "Surf1"
+    },
+    {
+        "rank": 10988,
+        "log2FC": 0.3769,
+        "symbol": "Necab1"
+    },
+    {
+        "rank": 7416,
+        "log2FC": -0.0445,
+        "symbol": "Uqcr11"
+    },
+    {
+        "rank": 4973,
+        "log2FC": -0.2836,
+        "symbol": "Dtd2"
+    },
+    {
+        "rank": 12009,
+        "log2FC": 0.5961,
+        "symbol": "Selenoh"
+    },
+    {
+        "rank": 13522,
+        "log2FC": 1.1327,
+        "symbol": "Fem1c"
+    },
+    {
+        "rank": 13493,
+        "log2FC": 1.1167,
+        "symbol": "Cenph"
+    },
+    {
+        "rank": 10743,
+        "log2FC": 0.3348,
+        "symbol": "A730081D07Rik"
+    },
+    {
+        "rank": 12938,
+        "log2FC": 0.8771,
+        "symbol": "Hist1h4n"
+    },
+    {
+        "rank": 6309,
+        "log2FC": -0.1518,
+        "symbol": "Pitpnm3"
+    },
+    {
+        "rank": 6539,
+        "log2FC": -0.1317,
+        "symbol": "Ncl"
+    },
+    {
+        "rank": 14477,
+        "log2FC": 1.7388,
+        "symbol": "BC051019"
+    },
+    {
+        "rank": 1864,
+        "log2FC": -0.8296,
+        "symbol": "Lppos"
+    },
+    {
+        "rank": 12811,
+        "log2FC": 0.8369,
+        "symbol": "Ctsl"
+    },
+    {
+        "rank": 6700,
+        "log2FC": -0.1157,
+        "symbol": "Ubxn1"
+    },
+    {
+        "rank": 4218,
+        "log2FC": -0.3708,
+        "symbol": "Timmdc1"
+    },
+    {
+        "rank": 15220,
+        "log2FC": 2.9501,
+        "symbol": "C6"
+    },
+    {
+        "rank": 12681,
+        "log2FC": 0.7906,
+        "symbol": "Clstn1"
+    },
+    {
+        "rank": 6900,
+        "log2FC": -0.095,
+        "symbol": "Mapk1ip1l"
+    },
+    {
+        "rank": 12584,
+        "log2FC": 0.7561,
+        "symbol": "Afap1l2"
+    },
+    {
+        "rank": 147,
+        "log2FC": -3.8295,
+        "symbol": "Meg3"
+    },
+    {
+        "rank": 13799,
+        "log2FC": 1.2665,
+        "symbol": "Cfap53"
+    },
+    {
+        "rank": 5751,
+        "log2FC": -0.2051,
+        "symbol": "Cwc22"
+    },
+    {
+        "rank": 1652,
+        "log2FC": -0.903,
+        "symbol": "Ccp110"
+    },
+    {
+        "rank": 9777,
+        "log2FC": 0.1971,
+        "symbol": "Dhx38"
+    },
+    {
+        "rank": 2878,
+        "log2FC": -0.5738,
+        "symbol": "H2az2"
+    },
+    {
+        "rank": 6687,
+        "log2FC": -0.1169,
+        "symbol": "Sgta"
+    },
+    {
+        "rank": 14370,
+        "log2FC": 1.6461,
+        "symbol": "Rnf144a"
+    },
+    {
+        "rank": 13328,
+        "log2FC": 1.0439,
+        "symbol": "Sobp"
+    },
+    {
+        "rank": 15135,
+        "log2FC": 2.7493,
+        "symbol": "Lrp8"
+    },
+    {
+        "rank": 12052,
+        "log2FC": 0.6055,
+        "symbol": "Gbgt1"
+    },
+    {
+        "rank": 1516,
+        "log2FC": -0.9598,
+        "symbol": "Ugt1a9"
+    },
+    {
+        "rank": 69,
+        "log2FC": -4.8901,
+        "symbol": "Cd209b"
+    },
+    {
+        "rank": 3042,
+        "log2FC": -0.5425,
+        "symbol": "Il6ra"
+    },
+    {
+        "rank": 7208,
+        "log2FC": -0.0632,
+        "symbol": "Os9"
+    },
+    {
+        "rank": 5687,
+        "log2FC": -0.2116,
+        "symbol": "Marchf2"
+    },
+    {
+        "rank": 2632,
+        "log2FC": -0.6232,
+        "symbol": "Mplkip"
+    },
+    {
+        "rank": 6476,
+        "log2FC": -0.1371,
+        "symbol": "Rad21"
+    },
+    {
+        "rank": 598,
+        "log2FC": -1.7226,
+        "symbol": "Akr1c12"
+    },
+    {
+        "rank": 5954,
+        "log2FC": -0.1857,
+        "symbol": "Yju2"
+    },
+    {
+        "rank": 11116,
+        "log2FC": 0.3978,
+        "symbol": "C9"
+    },
+    {
+        "rank": 2592,
+        "log2FC": -0.633,
+        "symbol": "Emc6"
+    },
+    {
+        "rank": 1551,
+        "log2FC": -0.9425,
+        "symbol": "Slc37a4"
+    },
+    {
+        "rank": 1952,
+        "log2FC": -0.8006,
+        "symbol": "Tmem184a"
+    },
+    {
+        "rank": 4442,
+        "log2FC": -0.343,
+        "symbol": "Slc35e2"
+    },
+    {
+        "rank": 7792,
+        "log2FC": -0.0108,
+        "symbol": "Hexb"
+    },
+    {
+        "rank": 5355,
+        "log2FC": -0.244,
+        "symbol": "Skiv2l"
+    },
+    {
+        "rank": 3822,
+        "log2FC": -0.4223,
+        "symbol": "Srpr"
+    },
+    {
+        "rank": 7678,
+        "log2FC": -0.0199,
+        "symbol": "Vps26a"
+    },
+    {
+        "rank": 10061,
+        "log2FC": 0.2323,
+        "symbol": "Fam168a"
+    },
+    {
+        "rank": 10927,
+        "log2FC": 0.3655,
+        "symbol": "Daxx"
+    },
+    {
+        "rank": 8771,
+        "log2FC": 0.0863,
+        "symbol": "Cdk9"
+    },
+    {
+        "rank": 14893,
+        "log2FC": 2.2324,
+        "symbol": "Fyb2"
+    },
+    {
+        "rank": 8507,
+        "log2FC": 0.057,
+        "symbol": "Atg101"
+    },
+    {
+        "rank": 4946,
+        "log2FC": -0.2863,
+        "symbol": "Gripap1"
+    },
+    {
+        "rank": 4120,
+        "log2FC": -0.3841,
+        "symbol": "Yars"
+    },
+    {
+        "rank": 870,
+        "log2FC": -1.3801,
+        "symbol": "Tesmin"
+    },
+    {
+        "rank": 6849,
+        "log2FC": -0.0995,
+        "symbol": "Cox18"
+    },
+    {
+        "rank": 122,
+        "log2FC": -4.2488,
+        "symbol": "BB218582"
+    },
+    {
+        "rank": 2246,
+        "log2FC": -0.7214,
+        "symbol": "A730063M14Rik"
+    },
+    {
+        "rank": 11756,
+        "log2FC": 0.5251,
+        "symbol": "4930528A17Rik"
+    },
+    {
+        "rank": 12228,
+        "log2FC": 0.6562,
+        "symbol": "2610020C07Rik"
+    },
+    {
+        "rank": 6132,
+        "log2FC": -0.1673,
+        "symbol": "Pdia6"
+    },
+    {
+        "rank": 14890,
+        "log2FC": 2.2306,
+        "symbol": "Mir3113"
+    },
+    {
+        "rank": 9679,
+        "log2FC": 0.1859,
+        "symbol": "Senp6"
+    },
+    {
+        "rank": 4959,
+        "log2FC": -0.2849,
+        "symbol": "Keap1"
+    },
+    {
+        "rank": 3037,
+        "log2FC": -0.5433,
+        "symbol": "Cables2"
+    },
+    {
+        "rank": 15426,
+        "log2FC": 3.76,
+        "symbol": "Prss57"
+    },
+    {
+        "rank": 5421,
+        "log2FC": -0.2368,
+        "symbol": "Slc35a5"
+    },
+    {
+        "rank": 10419,
+        "log2FC": 0.2866,
+        "symbol": "Trim36"
+    },
+    {
+        "rank": 11474,
+        "log2FC": 0.4623,
+        "symbol": "Prss30"
+    },
+    {
+        "rank": 5473,
+        "log2FC": -0.2314,
+        "symbol": "Tfpi2"
+    },
+    {
+        "rank": 9232,
+        "log2FC": 0.1344,
+        "symbol": "Ncln"
+    },
+    {
+        "rank": 8049,
+        "log2FC": 0.0132,
+        "symbol": "Rilpl2"
+    },
+    {
+        "rank": 6354,
+        "log2FC": -0.1476,
+        "symbol": "Sac3d1"
+    },
+    {
+        "rank": 6848,
+        "log2FC": -0.0996,
+        "symbol": "Epn1"
+    },
+    {
+        "rank": 15582,
+        "log2FC": 4.6163,
+        "symbol": "Sdcbp2"
+    },
+    {
+        "rank": 2549,
+        "log2FC": -0.6408,
+        "symbol": "Cntrl"
+    },
+    {
+        "rank": 8152,
+        "log2FC": 0.0228,
+        "symbol": "Cct5"
+    },
+    {
+        "rank": 19,
+        "log2FC": -8.6046,
+        "symbol": "Serpina4-ps1"
+    },
+    {
+        "rank": 14444,
+        "log2FC": 1.7125,
+        "symbol": "Tprn"
+    },
+    {
+        "rank": 3636,
+        "log2FC": -0.4533,
+        "symbol": "Msantd1"
+    },
+    {
+        "rank": 11106,
+        "log2FC": 0.3965,
+        "symbol": "Hspb9"
+    },
+    {
+        "rank": 1575,
+        "log2FC": -0.9348,
+        "symbol": "Gm10433"
+    },
+    {
+        "rank": 11492,
+        "log2FC": 0.4656,
+        "symbol": "Rnf19a"
+    },
+    {
+        "rank": 12325,
+        "log2FC": 0.6808,
+        "symbol": "Igf2r"
+    },
+    {
+        "rank": 8479,
+        "log2FC": 0.0551,
+        "symbol": "Cdkal1"
+    },
+    {
+        "rank": 7436,
+        "log2FC": -0.0423,
+        "symbol": "Pomt1"
+    },
+    {
+        "rank": 12916,
+        "log2FC": 0.8706,
+        "symbol": "Gm4262"
+    },
+    {
+        "rank": 5707,
+        "log2FC": -0.2092,
+        "symbol": "Isg20l2"
+    },
+    {
+        "rank": 13939,
+        "log2FC": 1.3368,
+        "symbol": "Fbln7"
+    },
+    {
+        "rank": 9369,
+        "log2FC": 0.1482,
+        "symbol": "Ddx55"
+    },
+    {
+        "rank": 9503,
+        "log2FC": 0.1637,
+        "symbol": "Fkrp"
+    },
+    {
+        "rank": 1336,
+        "log2FC": -1.0513,
+        "symbol": "Kiss1"
+    },
+    {
+        "rank": 15102,
+        "log2FC": 2.6579,
+        "symbol": "Kifc1"
+    },
+    {
+        "rank": 9827,
+        "log2FC": 0.2037,
+        "symbol": "Flot2"
+    },
+    {
+        "rank": 12949,
+        "log2FC": 0.885,
+        "symbol": "Anxa3"
+    },
+    {
+        "rank": 11560,
+        "log2FC": 0.4835,
+        "symbol": "Chmp4c"
+    },
+    {
+        "rank": 4325,
+        "log2FC": -0.3567,
+        "symbol": "Poldip2"
+    },
+    {
+        "rank": 9899,
+        "log2FC": 0.214,
+        "symbol": "Ctc1"
+    },
+    {
+        "rank": 4761,
+        "log2FC": -0.3072,
+        "symbol": "Serf2"
+    },
+    {
+        "rank": 3895,
+        "log2FC": -0.4133,
+        "symbol": "Fkbp8"
+    },
+    {
+        "rank": 2329,
+        "log2FC": -0.7008,
+        "symbol": "Gpd1l"
+    },
+    {
+        "rank": 11635,
+        "log2FC": 0.5007,
+        "symbol": "Dhx34"
+    },
+    {
+        "rank": 12380,
+        "log2FC": 0.6924,
+        "symbol": "Suco"
+    },
+    {
+        "rank": 11237,
+        "log2FC": 0.4171,
+        "symbol": "Fes"
+    },
+    {
+        "rank": 8628,
+        "log2FC": 0.0705,
+        "symbol": "Ywhab"
+    },
+    {
+        "rank": 8994,
+        "log2FC": 0.1094,
+        "symbol": "Tram2"
+    },
+    {
+        "rank": 13352,
+        "log2FC": 1.0532,
+        "symbol": "Dcst2"
+    },
+    {
+        "rank": 2351,
+        "log2FC": -0.6956,
+        "symbol": "Ndufa1"
+    },
+    {
+        "rank": 9447,
+        "log2FC": 0.1568,
+        "symbol": "9330104G04Rik"
+    },
+    {
+        "rank": 9875,
+        "log2FC": 0.2089,
+        "symbol": "Sh3bp5l"
+    },
+    {
+        "rank": 8410,
+        "log2FC": 0.0476,
+        "symbol": "B3glct"
+    },
+    {
+        "rank": 11616,
+        "log2FC": 0.4961,
+        "symbol": "Ahcyl2"
+    },
+    {
+        "rank": 6543,
+        "log2FC": -0.1311,
+        "symbol": "Gcgr"
+    },
+    {
+        "rank": 1410,
+        "log2FC": -1.0104,
+        "symbol": "Acyp1"
+    },
+    {
+        "rank": 12360,
+        "log2FC": 0.6884,
+        "symbol": "Scarf2"
+    },
+    {
+        "rank": 10992,
+        "log2FC": 0.3773,
+        "symbol": "5033428I22Rik"
+    },
+    {
+        "rank": 6122,
+        "log2FC": -0.1688,
+        "symbol": "Tead3"
+    },
+    {
+        "rank": 10544,
+        "log2FC": 0.3048,
+        "symbol": "Arl5c"
+    },
+    {
+        "rank": 14441,
+        "log2FC": 1.7094,
+        "symbol": "Mas1"
+    },
+    {
+        "rank": 6801,
+        "log2FC": -0.1043,
+        "symbol": "Lratd1"
+    },
+    {
+        "rank": 9718,
+        "log2FC": 0.1894,
+        "symbol": "Nudt11"
+    },
+    {
+        "rank": 12538,
+        "log2FC": 0.7426,
+        "symbol": "Rab20"
+    },
+    {
+        "rank": 3701,
+        "log2FC": -0.4422,
+        "symbol": "Bcar1"
+    },
+    {
+        "rank": 11639,
+        "log2FC": 0.5015,
+        "symbol": "Akt3"
+    },
+    {
+        "rank": 15054,
+        "log2FC": 2.5443,
+        "symbol": "Neu3"
+    },
+    {
+        "rank": 8608,
+        "log2FC": 0.0686,
+        "symbol": "Gnb4"
+    },
+    {
+        "rank": 4116,
+        "log2FC": -0.3845,
+        "symbol": "Inha"
+    },
+    {
+        "rank": 12324,
+        "log2FC": 0.6807,
+        "symbol": "Degs2"
+    },
+    {
+        "rank": 12144,
+        "log2FC": 0.6322,
+        "symbol": "Rilpl1"
+    },
+    {
+        "rank": 14721,
+        "log2FC": 2.0128,
+        "symbol": "Tm4sf4"
+    },
+    {
+        "rank": 9963,
+        "log2FC": 0.2212,
+        "symbol": "Ldlrap1"
+    },
+    {
+        "rank": 14808,
+        "log2FC": 2.132,
+        "symbol": "Cxcr4"
+    },
+    {
+        "rank": 2438,
+        "log2FC": -0.6699,
+        "symbol": "Hdac2"
+    },
+    {
+        "rank": 4140,
+        "log2FC": -0.3812,
+        "symbol": "Babam1"
+    },
+    {
+        "rank": 2649,
+        "log2FC": -0.6191,
+        "symbol": "Gpn3"
+    },
+    {
+        "rank": 10453,
+        "log2FC": 0.2922,
+        "symbol": "Cadm1"
+    },
+    {
+        "rank": 11051,
+        "log2FC": 0.386,
+        "symbol": "Olfml1"
+    },
+    {
+        "rank": 1920,
+        "log2FC": -0.8108,
+        "symbol": "Fam57b"
+    },
+    {
+        "rank": 13977,
+        "log2FC": 1.3621,
+        "symbol": "Casp1"
+    },
+    {
+        "rank": 6100,
+        "log2FC": -0.171,
+        "symbol": "Gm17484"
+    },
+    {
+        "rank": 5626,
+        "log2FC": -0.2173,
+        "symbol": "Tnrc6b"
+    },
+    {
+        "rank": 9362,
+        "log2FC": 0.1477,
+        "symbol": "Vps45"
+    },
+    {
+        "rank": 14269,
+        "log2FC": 1.561,
+        "symbol": "Gm15908"
+    },
+    {
+        "rank": 917,
+        "log2FC": -1.3408,
+        "symbol": "Gm16291"
+    },
+    {
+        "rank": 8887,
+        "log2FC": 0.0969,
+        "symbol": "Zc3h3"
+    },
+    {
+        "rank": 8707,
+        "log2FC": 0.0799,
+        "symbol": "Hspa13"
+    },
+    {
+        "rank": 4306,
+        "log2FC": -0.3595,
+        "symbol": "Tmc4"
+    },
+    {
+        "rank": 1153,
+        "log2FC": -1.1655,
+        "symbol": "Mgmt"
+    },
+    {
+        "rank": 12570,
+        "log2FC": 0.7519,
+        "symbol": "Oas2"
+    },
+    {
+        "rank": 4559,
+        "log2FC": -0.3306,
+        "symbol": "Cd19"
+    },
+    {
+        "rank": 2972,
+        "log2FC": -0.5572,
+        "symbol": "Tfdp2"
+    },
+    {
+        "rank": 11375,
+        "log2FC": 0.4414,
+        "symbol": "Abl2"
+    },
+    {
+        "rank": 3524,
+        "log2FC": -0.4699,
+        "symbol": "Trmo"
+    },
+    {
+        "rank": 7056,
+        "log2FC": -0.0779,
+        "symbol": "Ash2l"
+    },
+    {
+        "rank": 8321,
+        "log2FC": 0.0387,
+        "symbol": "Anp32a"
+    },
+    {
+        "rank": 14507,
+        "log2FC": 1.7623,
+        "symbol": "Gm10814"
+    },
+    {
+        "rank": 14421,
+        "log2FC": 1.6934,
+        "symbol": "Urml"
+    },
+    {
+        "rank": 8609,
+        "log2FC": 0.0686,
+        "symbol": "Mest"
+    },
+    {
+        "rank": 948,
+        "log2FC": -1.3119,
+        "symbol": "Clcn2"
+    },
+    {
+        "rank": 592,
+        "log2FC": -1.7341,
+        "symbol": "Gm4432"
+    },
+    {
+        "rank": 14388,
+        "log2FC": 1.6614,
+        "symbol": "Ets2"
+    },
+    {
+        "rank": 14329,
+        "log2FC": 1.6158,
+        "symbol": "Napepld"
+    },
+    {
+        "rank": 13058,
+        "log2FC": 0.9305,
+        "symbol": "Fbxw17"
+    },
+    {
+        "rank": 294,
+        "log2FC": -2.6359,
+        "symbol": "F2rl2"
+    },
+    {
+        "rank": 9649,
+        "log2FC": 0.1815,
+        "symbol": "Atp6v0a1"
+    },
+    {
+        "rank": 1005,
+        "log2FC": -1.2656,
+        "symbol": "Gnat1"
+    },
+    {
+        "rank": 6923,
+        "log2FC": -0.093,
+        "symbol": "Ccdc18"
+    },
+    {
+        "rank": 8878,
+        "log2FC": 0.0961,
+        "symbol": "Fgfr4"
+    },
+    {
+        "rank": 10703,
+        "log2FC": 0.3291,
+        "symbol": "Tmem150a"
+    },
+    {
+        "rank": 6864,
+        "log2FC": -0.0984,
+        "symbol": "LOC102632231"
+    },
+    {
+        "rank": 4316,
+        "log2FC": -0.3584,
+        "symbol": "Prkag2"
+    },
+    {
+        "rank": 5830,
+        "log2FC": -0.1973,
+        "symbol": "Med10"
+    },
+    {
+        "rank": 10181,
+        "log2FC": 0.2493,
+        "symbol": "B3galt6"
+    },
+    {
+        "rank": 12172,
+        "log2FC": 0.6427,
+        "symbol": "Gm10638"
+    },
+    {
+        "rank": 14337,
+        "log2FC": 1.6224,
+        "symbol": "Duxbl2"
+    },
+    {
+        "rank": 7877,
+        "log2FC": -0.0028,
+        "symbol": "Taok2"
+    },
+    {
+        "rank": 4407,
+        "log2FC": -0.3485,
+        "symbol": "Tmtc2"
+    },
+    {
+        "rank": 14045,
+        "log2FC": 1.4085,
+        "symbol": "Lnx2"
+    },
+    {
+        "rank": 9529,
+        "log2FC": 0.1662,
+        "symbol": "Eno1"
+    },
+    {
+        "rank": 3800,
+        "log2FC": -0.4261,
+        "symbol": "Ap3m1"
+    },
+    {
+        "rank": 15559,
+        "log2FC": 4.4936,
+        "symbol": "Dpep1"
+    },
+    {
+        "rank": 7091,
+        "log2FC": -0.0748,
+        "symbol": "1700007L15Rik"
+    },
+    {
+        "rank": 9612,
+        "log2FC": 0.1769,
+        "symbol": "Nfatc2ip"
+    },
+    {
+        "rank": 9215,
+        "log2FC": 0.1335,
+        "symbol": "Atp6v1e1"
+    },
+    {
+        "rank": 7917,
+        "log2FC": 0.0008,
+        "symbol": "Ubxn7"
+    },
+    {
+        "rank": 5298,
+        "log2FC": -0.2508,
+        "symbol": "Mrps9"
+    },
+    {
+        "rank": 11489,
+        "log2FC": 0.4651,
+        "symbol": "Mob3b"
+    },
+    {
+        "rank": 14615,
+        "log2FC": 1.8806,
+        "symbol": "C1qtnf6"
+    },
+    {
+        "rank": 6155,
+        "log2FC": -0.1653,
+        "symbol": "Cenpn"
+    },
+    {
+        "rank": 13511,
+        "log2FC": 1.1283,
+        "symbol": "Pycard"
+    },
+    {
+        "rank": 7303,
+        "log2FC": -0.0554,
+        "symbol": "Rad9a"
+    },
+    {
+        "rank": 14445,
+        "log2FC": 1.7125,
+        "symbol": "Lrrc75a"
+    },
+    {
+        "rank": 6501,
+        "log2FC": -0.1353,
+        "symbol": "Knop1"
+    },
+    {
+        "rank": 7652,
+        "log2FC": -0.0234,
+        "symbol": "Mycbp2"
+    },
+    {
+        "rank": 10549,
+        "log2FC": 0.3059,
+        "symbol": "Fam199x"
+    },
+    {
+        "rank": 7038,
+        "log2FC": -0.0799,
+        "symbol": "Dclk2"
+    },
+    {
+        "rank": 4521,
+        "log2FC": -0.3337,
+        "symbol": "E130307A14Rik"
+    },
+    {
+        "rank": 198,
+        "log2FC": -3.3534,
+        "symbol": "Kcnq5"
+    },
+    {
+        "rank": 14279,
+        "log2FC": 1.5672,
+        "symbol": "Mical1"
+    },
+    {
+        "rank": 5548,
+        "log2FC": -0.2246,
+        "symbol": "Pts"
+    },
+    {
+        "rank": 715,
+        "log2FC": -1.5477,
+        "symbol": "LOC100861978"
+    },
+    {
+        "rank": 10429,
+        "log2FC": 0.2885,
+        "symbol": "Pofut1"
+    },
+    {
+        "rank": 15526,
+        "log2FC": 4.2786,
+        "symbol": "Srrm3"
+    },
+    {
+        "rank": 8506,
+        "log2FC": 0.0569,
+        "symbol": "Rbm15b"
+    },
+    {
+        "rank": 3944,
+        "log2FC": -0.4061,
+        "symbol": "Rp9"
+    },
+    {
+        "rank": 1627,
+        "log2FC": -0.9152,
+        "symbol": "Mrps24"
+    },
+    {
+        "rank": 15069,
+        "log2FC": 2.5853,
+        "symbol": "Gadd45g"
+    },
+    {
+        "rank": 11641,
+        "log2FC": 0.5019,
+        "symbol": "Tmem263"
+    },
+    {
+        "rank": 13631,
+        "log2FC": 1.1848,
+        "symbol": "Naip1"
+    },
+    {
+        "rank": 1156,
+        "log2FC": -1.1643,
+        "symbol": "Epb41l4b"
+    },
+    {
+        "rank": 9454,
+        "log2FC": 0.1577,
+        "symbol": "Ints11"
+    },
+    {
+        "rank": 2375,
+        "log2FC": -0.6883,
+        "symbol": "Ccdc134"
+    },
+    {
+        "rank": 9404,
+        "log2FC": 0.1526,
+        "symbol": "Ppp2r1b"
+    },
+    {
+        "rank": 12612,
+        "log2FC": 0.7657,
+        "symbol": "Arhgap39"
+    },
+    {
+        "rank": 10805,
+        "log2FC": 0.3437,
+        "symbol": "Avpr1a"
+    },
+    {
+        "rank": 10535,
+        "log2FC": 0.3037,
+        "symbol": "Sh2d4a"
+    },
+    {
+        "rank": 10462,
+        "log2FC": 0.2941,
+        "symbol": "Nosip"
+    },
+    {
+        "rank": 12458,
+        "log2FC": 0.7148,
+        "symbol": "Fgd1"
+    },
+    {
+        "rank": 9913,
+        "log2FC": 0.2154,
+        "symbol": "Scamp4"
+    },
+    {
+        "rank": 10871,
+        "log2FC": 0.356,
+        "symbol": "Osbpl11"
+    },
+    {
+        "rank": 5658,
+        "log2FC": -0.2144,
+        "symbol": "Atf5"
+    },
+    {
+        "rank": 9428,
+        "log2FC": 0.155,
+        "symbol": "Lrig1"
+    },
+    {
+        "rank": 4156,
+        "log2FC": -0.3791,
+        "symbol": "Fam131a"
+    },
+    {
+        "rank": 6545,
+        "log2FC": -0.1306,
+        "symbol": "Gm14137"
+    },
+    {
+        "rank": 2259,
+        "log2FC": -0.7173,
+        "symbol": "Nxpe3"
+    },
+    {
+        "rank": 503,
+        "log2FC": -1.9467,
+        "symbol": "BC048644"
+    },
+    {
+        "rank": 14949,
+        "log2FC": 2.3131,
+        "symbol": "Mt2"
+    },
+    {
+        "rank": 13802,
+        "log2FC": 1.2691,
+        "symbol": "Sorbs2"
+    },
+    {
+        "rank": 13617,
+        "log2FC": 1.1801,
+        "symbol": "Ptpn23"
+    },
+    {
+        "rank": 165,
+        "log2FC": -3.6659,
+        "symbol": "Synpo2l"
+    },
+    {
+        "rank": 1937,
+        "log2FC": -0.8056,
+        "symbol": "Slc16a4"
+    },
+    {
+        "rank": 5231,
+        "log2FC": -0.2578,
+        "symbol": "Gm19710"
+    },
+    {
+        "rank": 15516,
+        "log2FC": 4.231,
+        "symbol": "Ptn"
+    },
+    {
+        "rank": 1702,
+        "log2FC": -0.8836,
+        "symbol": "Zfp58"
+    },
+    {
+        "rank": 2208,
+        "log2FC": -0.7315,
+        "symbol": "Rabl6"
+    },
+    {
+        "rank": 7537,
+        "log2FC": -0.0338,
+        "symbol": "D430042O09Rik"
+    },
+    {
+        "rank": 12631,
+        "log2FC": 0.7729,
+        "symbol": "Wipf1"
+    },
+    {
+        "rank": 9446,
+        "log2FC": 0.1568,
+        "symbol": "Stag1"
+    },
+    {
+        "rank": 1658,
+        "log2FC": -0.9006,
+        "symbol": "Dnaaf2"
+    },
+    {
+        "rank": 15008,
+        "log2FC": 2.4232,
+        "symbol": "Cdh11"
+    },
+    {
+        "rank": 10883,
+        "log2FC": 0.3597,
+        "symbol": "Mapre1"
+    },
+    {
+        "rank": 4152,
+        "log2FC": -0.3795,
+        "symbol": "Nup50"
+    },
+    {
+        "rank": 1817,
+        "log2FC": -0.8485,
+        "symbol": "Ggnbp1"
+    },
+    {
+        "rank": 2104,
+        "log2FC": -0.7584,
+        "symbol": "Gm6568"
+    },
+    {
+        "rank": 7448,
+        "log2FC": -0.0417,
+        "symbol": "Dpp3"
+    },
+    {
+        "rank": 4952,
+        "log2FC": -0.2854,
+        "symbol": "Rnf146"
+    },
+    {
+        "rank": 714,
+        "log2FC": -1.5477,
+        "symbol": "Ccl27b"
+    },
+    {
+        "rank": 9075,
+        "log2FC": 0.119,
+        "symbol": "Pcx"
+    },
+    {
+        "rank": 6503,
+        "log2FC": -0.1347,
+        "symbol": "Otud4"
+    },
+    {
+        "rank": 2546,
+        "log2FC": -0.6412,
+        "symbol": "Lrrc19"
+    },
+    {
+        "rank": 10220,
+        "log2FC": 0.2547,
+        "symbol": "Gm9780"
+    },
+    {
+        "rank": 12536,
+        "log2FC": 0.7415,
+        "symbol": "Hjv"
+    },
+    {
+        "rank": 10555,
+        "log2FC": 0.3072,
+        "symbol": "Cacul1"
+    },
+    {
+        "rank": 11122,
+        "log2FC": 0.4007,
+        "symbol": "Cplane1"
+    },
+    {
+        "rank": 1694,
+        "log2FC": -0.8869,
+        "symbol": "Lenep"
+    },
+    {
+        "rank": 856,
+        "log2FC": -1.3917,
+        "symbol": "Esr1"
+    },
+    {
+        "rank": 2836,
+        "log2FC": -0.5827,
+        "symbol": "Vps4a"
+    },
+    {
+        "rank": 12262,
+        "log2FC": 0.664,
+        "symbol": "Cyp3a59"
+    },
+    {
+        "rank": 4914,
+        "log2FC": -0.2893,
+        "symbol": "U2surp"
+    },
+    {
+        "rank": 6133,
+        "log2FC": -0.1672,
+        "symbol": "Map2k2"
+    },
+    {
+        "rank": 12863,
+        "log2FC": 0.8564,
+        "symbol": "Irs2"
+    },
+    {
+        "rank": 5455,
+        "log2FC": -0.2331,
+        "symbol": "Immt"
+    },
+    {
+        "rank": 207,
+        "log2FC": -3.2389,
+        "symbol": "Ciart"
+    },
+    {
+        "rank": 15416,
+        "log2FC": 3.6805,
+        "symbol": "Arntl"
+    },
+    {
+        "rank": 5221,
+        "log2FC": -0.2586,
+        "symbol": "E2f6"
+    },
+    {
+        "rank": 6130,
+        "log2FC": -0.1676,
+        "symbol": "H2bu2"
+    },
+    {
+        "rank": 5635,
+        "log2FC": -0.2166,
+        "symbol": "Rasgrp2"
+    },
+    {
+        "rank": 9502,
+        "log2FC": 0.1637,
+        "symbol": "5730409E04Rik"
+    },
+    {
+        "rank": 12049,
+        "log2FC": 0.6049,
+        "symbol": "Nexn"
+    },
+    {
+        "rank": 1285,
+        "log2FC": -1.0765,
+        "symbol": "Rgs4"
+    },
+    {
+        "rank": 10421,
+        "log2FC": 0.2868,
+        "symbol": "Calm2"
+    },
+    {
+        "rank": 2564,
+        "log2FC": -0.6388,
+        "symbol": "Gm26684"
+    },
+    {
+        "rank": 1712,
+        "log2FC": -0.8791,
+        "symbol": "Angptl6"
+    },
+    {
+        "rank": 2434,
+        "log2FC": -0.6711,
+        "symbol": "Nadk2"
+    },
+    {
+        "rank": 6621,
+        "log2FC": -0.1235,
+        "symbol": "Ctdsp2"
+    },
+    {
+        "rank": 492,
+        "log2FC": -1.9768,
+        "symbol": "Serpina3k"
+    },
+    {
+        "rank": 5170,
+        "log2FC": -0.2638,
+        "symbol": "Psmd3"
+    },
+    {
+        "rank": 1787,
+        "log2FC": -0.8552,
+        "symbol": "AI463170"
+    },
+    {
+        "rank": 5302,
+        "log2FC": -0.2503,
+        "symbol": "Plk5"
+    },
+    {
+        "rank": 7535,
+        "log2FC": -0.0339,
+        "symbol": "Serac1"
+    },
+    {
+        "rank": 11160,
+        "log2FC": 0.4054,
+        "symbol": "Slc7a15"
+    },
+    {
+        "rank": 1067,
+        "log2FC": -1.2171,
+        "symbol": "Cryl1"
+    },
+    {
+        "rank": 13530,
+        "log2FC": 1.1357,
+        "symbol": "Rassf3"
+    },
+    {
+        "rank": 8704,
+        "log2FC": 0.0797,
+        "symbol": "Tmem214"
+    },
+    {
+        "rank": 11548,
+        "log2FC": 0.4806,
+        "symbol": "Scd3"
+    },
+    {
+        "rank": 15626,
+        "log2FC": 4.9546,
+        "symbol": "Rasl10a"
+    },
+    {
+        "rank": 8891,
+        "log2FC": 0.0976,
+        "symbol": "Tatdn2"
+    },
+    {
+        "rank": 7142,
+        "log2FC": -0.0693,
+        "symbol": "Bnip2"
+    },
+    {
+        "rank": 5713,
+        "log2FC": -0.2085,
+        "symbol": "Lnpk"
+    },
+    {
+        "rank": 1412,
+        "log2FC": -1.01,
+        "symbol": "Ugt1a2"
+    },
+    {
+        "rank": 5193,
+        "log2FC": -0.262,
+        "symbol": "Cnppd1"
+    },
+    {
+        "rank": 7414,
+        "log2FC": -0.0448,
+        "symbol": "Anks1"
+    },
+    {
+        "rank": 1978,
+        "log2FC": -0.7928,
+        "symbol": "Ehd3"
+    },
+    {
+        "rank": 5495,
+        "log2FC": -0.2299,
+        "symbol": "D330050I16Rik"
+    },
+    {
+        "rank": 4288,
+        "log2FC": -0.3616,
+        "symbol": "2210016L21Rik"
+    },
+    {
+        "rank": 12825,
+        "log2FC": 0.8405,
+        "symbol": "Myo9a"
+    },
+    {
+        "rank": 7324,
+        "log2FC": -0.0537,
+        "symbol": "Zgpat"
+    },
+    {
+        "rank": 50,
+        "log2FC": -5.5965,
+        "symbol": "Slc2a12"
+    },
+    {
+        "rank": 9934,
+        "log2FC": 0.2178,
+        "symbol": "Msto1"
+    },
+    {
+        "rank": 620,
+        "log2FC": -1.6827,
+        "symbol": "Gm6277"
+    },
+    {
+        "rank": 9813,
+        "log2FC": 0.2022,
+        "symbol": "Cdc34"
+    },
+    {
+        "rank": 11940,
+        "log2FC": 0.5777,
+        "symbol": "Tbcd"
+    },
+    {
+        "rank": 12727,
+        "log2FC": 0.808,
+        "symbol": "Clstn3"
+    },
+    {
+        "rank": 6538,
+        "log2FC": -0.1319,
+        "symbol": "9430037G07Rik"
+    },
+    {
+        "rank": 8520,
+        "log2FC": 0.0588,
+        "symbol": "Brd8"
+    },
+    {
+        "rank": 297,
+        "log2FC": -2.6192,
+        "symbol": "Hnf4aos"
+    },
+    {
+        "rank": 6094,
+        "log2FC": -0.1715,
+        "symbol": "Pxk"
+    },
+    {
+        "rank": 12287,
+        "log2FC": 0.6727,
+        "symbol": "Prex1"
+    },
+    {
+        "rank": 4591,
+        "log2FC": -0.3276,
+        "symbol": "Sqor"
+    },
+    {
+        "rank": 14307,
+        "log2FC": 1.5889,
+        "symbol": "Zfyve28"
+    },
+    {
+        "rank": 1746,
+        "log2FC": -0.8694,
+        "symbol": "Cenpq"
+    },
+    {
+        "rank": 10833,
+        "log2FC": 0.3495,
+        "symbol": "Eya4"
+    },
+    {
+        "rank": 7684,
+        "log2FC": -0.0195,
+        "symbol": "Dcp2"
+    },
+    {
+        "rank": 4274,
+        "log2FC": -0.3641,
+        "symbol": "Coro2b"
+    },
+    {
+        "rank": 2821,
+        "log2FC": -0.586,
+        "symbol": "2410131K14Rik"
+    },
+    {
+        "rank": 5493,
+        "log2FC": -0.2301,
+        "symbol": "Abhd17b"
+    },
+    {
+        "rank": 13984,
+        "log2FC": 1.3659,
+        "symbol": "Pcdh17"
+    },
+    {
+        "rank": 1409,
+        "log2FC": -1.0104,
+        "symbol": "Ebpl"
+    },
+    {
+        "rank": 278,
+        "log2FC": -2.7419,
+        "symbol": "Dlgap3"
+    },
+    {
+        "rank": 15456,
+        "log2FC": 3.8941,
+        "symbol": "Dusp4"
+    },
+    {
+        "rank": 9512,
+        "log2FC": 0.1645,
+        "symbol": "Zfp335"
+    },
+    {
+        "rank": 12820,
+        "log2FC": 0.8393,
+        "symbol": "Mov10"
+    },
+    {
+        "rank": 5678,
+        "log2FC": -0.2125,
+        "symbol": "Gbf1"
+    },
+    {
+        "rank": 11581,
+        "log2FC": 0.4876,
+        "symbol": "Kcnn4"
+    },
+    {
+        "rank": 11868,
+        "log2FC": 0.5584,
+        "symbol": "Enpp4"
+    },
+    {
+        "rank": 13378,
+        "log2FC": 1.0651,
+        "symbol": "Syn1"
+    },
+    {
+        "rank": 7686,
+        "log2FC": -0.0194,
+        "symbol": "Crybg2"
+    },
+    {
+        "rank": 7384,
+        "log2FC": -0.0479,
+        "symbol": "Ing5"
+    },
+    {
+        "rank": 10078,
+        "log2FC": 0.2344,
+        "symbol": "Usp53"
+    },
+    {
+        "rank": 1035,
+        "log2FC": -1.2433,
+        "symbol": "Tnfsf14"
+    },
+    {
+        "rank": 12834,
+        "log2FC": 0.8436,
+        "symbol": "Itga11"
+    },
+    {
+        "rank": 6421,
+        "log2FC": -0.1421,
+        "symbol": "Rps6-ps4"
+    },
+    {
+        "rank": 6026,
+        "log2FC": -0.1783,
+        "symbol": "Nob1"
+    },
+    {
+        "rank": 4874,
+        "log2FC": -0.2938,
+        "symbol": "Zfp267"
+    },
+    {
+        "rank": 5234,
+        "log2FC": -0.2573,
+        "symbol": "Rad1"
+    },
+    {
+        "rank": 9990,
+        "log2FC": 0.225,
+        "symbol": "Tmem161a"
+    },
+    {
+        "rank": 2441,
+        "log2FC": -0.6687,
+        "symbol": "Cxcr3"
+    },
+    {
+        "rank": 10053,
+        "log2FC": 0.2316,
+        "symbol": "Fmr1"
+    },
+    {
+        "rank": 2385,
+        "log2FC": -0.6865,
+        "symbol": "Lrfn4"
+    },
+    {
+        "rank": 2606,
+        "log2FC": -0.6298,
+        "symbol": "Trim30d"
+    },
+    {
+        "rank": 14132,
+        "log2FC": 1.4566,
+        "symbol": "Adora1"
+    },
+    {
+        "rank": 5448,
+        "log2FC": -0.2336,
+        "symbol": "Hnrnpa3"
+    },
+    {
+        "rank": 5460,
+        "log2FC": -0.2326,
+        "symbol": "Mrpl32"
+    },
+    {
+        "rank": 4160,
+        "log2FC": -0.3777,
+        "symbol": "Msh5"
+    },
+    {
+        "rank": 4567,
+        "log2FC": -0.3299,
+        "symbol": "D6Wsu163e"
+    },
+    {
+        "rank": 6441,
+        "log2FC": -0.1404,
+        "symbol": "Casc3"
+    },
+    {
+        "rank": 10051,
+        "log2FC": 0.2313,
+        "symbol": "Snx15"
+    },
+    {
+        "rank": 11390,
+        "log2FC": 0.4442,
+        "symbol": "Naf1"
+    },
+    {
+        "rank": 3727,
+        "log2FC": -0.4383,
+        "symbol": "Zkscan1"
+    },
+    {
+        "rank": 14649,
+        "log2FC": 1.9253,
+        "symbol": "Ccdc68"
+    },
+    {
+        "rank": 8207,
+        "log2FC": 0.0287,
+        "symbol": "Stradb"
+    },
+    {
+        "rank": 6825,
+        "log2FC": -0.1019,
+        "symbol": "Eif3c"
+    },
+    {
+        "rank": 6894,
+        "log2FC": -0.0955,
+        "symbol": "Atf7"
+    },
+    {
+        "rank": 3551,
+        "log2FC": -0.4661,
+        "symbol": "Camk1d"
+    },
+    {
+        "rank": 4749,
+        "log2FC": -0.3087,
+        "symbol": "Akr1d1"
+    },
+    {
+        "rank": 490,
+        "log2FC": -1.9788,
+        "symbol": "Snord34"
+    },
+    {
+        "rank": 4010,
+        "log2FC": -0.3976,
+        "symbol": "Dnaja2"
+    },
+    {
+        "rank": 5944,
+        "log2FC": -0.1864,
+        "symbol": "Ube2i"
+    },
+    {
+        "rank": 914,
+        "log2FC": -1.3417,
+        "symbol": "Slc17a2"
+    },
+    {
+        "rank": 3722,
+        "log2FC": -0.4386,
+        "symbol": "Itch"
+    },
+    {
+        "rank": 11789,
+        "log2FC": 0.5349,
+        "symbol": "Plekhf2"
+    },
+    {
+        "rank": 14423,
+        "log2FC": 1.6941,
+        "symbol": "Il11"
+    },
+    {
+        "rank": 11881,
+        "log2FC": 0.5621,
+        "symbol": "Neto2"
+    },
+    {
+        "rank": 5667,
+        "log2FC": -0.2135,
+        "symbol": "Zfp729b"
+    },
+    {
+        "rank": 6623,
+        "log2FC": -0.1233,
+        "symbol": "Letm1"
+    },
+    {
+        "rank": 422,
+        "log2FC": -2.1229,
+        "symbol": "Fabp2"
+    },
+    {
+        "rank": 5780,
+        "log2FC": -0.2025,
+        "symbol": "Kank1"
+    },
+    {
+        "rank": 2475,
+        "log2FC": -0.6599,
+        "symbol": "Borcs5"
+    },
+    {
+        "rank": 273,
+        "log2FC": -2.7646,
+        "symbol": "Gm6297"
+    },
+    {
+        "rank": 10013,
+        "log2FC": 0.2276,
+        "symbol": "C330013E15Rik"
+    },
+    {
+        "rank": 14662,
+        "log2FC": 1.9373,
+        "symbol": "Col4a2"
+    },
+    {
+        "rank": 9243,
+        "log2FC": 0.1358,
+        "symbol": "Pbx2"
+    },
+    {
+        "rank": 6792,
+        "log2FC": -0.1058,
+        "symbol": "Mtch1"
+    },
+    {
+        "rank": 900,
+        "log2FC": -1.356,
+        "symbol": "Trp53cor1"
+    },
+    {
+        "rank": 2809,
+        "log2FC": -0.5885,
+        "symbol": "Slc10a5"
+    },
+    {
+        "rank": 11494,
+        "log2FC": 0.4657,
+        "symbol": "Tceal9"
+    },
+    {
+        "rank": 5370,
+        "log2FC": -0.2427,
+        "symbol": "Fadd"
+    },
+    {
+        "rank": 12032,
+        "log2FC": 0.6012,
+        "symbol": "Atl3"
+    },
+    {
+        "rank": 12412,
+        "log2FC": 0.7033,
+        "symbol": "Igfbp6"
+    },
+    {
+        "rank": 6187,
+        "log2FC": -0.1622,
+        "symbol": "Stamos"
+    },
+    {
+        "rank": 10251,
+        "log2FC": 0.2585,
+        "symbol": "Focad"
+    },
+    {
+        "rank": 4929,
+        "log2FC": -0.2878,
+        "symbol": "Ube2a"
+    },
+    {
+        "rank": 5443,
+        "log2FC": -0.234,
+        "symbol": "Dnajc21"
+    },
+    {
+        "rank": 102,
+        "log2FC": -4.4886,
+        "symbol": "Chic1"
+    },
+    {
+        "rank": 1998,
+        "log2FC": -0.7875,
+        "symbol": "Cd300lg"
+    },
+    {
+        "rank": 2219,
+        "log2FC": -0.7297,
+        "symbol": "Dna2"
+    },
+    {
+        "rank": 3960,
+        "log2FC": -0.4035,
+        "symbol": "Myorg"
+    },
+    {
+        "rank": 12639,
+        "log2FC": 0.7749,
+        "symbol": "D430019H16Rik"
+    },
+    {
+        "rank": 831,
+        "log2FC": -1.4146,
+        "symbol": "Csrp3"
+    },
+    {
+        "rank": 2990,
+        "log2FC": -0.5526,
+        "symbol": "Nlrc3"
+    },
+    {
+        "rank": 3780,
+        "log2FC": -0.4285,
+        "symbol": "Fgd5"
+    },
+    {
+        "rank": 2915,
+        "log2FC": -0.567,
+        "symbol": "Lman1"
+    },
+    {
+        "rank": 6248,
+        "log2FC": -0.1574,
+        "symbol": "Klhl25"
+    },
+    {
+        "rank": 11345,
+        "log2FC": 0.4354,
+        "symbol": "Gnb1"
+    },
+    {
+        "rank": 12812,
+        "log2FC": 0.837,
+        "symbol": "Slc29a3"
+    },
+    {
+        "rank": 12,
+        "log2FC": -9.6567,
+        "symbol": "Cyp3a41b"
+    },
+    {
+        "rank": 10609,
+        "log2FC": 0.3155,
+        "symbol": "Ddx39"
+    },
+    {
+        "rank": 12922,
+        "log2FC": 0.8738,
+        "symbol": "Mmp11"
+    },
+    {
+        "rank": 1933,
+        "log2FC": -0.8067,
+        "symbol": "Dleu2"
+    },
+    {
+        "rank": 7160,
+        "log2FC": -0.0681,
+        "symbol": "Ece1"
+    },
+    {
+        "rank": 3833,
+        "log2FC": -0.4219,
+        "symbol": "Rps24"
+    },
+    {
+        "rank": 9142,
+        "log2FC": 0.1264,
+        "symbol": "Myl6b"
+    },
+    {
+        "rank": 9793,
+        "log2FC": 0.1994,
+        "symbol": "2310034G01Rik"
+    },
+    {
+        "rank": 2352,
+        "log2FC": -0.6955,
+        "symbol": "Apol7e"
+    },
+    {
+        "rank": 13001,
+        "log2FC": 0.9058,
+        "symbol": "Fbxo44"
+    },
+    {
+        "rank": 5167,
+        "log2FC": -0.2639,
+        "symbol": "Tmppe"
+    },
+    {
+        "rank": 6823,
+        "log2FC": -0.1021,
+        "symbol": "Tpm2"
+    },
+    {
+        "rank": 15458,
+        "log2FC": 3.9072,
+        "symbol": "Golm1"
+    },
+    {
+        "rank": 2025,
+        "log2FC": -0.7812,
+        "symbol": "4632415L05Rik"
+    },
+    {
+        "rank": 9627,
+        "log2FC": 0.1797,
+        "symbol": "Zhx2"
+    },
+    {
+        "rank": 8063,
+        "log2FC": 0.0147,
+        "symbol": "Pcsk7"
+    },
+    {
+        "rank": 9650,
+        "log2FC": 0.1819,
+        "symbol": "Crot"
+    },
+    {
+        "rank": 12012,
+        "log2FC": 0.5968,
+        "symbol": "Fam49a"
+    },
+    {
+        "rank": 11601,
+        "log2FC": 0.4924,
+        "symbol": "Arid3a"
+    },
+    {
+        "rank": 9086,
+        "log2FC": 0.1204,
+        "symbol": "4833418N02Rik"
+    },
+    {
+        "rank": 5884,
+        "log2FC": -0.1918,
+        "symbol": "Usp45"
+    },
+    {
+        "rank": 4323,
+        "log2FC": -0.3569,
+        "symbol": "Dhx9"
+    },
+    {
+        "rank": 11821,
+        "log2FC": 0.5465,
+        "symbol": "Mfsd9"
+    },
+    {
+        "rank": 15029,
+        "log2FC": 2.4805,
+        "symbol": "Ltbp2"
+    },
+    {
+        "rank": 13837,
+        "log2FC": 1.2858,
+        "symbol": "Plcb2"
+    },
+    {
+        "rank": 5825,
+        "log2FC": -0.1979,
+        "symbol": "Emc4"
+    },
+    {
+        "rank": 15495,
+        "log2FC": 4.0994,
+        "symbol": "Mir1905"
+    },
+    {
+        "rank": 5719,
+        "log2FC": -0.2082,
+        "symbol": "Zfat"
+    },
+    {
+        "rank": 7967,
+        "log2FC": 0.0049,
+        "symbol": "Ssrp1"
+    },
+    {
+        "rank": 3554,
+        "log2FC": -0.4657,
+        "symbol": "A530016L24Rik"
+    },
+    {
+        "rank": 1491,
+        "log2FC": -0.9688,
+        "symbol": "Casc4"
+    },
+    {
+        "rank": 9044,
+        "log2FC": 0.1156,
+        "symbol": "Trim6"
+    },
+    {
+        "rank": 1681,
+        "log2FC": -0.8922,
+        "symbol": "Cep152"
+    },
+    {
+        "rank": 2290,
+        "log2FC": -0.7105,
+        "symbol": "Gm31520"
+    },
+    {
+        "rank": 2362,
+        "log2FC": -0.6931,
+        "symbol": "Tle1"
+    },
+    {
+        "rank": 5773,
+        "log2FC": -0.2033,
+        "symbol": "Mfsd14a"
+    },
+    {
+        "rank": 13284,
+        "log2FC": 1.0238,
+        "symbol": "Tmem169"
+    },
+    {
+        "rank": 9452,
+        "log2FC": 0.1574,
+        "symbol": "Trp53bp1"
+    },
+    {
+        "rank": 11294,
+        "log2FC": 0.4251,
+        "symbol": "Tspyl3"
+    },
+    {
+        "rank": 944,
+        "log2FC": -1.3148,
+        "symbol": "Chd3"
+    },
+    {
+        "rank": 12176,
+        "log2FC": 0.644,
+        "symbol": "Sntb2"
+    },
+    {
+        "rank": 6097,
+        "log2FC": -0.1712,
+        "symbol": "Cct7"
+    },
+    {
+        "rank": 9013,
+        "log2FC": 0.112,
+        "symbol": "Bod1l"
+    },
+    {
+        "rank": 159,
+        "log2FC": -3.7399,
+        "symbol": "Gm32511"
+    },
+    {
+        "rank": 8926,
+        "log2FC": 0.1016,
+        "symbol": "Cstf2"
+    },
+    {
+        "rank": 2701,
+        "log2FC": -0.6104,
+        "symbol": "Czib"
+    },
+    {
+        "rank": 3788,
+        "log2FC": -0.4273,
+        "symbol": "Nf2"
+    },
+    {
+        "rank": 13660,
+        "log2FC": 1.1985,
+        "symbol": "Grk3"
+    },
+    {
+        "rank": 7669,
+        "log2FC": -0.021,
+        "symbol": "Eri3"
+    },
+    {
+        "rank": 8469,
+        "log2FC": 0.0543,
+        "symbol": "Tsr2"
+    },
+    {
+        "rank": 2284,
+        "log2FC": -0.7137,
+        "symbol": "Klf15"
+    },
+    {
+        "rank": 5784,
+        "log2FC": -0.2019,
+        "symbol": "Cmss1"
+    },
+    {
+        "rank": 14251,
+        "log2FC": 1.5479,
+        "symbol": "Plet1os"
+    },
+    {
+        "rank": 4099,
+        "log2FC": -0.387,
+        "symbol": "Prdx1"
+    },
+    {
+        "rank": 12000,
+        "log2FC": 0.5939,
+        "symbol": "Hdac7"
+    },
+    {
+        "rank": 702,
+        "log2FC": -1.5602,
+        "symbol": "Grhl2"
+    },
+    {
+        "rank": 11036,
+        "log2FC": 0.3828,
+        "symbol": "Patl1"
+    },
+    {
+        "rank": 7598,
+        "log2FC": -0.0285,
+        "symbol": "Agbl3"
+    },
+    {
+        "rank": 8527,
+        "log2FC": 0.0593,
+        "symbol": "Zfp958"
+    },
+    {
+        "rank": 8443,
+        "log2FC": 0.0514,
+        "symbol": "Tra2b"
+    },
+    {
+        "rank": 13804,
+        "log2FC": 1.27,
+        "symbol": "Tax1bp3"
+    },
+    {
+        "rank": 11427,
+        "log2FC": 0.4518,
+        "symbol": "Kctd12b"
+    },
+    {
+        "rank": 12175,
+        "log2FC": 0.6436,
+        "symbol": "Git1"
+    },
+    {
+        "rank": 1391,
+        "log2FC": -1.0197,
+        "symbol": "Ddo"
+    },
+    {
+        "rank": 3735,
+        "log2FC": -0.4363,
+        "symbol": "Gm20300"
+    },
+    {
+        "rank": 14656,
+        "log2FC": 1.9328,
+        "symbol": "Pcdhb16"
+    },
+    {
+        "rank": 11115,
+        "log2FC": 0.3977,
+        "symbol": "Stat5b"
+    },
+    {
+        "rank": 13835,
+        "log2FC": 1.2854,
+        "symbol": "Mmp9"
+    },
+    {
+        "rank": 12722,
+        "log2FC": 0.8073,
+        "symbol": "Lims1"
+    },
+    {
+        "rank": 8627,
+        "log2FC": 0.0705,
+        "symbol": "Emd"
+    },
+    {
+        "rank": 5374,
+        "log2FC": -0.2423,
+        "symbol": "Mettl5"
+    },
+    {
+        "rank": 12615,
+        "log2FC": 0.7664,
+        "symbol": "Slfn9"
+    },
+    {
+        "rank": 5854,
+        "log2FC": -0.1952,
+        "symbol": "Cggbp1"
+    },
+    {
+        "rank": 9357,
+        "log2FC": 0.1471,
+        "symbol": "Dmap1"
+    },
+    {
+        "rank": 11133,
+        "log2FC": 0.4025,
+        "symbol": "Donson"
+    },
+    {
+        "rank": 1668,
+        "log2FC": -0.8981,
+        "symbol": "Ribc1"
+    },
+    {
+        "rank": 9298,
+        "log2FC": 0.141,
+        "symbol": "Ankmy1"
+    },
+    {
+        "rank": 12219,
+        "log2FC": 0.6545,
+        "symbol": "Il1r1"
+    },
+    {
+        "rank": 3868,
+        "log2FC": -0.4171,
+        "symbol": "Mecr"
+    },
+    {
+        "rank": 14576,
+        "log2FC": 1.8291,
+        "symbol": "Bard1"
+    },
+    {
+        "rank": 9926,
+        "log2FC": 0.2172,
+        "symbol": "Hmgxb4"
+    },
+    {
+        "rank": 13680,
+        "log2FC": 1.2048,
+        "symbol": "Klk1b4"
+    },
+    {
+        "rank": 14720,
+        "log2FC": 2.0105,
+        "symbol": "Col6a2"
+    },
+    {
+        "rank": 950,
+        "log2FC": -1.3106,
+        "symbol": "Gm41259"
+    },
+    {
+        "rank": 14627,
+        "log2FC": 1.899,
+        "symbol": "Zfp449"
+    },
+    {
+        "rank": 12484,
+        "log2FC": 0.7248,
+        "symbol": "Gcnt7"
+    },
+    {
+        "rank": 11319,
+        "log2FC": 0.4297,
+        "symbol": "Tmem229b"
+    },
+    {
+        "rank": 7262,
+        "log2FC": -0.0584,
+        "symbol": "Armcx6"
+    },
+    {
+        "rank": 9789,
+        "log2FC": 0.1991,
+        "symbol": "Dph7"
+    },
+    {
+        "rank": 5349,
+        "log2FC": -0.2448,
+        "symbol": "Lamtor3"
+    },
+    {
+        "rank": 13719,
+        "log2FC": 1.2218,
+        "symbol": "Spin2c"
+    },
+    {
+        "rank": 5242,
+        "log2FC": -0.2566,
+        "symbol": "Fbxo3"
+    },
+    {
+        "rank": 698,
+        "log2FC": -1.5662,
+        "symbol": "Onecut1"
+    },
+    {
+        "rank": 338,
+        "log2FC": -2.4058,
+        "symbol": "Mnd1"
+    },
+    {
+        "rank": 9150,
+        "log2FC": 0.1269,
+        "symbol": "Shc1"
+    },
+    {
+        "rank": 7197,
+        "log2FC": -0.0647,
+        "symbol": "Nav2"
+    },
+    {
+        "rank": 11614,
+        "log2FC": 0.496,
+        "symbol": "Pak2"
+    },
+    {
+        "rank": 8060,
+        "log2FC": 0.0144,
+        "symbol": "Naa25"
+    },
+    {
+        "rank": 4054,
+        "log2FC": -0.3918,
+        "symbol": "Aktip"
+    },
+    {
+        "rank": 6269,
+        "log2FC": -0.1559,
+        "symbol": "Kit"
+    },
+    {
+        "rank": 4956,
+        "log2FC": -0.2853,
+        "symbol": "Senp2"
+    },
+    {
+        "rank": 15081,
+        "log2FC": 2.6066,
+        "symbol": "Fam83a"
+    },
+    {
+        "rank": 12606,
+        "log2FC": 0.7623,
+        "symbol": "Vash1"
+    },
+    {
+        "rank": 11809,
+        "log2FC": 0.5413,
+        "symbol": "Ctnna1"
+    },
+    {
+        "rank": 4759,
+        "log2FC": -0.3072,
+        "symbol": "Katna1"
+    },
+    {
+        "rank": 13211,
+        "log2FC": 0.9933,
+        "symbol": "Pilrb1"
+    },
+    {
+        "rank": 4331,
+        "log2FC": -0.3557,
+        "symbol": "Ubr7"
+    },
+    {
+        "rank": 9548,
+        "log2FC": 0.169,
+        "symbol": "Clcn3"
+    },
+    {
+        "rank": 3855,
+        "log2FC": -0.4185,
+        "symbol": "Blvrb"
+    },
+    {
+        "rank": 7878,
+        "log2FC": -0.0027,
+        "symbol": "Tat"
+    },
+    {
+        "rank": 14717,
+        "log2FC": 2.0072,
+        "symbol": "Tmem35a"
+    },
+    {
+        "rank": 14926,
+        "log2FC": 2.2812,
+        "symbol": "Tmem100"
+    },
+    {
+        "rank": 2176,
+        "log2FC": -0.7405,
+        "symbol": "Pop1"
+    },
+    {
+        "rank": 8664,
+        "log2FC": 0.0742,
+        "symbol": "Eml5"
+    },
+    {
+        "rank": 4617,
+        "log2FC": -0.3256,
+        "symbol": "Actl6a"
+    },
+    {
+        "rank": 11429,
+        "log2FC": 0.4521,
+        "symbol": "Dlk1"
+    },
+    {
+        "rank": 6258,
+        "log2FC": -0.1567,
+        "symbol": "Cops7a"
+    },
+    {
+        "rank": 15043,
+        "log2FC": 2.522,
+        "symbol": "Tpx2"
+    },
+    {
+        "rank": 3417,
+        "log2FC": -0.4843,
+        "symbol": "Pex7"
+    },
+    {
+        "rank": 1152,
+        "log2FC": -1.1657,
+        "symbol": "Nr1h4"
+    },
+    {
+        "rank": 13268,
+        "log2FC": 1.0174,
+        "symbol": "Mir7676-1"
+    },
+    {
+        "rank": 12239,
+        "log2FC": 0.6581,
+        "symbol": "Zfyve16"
+    },
+    {
+        "rank": 10913,
+        "log2FC": 0.3636,
+        "symbol": "Ctdp1"
+    },
+    {
+        "rank": 10489,
+        "log2FC": 0.2976,
+        "symbol": "Fryl"
+    },
+    {
+        "rank": 1921,
+        "log2FC": -0.8105,
+        "symbol": "Pop5"
+    },
+    {
+        "rank": 6691,
+        "log2FC": -0.1165,
+        "symbol": "Setd3"
+    },
+    {
+        "rank": 14181,
+        "log2FC": 1.5054,
+        "symbol": "Map3k13"
+    },
+    {
+        "rank": 176,
+        "log2FC": -3.5457,
+        "symbol": "Cyp2c54"
+    },
+    {
+        "rank": 2726,
+        "log2FC": -0.6026,
+        "symbol": "Hsdl2"
+    },
+    {
+        "rank": 8147,
+        "log2FC": 0.0222,
+        "symbol": "Ino80d"
+    },
+    {
+        "rank": 8968,
+        "log2FC": 0.1061,
+        "symbol": "Golga2"
+    },
+    {
+        "rank": 11486,
+        "log2FC": 0.4648,
+        "symbol": "BC034090"
+    },
+    {
+        "rank": 9239,
+        "log2FC": 0.1351,
+        "symbol": "E030011O05Rik"
+    },
+    {
+        "rank": 8308,
+        "log2FC": 0.0378,
+        "symbol": "Zfp72"
+    },
+    {
+        "rank": 12273,
+        "log2FC": 0.6677,
+        "symbol": "Rusc2"
+    },
+    {
+        "rank": 8612,
+        "log2FC": 0.0691,
+        "symbol": "Grk2"
+    },
+    {
+        "rank": 8642,
+        "log2FC": 0.0717,
+        "symbol": "Dennd2d"
+    },
+    {
+        "rank": 11767,
+        "log2FC": 0.5286,
+        "symbol": "Cald1"
+    },
+    {
+        "rank": 3199,
+        "log2FC": -0.5184,
+        "symbol": "Ercc6"
+    },
+    {
+        "rank": 15571,
+        "log2FC": 4.5612,
+        "symbol": "Bex2"
+    },
+    {
+        "rank": 11527,
+        "log2FC": 0.4742,
+        "symbol": "Zfp28"
+    },
+    {
+        "rank": 2727,
+        "log2FC": -0.6023,
+        "symbol": "1810064F22Rik"
+    },
+    {
+        "rank": 2129,
+        "log2FC": -0.7517,
+        "symbol": "Zfp882"
+    },
+    {
+        "rank": 9386,
+        "log2FC": 0.15,
+        "symbol": "Mrvi1"
+    },
+    {
+        "rank": 7661,
+        "log2FC": -0.022,
+        "symbol": "Tango6"
+    },
+    {
+        "rank": 10839,
+        "log2FC": 0.3505,
+        "symbol": "Flvcr1"
+    },
+    {
+        "rank": 4975,
+        "log2FC": -0.2832,
+        "symbol": "Tlk2"
+    },
+    {
+        "rank": 536,
+        "log2FC": -1.8725,
+        "symbol": "Cela1"
+    },
+    {
+        "rank": 951,
+        "log2FC": -1.3071,
+        "symbol": "4930581F22Rik"
+    },
+    {
+        "rank": 12903,
+        "log2FC": 0.8672,
+        "symbol": "Rnf219"
+    },
+    {
+        "rank": 2829,
+        "log2FC": -0.5845,
+        "symbol": "9130221H12Rik"
+    },
+    {
+        "rank": 11515,
+        "log2FC": 0.4716,
+        "symbol": "Slc25a33"
+    },
+    {
+        "rank": 329,
+        "log2FC": -2.4458,
+        "symbol": "Prr18"
+    },
+    {
+        "rank": 7057,
+        "log2FC": -0.0779,
+        "symbol": "Hyal2"
+    },
+    {
+        "rank": 4805,
+        "log2FC": -0.3017,
+        "symbol": "BC017158"
+    },
+    {
+        "rank": 8262,
+        "log2FC": 0.0333,
+        "symbol": "Rsbn1"
+    },
+    {
+        "rank": 6146,
+        "log2FC": -0.1662,
+        "symbol": "Ppie"
+    },
+    {
+        "rank": 15387,
+        "log2FC": 3.5147,
+        "symbol": "Fzd3"
+    },
+    {
+        "rank": 12269,
+        "log2FC": 0.6657,
+        "symbol": "Dnajc16"
+    },
+    {
+        "rank": 341,
+        "log2FC": -2.3906,
+        "symbol": "Slc22a30"
+    },
+    {
+        "rank": 3100,
+        "log2FC": -0.5322,
+        "symbol": "Vdac2"
+    },
+    {
+        "rank": 12988,
+        "log2FC": 0.9,
+        "symbol": "Gm51287"
+    },
+    {
+        "rank": 8990,
+        "log2FC": 0.1091,
+        "symbol": "Ndel1"
+    },
+    {
+        "rank": 2175,
+        "log2FC": -0.7405,
+        "symbol": "Tmem67"
+    },
+    {
+        "rank": 12717,
+        "log2FC": 0.8052,
+        "symbol": "Vcpkmt"
+    },
+    {
+        "rank": 7468,
+        "log2FC": -0.0393,
+        "symbol": "Bmp7"
+    },
+    {
+        "rank": 8251,
+        "log2FC": 0.0323,
+        "symbol": "Pip5k1a"
+    },
+    {
+        "rank": 6929,
+        "log2FC": -0.0919,
+        "symbol": "Sertad1"
+    },
+    {
+        "rank": 4370,
+        "log2FC": -0.3517,
+        "symbol": "Coasy"
+    },
+    {
+        "rank": 4987,
+        "log2FC": -0.2822,
+        "symbol": "Taf4"
+    },
+    {
+        "rank": 7310,
+        "log2FC": -0.0547,
+        "symbol": "Bmp2k"
+    },
+    {
+        "rank": 5414,
+        "log2FC": -0.2376,
+        "symbol": "Vil1"
+    },
+    {
+        "rank": 3209,
+        "log2FC": -0.5171,
+        "symbol": "Tln2"
+    },
+    {
+        "rank": 8035,
+        "log2FC": 0.0115,
+        "symbol": "Nynrin"
+    },
+    {
+        "rank": 7552,
+        "log2FC": -0.0323,
+        "symbol": "Gfpt1"
+    },
+    {
+        "rank": 4669,
+        "log2FC": -0.3193,
+        "symbol": "Iscu"
+    },
+    {
+        "rank": 13087,
+        "log2FC": 0.9438,
+        "symbol": "Was"
+    },
+    {
+        "rank": 9740,
+        "log2FC": 0.1925,
+        "symbol": "Arap2"
+    },
+    {
+        "rank": 1780,
+        "log2FC": -0.8565,
+        "symbol": "Fam209"
+    },
+    {
+        "rank": 13788,
+        "log2FC": 1.2587,
+        "symbol": "Il7r"
+    },
+    {
+        "rank": 14105,
+        "log2FC": 1.439,
+        "symbol": "Cgn"
+    },
+    {
+        "rank": 5009,
+        "log2FC": -0.2798,
+        "symbol": "Fnbp4"
+    },
+    {
+        "rank": 14230,
+        "log2FC": 1.5328,
+        "symbol": "Cd248"
+    },
+    {
+        "rank": 12022,
+        "log2FC": 0.5999,
+        "symbol": "Fam241b"
+    },
+    {
+        "rank": 8865,
+        "log2FC": 0.0953,
+        "symbol": "Bap1"
+    },
+    {
+        "rank": 10537,
+        "log2FC": 0.304,
+        "symbol": "Snx29"
+    },
+    {
+        "rank": 10156,
+        "log2FC": 0.2451,
+        "symbol": "Pja2"
+    },
+    {
+        "rank": 11569,
+        "log2FC": 0.4859,
+        "symbol": "Hipk2"
+    },
+    {
+        "rank": 11600,
+        "log2FC": 0.4919,
+        "symbol": "Grn"
+    },
+    {
+        "rank": 8956,
+        "log2FC": 0.105,
+        "symbol": "Hcfc1r1"
+    },
+    {
+        "rank": 4557,
+        "log2FC": -0.3311,
+        "symbol": "H2-Q9"
+    },
+    {
+        "rank": 8240,
+        "log2FC": 0.0315,
+        "symbol": "Lrif1"
+    },
+    {
+        "rank": 2364,
+        "log2FC": -0.6929,
+        "symbol": "Ybey"
+    },
+    {
+        "rank": 4649,
+        "log2FC": -0.3216,
+        "symbol": "4933434E20Rik"
+    },
+    {
+        "rank": 8546,
+        "log2FC": 0.0615,
+        "symbol": "Cript"
+    },
+    {
+        "rank": 12940,
+        "log2FC": 0.8799,
+        "symbol": "Epn2"
+    },
+    {
+        "rank": 6216,
+        "log2FC": -0.1594,
+        "symbol": "Samsn1"
+    },
+    {
+        "rank": 11971,
+        "log2FC": 0.5861,
+        "symbol": "Tnfrsf22"
+    },
+    {
+        "rank": 2739,
+        "log2FC": -0.6004,
+        "symbol": "Heatr1"
+    },
+    {
+        "rank": 3290,
+        "log2FC": -0.5058,
+        "symbol": "Fbxo5"
+    },
+    {
+        "rank": 9007,
+        "log2FC": 0.1117,
+        "symbol": "Zc3h4"
+    },
+    {
+        "rank": 4527,
+        "log2FC": -0.3334,
+        "symbol": "Gm28043"
+    },
+    {
+        "rank": 1692,
+        "log2FC": -0.8872,
+        "symbol": "Cachd1"
+    },
+    {
+        "rank": 8327,
+        "log2FC": 0.0392,
+        "symbol": "Ccar1"
+    },
+    {
+        "rank": 9432,
+        "log2FC": 0.1558,
+        "symbol": "Arnt"
+    },
+    {
+        "rank": 7121,
+        "log2FC": -0.0712,
+        "symbol": "Psmc3"
+    },
+    {
+        "rank": 7,
+        "log2FC": -10.1958,
+        "symbol": "Mup22"
+    },
+    {
+        "rank": 924,
+        "log2FC": -1.3347,
+        "symbol": "Morn4"
+    },
+    {
+        "rank": 14168,
+        "log2FC": 1.4911,
+        "symbol": "2210010C04Rik"
+    },
+    {
+        "rank": 9046,
+        "log2FC": 0.1157,
+        "symbol": "Nkiras2"
+    },
+    {
+        "rank": 15263,
+        "log2FC": 3.0428,
+        "symbol": "Peg10"
+    },
+    {
+        "rank": 14114,
+        "log2FC": 1.4465,
+        "symbol": "Tmem86a"
+    },
+    {
+        "rank": 8070,
+        "log2FC": 0.0158,
+        "symbol": "Mettl16"
+    },
+    {
+        "rank": 9293,
+        "log2FC": 0.1403,
+        "symbol": "Hnrnpa0"
+    },
+    {
+        "rank": 14476,
+        "log2FC": 1.7366,
+        "symbol": "Cyp2d9"
+    },
+    {
+        "rank": 4789,
+        "log2FC": -0.3034,
+        "symbol": "Egfl8"
+    },
+    {
+        "rank": 10906,
+        "log2FC": 0.3631,
+        "symbol": "Dhh"
+    },
+    {
+        "rank": 4694,
+        "log2FC": -0.3159,
+        "symbol": "Vps52"
+    },
+    {
+        "rank": 9915,
+        "log2FC": 0.2158,
+        "symbol": "Tmem104"
+    },
+    {
+        "rank": 15366,
+        "log2FC": 3.3819,
+        "symbol": "Misp"
+    },
+    {
+        "rank": 8087,
+        "log2FC": 0.0173,
+        "symbol": "Eme1"
+    },
+    {
+        "rank": 1348,
+        "log2FC": -1.0422,
+        "symbol": "Gapdhs"
+    },
+    {
+        "rank": 8776,
+        "log2FC": 0.0865,
+        "symbol": "Wars"
+    },
+    {
+        "rank": 10281,
+        "log2FC": 0.2642,
+        "symbol": "Pfn1"
+    },
+    {
+        "rank": 10117,
+        "log2FC": 0.2391,
+        "symbol": "Sipa1l1"
+    },
+    {
+        "rank": 14202,
+        "log2FC": 1.5167,
+        "symbol": "Ubtd2"
+    },
+    {
+        "rank": 1543,
+        "log2FC": -0.9465,
+        "symbol": "Gpr135"
+    },
+    {
+        "rank": 7957,
+        "log2FC": 0.004,
+        "symbol": "Wdr41"
+    },
+    {
+        "rank": 1452,
+        "log2FC": -0.9893,
+        "symbol": "Mzb1"
+    },
+    {
+        "rank": 6220,
+        "log2FC": -0.1593,
+        "symbol": "Hnrnpll"
+    },
+    {
+        "rank": 221,
+        "log2FC": -3.1459,
+        "symbol": "Nat8f3"
+    },
+    {
+        "rank": 8099,
+        "log2FC": 0.0182,
+        "symbol": "Pggt1b"
+    },
+    {
+        "rank": 7538,
+        "log2FC": -0.0336,
+        "symbol": "Zfp97"
+    },
+    {
+        "rank": 7632,
+        "log2FC": -0.0253,
+        "symbol": "Ube2d2b"
+    },
+    {
+        "rank": 7348,
+        "log2FC": -0.0517,
+        "symbol": "Pdlim5"
+    },
+    {
+        "rank": 14948,
+        "log2FC": 2.3105,
+        "symbol": "Neurl1b"
+    },
+    {
+        "rank": 13754,
+        "log2FC": 1.2398,
+        "symbol": "Ebi3"
+    },
+    {
+        "rank": 580,
+        "log2FC": -1.7656,
+        "symbol": "Polr3g"
+    },
+    {
+        "rank": 7241,
+        "log2FC": -0.0597,
+        "symbol": "Nsun3"
+    },
+    {
+        "rank": 8736,
+        "log2FC": 0.0828,
+        "symbol": "Sin3a"
+    },
+    {
+        "rank": 12932,
+        "log2FC": 0.8759,
+        "symbol": "Psma8"
+    },
+    {
+        "rank": 3214,
+        "log2FC": -0.5164,
+        "symbol": "Cep104"
+    },
+    {
+        "rank": 12803,
+        "log2FC": 0.835,
+        "symbol": "Tgfbr1"
+    },
+    {
+        "rank": 12689,
+        "log2FC": 0.795,
+        "symbol": "Plec"
+    },
+    {
+        "rank": 12178,
+        "log2FC": 0.645,
+        "symbol": "Scarb1"
+    },
+    {
+        "rank": 7996,
+        "log2FC": 0.0071,
+        "symbol": "Armc9"
+    },
+    {
+        "rank": 3220,
+        "log2FC": -0.5158,
+        "symbol": "Xpot"
+    },
+    {
+        "rank": 2985,
+        "log2FC": -0.5538,
+        "symbol": "Ccdc163"
+    },
+    {
+        "rank": 13251,
+        "log2FC": 1.0112,
+        "symbol": "Prkcb"
+    },
+    {
+        "rank": 7334,
+        "log2FC": -0.0528,
+        "symbol": "D730003I15Rik"
+    },
+    {
+        "rank": 3866,
+        "log2FC": -0.4173,
+        "symbol": "Acsf2"
+    },
+    {
+        "rank": 269,
+        "log2FC": -2.7846,
+        "symbol": "Inhbe"
+    },
+    {
+        "rank": 15331,
+        "log2FC": 3.2625,
+        "symbol": "Tuba8"
+    },
+    {
+        "rank": 2669,
+        "log2FC": -0.6153,
+        "symbol": "Mir22hg"
+    },
+    {
+        "rank": 11946,
+        "log2FC": 0.5802,
+        "symbol": "Fam177a2"
+    },
+    {
+        "rank": 551,
+        "log2FC": -1.8359,
+        "symbol": "Gpr27"
+    },
+    {
+        "rank": 7600,
+        "log2FC": -0.0284,
+        "symbol": "Plpp5"
+    },
+    {
+        "rank": 14196,
+        "log2FC": 1.5129,
+        "symbol": "Dock11"
+    },
+    {
+        "rank": 774,
+        "log2FC": -1.4755,
+        "symbol": "Gm38560"
+    },
+    {
+        "rank": 15415,
+        "log2FC": 3.6796,
+        "symbol": "5930403L14Rik"
+    },
+    {
+        "rank": 10015,
+        "log2FC": 0.2277,
+        "symbol": "Tnfrsf13b"
+    },
+    {
+        "rank": 1483,
+        "log2FC": -0.9742,
+        "symbol": "Lama3"
+    },
+    {
+        "rank": 15222,
+        "log2FC": 2.9508,
+        "symbol": "Pcdha4"
+    },
+    {
+        "rank": 1476,
+        "log2FC": -0.9774,
+        "symbol": "Fut11"
+    },
+    {
+        "rank": 10764,
+        "log2FC": 0.3379,
+        "symbol": "Lcp1"
+    },
+    {
+        "rank": 15654,
+        "log2FC": 5.3756,
+        "symbol": "Wnt7a"
+    },
+    {
+        "rank": 2399,
+        "log2FC": -0.6807,
+        "symbol": "Ccdc162"
+    },
+    {
+        "rank": 3534,
+        "log2FC": -0.4688,
+        "symbol": "Nxpe2"
+    },
+    {
+        "rank": 1248,
+        "log2FC": -1.1022,
+        "symbol": "Efhd1"
+    },
+    {
+        "rank": 13755,
+        "log2FC": 1.2398,
+        "symbol": "Pde1c"
+    },
+    {
+        "rank": 7800,
+        "log2FC": -0.0103,
+        "symbol": "Rock1"
+    },
+    {
+        "rank": 9329,
+        "log2FC": 0.1437,
+        "symbol": "Prpf4"
+    },
+    {
+        "rank": 9020,
+        "log2FC": 0.1131,
+        "symbol": "Rab1b"
+    },
+    {
+        "rank": 4600,
+        "log2FC": -0.3268,
+        "symbol": "Galnt4"
+    },
+    {
+        "rank": 6184,
+        "log2FC": -0.1625,
+        "symbol": "Rbm28"
+    },
+    {
+        "rank": 8585,
+        "log2FC": 0.0658,
+        "symbol": "Exosc8"
+    },
+    {
+        "rank": 1406,
+        "log2FC": -1.0119,
+        "symbol": "Efna5"
+    },
+    {
+        "rank": 14694,
+        "log2FC": 1.9773,
+        "symbol": "Gpr161"
+    },
+    {
+        "rank": 11266,
+        "log2FC": 0.4215,
+        "symbol": "Tmem117"
+    },
+    {
+        "rank": 9015,
+        "log2FC": 0.1121,
+        "symbol": "Elf2"
+    },
+    {
+        "rank": 382,
+        "log2FC": -2.253,
+        "symbol": "Lifr"
+    },
+    {
+        "rank": 3497,
+        "log2FC": -0.4752,
+        "symbol": "Cpsf6"
+    },
+    {
+        "rank": 6960,
+        "log2FC": -0.0886,
+        "symbol": "Ext2"
+    },
+    {
+        "rank": 15674,
+        "log2FC": 5.6965,
+        "symbol": "Elovl7"
+    },
+    {
+        "rank": 12296,
+        "log2FC": 0.6749,
+        "symbol": "Lsm5"
+    },
+    {
+        "rank": 4096,
+        "log2FC": -0.3874,
+        "symbol": "Cers6"
+    },
+    {
+        "rank": 3034,
+        "log2FC": -0.5435,
+        "symbol": "Pih1d1"
+    },
+    {
+        "rank": 7443,
+        "log2FC": -0.0418,
+        "symbol": "Dsc2"
+    },
+    {
+        "rank": 10314,
+        "log2FC": 0.2686,
+        "symbol": "Wfikkn1"
+    },
+    {
+        "rank": 12910,
+        "log2FC": 0.8689,
+        "symbol": "Cdk5rap1"
+    },
+    {
+        "rank": 7767,
+        "log2FC": -0.0138,
+        "symbol": "Gorasp2"
+    },
+    {
+        "rank": 314,
+        "log2FC": -2.5272,
+        "symbol": "Klrb1c"
+    },
+    {
+        "rank": 13988,
+        "log2FC": 1.3668,
+        "symbol": "Mansc1"
+    },
+    {
+        "rank": 4782,
+        "log2FC": -0.3046,
+        "symbol": "Scp2"
+    },
+    {
+        "rank": 5076,
+        "log2FC": -0.2737,
+        "symbol": "Luc7l"
+    },
+    {
+        "rank": 9593,
+        "log2FC": 0.1748,
+        "symbol": "Prx"
+    },
+    {
+        "rank": 4968,
+        "log2FC": -0.2839,
+        "symbol": "Zfp784"
+    },
+    {
+        "rank": 9051,
+        "log2FC": 0.1163,
+        "symbol": "Senp3"
+    },
+    {
+        "rank": 13030,
+        "log2FC": 0.9189,
+        "symbol": "Tyw1"
+    },
+    {
+        "rank": 10701,
+        "log2FC": 0.3287,
+        "symbol": "Kif2a"
+    },
+    {
+        "rank": 15326,
+        "log2FC": 3.2469,
+        "symbol": "Orc1"
+    },
+    {
+        "rank": 5857,
+        "log2FC": -0.1948,
+        "symbol": "Fam207a"
+    },
+    {
+        "rank": 15238,
+        "log2FC": 2.961,
+        "symbol": "Zfp286"
+    },
+    {
+        "rank": 3590,
+        "log2FC": -0.4595,
+        "symbol": "Bahcc1"
+    },
+    {
+        "rank": 12723,
+        "log2FC": 0.8076,
+        "symbol": "Neat1"
+    },
+    {
+        "rank": 5344,
+        "log2FC": -0.2454,
+        "symbol": "Asgr2"
+    },
+    {
+        "rank": 9774,
+        "log2FC": 0.1969,
+        "symbol": "Tns3"
+    },
+    {
+        "rank": 3318,
+        "log2FC": -0.5019,
+        "symbol": "Zranb2"
+    },
+    {
+        "rank": 12082,
+        "log2FC": 0.6149,
+        "symbol": "Gm18852"
+    },
+    {
+        "rank": 14895,
+        "log2FC": 2.2348,
+        "symbol": "Plek"
+    },
+    {
+        "rank": 505,
+        "log2FC": -1.9441,
+        "symbol": "9530091C08Rik"
+    },
+    {
+        "rank": 11329,
+        "log2FC": 0.4316,
+        "symbol": "Cdk14"
+    },
+    {
+        "rank": 11442,
+        "log2FC": 0.4547,
+        "symbol": "Tbc1d8"
+    },
+    {
+        "rank": 11385,
+        "log2FC": 0.4437,
+        "symbol": "Mark1"
+    },
+    {
+        "rank": 1276,
+        "log2FC": -1.0838,
+        "symbol": "Pex10"
+    },
+    {
+        "rank": 15091,
+        "log2FC": 2.6315,
+        "symbol": "Dyrk3"
+    },
+    {
+        "rank": 1981,
+        "log2FC": -0.7926,
+        "symbol": "Farsb"
+    },
+    {
+        "rank": 3354,
+        "log2FC": -0.4945,
+        "symbol": "Odf2"
+    },
+    {
+        "rank": 13383,
+        "log2FC": 1.0672,
+        "symbol": "Cd4"
+    },
+    {
+        "rank": 10082,
+        "log2FC": 0.2347,
+        "symbol": "Mbnl2"
+    },
+    {
+        "rank": 14289,
+        "log2FC": 1.574,
+        "symbol": "Diaph3"
+    },
+    {
+        "rank": 4064,
+        "log2FC": -0.3903,
+        "symbol": "Gm2274"
+    },
+    {
+        "rank": 9829,
+        "log2FC": 0.2038,
+        "symbol": "Zdhhc1"
+    },
+    {
+        "rank": 13443,
+        "log2FC": 1.0922,
+        "symbol": "Tmem17"
+    },
+    {
+        "rank": 9326,
+        "log2FC": 0.1436,
+        "symbol": "Prkcsh"
+    },
+    {
+        "rank": 7865,
+        "log2FC": -0.0038,
+        "symbol": "Kif1b"
+    },
+    {
+        "rank": 6572,
+        "log2FC": -0.1283,
+        "symbol": "Srek1ip1"
+    },
+    {
+        "rank": 8031,
+        "log2FC": 0.0112,
+        "symbol": "Atp1b3"
+    },
+    {
+        "rank": 15701,
+        "log2FC": 6.3592,
+        "symbol": "Spdef"
+    },
+    {
+        "rank": 12955,
+        "log2FC": 0.8885,
+        "symbol": "Ctrl"
+    },
+    {
+        "rank": 12294,
+        "log2FC": 0.674,
+        "symbol": "Ptpdc1"
+    },
+    {
+        "rank": 10107,
+        "log2FC": 0.2378,
+        "symbol": "Tmem82"
+    },
+    {
+        "rank": 2220,
+        "log2FC": -0.7296,
+        "symbol": "Inhba"
+    },
+    {
+        "rank": 6368,
+        "log2FC": -0.1464,
+        "symbol": "Utp3"
+    },
+    {
+        "rank": 4918,
+        "log2FC": -0.2891,
+        "symbol": "Cxcr6"
+    },
+    {
+        "rank": 7636,
+        "log2FC": -0.025,
+        "symbol": "Gse1"
+    },
+    {
+        "rank": 4188,
+        "log2FC": -0.3742,
+        "symbol": "Tmem94"
+    },
+    {
+        "rank": 2977,
+        "log2FC": -0.5564,
+        "symbol": "Gucy1b1"
+    },
+    {
+        "rank": 4969,
+        "log2FC": -0.2839,
+        "symbol": "Aldh4a1"
+    },
+    {
+        "rank": 10827,
+        "log2FC": 0.3485,
+        "symbol": "Tmem120a"
+    },
+    {
+        "rank": 12780,
+        "log2FC": 0.8262,
+        "symbol": "Sox13"
+    },
+    {
+        "rank": 265,
+        "log2FC": -2.8287,
+        "symbol": "Usp2"
+    },
+    {
+        "rank": 9889,
+        "log2FC": 0.2119,
+        "symbol": "Epha1"
+    },
+    {
+        "rank": 14095,
+        "log2FC": 1.4328,
+        "symbol": "Inpp5d"
+    },
+    {
+        "rank": 10391,
+        "log2FC": 0.281,
+        "symbol": "Rras2"
+    },
+    {
+        "rank": 2137,
+        "log2FC": -0.7499,
+        "symbol": "Phyh"
+    },
+    {
+        "rank": 3930,
+        "log2FC": -0.408,
+        "symbol": "Rnaset2b"
+    },
+    {
+        "rank": 9391,
+        "log2FC": 0.1508,
+        "symbol": "Ilrun"
+    },
+    {
+        "rank": 3986,
+        "log2FC": -0.4006,
+        "symbol": "Rxrg"
+    },
+    {
+        "rank": 2931,
+        "log2FC": -0.5647,
+        "symbol": "Itpa"
+    },
+    {
+        "rank": 2630,
+        "log2FC": -0.6235,
+        "symbol": "Abhd3"
+    },
+    {
+        "rank": 9513,
+        "log2FC": 0.1646,
+        "symbol": "Mir8094"
+    },
+    {
+        "rank": 10511,
+        "log2FC": 0.3002,
+        "symbol": "Etv6"
+    },
+    {
+        "rank": 9841,
+        "log2FC": 0.2053,
+        "symbol": "Xlr3a"
+    },
+    {
+        "rank": 14487,
+        "log2FC": 1.7456,
+        "symbol": "Marchf1"
+    },
+    {
+        "rank": 13890,
+        "log2FC": 1.3108,
+        "symbol": "Cyp4f16"
+    },
+    {
+        "rank": 10949,
+        "log2FC": 0.3701,
+        "symbol": "Rnf32"
+    },
+    {
+        "rank": 1101,
+        "log2FC": -1.1983,
+        "symbol": "Cys1"
+    },
+    {
+        "rank": 4178,
+        "log2FC": -0.3759,
+        "symbol": "Myg1"
+    },
+    {
+        "rank": 12164,
+        "log2FC": 0.6408,
+        "symbol": "BC025920"
+    },
+    {
+        "rank": 12026,
+        "log2FC": 0.6005,
+        "symbol": "Parp12"
+    },
+    {
+        "rank": 2055,
+        "log2FC": -0.771,
+        "symbol": "Cyb5a"
+    },
+    {
+        "rank": 3834,
+        "log2FC": -0.4218,
+        "symbol": "Zfp169"
+    },
+    {
+        "rank": 11738,
+        "log2FC": 0.522,
+        "symbol": "Gpatch1"
+    },
+    {
+        "rank": 14452,
+        "log2FC": 1.7174,
+        "symbol": "Vsig10"
+    },
+    {
+        "rank": 6400,
+        "log2FC": -0.1434,
+        "symbol": "Nsa2"
+    },
+    {
+        "rank": 14637,
+        "log2FC": 1.9147,
+        "symbol": "Arc"
+    },
+    {
+        "rank": 893,
+        "log2FC": -1.3602,
+        "symbol": "Abcd2"
+    },
+    {
+        "rank": 14144,
+        "log2FC": 1.4711,
+        "symbol": "F2r"
+    },
+    {
+        "rank": 11253,
+        "log2FC": 0.4187,
+        "symbol": "Kitl"
+    },
+    {
+        "rank": 4695,
+        "log2FC": -0.3159,
+        "symbol": "Gm16364"
+    },
+    {
+        "rank": 1852,
+        "log2FC": -0.8352,
+        "symbol": "Slc25a20"
+    },
+    {
+        "rank": 15671,
+        "log2FC": 5.642,
+        "symbol": "4930412O13Rik"
+    },
+    {
+        "rank": 5090,
+        "log2FC": -0.272,
+        "symbol": "Tufm"
+    },
+    {
+        "rank": 13396,
+        "log2FC": 1.0714,
+        "symbol": "Msr1"
+    },
+    {
+        "rank": 2898,
+        "log2FC": -0.5708,
+        "symbol": "Selenoo"
+    },
+    {
+        "rank": 13286,
+        "log2FC": 1.0244,
+        "symbol": "2510009E07Rik"
+    },
+    {
+        "rank": 7612,
+        "log2FC": -0.0274,
+        "symbol": "Fbxo28"
+    },
+    {
+        "rank": 14177,
+        "log2FC": 1.5028,
+        "symbol": "Mbnl3"
+    },
+    {
+        "rank": 8544,
+        "log2FC": 0.0614,
+        "symbol": "Cyb561a3"
+    },
+    {
+        "rank": 4337,
+        "log2FC": -0.3549,
+        "symbol": "Trim28"
+    },
+    {
+        "rank": 1778,
+        "log2FC": -0.8576,
+        "symbol": "Ces2h"
+    },
+    {
+        "rank": 8406,
+        "log2FC": 0.0472,
+        "symbol": "Tie1"
+    },
+    {
+        "rank": 11724,
+        "log2FC": 0.5197,
+        "symbol": "Eftud2"
+    },
+    {
+        "rank": 9753,
+        "log2FC": 0.1939,
+        "symbol": "Ablim3"
+    },
+    {
+        "rank": 9302,
+        "log2FC": 0.1412,
+        "symbol": "Eaf1"
+    },
+    {
+        "rank": 15730,
+        "log2FC": 8.5607,
+        "symbol": "Inava"
+    },
+    {
+        "rank": 6591,
+        "log2FC": -0.127,
+        "symbol": "Usp33"
+    },
+    {
+        "rank": 458,
+        "log2FC": -2.0521,
+        "symbol": "Dzank1"
+    },
+    {
+        "rank": 3745,
+        "log2FC": -0.4346,
+        "symbol": "Gpr182"
+    },
+    {
+        "rank": 6106,
+        "log2FC": -0.1704,
+        "symbol": "Nedd8"
+    },
+    {
+        "rank": 2507,
+        "log2FC": -0.6504,
+        "symbol": "Enpp1"
+    },
+    {
+        "rank": 7135,
+        "log2FC": -0.0697,
+        "symbol": "Ngly1"
+    },
+    {
+        "rank": 5181,
+        "log2FC": -0.263,
+        "symbol": "Epop"
+    },
+    {
+        "rank": 1588,
+        "log2FC": -0.9293,
+        "symbol": "Gnrh1"
+    },
+    {
+        "rank": 11449,
+        "log2FC": 0.456,
+        "symbol": "Rnf145"
+    },
+    {
+        "rank": 8108,
+        "log2FC": 0.019,
+        "symbol": "Ikbkb"
+    },
+    {
+        "rank": 13125,
+        "log2FC": 0.958,
+        "symbol": "C4a"
+    },
+    {
+        "rank": 3379,
+        "log2FC": -0.4912,
+        "symbol": "Grsf1"
+    },
+    {
+        "rank": 5758,
+        "log2FC": -0.2045,
+        "symbol": "Cxxc5"
+    },
+    {
+        "rank": 5666,
+        "log2FC": -0.2136,
+        "symbol": "Ubtf"
+    },
+    {
+        "rank": 9826,
+        "log2FC": 0.2036,
+        "symbol": "Tmem184b"
+    },
+    {
+        "rank": 9308,
+        "log2FC": 0.1416,
+        "symbol": "Zdhhc23"
+    },
+    {
+        "rank": 8939,
+        "log2FC": 0.103,
+        "symbol": "Gm15471"
+    },
+    {
+        "rank": 9602,
+        "log2FC": 0.1759,
+        "symbol": "Cwc27"
+    },
+    {
+        "rank": 2151,
+        "log2FC": -0.7471,
+        "symbol": "Tppp"
+    },
+    {
+        "rank": 11507,
+        "log2FC": 0.4683,
+        "symbol": "Atxn1"
+    },
+    {
+        "rank": 8220,
+        "log2FC": 0.0298,
+        "symbol": "Rpl32l"
+    },
+    {
+        "rank": 11491,
+        "log2FC": 0.4656,
+        "symbol": "Ddit4l"
+    },
+    {
+        "rank": 22,
+        "log2FC": -8.1657,
+        "symbol": "Mup12"
+    },
+    {
+        "rank": 5978,
+        "log2FC": -0.1833,
+        "symbol": "Rab18"
+    },
+    {
+        "rank": 3813,
+        "log2FC": -0.4243,
+        "symbol": "Rbl2"
+    },
+    {
+        "rank": 1184,
+        "log2FC": -1.1403,
+        "symbol": "Ugt2a3"
+    },
+    {
+        "rank": 3345,
+        "log2FC": -0.4968,
+        "symbol": "Nelfcd"
+    },
+    {
+        "rank": 6447,
+        "log2FC": -0.14,
+        "symbol": "Nrbp1"
+    },
+    {
+        "rank": 6799,
+        "log2FC": -0.105,
+        "symbol": "Bbs1"
+    },
+    {
+        "rank": 5194,
+        "log2FC": -0.2616,
+        "symbol": "Pdzd7"
+    },
+    {
+        "rank": 14148,
+        "log2FC": 1.4765,
+        "symbol": "Cdc25a"
+    },
+    {
+        "rank": 5502,
+        "log2FC": -0.2289,
+        "symbol": "Ociad1"
+    },
+    {
+        "rank": 2922,
+        "log2FC": -0.5661,
+        "symbol": "Nars2"
+    },
+    {
+        "rank": 9201,
+        "log2FC": 0.132,
+        "symbol": "Gpsm2"
+    },
+    {
+        "rank": 11188,
+        "log2FC": 0.4091,
+        "symbol": "Pabpc6"
+    },
+    {
+        "rank": 8082,
+        "log2FC": 0.0168,
+        "symbol": "A330093E20Rik"
+    },
+    {
+        "rank": 10920,
+        "log2FC": 0.3645,
+        "symbol": "Rfx5"
+    },
+    {
+        "rank": 8978,
+        "log2FC": 0.1075,
+        "symbol": "Polrmt"
+    },
+    {
+        "rank": 14849,
+        "log2FC": 2.1863,
+        "symbol": "Runx1"
+    },
+    {
+        "rank": 12396,
+        "log2FC": 0.6982,
+        "symbol": "Eef1akmt1"
+    },
+    {
+        "rank": 12770,
+        "log2FC": 0.8223,
+        "symbol": "Smox"
+    },
+    {
+        "rank": 4596,
+        "log2FC": -0.3271,
+        "symbol": "Ift172"
+    },
+    {
+        "rank": 4741,
+        "log2FC": -0.3099,
+        "symbol": "Chmp2a"
+    },
+    {
+        "rank": 8595,
+        "log2FC": 0.0668,
+        "symbol": "Raph1"
+    },
+    {
+        "rank": 15047,
+        "log2FC": 2.5294,
+        "symbol": "Exoc3l4"
+    },
+    {
+        "rank": 13633,
+        "log2FC": 1.185,
+        "symbol": "Hoxa1"
+    },
+    {
+        "rank": 14014,
+        "log2FC": 1.3823,
+        "symbol": "Ptrh1"
+    },
+    {
+        "rank": 14502,
+        "log2FC": 1.7586,
+        "symbol": "Cerk"
+    },
+    {
+        "rank": 6353,
+        "log2FC": -0.1479,
+        "symbol": "Klf10"
+    },
+    {
+        "rank": 7023,
+        "log2FC": -0.0813,
+        "symbol": "A930011G23Rik"
+    },
+    {
+        "rank": 4621,
+        "log2FC": -0.3252,
+        "symbol": "Srp9"
+    },
+    {
+        "rank": 437,
+        "log2FC": -2.0922,
+        "symbol": "Aacs"
+    },
+    {
+        "rank": 3715,
+        "log2FC": -0.4395,
+        "symbol": "Gramd1c"
+    },
+    {
+        "rank": 4035,
+        "log2FC": -0.3945,
+        "symbol": "Naprt"
+    },
+    {
+        "rank": 1100,
+        "log2FC": -1.1996,
+        "symbol": "S100a13"
+    },
+    {
+        "rank": 10410,
+        "log2FC": 0.2838,
+        "symbol": "Ptprg"
+    },
+    {
+        "rank": 4261,
+        "log2FC": -0.3652,
+        "symbol": "Arpc1a"
+    },
+    {
+        "rank": 15497,
+        "log2FC": 4.1153,
+        "symbol": "Sema4f"
+    },
+    {
+        "rank": 9183,
+        "log2FC": 0.1297,
+        "symbol": "Sod3"
+    },
+    {
+        "rank": 8981,
+        "log2FC": 0.1078,
+        "symbol": "Gm20604"
+    },
+    {
+        "rank": 10936,
+        "log2FC": 0.3679,
+        "symbol": "Mtcp1"
+    },
+    {
+        "rank": 9565,
+        "log2FC": 0.1711,
+        "symbol": "Pde7a"
+    },
+    {
+        "rank": 723,
+        "log2FC": -1.5437,
+        "symbol": "Efna2"
+    },
+    {
+        "rank": 4410,
+        "log2FC": -0.3481,
+        "symbol": "Actr10"
+    },
+    {
+        "rank": 686,
+        "log2FC": -1.5844,
+        "symbol": "Slc16a13"
+    },
+    {
+        "rank": 14677,
+        "log2FC": 1.9571,
+        "symbol": "Rem2"
+    },
+    {
+        "rank": 12343,
+        "log2FC": 0.6845,
+        "symbol": "Jak3"
+    },
+    {
+        "rank": 6657,
+        "log2FC": -0.1201,
+        "symbol": "Lypla2"
+    },
+    {
+        "rank": 9809,
+        "log2FC": 0.201,
+        "symbol": "Ilf3"
+    },
+    {
+        "rank": 6999,
+        "log2FC": -0.0843,
+        "symbol": "Gltpd2"
+    },
+    {
+        "rank": 9736,
+        "log2FC": 0.1921,
+        "symbol": "Tmem38a"
+    },
+    {
+        "rank": 5716,
+        "log2FC": -0.2083,
+        "symbol": "Senp8"
+    },
+    {
+        "rank": 11683,
+        "log2FC": 0.5096,
+        "symbol": "Sptbn1"
+    },
+    {
+        "rank": 9921,
+        "log2FC": 0.2162,
+        "symbol": "Adgrg5"
+    },
+    {
+        "rank": 15406,
+        "log2FC": 3.634,
+        "symbol": "C2cd4c"
+    },
+    {
+        "rank": 8819,
+        "log2FC": 0.0904,
+        "symbol": "1110008P14Rik"
+    },
+    {
+        "rank": 6401,
+        "log2FC": -0.1433,
+        "symbol": "Ift52"
+    },
+    {
+        "rank": 3090,
+        "log2FC": -0.5339,
+        "symbol": "Ccs"
+    },
+    {
+        "rank": 8617,
+        "log2FC": 0.0695,
+        "symbol": "Septin7"
+    },
+    {
+        "rank": 7036,
+        "log2FC": -0.0801,
+        "symbol": "Spop"
+    },
+    {
+        "rank": 12001,
+        "log2FC": 0.5951,
+        "symbol": "Raet1a"
+    },
+    {
+        "rank": 13427,
+        "log2FC": 1.0864,
+        "symbol": "Parvg"
+    },
+    {
+        "rank": 13169,
+        "log2FC": 0.9735,
+        "symbol": "Septin3"
+    },
+    {
+        "rank": 12801,
+        "log2FC": 0.8335,
+        "symbol": "Map3k9"
+    },
+    {
+        "rank": 152,
+        "log2FC": -3.7864,
+        "symbol": "Sfmbt2"
+    },
+    {
+        "rank": 10198,
+        "log2FC": 0.2517,
+        "symbol": "Atp13a1"
+    },
+    {
+        "rank": 11747,
+        "log2FC": 0.5237,
+        "symbol": "Abcc3"
+    },
+    {
+        "rank": 11297,
+        "log2FC": 0.426,
+        "symbol": "Champ1"
+    },
+    {
+        "rank": 9212,
+        "log2FC": 0.1331,
+        "symbol": "Arhgap12"
+    },
+    {
+        "rank": 13391,
+        "log2FC": 1.0705,
+        "symbol": "Gm10499"
+    },
+    {
+        "rank": 409,
+        "log2FC": -2.1675,
+        "symbol": "Syt17"
+    },
+    {
+        "rank": 15007,
+        "log2FC": 2.4225,
+        "symbol": "Bmp6"
+    },
+    {
+        "rank": 9537,
+        "log2FC": 0.1671,
+        "symbol": "Tmem269"
+    },
+    {
+        "rank": 7788,
+        "log2FC": -0.011,
+        "symbol": "B3gnt2"
+    },
+    {
+        "rank": 6073,
+        "log2FC": -0.1738,
+        "symbol": "Ppib"
+    },
+    {
+        "rank": 4510,
+        "log2FC": -0.3352,
+        "symbol": "Nudc"
+    },
+    {
+        "rank": 9407,
+        "log2FC": 0.1528,
+        "symbol": "Sdr39u1"
+    },
+    {
+        "rank": 8246,
+        "log2FC": 0.0318,
+        "symbol": "Man2c1os"
+    },
+    {
+        "rank": 8751,
+        "log2FC": 0.0842,
+        "symbol": "Fyttd1"
+    },
+    {
+        "rank": 15710,
+        "log2FC": 6.9118,
+        "symbol": "Slpi"
+    },
+    {
+        "rank": 9417,
+        "log2FC": 0.1534,
+        "symbol": "Sgsm1"
+    },
+    {
+        "rank": 5427,
+        "log2FC": -0.2362,
+        "symbol": "Nupl1"
+    },
+    {
+        "rank": 2752,
+        "log2FC": -0.5988,
+        "symbol": "Taf5"
+    },
+    {
+        "rank": 3498,
+        "log2FC": -0.4748,
+        "symbol": "Npc1"
+    },
+    {
+        "rank": 7972,
+        "log2FC": 0.0052,
+        "symbol": "Mecp2"
+    },
+    {
+        "rank": 8214,
+        "log2FC": 0.0291,
+        "symbol": "Gbp2"
+    },
+    {
+        "rank": 9192,
+        "log2FC": 0.1311,
+        "symbol": "Ripor3"
+    },
+    {
+        "rank": 14813,
+        "log2FC": 2.1368,
+        "symbol": "Zfp90"
+    },
+    {
+        "rank": 3962,
+        "log2FC": -0.4034,
+        "symbol": "Tmem69"
+    },
+    {
+        "rank": 7249,
+        "log2FC": -0.0592,
+        "symbol": "Marchf8"
+    },
+    {
+        "rank": 3581,
+        "log2FC": -0.4612,
+        "symbol": "Mpz"
+    },
+    {
+        "rank": 1527,
+        "log2FC": -0.9531,
+        "symbol": "Rgs16"
+    },
+    {
+        "rank": 4585,
+        "log2FC": -0.328,
+        "symbol": "Tpbgl"
+    },
+    {
+        "rank": 3046,
+        "log2FC": -0.542,
+        "symbol": "Glrx5"
+    },
+    {
+        "rank": 1334,
+        "log2FC": -1.0517,
+        "symbol": "Gm20319"
+    },
+    {
+        "rank": 14799,
+        "log2FC": 2.1176,
+        "symbol": "Tgfbr2"
+    },
+    {
+        "rank": 10810,
+        "log2FC": 0.3443,
+        "symbol": "Pop4"
+    },
+    {
+        "rank": 4198,
+        "log2FC": -0.3732,
+        "symbol": "Mtfr1l"
+    },
+    {
+        "rank": 8234,
+        "log2FC": 0.0307,
+        "symbol": "Prmt3"
+    },
+    {
+        "rank": 9580,
+        "log2FC": 0.1733,
+        "symbol": "Uxs1"
+    },
+    {
+        "rank": 7809,
+        "log2FC": -0.0092,
+        "symbol": "Cct3"
+    },
+    {
+        "rank": 7529,
+        "log2FC": -0.0347,
+        "symbol": "Ybx3"
+    },
+    {
+        "rank": 4061,
+        "log2FC": -0.391,
+        "symbol": "Pir"
+    },
+    {
+        "rank": 7752,
+        "log2FC": -0.0146,
+        "symbol": "Mterf4"
+    },
+    {
+        "rank": 8092,
+        "log2FC": 0.0176,
+        "symbol": "Otud5"
+    },
+    {
+        "rank": 1325,
+        "log2FC": -1.0554,
+        "symbol": "Zfp968"
+    },
+    {
+        "rank": 10897,
+        "log2FC": 0.3616,
+        "symbol": "Hltf"
+    },
+    {
+        "rank": 2913,
+        "log2FC": -0.5671,
+        "symbol": "Mrpl13"
+    },
+    {
+        "rank": 5160,
+        "log2FC": -0.2654,
+        "symbol": "Prps1l3"
+    },
+    {
+        "rank": 721,
+        "log2FC": -1.5447,
+        "symbol": "Slc38a3"
+    },
+    {
+        "rank": 2484,
+        "log2FC": -0.6558,
+        "symbol": "2610044O15Rik8"
+    },
+    {
+        "rank": 7184,
+        "log2FC": -0.0655,
+        "symbol": "Dip2c"
+    },
+    {
+        "rank": 14588,
+        "log2FC": 1.8428,
+        "symbol": "Plcg2"
+    },
+    {
+        "rank": 14350,
+        "log2FC": 1.632,
+        "symbol": "Fam160a1"
+    },
+    {
+        "rank": 7099,
+        "log2FC": -0.074,
+        "symbol": "Smcr8"
+    },
+    {
+        "rank": 5853,
+        "log2FC": -0.1955,
+        "symbol": "9930021J03Rik"
+    },
+    {
+        "rank": 3262,
+        "log2FC": -0.509,
+        "symbol": "Pura"
+    },
+    {
+        "rank": 10744,
+        "log2FC": 0.3352,
+        "symbol": "Mir3060"
+    },
+    {
+        "rank": 2521,
+        "log2FC": -0.6463,
+        "symbol": "Ppdpf"
+    },
+    {
+        "rank": 14887,
+        "log2FC": 2.2301,
+        "symbol": "Gm20383"
+    },
+    {
+        "rank": 13321,
+        "log2FC": 1.0382,
+        "symbol": "Coq8b"
+    },
+    {
+        "rank": 8885,
+        "log2FC": 0.0967,
+        "symbol": "Ern1"
+    },
+    {
+        "rank": 4394,
+        "log2FC": -0.3498,
+        "symbol": "Spns2"
+    },
+    {
+        "rank": 14288,
+        "log2FC": 1.5733,
+        "symbol": "Znf41-ps"
+    },
+    {
+        "rank": 5172,
+        "log2FC": -0.2637,
+        "symbol": "B3gnt9"
+    },
+    {
+        "rank": 9780,
+        "log2FC": 0.1977,
+        "symbol": "Thop1"
+    },
+    {
+        "rank": 4645,
+        "log2FC": -0.3219,
+        "symbol": "Sp100"
+    },
+    {
+        "rank": 10357,
+        "log2FC": 0.275,
+        "symbol": "Phf14"
+    },
+    {
+        "rank": 282,
+        "log2FC": -2.7092,
+        "symbol": "Cyp2b10"
+    },
+    {
+        "rank": 13151,
+        "log2FC": 0.9661,
+        "symbol": "Kcnj10"
+    },
+    {
+        "rank": 3030,
+        "log2FC": -0.5444,
+        "symbol": "AW146154"
+    },
+    {
+        "rank": 2816,
+        "log2FC": -0.5872,
+        "symbol": "Icam5"
+    },
+    {
+        "rank": 442,
+        "log2FC": -2.0834,
+        "symbol": "A930007I19Rik"
+    },
+    {
+        "rank": 12292,
+        "log2FC": 0.6733,
+        "symbol": "Calhm5"
+    },
+    {
+        "rank": 13343,
+        "log2FC": 1.0503,
+        "symbol": "Pira6"
+    },
+    {
+        "rank": 7811,
+        "log2FC": -0.0091,
+        "symbol": "Hmgxb3"
+    },
+    {
+        "rank": 14274,
+        "log2FC": 1.5641,
+        "symbol": "Mst1r"
+    },
+    {
+        "rank": 9223,
+        "log2FC": 0.1339,
+        "symbol": "Rbbp7"
+    },
+    {
+        "rank": 9930,
+        "log2FC": 0.2174,
+        "symbol": "Epsti1"
+    },
+    {
+        "rank": 7463,
+        "log2FC": -0.0403,
+        "symbol": "Myo18a"
+    },
+    {
+        "rank": 7988,
+        "log2FC": 0.0061,
+        "symbol": "Sesn2"
+    },
+    {
+        "rank": 6224,
+        "log2FC": -0.1589,
+        "symbol": "Zfp930"
+    },
+    {
+        "rank": 2412,
+        "log2FC": -0.6758,
+        "symbol": "Nthl1"
+    },
+    {
+        "rank": 1703,
+        "log2FC": -0.8833,
+        "symbol": "Dhrs7"
+    },
+    {
+        "rank": 10885,
+        "log2FC": 0.3602,
+        "symbol": "Ifi208"
+    },
+    {
+        "rank": 10976,
+        "log2FC": 0.3748,
+        "symbol": "Gulp1"
+    },
+    {
+        "rank": 2768,
+        "log2FC": -0.5964,
+        "symbol": "Lrp4"
+    },
+    {
+        "rank": 9059,
+        "log2FC": 0.117,
+        "symbol": "Stk38l"
+    },
+    {
+        "rank": 7697,
+        "log2FC": -0.0187,
+        "symbol": "Eml4"
+    },
+    {
+        "rank": 5224,
+        "log2FC": -0.2585,
+        "symbol": "Ell"
+    },
+    {
+        "rank": 6488,
+        "log2FC": -0.1365,
+        "symbol": "Cyp3a57"
+    },
+    {
+        "rank": 10957,
+        "log2FC": 0.3719,
+        "symbol": "Acap3"
+    },
+    {
+        "rank": 12411,
+        "log2FC": 0.703,
+        "symbol": "Hs2st1"
+    },
+    {
+        "rank": 15396,
+        "log2FC": 3.5543,
+        "symbol": "Gm28856"
+    },
+    {
+        "rank": 7024,
+        "log2FC": -0.0811,
+        "symbol": "Pcbp1"
+    },
+    {
+        "rank": 4434,
+        "log2FC": -0.3444,
+        "symbol": "Acadm"
+    },
+    {
+        "rank": 6464,
+        "log2FC": -0.1385,
+        "symbol": "D130017N08Rik"
+    },
+    {
+        "rank": 14311,
+        "log2FC": 1.5912,
+        "symbol": "Csrp1"
+    },
+    {
+        "rank": 13106,
+        "log2FC": 0.9494,
+        "symbol": "Rad51"
+    },
+    {
+        "rank": 4017,
+        "log2FC": -0.3971,
+        "symbol": "Ddrgk1"
+    },
+    {
+        "rank": 5073,
+        "log2FC": -0.2743,
+        "symbol": "Azi2"
+    },
+    {
+        "rank": 223,
+        "log2FC": -3.1294,
+        "symbol": "Adrb3"
+    },
+    {
+        "rank": 10586,
+        "log2FC": 0.3125,
+        "symbol": "Fam193a"
+    },
+    {
+        "rank": 7827,
+        "log2FC": -0.0078,
+        "symbol": "Rasal2"
+    },
+    {
+        "rank": 4391,
+        "log2FC": -0.3501,
+        "symbol": "1810034E14Rik"
+    },
+    {
+        "rank": 3797,
+        "log2FC": -0.4263,
+        "symbol": "Zfp455"
+    },
+    {
+        "rank": 12822,
+        "log2FC": 0.8398,
+        "symbol": "Tmem64"
+    },
+    {
+        "rank": 13367,
+        "log2FC": 1.0601,
+        "symbol": "Nt5c3b"
+    },
+    {
+        "rank": 7419,
+        "log2FC": -0.0442,
+        "symbol": "Copz1"
+    },
+    {
+        "rank": 3604,
+        "log2FC": -0.4574,
+        "symbol": "Glrx3"
+    },
+    {
+        "rank": 12059,
+        "log2FC": 0.6081,
+        "symbol": "Myo1e"
+    },
+    {
+        "rank": 8581,
+        "log2FC": 0.0651,
+        "symbol": "Zc3h13"
+    },
+    {
+        "rank": 9810,
+        "log2FC": 0.2012,
+        "symbol": "Cyp2j6"
+    },
+    {
+        "rank": 3711,
+        "log2FC": -0.44,
+        "symbol": "Lactb2"
+    },
+    {
+        "rank": 13899,
+        "log2FC": 1.3158,
+        "symbol": "Ablim1"
+    },
+    {
+        "rank": 10502,
+        "log2FC": 0.2989,
+        "symbol": "Rnf41"
+    },
+    {
+        "rank": 6725,
+        "log2FC": -0.1132,
+        "symbol": "Psmc2"
+    },
+    {
+        "rank": 7199,
+        "log2FC": -0.0644,
+        "symbol": "Mta3"
+    },
+    {
+        "rank": 168,
+        "log2FC": -3.6446,
+        "symbol": "A830052D11Rik"
+    },
+    {
+        "rank": 2615,
+        "log2FC": -0.6277,
+        "symbol": "Klhl26"
+    },
+    {
+        "rank": 5686,
+        "log2FC": -0.2117,
+        "symbol": "Rpp38"
+    },
+    {
+        "rank": 1779,
+        "log2FC": -0.8574,
+        "symbol": "Cyp4f15"
+    }
+]

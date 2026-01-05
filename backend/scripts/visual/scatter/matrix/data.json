@@ -1,0 +1,242 @@
+[
+    {
+        "cell": "Basophil",
+        "gene": "TP53",
+        "count": 1414.1315
+    },
+    {
+        "cell": "Basophil",
+        "gene": "KRAS",
+        "count": 1554.8585
+    },
+    {
+        "cell": "Basophil",
+        "gene": "EGFR",
+        "count": 3168.8824
+    },
+    {
+        "cell": "Basophil",
+        "gene": "TGFB1",
+        "count": 3691.3954
+    },
+    {
+        "cell": "Basophil",
+        "gene": "AKT",
+        "count": 1858.2494
+    },
+    {
+        "cell": "Basophil",
+        "gene": "ESR1",
+        "count": 2012.1118
+    },
+    {
+        "cell": "Dendritic cell",
+        "gene": "TP53",
+        "count": 149.4799
+    },
+    {
+        "cell": "Dendritic cell",
+        "gene": "KRAS",
+        "count": 93.2637
+    },
+    {
+        "cell": "Dendritic cell",
+        "gene": "EGFR",
+        "count": 128.904
+    },
+    {
+        "cell": "Dendritic cell",
+        "gene": "TGFB1",
+        "count": 780.0757
+    },
+    {
+        "cell": "Dendritic cell",
+        "gene": "AKT",
+        "count": 45.6146
+    },
+    {
+        "cell": "Dendritic cell",
+        "gene": "ESR1",
+        "count": 996.7729
+    },
+    {
+        "cell": "Eosinophil",
+        "gene": "TP53",
+        "count": 552.5078
+    },
+    {
+        "cell": "Eosinophil",
+        "gene": "KRAS",
+        "count": 1128.9176
+    },
+    {
+        "cell": "Eosinophil",
+        "gene": "EGFR",
+        "count": 2918.9881
+    },
+    {
+        "cell": "Eosinophil",
+        "gene": "TGFB1",
+        "count": 779.429
+    },
+    {
+        "cell": "Eosinophil",
+        "gene": "AKT",
+        "count": 22.019
+    },
+    {
+        "cell": "Eosinophil",
+        "gene": "ESR1",
+        "count": 822.3908
+    },
+    {
+        "cell": "Macrophage",
+        "gene": "TP53",
+        "count": 674.3434
+    },
+    {
+        "cell": "Macrophage",
+        "gene": "KRAS",
+        "count": 5831.6704
+    },
+    {
+        "cell": "Macrophage",
+        "gene": "EGFR",
+        "count": 1268.1764
+    },
+    {
+        "cell": "Macrophage",
+        "gene": "TGFB1",
+        "count": 18.6282
+    },
+    {
+        "cell": "Macrophage",
+        "gene": "AKT",
+        "count": 118.9043
+    },
+    {
+        "cell": "Macrophage",
+        "gene": "ESR1",
+        "count": 1919.1789
+    },
+    {
+        "cell": "Mast cell",
+        "gene": "TP53",
+        "count": 387.4405
+    },
+    {
+        "cell": "Mast cell",
+        "gene": "KRAS",
+        "count": 1896.4098
+    },
+    {
+        "cell": "Mast cell",
+        "gene": "EGFR",
+        "count": 2149.5114
+    },
+    {
+        "cell": "Mast cell",
+        "gene": "TGFB1",
+        "count": 1047.3114
+    },
+    {
+        "cell": "Mast cell",
+        "gene": "AKT",
+        "count": 969.7234
+    },
+    {
+        "cell": "Mast cell",
+        "gene": "ESR1",
+        "count": 871.8972
+    },
+    {
+        "cell": "Monocyte",
+        "gene": "TP53",
+        "count": 3204.5951
+    },
+    {
+        "cell": "Monocyte",
+        "gene": "KRAS",
+        "count": 48.8138
+    },
+    {
+        "cell": "Monocyte",
+        "gene": "EGFR",
+        "count": 418.8801
+    },
+    {
+        "cell": "Monocyte",
+        "gene": "TGFB1",
+        "count": 2.5161
+    },
+    {
+        "cell": "Monocyte",
+        "gene": "AKT",
+        "count": 2258.1869
+    },
+    {
+        "cell": "Monocyte",
+        "gene": "ESR1",
+        "count": 1335.2385
+    },
+    {
+        "cell": "Neutrophil",
+        "gene": "TP53",
+        "count": 3360.0793
+    },
+    {
+        "cell": "Neutrophil",
+        "gene": "KRAS",
+        "count": 1681.9864
+    },
+    {
+        "cell": "Neutrophil",
+        "gene": "EGFR",
+        "count": 411.4123
+    },
+    {
+        "cell": "Neutrophil",
+        "gene": "TGFB1",
+        "count": 68.2049
+    },
+    {
+        "cell": "Neutrophil",
+        "gene": "AKT",
+        "count": 3898.9925
+    },
+    {
+        "cell": "Neutrophil",
+        "gene": "ESR1",
+        "count": 1137.2854
+    },
+    {
+        "cell": "NK",
+        "gene": "TP53",
+        "count": 710.7293
+    },
+    {
+        "cell": "NK",
+        "gene": "KRAS",
+        "count": 438.754
+    },
+    {
+        "cell": "NK",
+        "gene": "EGFR",
+        "count": 988.6802
+    },
+    {
+        "cell": "NK",
+        "gene": "TGFB1",
+        "count": 937.0286
+    },
+    {
+        "cell": "NK",
+        "gene": "AKT",
+        "count": 1214.6364
+    },
+    {
+        "cell": "NK",
+        "gene": "ESR1",
+        "count": 1503.9718
+    }
+]

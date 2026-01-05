@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Optional, Tuple
 from fastapi import UploadFile, HTTPException, status
 from PIL import Image
-import aiofiles
+from aiofile import AIOFile
 from app.core.config import settings
 from app.core.logging import get_logger
 
@@ -13,15 +13,32 @@ logger = get_logger("file_upload")
 
 # 配置上传目录
 UPLOAD_DIR = Path("uploads")
-AVATAR_DIR = UPLOAD_DIR / "avatars"
 STATIC_DIR = Path("static")
-AVATAR_STATIC_DIR = STATIC_DIR / "avatars"
 
 # 确保目录存在
 UPLOAD_DIR.mkdir(exist_ok=True)
-AVATAR_DIR.mkdir(exist_ok=True)
 STATIC_DIR.mkdir(exist_ok=True)
-AVATAR_STATIC_DIR.mkdir(exist_ok=True)
+
+
+def get_user_upload_dir(user_id: int) -> Path:
+    """获取用户上传目录"""
+    user_dir = UPLOAD_DIR / str(user_id)
+    user_dir.mkdir(exist_ok=True)
+    return user_dir
+
+
+def get_user_avatar_dir(user_id: int) -> Path:
+    """获取用户头像目录"""
+    avatar_dir = get_user_upload_dir(user_id) / "上传"
+    avatar_dir.mkdir(exist_ok=True)
+    return avatar_dir
+
+
+def get_user_static_dir(user_id: int) -> Path:
+    """获取用户静态文件目录（已弃用，用户文件统一存储在uploads目录）"""
+    # 不再使用static目录存储用户文件，统一使用uploads目录
+    return get_user_upload_dir(user_id)
+
 
 # 允许的图片格式
 ALLOWED_IMAGE_TYPES = {"image/jpeg", "image/png", "image/gif", "image/webp"}
@@ -64,17 +81,20 @@ async def validate_image_file(file: UploadFile) -> Tuple[bool, str]:
     return True, ""
 
 
-async def process_avatar_image(file: UploadFile) -> str:
+async def process_avatar_image(file: UploadFile, user_id: int) -> str:
     """处理头像图片：调整尺寸、优化质量"""
     try:
+        # 获取用户头像目录
+        avatar_dir = get_user_avatar_dir(user_id)
+
         # 生成唯一文件名
         file_id = str(uuid.uuid4())
         file_extension = Path(file.filename).suffix.lower()
-        filename = f"{file_id}{file_extension}"
-        file_path = AVATAR_DIR / filename
+        filename = f"{user_id}_{file_id}{file_extension}"
+        file_path = avatar_dir / filename
 
         # 保存原始文件
-        async with aiofiles.open(file_path, "wb") as f:
+        async with AIOFile(file_path, "wb") as f:
             content = await file.read()
             await f.write(content)
 
@@ -111,10 +131,6 @@ async def process_avatar_image(file: UploadFile) -> str:
             # 保存处理后的图片
             img.save(file_path, "JPEG", quality=85, optimize=True)
 
-        # 复制到静态文件目录
-        static_file_path = AVATAR_STATIC_DIR / filename
-        shutil.copy2(file_path, static_file_path)
-
         logger.info(f"头像处理完成: {filename}")
         return filename
 
@@ -129,7 +145,7 @@ async def process_avatar_image(file: UploadFile) -> str:
         )
 
 
-async def save_avatar_file(file: UploadFile) -> str:
+async def save_avatar_file(file: UploadFile, user_id: int) -> str:
     """保存头像文件并返回文件名"""
     # 验证文件
     is_valid, error_message = await validate_image_file(file)
@@ -139,28 +155,26 @@ async def save_avatar_file(file: UploadFile) -> str:
         )
 
     # 处理图片
-    filename = await process_avatar_image(file)
+    filename = await process_avatar_image(file, user_id)
 
     return filename
 
 
-def get_avatar_url(filename: str) -> str:
+def get_avatar_url(user_id: int, filename: str) -> str:
     """获取头像的访问URL"""
-    return f"/static/avatars/{filename}"
+    return f"/uploads/{user_id}/上传/{filename}"
 
 
-def delete_avatar_file(filename: str) -> bool:
+def delete_avatar_file(user_id: int, filename: str) -> bool:
     """删除头像文件"""
     try:
+        # 获取用户目录
+        avatar_dir = get_user_avatar_dir(user_id)
+
         # 删除上传目录中的文件
-        upload_file_path = AVATAR_DIR / filename
+        upload_file_path = avatar_dir / filename
         if upload_file_path.exists():
             upload_file_path.unlink()
-
-        # 删除静态目录中的文件
-        static_file_path = AVATAR_STATIC_DIR / filename
-        if static_file_path.exists():
-            static_file_path.unlink()
 
         logger.info(f"头像文件删除成功: {filename}")
         return True

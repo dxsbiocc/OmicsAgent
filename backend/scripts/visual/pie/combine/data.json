@@ -1,0 +1,92 @@
+[
+  {
+    "name": "活着",
+    "value": 5.6,
+    "category": "文学"
+  },
+  {
+    "name": "平凡的世界",
+    "value": 12,
+    "category": "文学"
+  },
+  {
+    "name": "白鹿原",
+    "value": 4.2,
+    "category": "文学"
+  },
+  {
+    "name": "围城",
+    "value": 3.8,
+    "category": "文学"
+  },
+  {
+    "name": "黄金时代",
+    "value": 2.3,
+    "category": "文学"
+  },
+  {
+    "name": "我与地坛",
+    "value": 1.5,
+    "category": "文学"
+  },
+  {
+    "name": "三体",
+    "value": 10.2,
+    "category": "科幻"
+  },
+  {
+    "name": "银河帝国",
+    "value": 24,
+    "category": "科幻"
+  },
+  {
+    "name": "沙丘",
+    "value": 2.5,
+    "category": "科幻"
+  },
+  {
+    "name": "海伯利安",
+    "value": 1.8,
+    "category": "科幻"
+  },
+  {
+    "name": "火星救援",
+    "value": 0.5,
+    "category": "科幻"
+  },
+  {
+    "name": "东方快车谋杀案",
+    "value": 1.7,
+    "category": "推理"
+  },
+  {
+    "name": "福尔摩斯探案集",
+    "value": 10,
+    "category": "推理"
+  },
+  {
+    "name": "无人生还",
+    "value": 1.4,
+    "category": "推理"
+  },
+  {
+    "name": "白夜行",
+    "value": 2.2,
+    "category": "推理"
+  },
+  {
+    "name": "嫌疑人X的献身",
+    "value": 1.3,
+    "category": "推理"
+  },
+  {
+    "name": "X 的悲剧",
+    "value": 3.8,
+    "category": "推理"
+  },
+  {
+    "name": "尼罗河上的惨案",
+    "value": 2.6,
+    "category": "推理"
+  }
+]

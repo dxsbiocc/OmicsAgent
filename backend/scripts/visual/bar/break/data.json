@@ -1,0 +1,142 @@
+[
+  {
+    "day": "Mon",
+    "value": 1500,
+    "category": "A"
+  },
+  {
+    "day": "Tue",
+    "value": 2032,
+    "category": "A"
+  },
+  {
+    "day": "Wed",
+    "value": 2001,
+    "category": "A"
+  },
+  {
+    "day": "Thu",
+    "value": 3154,
+    "category": "A"
+  },
+  {
+    "day": "Fri",
+    "value": 2190,
+    "category": "A"
+  },
+  {
+    "day": "Sat",
+    "value": 4330,
+    "category": "A"
+  },
+  {
+    "day": "Sun",
+    "value": 2410,
+    "category": "A"
+  },
+  {
+    "day": "Mon",
+    "value": 1200,
+    "category": "B"
+  },
+  {
+    "day": "Tue",
+    "value": 1320,
+    "category": "B"
+  },
+  {
+    "day": "Wed",
+    "value": 1010,
+    "category": "B"
+  },
+  {
+    "day": "Thu",
+    "value": 1340,
+    "category": "B"
+  },
+  {
+    "day": "Fri",
+    "value": 900,
+    "category": "B"
+  },
+  {
+    "day": "Sat",
+    "value": 2300,
+    "category": "B"
+  },
+  {
+    "day": "Sun",
+    "value": 2100,
+    "category": "B"
+  },
+  {
+    "day": "Mon",
+    "value": 103200,
+    "category": "C"
+  },
+  {
+    "day": "Tue",
+    "value": 100320,
+    "category": "C"
+  },
+  {
+    "day": "Wed",
+    "value": 103010,
+    "category": "C"
+  },
+  {
+    "day": "Thu",
+    "value": 102340,
+    "category": "C"
+  },
+  {
+    "day": "Fri",
+    "value": 103900,
+    "category": "C"
+  },
+  {
+    "day": "Sat",
+    "value": 103300,
+    "category": "C"
+  },
+  {
+    "day": "Sun",
+    "value": 103200,
+    "category": "C"
+  },
+  {
+    "day": "Mon",
+    "value": 3106212,
+    "category": "D"
+  },
+  {
+    "day": "Tue",
+    "value": 3102118,
+    "category": "D"
+  },
+  {
+    "day": "Wed",
+    "value": 3102643,
+    "category": "D"
+  },
+  {
+    "day": "Thu",
+    "value": 3104631,
+    "category": "D"
+  },
+  {
+    "day": "Fri",
+    "value": 3106679,
+    "category": "D"
+  },
+  {
+    "day": "Sat",
+    "value": 3100130,
+    "category": "D"
+  },
+  {
+    "day": "Sun",
+    "value": 3107022,
+    "category": "D"
+  }
+]

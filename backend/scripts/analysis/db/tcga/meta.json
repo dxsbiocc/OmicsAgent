@@ -1,0 +1,63 @@
+{
+    "name": "TCGA",
+    "description": "TCGA 数据分析工具.",
+    "detail": "TCGA（The Cancer Genome Atlas） 是由 美国国立癌症研究所（NCI） 和 美国国家人类基因组研究所（NHGRI） 于 2006 年启动的大型癌症基因组学计划。\n\n该项目通过对 30 多种主要癌症类型、超过 11,000 例癌症患者样本 的系统测序与多组学分析，旨在 揭示癌症的分子机制、分型特征与潜在治疗靶点。\n\nTCGA 的数据目前由 [GDC（Genomic Data Commons）](https://portal.gdc.cancer.gov/) 平台统一管理，并与多个二级数据库（如 UCSC Xena、cBioPortal、Firebrowse）同步更新。",
+    "type": "database",
+    "category": "database",
+    "tools": [
+        {
+            "name": "differential_expression",
+            "title": "差异表达分析",
+            "description": "TCGA 差异表达分析",
+            "icon": "gis:sym-difference"
+        },
+        {
+            "name": "expression_correlation",
+            "title": "表达相关性分析",
+            "description": "TCGA 表达相关性分析",
+            "icon": "mdi:chart-scatter-plot"
+        },
+        {
+            "name": "survival_analysis",
+            "title": "生存分析",
+            "description": "TCGA 生存分析",
+            "icon": "mdi:chart-line"
+        },
+        {
+            "name": "gene_mutation",
+            "title": "基因突变分析",
+            "description": "TCGA 基因突变分析",
+            "icon": "solar:dna-bold"
+        },
+        {
+            "name": "copy_number_variation",
+            "title": "拷贝数变异分析",
+            "description": "TCGA 拷贝数变异分析",
+            "icon": "mynaui:copy"
+        },
+        {
+            "name": "immune_infiltration",
+            "title": "免疫浸润分析",
+            "description": "TCGA 免疫浸润分析",
+            "icon": "mdi:virus"
+        },
+        {
+            "name": "stem_index",
+            "title": "干性指数分析",
+            "description": "TCGA 干性指数分析",
+            "icon": "healthicons:cancerous-cell-nuclei"
+        },
+        {
+            "name": "pan_cancer_expression",
+            "title": "泛癌表达分析",
+            "description": "TCGA 泛癌表达分析",
+            "icon": "ion:body"
+        },
+        {
+            "name": "pathway_analysis",
+            "title": "通路分析",
+            "description": "TCGA 通路分析",
+            "icon": "ph:graph-light"
+        }
+    ]
+}

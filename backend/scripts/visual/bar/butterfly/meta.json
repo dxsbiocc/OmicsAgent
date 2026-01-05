@@ -1,0 +1,109 @@
+{
+  "name": "蝴蝶图",
+  "description": "蝴蝶图用于展示变量在两组之间的差异",
+  "ggplot2": {
+    "mapping": {
+      "x": "Count",
+      "y": "Age",
+      "fill": "Sex"
+    },
+    "layers": [
+      {
+        "type": "geom_round_col",
+        "arguments": {
+          "show.legend": false
+        }
+      }
+    ],
+    "facets": {
+      "type": "facet_wrap",
+      "arguments": {
+        "facets": "Sex",
+        "scale": "free_x",
+        "axes": "all_y",
+        "nrow": 1
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#d7689d",
+            "#f3d337",
+            "#a0c443",
+            "#66b5ae",
+            "#5da4dc",
+            "#40769e"
+          ]
+        }
+      },
+      {
+        "type": "scale_x_continuous",
+        "arguments": {
+          "breaks": [
+            -4000,
+            -2000,
+            0,
+            2000,
+            4000
+          ],
+          "labels": [
+            4000,
+            2000,
+            0,
+            2000,
+            4000
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "axis.ticks.y": {
+            "type": "element_blank"
+          },
+          "axis.line.y": {
+            "type": "element_blank"
+          },
+          "axis.title.y": {
+            "type": "element_blank"
+          },
+          "axis.text.y": {
+            "type": "element_text",
+            "arguments": {
+              "size": 12,
+              "hjust": 0.5
+            }
+          },
+          "panel.spacing": {
+            "type": "unit",
+            "arguments": {
+              "x": 0,
+              "units": "lines"
+            }
+          },
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": true
+}

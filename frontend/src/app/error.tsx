@@ -6,10 +6,18 @@
 "use client";
 
 import { useEffect } from "react";
-import { Box, Container, Typography, Button, Stack } from "@mui/material";
+import {
+  Box,
+  Container,
+  Typography,
+  Button,
+  Stack,
+  useTheme,
+} from "@mui/material";
 import { Home, Refresh, ArrowBack } from "@mui/icons-material";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
+import { useThemeContext } from "@/contexts/ThemeContext";
 
 interface ErrorProps {
   error: Error & { digest?: string };
@@ -18,6 +26,8 @@ interface ErrorProps {
 
 export default function Error({ error, reset }: ErrorProps) {
   const router = useRouter();
+  const { mode } = useThemeContext();
+  const theme = useTheme();
 
   useEffect(() => {
     // 记录错误到控制台
@@ -45,8 +55,8 @@ export default function Error({ error, reset }: ErrorProps) {
         code: "403",
         title: "访问被拒绝！",
         description:
-          "抱歉，您没有权限访问这个页面。小蘑菇正在守护着这个区域，只有获得许可的用户才能进入。",
-        image: "/images/plate/mushroom_2.svg",
+          "抱歉，您没有权限访问这个页面。小熊猫正在守护着这个区域，只有获得许可的用户才能进入。",
+        image: "/icons/panda-oops.svg",
         color: "warning.main",
         bgColor: "warning.50",
         borderColor: "warning.200",
@@ -66,8 +76,8 @@ export default function Error({ error, reset }: ErrorProps) {
         code: "500",
         title: "服务器出错了！",
         description:
-          "抱歉，服务器遇到了内部错误，小蘑菇正在紧急修复中。请稍后再试，或者联系我们的技术支持团队。",
-        image: "/images/plate/mushroom_8.svg",
+          "抱歉，服务器遇到了内部错误，小熊猫正在紧急修复中。请稍后再试，或者联系我们的技术支持团队。",
+        image: "/icons/panda-crash.svg",
         color: "error.main",
         bgColor: "error.50",
         borderColor: "error.200",
@@ -85,11 +95,11 @@ export default function Error({ error, reset }: ErrorProps) {
         code: "错误",
         title: "出现了一些问题！",
         description:
-          "抱歉，应用遇到了意外错误。小蘑菇正在努力修复中，请稍后再试。",
-        image: "/images/plate/mushroom_8.svg",
+          "抱歉，应用遇到了意外错误。小熊猫正在努力修复中，请稍后再试。",
+        image: "/icons/panda-crash.svg",
         color: "error.main",
-        bgColor: "grey.50",
-        borderColor: "grey.200",
+        bgColor: mode === "dark" ? "rgba(255,255,255,0.05)" : "grey.50",
+        borderColor: mode === "dark" ? "rgba(255,255,255,0.1)" : "grey.200",
         helpTitle: "💡 需要帮助？",
         helpItems: [
           "• 尝试刷新页面或重新加载",
@@ -144,10 +154,9 @@ export default function Error({ error, reset }: ErrorProps) {
         >
           <Image
             src={errorInfo.image}
-            alt={`${errorInfo.code} 错误蘑菇插图`}
+            alt={`${errorInfo.code} 错误熊猫插图`}
             fill
             style={{ objectFit: "contain" }}
-            priority
           />
         </Box>
 
@@ -236,12 +245,24 @@ export default function Error({ error, reset }: ErrorProps) {
 
         <Box
           sx={{
-            backgroundColor: errorInfo.bgColor,
+            backgroundColor:
+              typeof errorInfo.bgColor === "string" &&
+              errorInfo.bgColor.startsWith("rgba")
+                ? errorInfo.bgColor
+                : mode === "dark"
+                ? "rgba(255,255,255,0.05)"
+                : errorInfo.bgColor,
             borderRadius: 2,
             p: 3,
             maxWidth: 600,
             border: "1px solid",
-            borderColor: errorInfo.borderColor,
+            borderColor:
+              typeof errorInfo.borderColor === "string" &&
+              errorInfo.borderColor.startsWith("rgba")
+                ? errorInfo.borderColor
+                : mode === "dark"
+                ? "rgba(255,255,255,0.1)"
+                : errorInfo.borderColor,
           }}
         >
           <Typography

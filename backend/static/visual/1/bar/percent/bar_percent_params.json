@@ -1,0 +1,138 @@
+{
+  "chart_type": "bar_percent",
+  "engine": "r",
+  "data": "/Users/dengxsh/Downloads/Work/OmicsAgent/backend/static/visual/1/bar/percent/bar_percent_data.csv",
+  "ggplot2": {
+    "mapping": {
+      "x": "-freq * 100",
+      "y": "type",
+      "fill": "symbol"
+    },
+    "layers": [
+      {
+        "type": "geom_col",
+        "mapping": {
+          "x": -0.5
+        },
+        "arguments": {
+          "alpha": 0.2
+        }
+      },
+      {
+        "type": "geom_col"
+      }
+    ],
+    "facets": {
+      "type": "facet_wrap2",
+      "arguments": {
+        "facets": "symbol",
+        "nrow": 1,
+        "strip": {
+          "type": "strip_themed",
+          "arguments": {
+            "text_x": {
+              "type": "elem_list_text",
+              "arguments": {
+                "size": 15,
+                "vjust": 0
+              }
+            },
+            "background_x": {
+              "type": "elem_list_rect",
+              "arguments": {
+                "fill": [
+                  "#009392",
+                  "#39b185",
+                  "#9ccb86",
+                  "#e9e29c",
+                  "#eeb479",
+                  "#e88471",
+                  "#cf597e"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "name": "Genes",
+          "values": [
+            "#009392",
+            "#39b185",
+            "#9ccb86",
+            "#e9e29c",
+            "#eeb479",
+            "#e88471",
+            "#cf597e"
+          ]
+        }
+      },
+      {
+        "type": "scale_x_continuous",
+        "arguments": {
+          "expand": [
+            0,
+            0
+          ],
+          "limits": [
+            -0.5,
+            0
+          ],
+          "breaks": [
+            -0.5,
+            0
+          ],
+          "labels": [
+            "50%",
+            "0%"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "guides": {
+      "fill": {
+        "type": "guide_none"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "axis.line.y": {
+            "type": "element_blank"
+          },
+          "axis.ticks.y": {
+            "type": "element_blank"
+          },
+          "panel.spacing": {
+            "type": "unit",
+            "arguments": {
+              "x": 1,
+              "units": "lines"
+            }
+          },
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "分组箱线图",
+  "description": "Render a basic line plot using ggplot2.",
+  "ggplot2": {
+    "mapping": {
+      "x": "Country",
+      "y": "Income",
+      "fill": "Year"
+    },
+    "layers": [
+      {
+        "type": "geom_boxplot",
+        "arguments": {
+          "position": {
+            "type": "position_dodge",
+            "arguments": {
+              "width": 0.8
+            }
+          }
+        }
+      },
+      {
+        "type": "geom_jitter",
+        "arguments": {
+          "position": {
+            "type": "position_jitterdodge",
+            "arguments": {
+              "jitter.width": 0.2,
+              "dodge.width": 0.8
+            }
+          },
+          "alpha": 0.5
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_brewer",
+        "arguments": {
+          "palette": "Set3"
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Group_Boxplot",
+        "x": "Country",
+        "y": "Income"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_minimal"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "hjust": 0.5,
+              "size": 14,
+              "face": "bold"
+            }
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": true,
+  "has_r": true
+}

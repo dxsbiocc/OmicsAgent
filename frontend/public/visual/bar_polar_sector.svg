@@ -1,0 +1,80 @@
+<svg width="853" height="635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 853 635">
+<rect width="853" height="635" x="0" y="0" fill="none"></rect>
+<path d="M426.5 317.5A0 0 0 0 1 426.5 317.5M426.5 266.7A50.8 50.8 0 0 1 477.3 317.5M426.5 215.9A101.6 101.6 0 0 1 528.1 317.5M426.5 165.1A152.4 152.4 0 0 1 578.9 317.5M426.5 114.3A203.2 203.2 0 0 1 629.7 317.5M426.5 63.5A254 254 0 0 1 680.5 317.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<path d="M426.5 317.5A0 0 0 0 1 426.5 317.5M426.5 368.3A50.8 50.8 0 0 1 375.7 317.5M426.5 419.1A101.6 101.6 0 0 1 324.9 317.5M426.5 469.9A152.4 152.4 0 0 1 274.1 317.5M426.5 520.7A203.2 203.2 0 0 1 223.3 317.5M426.5 571.5A254 254 0 0 1 172.5 317.5" fill="none" stroke="#dbdee4" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="494.31058981686044" y="58.427433512264116" fill="#54555a">MMLU Pro</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="611.7619766708755" y="126.23802332912456" fill="#54555a">MATH-500</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="679.5725664877359" y="249.68941018313956" fill="#54555a">AIME 2024</text>
+<path d="M426.5 58.5L426.5 63.5M556 93.1994L553.5 97.5295M650.8006 188L646.4705 190.5M685.5 317.5L680.5 317.5" fill="#000" stroke="#54555a" class="zr1-cls-1"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="358.68941018313956" y="576.5725664877359" fill="#54555a">MMLU Pro</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="241.23802332912456" y="508.76197667087547" fill="#54555a">MATH-500</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="173.42743351226414" y="385.3105898168605" fill="#54555a">AIME 2024</text>
+<path d="M426.5 576.5L426.5 571.5M297 541.8006L299.5 537.4705M202.1994 447L206.5295 444.5M167.5 317.5L172.5 317.5" fill="#000" stroke="#54555a" class="zr1-cls-1"></path>
+<path d="M426.5 317.5L426.5 63.5" fill="none" stroke="#54555a" stroke-linecap="round" class="zr1-cls-0"></path>
+<path d="M426.5 317.5L426.5 571.5" fill="none" stroke="#54555a" stroke-linecap="round" class="zr1-cls-0"></path>
+<path d="M426.5 63.5A254 254 0 0 1 680.5 317.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 571.5A254 254 0 0 1 172.5 317.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 317.5L421.5 317.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 266.5L421.5 266.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 216.5L421.5 216.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 165.5L421.5 165.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 114.5L421.5 114.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 63.5L421.5 63.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 317.5L431.5 317.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 368.5L431.5 368.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 419.5L431.5 419.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 470.5L431.5 470.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 520.5L431.5 520.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<path d="M426.5 571.5L431.5 571.5" fill="none" stroke="#54555a" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 317.5)" fill="#54555a">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 266.7)" fill="#54555a">20</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 215.9)" fill="#54555a">40</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 165.1)" fill="#54555a">60</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 114.3)" fill="#54555a">80</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(418.5 63.5)" fill="#54555a">100</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(434.5 317.5)" fill="#54555a">0</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(434.5 368.3)" fill="#54555a">20</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(434.5 419.1)" fill="#54555a">40</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(434.5 469.9)" fill="#54555a">60</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(434.5 520.7)" fill="#54555a">80</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(434.5 571.5)" fill="#54555a">100</text>
+<path d="M438.6023 86.5753A231.2416 231.2416 0 0 1 531.4815 111.4622L426.5 317.5Z" fill="rgb(215,104,157)" class="zr1-cls-2"></path>
+<path d="M559.8581 112.1465A244.856 244.856 0 0 1 631.8535 184.1419L426.5 317.5Z" fill="#d7689d" class="zr1-cls-2"></path>
+<path d="M605.742 226.1716A201.168 201.168 0 0 1 627.3923 306.9717L426.5 317.5Z" fill="#d7689d" class="zr1-cls-2"></path>
+<path d="M415.3336 530.5676A213.36 213.36 0 0 1 329.6366 507.6052L426.5 317.5Z" fill="#f3d337" class="zr1-cls-3"></path>
+<path d="M291.8968 524.7707A247.142 247.142 0 0 1 219.2293 452.1032L426.5 317.5Z" fill="#f3d337" class="zr1-cls-3"></path>
+<path d="M245.9001 409.5202A202.692 202.692 0 0 1 224.0858 328.1081L426.5 317.5Z" fill="#f3d337" class="zr1-cls-3"></path>
+<path d="M-5 -5l210.4319 0l0 24l-210.4319 0Z" transform="translate(516.8 449.5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-0"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(516.8 449.5)" fill="#d7689d" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(516.8 449.5)" fill="#54555a">OpenAI o1</text>
+<path d="M0 0l86.1719 0l0 14l-86.1719 0Z" transform="translate(516.8 449.5)" fill="none" class="zr1-cls-4"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(610.9719 449.5)" fill="#f3d337" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(610.9719 449.5)" fill="#54555a">DeepSeek-R1</text>
+<path d="M0 0l106.2599 0l0 14l-106.2599 0Z" transform="translate(610.9719 449.5)" fill="none" class="zr1-cls-4"></path>
+<path d="M-50 -5l100 0l0 28l-100 0Z" transform="translate(426.5 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" y="9" transform="translate(426.5 20)" fill="#3c3c41">扇形柱状图</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(236,114,172,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,232,60,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

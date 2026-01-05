@@ -1,0 +1,1432 @@
+[
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -3.9512
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -5.869
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -5.7385
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -5.2002
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -6.1178
+  },
+  {
+    "group": "NAFL",
+    "name": "COMP",
+    "value": -4.7316
+  },
+  {
+    "group": "NAFL",
+    "name": "SLC6A11",
+    "value": -3.5085
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -2.5237
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -1.9822
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -4.0555
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -4.3116
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -1.0637
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -3.8556
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -2.5031
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -4.1981
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -4.1155
+  },
+  {
+    "group": "NAFL",
+    "name": "COMP",
+    "value": -4.7293
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -5.9858
+  },
+  {
+    "group": "NAFL",
+    "name": "SLC6A11",
+    "value": -7.5061
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -5.5483
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -4.6529
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -3.9381
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -3.0493
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -2.9669
+  },
+  {
+    "group": "NAFL",
+    "name": "COMP",
+    "value": -4.1657
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -5.4217
+  },
+  {
+    "group": "NAFL",
+    "name": "COMP",
+    "value": -4.395
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -5.5571
+  },
+  {
+    "group": "NAFL",
+    "name": "SLC6A11",
+    "value": -7.0773
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 0.7858
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.61
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -2.0309
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.2877
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -5.2227
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -2.2203
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -4.7232
+  },
+  {
+    "group": "NAFL",
+    "name": "SLC6A11",
+    "value": -7.1136
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -4.654
+  },
+  {
+    "group": "NAFL",
+    "name": "SLC6A11",
+    "value": -5.9622
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -2.3445
+  },
+  {
+    "group": "NAFL",
+    "name": "SLC6A11",
+    "value": -5.9748
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -2.0203
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -3.1304
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -3.6611
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -4.7069
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -5.4946
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -1.2567
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -1.4961
+  },
+  {
+    "group": "NAFL",
+    "name": "COMP",
+    "value": -1.3026
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -4.3662
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -2.7959
+  },
+  {
+    "group": "NAFL",
+    "name": "SLC6A11",
+    "value": -7.1038
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -4.9821
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -5.7696
+  },
+  {
+    "group": "NAFL",
+    "name": "SLC6A11",
+    "value": -7.2902
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -1.3752
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -4.4081
+  },
+  {
+    "group": "NAFL",
+    "name": "COMP",
+    "value": -2.6074
+  },
+  {
+    "group": "NAFL",
+    "name": "SLC6A11",
+    "value": -7.3837
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -3.0565
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -3.8514
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -4.1842
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -3.6392
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -1.6515
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -5.7393
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -4.5949
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -3.9887
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -4.0336
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -5.0959
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -4.7205
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": 0.4875
+  },
+  {
+    "group": "NAFL",
+    "name": "SLC6A11",
+    "value": -7.0303
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -4.9218
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -5.839
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -5.6953
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -2.9127
+  },
+  {
+    "group": "NAFL",
+    "name": "COMP",
+    "value": -3.6417
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -3.8978
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -3.7813
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -3.0139
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -5.6908
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -2.5873
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -5.8266
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -4.0135
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -5.8007
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -4.8071
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -5.0412
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -3.959
+  },
+  {
+    "group": "NAFL",
+    "name": "COMP",
+    "value": -3.5728
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -5.8291
+  },
+  {
+    "group": "NAFL",
+    "name": "COMP",
+    "value": -5.2815
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -5.2676
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -2.2426
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -5.1451
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -3.4779
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -1.2399
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -3.536
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.5649
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.728
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -0.094
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.8479
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -1.6841
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -2.9401
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -5.046
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 0.3391
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -4.7486
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -1.3622
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 0.7476
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -3.7304
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -1.6661
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.9223
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 0.1979
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.5496
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -2.7486
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.5899
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -4.6941
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 1.6794
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -0.5441
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.5206
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -5.5838
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -2.5812
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -3.5864
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -3.1818
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -4.1178
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -0.2867
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -0.7447
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.3155
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 0.875
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -0.6396
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -2.2169
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -2.9874
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -0.9937
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -5.1595
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 1.2815
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -1.873
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.5938
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -0.6925
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -5.071
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -2.9658
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -0.7134
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -1.9121
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -4.7532
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -4.274
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -0.7198
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -0.9211
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.7367
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -5.315
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -0.4148
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -1.1399
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -2.7534
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -1.273
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -4.7947
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -2.7408
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -4.5824
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -4.7618
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -2.8242
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 1.3533
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -1.3511
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -3.2863
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -2.0838
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -7.0635
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -0.0468
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.6804
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.4013
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.773
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -5.8783
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -2.7839
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -1.6647
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -7.0924
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -1.0749
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -4.693
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -2.7217
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -4.5632
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -1.5894
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": 0.0412
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -4.0863
+  },
+  {
+    "group": "NAFL",
+    "name": "PADI1",
+    "value": -5.9559
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 0.0412
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.8762
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.5968
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.5533
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 1.1577
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -3.76
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -2.7889
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -7.1506
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -1.2328
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -3.0244
+  },
+  {
+    "group": "NAFL",
+    "name": "COMP",
+    "value": -4.2238
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 1.0827
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -3.2042
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.081
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -3.7201
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 1.4131
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -1.7844
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.8839
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -2.8773
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -4.6605
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -4.7899
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -5.7073
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -7.0981
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -3.1405
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -3.3205
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -2.6721
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -1.8125
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.3169
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -6.1667
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -3.8815
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -3.7991
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": 0.0468
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -5.6693
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -1.576
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -5.8152
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -2.7661
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.5137
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.554
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -0.0162
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.9931
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -1.3842
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -4.4479
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -4.3832
+  },
+  {
+    "group": "NAFL",
+    "name": "AKR1B15",
+    "value": -3.0433
+  },
+  {
+    "group": "NAFL",
+    "name": "CA12",
+    "value": -4.5456
+  },
+  {
+    "group": "NAFL",
+    "name": "COMP",
+    "value": -3.1597
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -3.088
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -4.5904
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.1392
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 0.5231
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -3.7636
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.7924
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.2189
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -4.7393
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 0.5479
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.4051
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -4.3405
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.5967
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -5.5322
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 2.0738
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": 2.4319
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.877
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -0.5481
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -1.3906
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -4.6507
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -2.5204
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 1.9851
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.4556
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -4.3917
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -1.5834
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -0.3623
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -3.6723
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -1.7013
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -2.7408
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -2.7466
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -0.8565
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.8183
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": 1.1667
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -5.0546
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -0.8625
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.195
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -0.9343
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -4.65
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -4.5855
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -0.8927
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -3.2962
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -1.0613
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.4876
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -7.0081
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -0.556
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.2619
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -2.0133
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -3.5914
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -6.1118
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 0.7312
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -1.7964
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -3.6584
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -2.4548
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -7.4352
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": 0.8805
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -2.0631
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -4.6759
+  },
+  {
+    "group": "NASH",
+    "name": "AKR1B15",
+    "value": -0.4034
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -1.8773
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -2.5786
+  },
+  {
+    "group": "NASH",
+    "name": "PADI1",
+    "value": -2.0274
+  },
+  {
+    "group": "NASH",
+    "name": "CA12",
+    "value": -4.5928
+  },
+  {
+    "group": "NASH",
+    "name": "COMP",
+    "value": -3.2069
+  },
+  {
+    "group": "NASH",
+    "name": "SLC6A11",
+    "value": -4.6616
+  }
+]

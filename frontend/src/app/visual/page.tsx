@@ -16,223 +16,355 @@ import {
   Stack,
   IconButton,
   Tooltip,
+  TextField,
+  InputAdornment,
 } from "@mui/material";
+import Iconify from "@/components/common/Iconify";
+import { OmicsArtistLogoIcon } from "@/components/common/CustomSvgIcon";
 import animStyles from "../../../styles/visual/visual-animations.module.css";
 import {
   TrendingUp,
   BarChart,
   PieChart,
   ScatterPlot,
+  CandlestickChart,
   Radar,
   GridOn as HeatMap,
   AccountTree,
+  DeviceHub,
   Favorite,
   ThumbUp,
   Visibility,
   BookmarkBorder,
   PlayArrow,
   Create,
+  Image as ImageIcon,
+  Javascript,
+  Close,
+  Search,
 } from "@mui/icons-material";
+import {
+  getVisualTools,
+  type VisualToolInfo,
+  type VisualToolGroup,
+  type VisualToolsResponse,
+} from "@/libs/api/visual";
+import { addRandomBackgroundToTools } from "../../utils/backgroundUtils";
 
-// 图表类型定义
-const chartTypes = [
-  { id: "line", name: "折线图", icon: TrendingUp, color: "#ed6ca4" },
-  { id: "bar", name: "柱状图", icon: BarChart, color: "#fbb05b" },
-  { id: "pie", name: "饼图", icon: PieChart, color: "#acd372" },
-  { id: "scatter", name: "散点图", icon: ScatterPlot, color: "#7bc4e2" },
-  { id: "radar", name: "雷达图", icon: Radar, color: "#9c27b0" },
-  { id: "heatmap", name: "热图", icon: HeatMap, color: "#ff5722" },
-  { id: "tree", name: "树状图", icon: AccountTree, color: "#795548" },
+// 获取工具背景图片的函数
+const getToolBackgroundImage = (toolSlug: string): string => {
+  // 默认占位背景图
+  const defaultBackgroundImage = "/images/background/others/6056984.jpg";
+
+  // 获取实际的文件名
+  const visualImagePath = `/visual/${toolSlug}.svg`;
+  const visualImagePathPNG = `/visual/${toolSlug}.png`;
+
+  // 已知存在的图片列表（基于你提供的文件）
+  const knownImages = [
+    "line_basic",
+    "line_group", // 实际的文件名
+    "line_stack",
+    "line_highlight",
+    "line_bump",
+    "line_double",
+    "line_independent",
+    "bar_basic",
+    "bar_group",
+    "bar_waterfall",
+    "bar_stack",
+    "bar_break",
+    "bar_polar_vertical",
+    "bar_polar_horizontal",
+    "bar_polar_sector",
+    "bar_polar_stack",
+    "bar_polar_stack_ring",
+    "scatter_basic",
+    "scatter_group",
+    "scatter_bubble",
+    "scatter_jitter",
+    "scatter_single",
+    "pie_basic",
+    "pie_doughnut",
+    "pie_half",
+    "pie_nightingale",
+    "pie_nest",
+    "pie_combine",
+    "radar_basic",
+    "radar_group",
+    "boxplot_basic",
+    "boxplot_group",
+    "heatmap_basic",
+    "tree_basic",
+    "tree_group",
+    "sunburst_basic",
+    "sunburst_advanced",
+    "sunburst_round",
+    "sankey_basic",
+    "sankey_level",
+    "graph_basic",
+    "graph_force",
+    "graph_cartesian",
+    "graph_circular",
+  ];
+
+  const knownImagesPNG = [
+    // scatter
+    "scatter_paired",
+    "scatter_bezier",
+    "scatter_cleveland",
+    "scatter_lollipop_polar",
+    "scatter_lollipop_radial",
+    "scatter_dumbbell",
+    "scatter_dumbbell_horizontal",
+    "scatter_dumbbell_region",
+    "scatter_dumbbell_groups",
+    "scatter_dumbbell_rect",
+    "scatter_beeswarm",
+    "scatter_beeswarm_group",
+    "scatter_jitter_group",
+    "scatter_one2many",
+    "scatter_correlation",
+    "scatter_contour",
+    "scatter_volcano",
+    "scatter_maplot",
+    "scatter_rank",
+    "scatter_diagonal",
+    "scatter_quadrant",
+    "scatter_hex",
+    "scatter_marginal",
+    "scatter_matrix",
+    // line
+    "line_survival",
+    // bar
+    "bar_enrichment_groups",
+    "bar_opposite",
+    "bar_enrichment_genes",
+    "bar_enrichment_expand",
+    "bar_enrichment_points",
+    "bar_radial",
+    "bar_radial_groups",
+    "bar_butterfly",
+    "bar_errorbar",
+    "bar_waffle",
+    "bar_percent",
+    // boxplot
+    "boxplot_differential_expression",
+    "boxplot_round",
+    "boxplot_point",
+    "boxplot_violin",
+    "boxplot_raincloud",
+    "boxplot_raincloud_vertical",
+    "boxplot_differential_two",
+    "boxplot_differential_facet",
+    "boxplot_bezier_point",
+    "boxplot_differential_bg",
+    "boxplot_polar_heatmap",
+    "boxplot_polar",
+    "boxplot_raincloud_differential",
+    // heatmap
+    "heatmap_shape",
+    "heatmap_mantel",
+    "heatmap_mantel_size",
+    "heatmap_two_shape",
+    "heatmap_signif",
+    "heatmap_two",
+  ];
+
+  // 检查是否是已知存在的图片
+  if (knownImages.includes(toolSlug)) {
+    return visualImagePath;
+  }
+  if (knownImagesPNG.includes(toolSlug)) {
+    return visualImagePathPNG;
+  }
+
+  // 对于其他图片，先尝试 visual 目录，如果不存在会回退到默认图片
+  return defaultBackgroundImage;
+};
+
+// 智能图片组件，处理加载失败的情况
+const SmartCardMedia = ({
+  toolSlug,
+  toolName,
+}: {
+  toolSlug: string;
+  toolName: string;
+}) => {
+  const [imageSrc, setImageSrc] = useState(getToolBackgroundImage(toolSlug));
+  const [hasError, setHasError] = useState(false);
+
+  const handleImageError = () => {
+    if (!hasError) {
+      setHasError(true);
+      setImageSrc("/images/background/others/6056984.jpg");
+    }
+  };
+
+  return (
+    <CardMedia
+      component="img"
+      image={imageSrc}
+      alt={toolName}
+      onError={handleImageError}
+      sx={{
+        objectFit: "cover",
+        height: 260,
+        flexShrink: 0, // 防止被压缩
+        width: "100%",
+      }}
+    />
+  );
+};
+
+// 前端分组显示顺序：由简单到复杂（仅前端控制，后端无关）
+const CATEGORY_ORDER = [
+  "line",
+  "scatter",
+  "bar",
+  "pie",
+  "boxplot",
+  "radar",
+  "area",
+  "heatmap",
+  "tree",
+  "graph",
+  "funnel",
+  "sankey",
+  "parallel",
+  "sunburst",
 ];
 
-// 工具数据
-const toolsData = [
-  {
-    id: "plotly-line",
-    name: "Plotly 折线图",
-    description: "交互式折线图，支持多系列数据和动态缩放",
-    image: "/images/background/others/13568626.jpg",
-    category: "line",
-    favorites: 1234,
-    likes: 856,
-    usage: 2341,
-    tags: ["交互式", "多系列", "动态缩放"],
-  },
-  {
-    id: "d3-line",
-    name: "D3.js 折线图",
-    description: "高度自定义的折线图，支持复杂的数据可视化需求",
-    image: "/images/background/others/6056984.jpg",
-    category: "line",
-    favorites: 987,
-    likes: 654,
-    usage: 1876,
-    tags: ["自定义", "复杂数据", "D3.js"],
-  },
-  {
-    id: "ggplot2-line",
-    name: "ggplot2 折线图",
-    description: "高度自定义的折线图，支持复杂的数据可视化需求",
-    image: "/images/background/others/15151415.jpg",
-    category: "line",
-    favorites: 987,
-    likes: 654,
-    usage: 1876,
-    tags: ["自定义", "复杂数据", "ggplot2"],
-  },
-  {
-    id: "seaborn-line",
-    name: "seaborn 折线图",
-    description: "高度自定义的折线图，支持复杂的数据可视化需求",
-    image: "/images/background/others/15441888.jpg",
-    category: "line",
-    favorites: 987,
-    likes: 654,
-    usage: 1876,
-    tags: ["自定义", "复杂数据", "ggplot2"],
-  },
-  {
-    id: "chartjs-bar",
-    name: "Chart.js 柱状图",
-    description: "轻量级柱状图库，易于集成和使用",
-    image: "/images/background/others/15441927.jpg",
-    category: "bar",
-    favorites: 1456,
-    likes: 923,
-    usage: 3124,
-    tags: ["轻量级", "易集成", "响应式"],
-  },
-  {
-    id: "echarts-bar",
-    name: "ECharts 柱状图",
-    description: "功能强大的柱状图，支持3D效果和动画",
-    image: "/images/background/others/15628839.jpg",
-    category: "bar",
-    favorites: 2134,
-    likes: 1456,
-    usage: 4567,
-    tags: ["3D效果", "动画", "功能强大"],
-  },
-  {
-    id: "recharts-pie",
-    name: "Recharts 饼图",
-    description: "React生态的饼图组件，支持多种样式",
-    image: "/images/background/others/15634907.jpg",
-    category: "pie",
-    favorites: 876,
-    likes: 543,
-    usage: 1234,
-    tags: ["React", "组件化", "多样式"],
-  },
-  {
-    id: "d3-pie",
-    name: "D3.js 饼图",
-    description: "高度自定义的饼图，支持复杂的交互效果",
-    image: "/images/background/others/6056984.jpg",
-    category: "pie",
-    favorites: 654,
-    likes: 432,
-    usage: 987,
-    tags: ["自定义", "交互效果", "D3.js"],
-  },
-  {
-    id: "plotly-scatter",
-    name: "Plotly 散点图",
-    description: "交互式散点图，支持3D和动画效果",
-    image: "/images/background/others/6056984.jpg",
-    category: "scatter",
-    favorites: 1123,
-    likes: 789,
-    usage: 2134,
-    tags: ["3D", "动画", "交互式"],
-  },
-  {
-    id: "observable-scatter",
-    name: "Observable 散点图",
-    description: "基于Observable平台的散点图，支持实时数据更新",
-    image: "/images/background/others/6056984.jpg",
-    category: "scatter",
-    favorites: 543,
-    likes: 321,
-    usage: 876,
-    tags: ["实时更新", "Observable", "数据驱动"],
-  },
-  {
-    id: "chartjs-radar",
-    name: "Chart.js 雷达图",
-    description: "多维度数据展示的雷达图，支持多系列对比",
-    image: "/images/background/others/6056984.jpg",
-    category: "radar",
-    favorites: 432,
-    likes: 287,
-    usage: 654,
-    tags: ["多维度", "对比", "Chart.js"],
-  },
-  {
-    id: "d3-radar",
-    name: "D3.js 雷达图",
-    description: "高度自定义的雷达图，支持复杂的样式和交互",
-    image: "/images/background/others/6056984.jpg",
-    category: "radar",
-    favorites: 321,
-    likes: 198,
-    usage: 543,
-    tags: ["自定义", "复杂样式", "D3.js"],
-  },
-  {
-    id: "plotly-heatmap",
-    name: "Plotly 热图",
-    description: "交互式热图，支持大数据集和颜色映射",
-    image: "/images/background/others/6056984.jpg",
-    category: "heatmap",
-    favorites: 1876,
-    likes: 1234,
-    usage: 3456,
-    tags: ["大数据", "颜色映射", "交互式"],
-  },
-  {
-    id: "d3-heatmap",
-    name: "D3.js 热图",
-    description: "高度自定义的热图，支持复杂的布局和动画",
-    image: "/images/background/others/6056984.jpg",
-    category: "heatmap",
-    favorites: 765,
-    likes: 543,
-    usage: 1234,
-    tags: ["自定义", "复杂布局", "动画"],
-  },
-  {
-    id: "d3-tree",
-    name: "D3.js 树状图",
-    description: "层次化数据展示的树状图，支持多种布局算法",
-    image: "/images/background/others/6056984.jpg",
-    category: "tree",
-    favorites: 654,
-    likes: 432,
-    usage: 987,
-    tags: ["层次化", "布局算法", "D3.js"],
-  },
-  {
-    id: "vis-tree",
-    name: "vis.js 树状图",
-    description: "网络图库的树状图组件，支持动态布局和交互",
-    image: "/images/background/others/6056984.jpg",
-    category: "tree",
-    favorites: 432,
-    likes: 287,
-    usage: 654,
-    tags: ["动态布局", "交互", "vis.js"],
-  },
-];
+// 图表类型定义（从后端工具数据动态生成）
+const getChartTypes = (tools: VisualToolInfo[]) => {
+  const typeMap = new Map();
+
+  tools.forEach((tool) => {
+    const chartType = tool.category; // 使用分类字段
+    if (!typeMap.has(chartType)) {
+      const iconMap: Record<string, any> = {
+        line: TrendingUp,
+        bar: BarChart,
+        pie: PieChart,
+        scatter: ScatterPlot,
+        radar: Radar,
+        boxplot: CandlestickChart,
+        heatmap: HeatMap,
+        tree: AccountTree,
+        area: TrendingUp,
+        funnel: PieChart,
+        sankey: ScatterPlot,
+        parallel: Radar,
+        sunburst: HeatMap,
+        graph: DeviceHub,
+      };
+
+      const colorMap: Record<string, string> = {
+        line: "#ed6ca4",
+        bar: "#fbb05b",
+        pie: "#acd372",
+        scatter: "#7bc4e2",
+        radar: "#9c27b0",
+        boxplot: "#fbb05b",
+        heatmap: "#ff5722",
+        tree: "#795548",
+        area: "#ed6ca4",
+        funnel: "#acd372",
+        sankey: "#7bc4e2",
+        parallel: "#9c27b0",
+        sunburst: "#ff5722",
+        graph: "#795548",
+      };
+
+      const nameMap: Record<string, string> = {
+        line: "折线图",
+        scatter: "散点图",
+        bar: "柱状图",
+        pie: "饼图",
+        radar: "雷达图",
+        boxplot: "箱线图",
+        heatmap: "热图",
+        tree: "树状图",
+        area: "面积图",
+        funnel: "漏斗图",
+        sankey: "桑基图",
+        parallel: "平行坐标",
+        sunburst: "旭日图",
+        graph: "关系图",
+      };
+
+      typeMap.set(chartType, {
+        id: chartType,
+        name: nameMap[chartType] || chartType,
+        icon: iconMap[chartType] || BarChart,
+        color: colorMap[chartType] || "#666666",
+        count: 1,
+      });
+    } else {
+      typeMap.get(chartType).count++;
+    }
+  });
+
+  return Array.from(typeMap.values());
+};
 
 export default function VisualPage() {
   const router = useRouter();
+
+  // 状态管理
+  const [toolsData, setToolsData] = useState<VisualToolInfo[]>([]);
+  const [toolGroups, setToolGroups] = useState<VisualToolGroup[]>([]);
+  const [chartTypes, setChartTypes] = useState<any[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+
   const [activeCategory, setActiveCategory] = useState("line");
+  const [searchQuery, setSearchQuery] = useState("");
   const sectionRefs = useRef<{ [key: string]: HTMLElement | null }>({});
   const contentScrollRef = useRef<HTMLDivElement>(null);
   // 避免滚动过程中 ScrollSpy 抢占激活态
   const isProgrammaticScrollRef = useRef(false);
   const activeCategoryRef = useRef(activeCategory);
+
+  // 获取工具数据
+  useEffect(() => {
+    const fetchToolsData = async () => {
+      try {
+        setLoading(true);
+        const response: VisualToolsResponse = await getVisualTools();
+
+        // 添加随机背景图片
+        const toolsWithBackgrounds = addRandomBackgroundToTools(response.tools);
+        setToolsData(toolsWithBackgrounds);
+        setToolGroups(response.groups);
+
+        // 动态生成图表类型（基于分组信息）
+        // 生成并按前端预定义顺序排序
+        const dynamicChartTypes = getChartTypes(toolsWithBackgrounds);
+        dynamicChartTypes.sort((a: any, b: any) => {
+          const ia = CATEGORY_ORDER.indexOf(a.id);
+          const ib = CATEGORY_ORDER.indexOf(b.id);
+          return (
+            (ia === -1 ? Number.MAX_SAFE_INTEGER : ia) -
+            (ib === -1 ? Number.MAX_SAFE_INTEGER : ib)
+          );
+        });
+        setChartTypes(dynamicChartTypes);
+
+        // 设置默认激活分类
+        if (dynamicChartTypes.length > 0) {
+          setActiveCategory(dynamicChartTypes[0].id);
+        }
+      } catch (err) {
+        console.error("Failed to fetch tools data:", err);
+        setError("获取工具数据失败");
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchToolsData();
+  }, []);
 
   useEffect(() => {
     activeCategoryRef.current = activeCategory;
@@ -327,13 +459,23 @@ export default function VisualPage() {
     };
   }, []);
 
-  // 按分类分组工具
-  const groupedTools = chartTypes.reduce((acc, chartType) => {
-    acc[chartType.id] = toolsData.filter(
-      (tool) => tool.category === chartType.id
-    );
+  // 按分类分组工具（使用后端分组信息）
+  const groupedTools = toolGroups.reduce((acc, group) => {
+    acc[group.category] = group.tools;
     return acc;
-  }, {} as { [key: string]: typeof toolsData });
+  }, {} as { [key: string]: VisualToolInfo[] });
+
+  // Filter tools based on search query
+  const filterTools = (tools: VisualToolInfo[]) => {
+    if (!searchQuery.trim()) return tools;
+    const query = searchQuery.toLowerCase();
+    return tools.filter(
+      (tool) =>
+        tool.name.toLowerCase().includes(query) ||
+        tool.description.toLowerCase().includes(query) ||
+        tool.tool.toLowerCase().includes(query)
+    );
+  };
 
   // 卡片跳动处理函数
   const handleBounce = (e: React.MouseEvent<HTMLDivElement>) => {
@@ -344,21 +486,59 @@ export default function VisualPage() {
     el.classList.add(animStyles.cardBounceOnce);
   };
 
-  // 处理工具卡片点击跳转
-  const handleToolClick = (toolId: string) => {
-    console.log("Card clicked:", toolId);
-    router.push(`/visual/${toolId}`);
+  // 处理JavaScript图表绘制按钮点击
+  const handleJavaScriptDrawClick = (toolId: string, e: React.MouseEvent) => {
+    console.log("JavaScript draw button clicked:", toolId);
+    e.stopPropagation();
+    router.push(`/visual/${toolId}?type=js`);
   };
 
-  // 处理开始绘制按钮点击
-  const handleDrawClick = (toolId: string, e: React.MouseEvent) => {
-    console.log("Draw button clicked:", toolId);
+  // 处理Python图表绘制按钮点击
+  const handlePythonDrawClick = (toolId: string, e: React.MouseEvent) => {
+    console.log("Python draw button clicked:", toolId);
     e.stopPropagation();
-    router.push(`/visual/${toolId}`);
+    router.push(`/visual/${toolId}?type=py`);
   };
+
+  // 处理R图表绘制按钮点击
+  const handleRDrawClick = (toolId: string, e: React.MouseEvent) => {
+    console.log("R draw button clicked:", toolId);
+    e.stopPropagation();
+    router.push(`/visual/${toolId}?type=r`);
+  };
+
+  // 加载状态
+  if (loading) {
+    return (
+      <Box
+        sx={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          height: "100vh",
+        }}
+      >
+        <Typography>加载工具数据中...</Typography>
+      </Box>
+    );
+  }
+
+  // 错误状态
+  if (error) {
+    return (
+      <Box sx={{ p: 3 }}>
+        <Typography variant="h6" color="error">
+          {error}
+        </Typography>
+        <Typography variant="body2" sx={{ mt: 1 }}>
+          请检查网络连接或稍后重试
+        </Typography>
+      </Box>
+    );
+  }
 
   return (
-    <Box sx={{ display: "flex", height: "100%", overflow: "hidden" }}>
+    <Box sx={{ display: "flex", height: "100%", overflow: "display" }}>
       {/* 左侧工具栏 */}
       <Paper
         className={animStyles.sidebarSlideIn}
@@ -370,7 +550,7 @@ export default function VisualPage() {
           borderRight: 1,
           borderColor: "divider",
           bgcolor: "background.paper",
-          overflow: "auto",
+          // overflow: "auto",
         }}
       >
         <Stack spacing={1}>
@@ -425,8 +605,106 @@ export default function VisualPage() {
         sx={{ flex: 1, height: "100%", overflow: "auto" }}
       >
         <Container maxWidth="lg" sx={{ p: 3 }}>
+          {/* Search Bar */}
+          <Box sx={{ mb: 4 }}>
+            <Stack direction="row" spacing={2} alignItems="center">
+              <TextField
+                placeholder="搜索绘图工具..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                InputProps={{
+                  startAdornment: (
+                    <InputAdornment position="start">
+                      <Search sx={{ fontSize: 24, color: "text.secondary" }} />
+                    </InputAdornment>
+                  ),
+                  endAdornment: searchQuery && (
+                    <InputAdornment position="end">
+                      <IconButton
+                        size="small"
+                        onClick={() => setSearchQuery("")}
+                        sx={{ color: "text.secondary" }}
+                      >
+                        <Close fontSize="small" />
+                      </IconButton>
+                    </InputAdornment>
+                  ),
+                }}
+                sx={{
+                  flex: 1,
+                  "& .MuiOutlinedInput-root": {
+                    borderRadius: 2,
+                    bgcolor: "background.paper",
+                    "&:hover": {
+                      "& .MuiOutlinedInput-notchedOutline": {
+                        borderColor: "primary.main",
+                      },
+                    },
+                    "&.Mui-focused": {
+                      "& .MuiOutlinedInput-notchedOutline": {
+                        borderColor: "primary.main",
+                        borderWidth: 2,
+                      },
+                    },
+                  },
+                }}
+              />
+              {/* Status Indicator */}
+              <Box
+                sx={(theme) => ({
+                  display: { xs: "none", md: "flex" },
+                  alignItems: "center",
+                  gap: 1,
+                  bgcolor:
+                    theme.palette.mode === "dark"
+                      ? "rgba(245, 158, 11, 0.15)"
+                      : "rgba(245, 158, 11, 0.1)",
+                  px: 1.5,
+                  py: 1.5,
+                  borderRadius: "9999px",
+                  border: 1,
+                  borderColor:
+                    theme.palette.mode === "dark"
+                      ? "rgba(245, 158, 11, 0.25)"
+                      : "rgba(245, 158, 11, 0.2)",
+                  height: "auto",
+                  minHeight: 40,
+                })}
+              >
+                <Typography
+                  variant="caption"
+                  sx={{
+                    fontSize: "0.75rem",
+                    fontWeight: 700,
+                    color: "warning.main",
+                  }}
+                >
+                  共 {toolsData.length} 个绘图工具
+                </Typography>
+                <Box
+                  sx={(theme) => ({
+                    width: 24,
+                    height: 24,
+                    borderRadius: "50%",
+                    bgcolor:
+                      theme.palette.mode === "dark"
+                        ? "rgba(245, 158, 11, 0.5)"
+                        : "rgba(245, 158, 11, 0.4)",
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                    overflow: "hidden",
+                  })}
+                >
+                  <OmicsArtistLogoIcon
+                    sx={{ fontSize: 20, color: "warning.main" }}
+                  />
+                </Box>
+              </Box>
+            </Stack>
+          </Box>
           {chartTypes.map((chartType, index) => {
-            const tools = groupedTools[chartType.id];
+            const tools = filterTools(groupedTools[chartType.id] || []);
             if (tools.length === 0) return null;
 
             return (
@@ -444,7 +722,7 @@ export default function VisualPage() {
                     p: 2,
                     mb: 4,
                     background: `linear-gradient(135deg, ${theme.palette.primary.main}50 0%, ${theme.palette.info.main}50 100%)`,
-                    color: "black",
+                    color: "text.primary",
                     borderRadius: 2,
                     minHeight: 60,
                     display: "flex",
@@ -489,9 +767,9 @@ export default function VisualPage() {
                   className={animStyles.cardsGridEnter}
                   sx={{ pointerEvents: "auto" }}
                 >
-                  {tools.map((tool, toolIndex) => (
+                  {tools.map((tool: VisualToolInfo, toolIndex: number) => (
                     <Grid
-                      key={tool.id}
+                      key={tool.tool}
                       size={{ xs: 3, sm: 4, md: 4, lg: 4 }}
                       className={animStyles.cardStagger}
                       sx={{
@@ -501,7 +779,6 @@ export default function VisualPage() {
                       <Card
                         className={`${animStyles.cardEnter} ${animStyles.cardHover}`}
                         onMouseEnter={handleBounce}
-                        onClick={() => handleToolClick(tool.id)}
                         sx={{
                           height: 430,
                           width: "100%",
@@ -510,8 +787,9 @@ export default function VisualPage() {
                           transition: "all 0.3s linear",
                           mx: "auto",
                           position: "relative",
-                          cursor: "pointer",
+                          cursor: "default",
                           zIndex: 1,
+                          overflow: "hidden", // 防止内容溢出
                           "&:hover": {
                             boxShadow: "0 8px 24px rgba(0,0,0,0.15)",
                           },
@@ -523,7 +801,7 @@ export default function VisualPage() {
                           color="error"
                           onClick={(e) => {
                             e.stopPropagation();
-                            console.log("Bookmark clicked:", tool.id);
+                            console.log("Bookmark clicked:", tool.tool);
                           }}
                           sx={{
                             position: "absolute",
@@ -538,13 +816,20 @@ export default function VisualPage() {
                         >
                           <BookmarkBorder />
                         </IconButton>
-                        <CardMedia
-                          component="img"
-                          image={tool.image}
-                          alt={tool.name}
-                          sx={{ objectFit: "cover", height: 300 }}
+                        <SmartCardMedia
+                          toolSlug={tool.tool}
+                          toolName={tool.name}
                         />
-                        <CardContent sx={{ flex: 1, p: 2, height: 100 }}>
+                        <CardContent
+                          sx={{
+                            flex: "0 0 auto", // 固定高度，不伸缩
+                            p: 2,
+                            height: 100, // 从 120px 减少到 100px
+                            minHeight: 100,
+                            maxHeight: 100,
+                            overflow: "hidden", // 防止内容溢出
+                          }}
+                        >
                           <Typography
                             variant="h6"
                             fontWeight={700}
@@ -567,7 +852,14 @@ export default function VisualPage() {
                           </Typography>
                         </CardContent>
                         <CardActions
-                          sx={{ py: 2, px: 3, justifyContent: "space-between" }}
+                          sx={{
+                            py: 2,
+                            px: 3,
+                            justifyContent: "space-between",
+                            flex: "0 0 auto", // 固定高度，不伸缩
+                            minHeight: 80, // 从 60px 增加到 80px
+                            overflow: "hidden", // 防止内容溢出
+                          }}
                         >
                           <Stack
                             direction="row"
@@ -590,7 +882,7 @@ export default function VisualPage() {
                                   variant="caption"
                                   color="text.secondary"
                                 >
-                                  {tool.favorites}
+                                  {Math.floor(Math.random() * 1000) + 100}
                                 </Typography>
                               </Stack>
                             </Tooltip>
@@ -610,7 +902,7 @@ export default function VisualPage() {
                                   variant="caption"
                                   color="text.secondary"
                                 >
-                                  {tool.likes}
+                                  {Math.floor(Math.random() * 500) + 50}
                                 </Typography>
                               </Stack>
                             </Tooltip>
@@ -630,7 +922,7 @@ export default function VisualPage() {
                                   variant="caption"
                                   color="text.secondary"
                                 >
-                                  {tool.usage}
+                                  {Math.floor(Math.random() * 2000) + 200}
                                 </Typography>
                               </Stack>
                             </Tooltip>
@@ -640,44 +932,99 @@ export default function VisualPage() {
                             spacing={2}
                             alignItems="center"
                           >
-                            <Tooltip title="查看视频">
-                              <IconButton
-                                className={animStyles.playButtonPulse}
-                                size="small"
-                                sx={{
-                                  borderRadius: 1.5,
-                                  width: 36,
-                                  height: 36,
-                                  border: 1,
-                                  borderColor: "primary.main",
-                                  color: "primary.main",
-                                  "&:hover": {
-                                    bgcolor: "primary.light",
-                                    color: "white",
-                                  },
-                                }}
-                              >
-                                <PlayArrow />
-                              </IconButton>
+                            <Tooltip title="JavaScript">
+                              <span>
+                                <IconButton
+                                  className={animStyles.javascriptButtonPulse}
+                                  size="small"
+                                  disabled={!tool.has_js}
+                                  onClick={(e) =>
+                                    handleJavaScriptDrawClick(tool.tool, e)
+                                  }
+                                  sx={{
+                                    borderRadius: 1.5,
+                                    width: 36,
+                                    height: 36,
+                                    border: 1,
+                                    borderColor: "success.main",
+                                    color: "success.main",
+                                    "&:hover": {
+                                      bgcolor: "success.light",
+                                      color: "white",
+                                    },
+                                    "&.Mui-disabled": {
+                                      opacity: 0.3,
+                                    },
+                                  }}
+                                >
+                                  <Javascript sx={{ fontSize: 48 }} />
+                                </IconButton>
+                              </span>
                             </Tooltip>
-                            <Tooltip title="开始绘制">
-                              <IconButton
-                                className={animStyles.drawButtonRotate}
-                                size="small"
-                                onClick={(e) => handleDrawClick(tool.id, e)}
-                                sx={{
-                                  borderRadius: 1.5,
-                                  width: 36,
-                                  height: 36,
-                                  bgcolor: "primary.main",
-                                  color: "white",
-                                  "&:hover": {
-                                    bgcolor: "primary.dark",
-                                  },
-                                }}
-                              >
-                                <Create />
-                              </IconButton>
+                            <Tooltip title="R">
+                              <span>
+                                <IconButton
+                                  className={animStyles.rButtonWiggle}
+                                  size="small"
+                                  disabled={!tool.has_r}
+                                  onClick={(e) =>
+                                    handleRDrawClick(tool.tool, e)
+                                  }
+                                  sx={{
+                                    borderRadius: 1.5,
+                                    width: 36,
+                                    height: 36,
+                                    border: 1,
+                                    borderColor: "info.main",
+                                    color: "info.main",
+                                    "&:hover": {
+                                      bgcolor: "info.light",
+                                      color: "white",
+                                    },
+                                    "&.Mui-disabled": {
+                                      opacity: 0.3,
+                                    },
+                                  }}
+                                >
+                                  <Iconify icon="mdi:language-r" size={48} />
+                                </IconButton>
+                              </span>
+                            </Tooltip>
+                            <Tooltip title="Python">
+                              <span>
+                                <IconButton
+                                  className={animStyles.pythonButtonBounce}
+                                  size="small"
+                                  disabled={!tool.has_python}
+                                  onClick={(e) =>
+                                    handlePythonDrawClick(tool.tool, e)
+                                  }
+                                  sx={{
+                                    borderRadius: 1.5,
+                                    width: 36,
+                                    height: 36,
+                                    border: 1,
+                                    borderColor: "warning.main",
+                                    bgcolor: (theme) =>
+                                      theme.palette.mode === "dark"
+                                        ? "rgba(255,255,255,0.1)"
+                                        : "background.paper",
+                                    color: "warning.main",
+                                    "&:hover": {
+                                      bgcolor: "warning.light",
+                                      color: "white",
+                                    },
+                                    "&.Mui-disabled": {
+                                      opacity: 0.3,
+                                    },
+                                  }}
+                                >
+                                  <Iconify
+                                    icon="simple-icons:python"
+                                    size={20}
+                                  />
+                                </IconButton>
+                              </span>
                             </Tooltip>
                           </Stack>
                         </CardActions>

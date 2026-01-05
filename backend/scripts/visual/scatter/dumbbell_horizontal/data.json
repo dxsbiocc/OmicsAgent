@@ -1,0 +1,152 @@
+[
+    {
+        "age_group": "25 to 29",
+        "mean_prev": 0.1017,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "30 to 34",
+        "mean_prev": 0.1255,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "35 to 39",
+        "mean_prev": 0.1479,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "40 to 44",
+        "mean_prev": 0.1596,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "45 to 49",
+        "mean_prev": 0.1607,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "50 to 54",
+        "mean_prev": 0.1622,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "55 to 59",
+        "mean_prev": 0.167,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "60 to 64",
+        "mean_prev": 0.1678,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "65 to 69",
+        "mean_prev": 0.1541,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "70 to 74",
+        "mean_prev": 0.1435,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "75 to 79",
+        "mean_prev": 0.1304,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "80 to 84",
+        "mean_prev": 0.1193,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "85 to 89",
+        "mean_prev": 0.1266,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "90 to 94",
+        "mean_prev": 0.1372,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "95 plus",
+        "mean_prev": 0.1423,
+        "Sex": "Male"
+    },
+    {
+        "age_group": "25 to 29",
+        "mean_prev": 0.1314,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "30 to 34",
+        "mean_prev": 0.1626,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "35 to 39",
+        "mean_prev": 0.1945,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "40 to 44",
+        "mean_prev": 0.2182,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "45 to 49",
+        "mean_prev": 0.2255,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "50 to 54",
+        "mean_prev": 0.2364,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "55 to 59",
+        "mean_prev": 0.2473,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "60 to 64",
+        "mean_prev": 0.2559,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "65 to 69",
+        "mean_prev": 0.2443,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "70 to 74",
+        "mean_prev": 0.2343,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "75 to 79",
+        "mean_prev": 0.2136,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "80 to 84",
+        "mean_prev": 0.1672,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "85 to 89",
+        "mean_prev": 0.1699,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "90 to 94",
+        "mean_prev": 0.1796,
+        "Sex": "Female"
+    },
+    {
+        "age_group": "95 plus",
+        "mean_prev": 0.1801,
+        "Sex": "Female"
+    }
+]

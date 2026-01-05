@@ -1,0 +1,33 @@
+{
+    "name": "表观遗传学分析",
+    "description": "表观遗传学数据分析工具集合，包括DNA甲基化、组蛋白修饰、染色质可及性、增强子、转录因子结合等分析功能。",
+    "type": "analysis",
+    "category": "epigenetics",
+    "tools": [
+        {
+            "name": "ATAC-seq分析",
+            "description": "转座酶可及染色质测序（ATAC-seq）数据分析，识别染色质开放区域",
+            "category": "epigenetics"
+        },
+        {
+            "name": "增强子分析",
+            "description": "增强子识别和分析，研究基因调控元件的功能",
+            "category": "epigenetics"
+        },
+        {
+            "name": "组蛋白修饰分析",
+            "description": "组蛋白修饰数据分析，包括ChIP-seq数据处理和分析",
+            "category": "epigenetics"
+        },
+        {
+            "name": "DNA甲基化分析",
+            "description": "DNA甲基化数据分析，识别差异甲基化区域和甲基化模式",
+            "category": "epigenetics"
+        },
+        {
+            "name": "转录因子结合分析",
+            "description": "转录因子结合位点分析，包括ChIP-seq和ChIP-chip数据分析",
+            "category": "epigenetics"
+        }
+    ]
+}

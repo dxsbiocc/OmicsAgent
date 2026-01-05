@@ -1,0 +1,83 @@
+{
+  "name": "雨云图",
+  "description": "雨云图用于展示变量在不同分组中的分布情况",
+  "ggplot2": {
+    "mapping": {
+      "x": "gene",
+      "y": "expression",
+      "fill": "gene"
+    },
+    "layers": [
+      {
+        "type": "geom_dotplot",
+        "arguments": {
+          "binaxis": "y",
+          "stackdir": "down",
+          "dotsize": 0.5,
+          "binwidth": 0.1
+        }
+      },
+      {
+        "type": "geom_half_violin",
+        "mapping": {
+          "fill": "gene"
+        },
+        "arguments": {
+          "side": "r",
+          "nudge": 0.2
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#009392",
+            "#39b185",
+            "#9ccb86",
+            "#e9e29c",
+            "#eeb479",
+            "#e88471",
+            "#cf597e"
+          ]
+        }
+      }
+    ],
+    "coordinates": [
+      {
+        "type": "coord_flip"
+      }
+    ],
+    "guides": {
+      "x": {
+        "type": "guide_prism_bracket"
+      }
+    },
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": "Gene expression level"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": false,
+  "has_r": true
+}

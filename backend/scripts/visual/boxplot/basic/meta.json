@@ -1,0 +1,82 @@
+{
+  "name": "基础箱线图",
+  "description": "Render a basic line plot using ggplot2.",
+  "ggplot2": {
+    "mapping": {
+      "x": "Country",
+      "y": "Income"
+    },
+    "layers": [
+      {
+        "type": "geom_boxplot",
+        "mapping": {
+          "fill": "Country"
+        },
+        "arguments": {
+          "alpha": 0.7
+        }
+      },
+      {
+        "type": "geom_jitter",
+        "arguments": {
+          "colour": "grey50",
+          "size": 2,
+          "alpha": 0.5,
+          "width": 0.2,
+          "height": 0
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Basic_Boxplot",
+        "x": "Country",
+        "y": "Income"
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "steelblue",
+            "orange",
+            "skyblue",
+            "red",
+            "green"
+          ]
+        }
+      }
+    ],
+    "themes": [
+      {
+        "type": "theme_minimal"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "hjust": 0.5,
+              "size": 14,
+              "face": "bold"
+            }
+          },
+          "axis.text.x": {
+            "type": "element_text",
+            "arguments": {
+              "angle": 45,
+              "hjust": 1
+            }
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": true,
+  "has_r": true
+}

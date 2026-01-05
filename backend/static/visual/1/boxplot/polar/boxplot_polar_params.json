@@ -1,0 +1,128 @@
+{
+  "chart_type": "boxplot_polar",
+  "engine": "r",
+  "data": "/Users/dengxsh/Downloads/Work/OmicsAgent/backend/static/visual/1/boxplot/polar/boxplot_polar_data.csv",
+  "ggplot2": {
+    "mapping": {
+      "x": "month",
+      "y": "shap",
+      "fill": "month"
+    },
+    "layers": [
+      {
+        "type": "geom_segment",
+        "mapping": {
+          "xend": "month",
+          "y": "ymin",
+          "yend": "ymax"
+        },
+        "arguments": {
+          "linetype": "dashed",
+          "colour": "grey50"
+        }
+      },
+      {
+        "type": "geom_violin",
+        "arguments": {
+          "show.legend": false
+        }
+      },
+      {
+        "type": "annotate",
+        "arguments": {
+          "geom": "segment"
+        }
+      },
+      {
+        "type": "geom_hline"
+      },
+      {
+        "type": "geom_textpath",
+        "mapping": {
+          "x": "month",
+          "label": "month"
+        },
+        "arguments": {
+          "vjust": 1.5,
+          "inherit.aes": false
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "coordinates": {
+      "type": "coord_radial",
+      "arguments": {
+        "start": -1.047198,
+        "end": 1.047198
+      }
+    },
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#ed6ca4",
+            "#fbb05b",
+            "#acd372",
+            "#7bc4e2"
+          ]
+        }
+      },
+      {
+        "type": "scale_y_continuous",
+        "arguments": {
+          "expand": [
+            0,
+            0
+          ],
+          "guide": {
+            "type": "guide_axis",
+            "arguments": {
+              "angle": -5
+            }
+          }
+        }
+      }
+    ],
+    "themes": [
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "axis.text.x": {
+            "type": "element_blank"
+          },
+          "axis.text.y": {
+            "type": "element_text",
+            "arguments": {
+              "face": "bold"
+            }
+          },
+          "axis.ticks.x": {
+            "type": "element_blank"
+          },
+          "axis.line": {
+            "type": "element_blank"
+          },
+          "panel.grid.major": {
+            "type": "element_blank"
+          },
+          "panel.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  }
+}

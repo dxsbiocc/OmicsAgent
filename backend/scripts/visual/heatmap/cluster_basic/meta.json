@@ -1,0 +1,52 @@
+{
+  "name": "基础聚类热图",
+  "description": "基础聚类热图用于展示不同基因集在不同样本中的表达情况",
+  "heatmap": {
+    "transform": {
+      "rownames": "sample",
+      "scale": {
+        "type": "scale",
+        "arguments": {
+          "center": true,
+          "scale": true
+        }
+      },
+      "row": true,
+      "log2": false,
+      "log2_offset": 1
+    },
+    "heatmap": [
+      {
+        "type": "Heatmap",
+        "arguments": {
+          "col": {
+            "type": "colorRamp2",
+            "arguments": {
+              "breaks": [
+                -2,
+                0,
+                2
+              ],
+              "colors": [
+                "#8c510a",
+                "white",
+                "#01665e"
+              ]
+            }
+          },
+          "name": "demo",
+          "na_col": "transparent",
+          "show_row_names": false
+        }
+      }
+    ],
+    "draw": {
+      "row_title": "Gene set",
+      "order": "h"
+    },
+    "width": 600,
+    "height": 500
+  },
+  "has_js": false,
+  "has_r": true
+}

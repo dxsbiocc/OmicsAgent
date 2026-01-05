@@ -1,0 +1,25 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <g id="panda-base">
+      <circle cx="50" cy="50" r="18" fill="#334155" />
+      <circle cx="150" cy="50" r="18" fill="#334155" />
+      <path d="M50,160 C30,160 20,130 25,100 C30,50 60,40 100,40 C140,40 170,50 175,100 C180,130 170,160 150,160 L50,160 Z" fill="#F8FAFC" stroke="#e2e8f0" stroke-width="1"/>
+      <ellipse cx="45" cy="155" rx="18" ry="12" fill="#334155" />
+      <ellipse cx="155" cy="155" rx="18" ry="12" fill="#334155" />
+      <ellipse cx="70" cy="85" rx="16" ry="20" fill="#334155" transform="rotate(-15, 70, 85)" />
+      <ellipse cx="130" cy="85" rx="16" ry="20" fill="#334155" transform="rotate(15, 130, 85)" />
+      <path d="M94,102 Q100,106 106,102 L100,110 Z" fill="#334155" />
+    </g>
+  </defs>
+  <g transform="translate(-30, 10) scale(0.8)">
+    <use href="#panda-base" />
+  </g>
+  <circle cx="160" cy="120" r="30" fill="#F8FAFC" stroke="#e2e8f0" stroke-width="1"/>
+  <circle cx="145" cy="105" r="10" fill="#334155"/>
+  <circle cx="175" cy="105" r="10" fill="#334155"/>
+  <ellipse cx="155" cy="120" rx="6" ry="8" fill="#334155" transform="rotate(-15, 155, 120)" />
+  <ellipse cx="170" cy="120" rx="6" ry="8" fill="#334155" transform="rotate(15, 170, 120)" />
+  <path d="M90,60 Q130,60 130,90 Q130,110 100,110 L90,120 L90,110 Q50,110 50,90 Q50,60 90,60" fill="#10B981" opacity="0.9"/>
+  <text x="75" y="95" fill="white" font-family="sans-serif" font-size="24" font-weight="bold">Hi!</text>
+</svg>
+

@@ -463,15 +463,15 @@ async def upload_avatar(
 
     try:
         # 保存上传的文件
-        filename = await save_avatar_file(file)
-        avatar_url = get_avatar_url(filename)
+        filename = await save_avatar_file(file, current_user.id)
+        avatar_url = get_avatar_url(current_user.id, filename)
 
         # 删除旧头像文件（如果存在）
         if current_user.avatar_url and current_user.avatar_url.startswith(
-            "/static/avatars/"
+            f"/uploads/{current_user.id}/上传/"
         ):
             old_filename = current_user.avatar_url.split("/")[-1]
-            delete_avatar_file(old_filename)
+            delete_avatar_file(current_user.id, old_filename)
 
         # 更新用户头像URL
         current_user.avatar_url = avatar_url
@@ -563,10 +563,10 @@ async def delete_avatar(
     try:
         # 删除头像文件（如果存在且是上传的头像）
         if current_user.avatar_url and current_user.avatar_url.startswith(
-            "/static/avatars/"
+            f"/uploads/{current_user.id}/上传/"
         ):
             filename = current_user.avatar_url.split("/")[-1]
-            delete_avatar_file(filename)
+            delete_avatar_file(current_user.id, filename)
 
         # 清除用户头像URL
         current_user.avatar_url = None

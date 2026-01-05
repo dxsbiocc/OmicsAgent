@@ -1,0 +1,23 @@
+{
+    "name": "蛋白质组学分析",
+    "description": "蛋白质组学数据分析工具集合，包括蛋白质相互作用、翻译后修饰、抗体数据分析等。",
+    "type": "analysis",
+    "category": "proteomics",
+    "tools": [
+        {
+            "name": "抗体数据分析",
+            "description": "抗体相关数据分析，包括抗体结合位点、抗体功能分析",
+            "category": "proteomics"
+        },
+        {
+            "name": "蛋白质相互作用分析",
+            "description": "蛋白质-蛋白质相互作用（PPI）网络构建和分析",
+            "category": "proteomics"
+        },
+        {
+            "name": "翻译后修饰分析",
+            "description": "蛋白质翻译后修饰（PTM）数据分析，包括磷酸化、乙酰化、泛素化等",
+            "category": "proteomics"
+        }
+    ]
+}

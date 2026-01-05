@@ -1,0 +1,6 @@
+{
+    "name": "多样性分析",
+    "description": "微生物群落多样性分析，包括alpha多样性（Shannon、Simpson指数）和beta多样性（主坐标分析、NMDS等）分析。",
+    "type": "analysis",
+    "category": "metagenomics"
+}

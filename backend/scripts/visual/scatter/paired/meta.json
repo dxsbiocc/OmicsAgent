@@ -1,0 +1,130 @@
+{
+  "name": "配对散点图",
+  "description": "Render a basic line plot using ggplot2.",
+  "ggplot2": {
+    "mapping": {
+      "x": "drug",
+      "y": "auc",
+      "group": "cell_line"
+    },
+    "layers": [
+      {
+        "type": "geom_line",
+        "arguments": {
+          "colour": "#caccd1",
+          "position": {
+            "type": "position_dodge2",
+            "arguments": {
+              "width": 0.2
+            }
+          }
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "position": {
+            "type": "position_dodge2",
+            "arguments": {
+              "width": 0.3
+            }
+          },
+          "size": 4,
+          "colour": "white"
+        }
+      },
+      {
+        "type": "geom_point",
+        "mapping": {
+          "fill": "drug"
+        },
+        "arguments": {
+          "position": {
+            "type": "position_dodge2",
+            "arguments": {
+              "width": 0.3
+            }
+          },
+          "size": 3,
+          "shape": 21,
+          "stroke": 0.5,
+          "alpha": 0.9,
+          "show.legend": false
+        }
+      },
+      {
+        "type": "geom_signif",
+        "arguments": {
+          "test": "wilcox.test",
+          "test.args": {
+            "type": "list",
+            "arguments": {
+              "paired": true
+            }
+          },
+          "margin_top": [
+            0.1
+          ],
+          "step_increase": [
+            0.1
+          ],
+          "map_signif_level": "pvalue = %.2g"
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#8F499C",
+            "#4185BE",
+            "#6DC067",
+            "#F6DB35",
+            "#F78822"
+          ]
+        }
+      },
+      {
+        "type": "scale_y_continuous",
+        "arguments": {
+          "expand": [
+            0.1,
+            0.1
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "DepMap Cell Line",
+        "x": "",
+        "y": "AUC"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          },
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "size": 14,
+              "hjust": 0.5
+            }
+          }
+        }
+      }
+    ],
+    "width": 400,
+    "height": 400
+  },
+  "has_js": false
+}

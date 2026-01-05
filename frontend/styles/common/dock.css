@@ -1,0 +1,156 @@
+.dock-outer {
+  margin: 0;
+  display: block;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 1300;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.dock-panel {
+  position: absolute;
+  display: flex;
+  align-items: flex-end;
+  width: fit-content;
+  gap: 1rem;
+  border-radius: 1rem;
+  /* 深色模式默认背景 */
+  background-color: rgba(18, 18, 18, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 0 0.5rem 0.5rem;
+  pointer-events: auto;
+  backdrop-filter: saturate(180%) blur(20px);
+  cursor: move;
+  user-select: none;
+  transition: background-color 0.3s ease;
+}
+
+.dock-panel:hover {
+  background-color: rgba(18, 18, 18, 0.8);
+}
+
+/* 竖直排列 */
+.dock-panel.dock-vertical {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  width: fit-content;
+  min-height: fit-content;
+  height: auto !important;
+  max-height: 90vh;
+  padding: 0.5rem;
+}
+
+/* 浅色主题支持 */
+[data-theme="light"] .dock-panel,
+.dock-panel.light {
+  background-color: rgba(245, 245, 245, 0.3);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="light"] .dock-panel:hover,
+.dock-panel.light:hover {
+  background-color: rgba(245, 245, 245, 0.8);
+}
+
+.dock-item {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  /* 深色模式默认背景 */
+  background-color: rgba(30, 30, 30, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.2s ease, border-color 0.2s ease, opacity 0.2s ease;
+  opacity: 0.3;
+}
+
+.dock-item:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.15);
+  opacity: 0.8;
+}
+
+/* 浅色主题支持 */
+[data-theme="light"] .dock-item,
+.dock-panel.light .dock-item {
+  background-color: rgba(255, 255, 255, 0.3);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  opacity: 0.3;
+}
+
+[data-theme="light"] .dock-item:hover,
+.dock-panel.light .dock-item:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-color: rgba(0, 0, 0, 0.2);
+  opacity: 0.8;
+}
+
+.dock-item:focus {
+  outline: 2px solid rgba(255, 79, 129, 0.5);
+  outline-offset: 2px;
+}
+
+.dock-item.active {
+  background-color: rgba(255, 79, 129, 0.15);
+  border-color: rgba(255, 79, 129, 0.3);
+}
+
+[data-theme="light"] .dock-item.active,
+.dock-panel.light .dock-item.active {
+  background-color: rgba(255, 79, 129, 0.1);
+  border-color: rgba(255, 79, 129, 0.3);
+}
+
+.dock-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  color: inherit;
+}
+
+.dock-label {
+  position: absolute;
+  top: -1.5rem;
+  left: 50%;
+  width: fit-content;
+  white-space: pre;
+  border-radius: 0.375rem;
+  /* 深色模式默认背景 */
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: rgba(30, 30, 30, 0.9);
+  padding: 0.125rem 0.5rem;
+  font-size: 0.75rem;
+  color: #fff;
+  transform: translateX(-50%);
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* 竖直排列时，标签显示在左侧 */
+.dock-panel.dock-vertical .dock-item .dock-label {
+  top: 50%;
+  left: calc(100% + 0.5rem);
+  transform: translateY(-50%);
+}
+
+/* 浅色主题支持 */
+[data-theme="light"] .dock-label,
+.dock-panel.light .dock-label {
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  color: rgba(0, 0, 0, 0.9);
+}
+

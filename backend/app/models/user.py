@@ -79,6 +79,9 @@ class User(Base):
 
     # Email verification relationship
     email_verifications = relationship("EmailVerification", back_populates="user")
+    
+    # Conversation relationship
+    conversations = relationship("Conversation", back_populates="user")
 
     def __repr__(self):
         return f"<User(id={self.id}, username='{self.username}', email='{self.email}')>"

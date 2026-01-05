@@ -1,0 +1,62 @@
+{
+  "name": "圆角箱线图",
+  "description": "圆角箱线图用于展示变量在不同分组中的分布情况",
+  "ggplot2": {
+    "mapping": {
+      "x": "gene",
+      "y": "expression",
+      "fill": "gene"
+    },
+    "layers": [
+      {
+        "type": "geom_round_boxplot",
+        "arguments": {
+          "radius": 2,
+          "notch": true,
+          "show.legend": false
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "name": "Genes",
+          "values": [
+            "#3be8b0",
+            "#1aafd0",
+            "#6a67ce",
+            "#ffb900",
+            "#fc636b"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": "Gene expression level"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism",
+        "arguments": {}
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 600,
+    "height": 500
+  },
+  "has_js": false,
+  "has_r": true
+}

@@ -1,613 +1,409 @@
 "use client";
 
-import { useState, useRef, useCallback, useEffect } from "react";
+import { useMemo, useRef, useCallback, useEffect } from "react";
+import { Box, Paper, Typography, Stack, Chip, useTheme } from "@mui/material";
+import { AgGridReact } from "ag-grid-react";
+import { useThemeContext } from "@/contexts/ThemeContext";
 import {
-  Box,
-  Button,
-  Paper,
-  Typography,
-  Stack,
-  IconButton,
-  Tooltip,
-  Dialog,
-  DialogTitle,
-  DialogContent,
-  DialogActions,
-  TextField,
-  Alert,
-  Chip,
-  Divider,
-} from "@mui/material";
-import { Upload, Download, FileUpload, Add } from "@mui/icons-material";
-import Spreadsheet, { createEmptyMatrix } from "react-spreadsheet";
-import * as XLSX from "xlsx";
+  ModuleRegistry,
+  AllCommunityModule,
+  type ColDef,
+  type GridReadyEvent,
+  type CellValueChangedEvent,
+  type FirstDataRenderedEvent,
+  type GridApi,
+} from "ag-grid-community";
+// Register all community features to avoid error #272
+ModuleRegistry.registerModules([AllCommunityModule]);
+// 样式在全局 layout 中引入
 
-// 表格数据类型
 interface TableRow {
-  id: number;
-  name: string;
-  value: number;
-  category: string;
-  isNew?: boolean;
   [key: string]: any;
 }
 
-// Spreadsheet数据类型
-type SpreadsheetData = Array<Array<{ value: string | number } | undefined>>;
-
-// 示例数据
-const sampleData: TableRow[] = [
-  { id: 1, name: "数据点1", value: 10, category: "A" },
-  { id: 2, name: "数据点2", value: 20, category: "B" },
-  { id: 3, name: "数据点3", value: 15, category: "A" },
-  { id: 4, name: "数据点4", value: 25, category: "C" },
-  { id: 5, name: "数据点5", value: 30, category: "B" },
-];
-
-// 将TableRow数据转换为Spreadsheet格式
-const convertToSpreadsheetData = (data: TableRow[]): SpreadsheetData => {
-  if (data.length === 0) {
-    return [
-      [
-        { value: "ID" },
-        { value: "名称" },
-        { value: "数值" },
-        { value: "分类" },
-      ],
-    ];
-  }
-
-  // 获取所有可能的列名
-  const allKeys = new Set<string>();
-  data.forEach((row) => {
-    Object.keys(row).forEach((key) => {
-      if (key !== "isNew") {
-        allKeys.add(key);
-      }
-    });
-  });
-
-  // 定义基础列的顺序
-  const baseColumns = ["id", "name", "value", "category"];
-  const extraColumns = Array.from(allKeys).filter(
-    (key) => !baseColumns.includes(key)
-  );
-  const orderedColumns = [...baseColumns, ...extraColumns];
-
-  // 创建标题行
-  const headerRow = orderedColumns.map((key) => {
-    const headerMap: { [key: string]: string } = {
-      id: "ID",
-      name: "名称",
-      value: "数值",
-      category: "分类",
-    };
-    return { value: headerMap[key] || key };
-  });
-
-  // 创建数据行
-  const dataRows = data.map((row) =>
-    orderedColumns.map((key) => ({ value: row[key] || "" }))
-  );
-
-  return [headerRow, ...dataRows];
-};
-
-// 将Spreadsheet数据转换为TableRow格式
-const convertFromSpreadsheetData = (data: SpreadsheetData): TableRow[] => {
-  if (data.length <= 1) return [];
-
-  const dataRows = data.slice(1); // 跳过标题行
-  return dataRows.map((row, index) => {
-    const baseRow: TableRow = {
-      id: Number(row[0]?.value) || index + 1,
-      name: String(row[1]?.value || ""),
-      value: Number(row[2]?.value) || 0,
-      category: String(row[3]?.value || "A"),
-    };
-
-    // 处理额外的列
-    if (row.length > 4) {
-      for (let i = 4; i < row.length; i++) {
-        const header = data[0]?.[i]?.value?.toString() || `列${i + 1}`;
-        baseRow[header] = row[i]?.value || "";
-      }
-    }
-
-    return baseRow;
-  });
-};
-
 interface EnhancedTableProps {
   data?: TableRow[];
-  onDataChange?: (data: TableRow[]) => void;
   title?: string;
   height?: number | string;
+  maxDisplayRows?: number;
+  onDataChange?: (rows: TableRow[]) => void;
+  dataTitle?: string;
 }
 
 export default function EnhancedTable({
-  data = sampleData,
-  onDataChange,
+  data = [],
   title = "数据表格",
-  height = 400,
+  height = 450,
+  maxDisplayRows = 1000,
+  onDataChange,
+  dataTitle,
 }: EnhancedTableProps) {
-  const [rows, setRows] = useState<TableRow[]>(data);
-  const [spreadsheetData, setSpreadsheetData] = useState<SpreadsheetData>(
-    convertToSpreadsheetData(data)
-  );
-  const [uploadDialogOpen, setUploadDialogOpen] = useState(false);
-  const [alert, setAlert] = useState<{
-    type: "success" | "error";
-    message: string;
-  } | null>(null);
-  const fileInputRef = useRef<HTMLInputElement>(null);
-
-  // 历史记录状态（用于撤销/重做）
-  const [history, setHistory] = useState<SpreadsheetData[]>([
-    convertToSpreadsheetData(data),
-  ]);
-  const [historyIndex, setHistoryIndex] = useState(0);
-  const [copiedData, setCopiedData] = useState<string>("");
-
-  // 确保组件挂载后才调用回调
-  useEffect(() => {
-    if (onDataChange) {
-      onDataChange(rows);
-    }
-  }, [rows, onDataChange]);
-
-  // 当外部数据变化时更新内部状态
-  useEffect(() => {
-    setRows(data);
-    setSpreadsheetData(convertToSpreadsheetData(data));
-  }, [data]);
-
-  // 保存到历史记录
-  const saveToHistory = useCallback(
-    (data: SpreadsheetData) => {
-      const newHistory = history.slice(0, historyIndex + 1);
-      newHistory.push(data);
-      setHistory(newHistory);
-      setHistoryIndex(newHistory.length - 1);
-    },
-    [history, historyIndex]
-  );
-
-  // 处理Spreadsheet数据变化
-  const handleSpreadsheetChange = useCallback(
-    (newData: SpreadsheetData) => {
-      setSpreadsheetData(newData);
-      const convertedRows = convertFromSpreadsheetData(newData);
-      setRows(convertedRows);
-      saveToHistory(newData);
-    },
-    [onDataChange, saveToHistory]
-  );
-
-  // 撤销功能
-  const handleUndo = useCallback(() => {
-    if (historyIndex > 0) {
-      const newIndex = historyIndex - 1;
-      setHistoryIndex(newIndex);
-      setSpreadsheetData(history[newIndex]);
-      const convertedRows = convertFromSpreadsheetData(history[newIndex]);
-      setRows(convertedRows);
-    }
-  }, [history, historyIndex]);
-
-  // 重做功能
-  const handleRedo = useCallback(() => {
-    if (historyIndex < history.length - 1) {
-      const newIndex = historyIndex + 1;
-      setHistoryIndex(newIndex);
-      setSpreadsheetData(history[newIndex]);
-      const convertedRows = convertFromSpreadsheetData(history[newIndex]);
-      setRows(convertedRows);
-    }
-  }, [history, historyIndex]);
-
-  // 复制功能
-  const handleCopy = useCallback(() => {
-    const selectedData = spreadsheetData
-      .map((row) => row.map((cell) => cell?.value || "").join("\t"))
-      .join("\n");
-    setCopiedData(selectedData);
-    navigator.clipboard.writeText(selectedData);
-    setAlert({ type: "success", message: "数据已复制到剪贴板" });
-  }, [spreadsheetData]);
-
-  // 粘贴功能
-  const handlePaste = useCallback(() => {
-    if (copiedData) {
-      const lines = copiedData.split("\n");
-      const newData = lines.map((line) =>
-        line.split("\t").map((cell) => ({ value: cell }))
-      );
-
-      // 确保新数据有足够的列
-      const maxCols = Math.max(...newData.map((row) => row.length));
-      const paddedData = newData.map((row) => {
-        while (row.length < maxCols) {
-          row.push({ value: "" });
-        }
-        return row;
-      });
-
-      setSpreadsheetData(paddedData);
-      const convertedRows = convertFromSpreadsheetData(paddedData);
-      setRows(convertedRows);
-      saveToHistory(paddedData);
-      setAlert({ type: "success", message: "数据已粘贴" });
-    }
-  }, [copiedData, saveToHistory]);
-
-  // 新增列功能
-  const handleAddColumn = useCallback(() => {
-    const newData = spreadsheetData.map((row, index) => {
-      const newRow = [...row];
-      if (index === 0) {
-        // 标题行
-        newRow.push({ value: `列${row.length + 1}` });
-      } else {
-        // 数据行
-        newRow.push({ value: "" });
-      }
-      return newRow;
+  const { mode } = useThemeContext();
+  const theme = useTheme();
+  const displayData = useMemo(() => {
+    // 确保数据是可变的，避免只读属性错误
+    return data.slice(0, maxDisplayRows).map((row) => {
+      // 深度克隆数据，确保所有属性都是可写的
+      return JSON.parse(JSON.stringify(row));
     });
+  }, [data, maxDisplayRows]);
 
-    setSpreadsheetData(newData);
-    const convertedRows = convertFromSpreadsheetData(newData);
-    setRows(convertedRows);
-    saveToHistory(newData);
-    setAlert({ type: "success", message: "新列已添加" });
-  }, [spreadsheetData, saveToHistory]);
+  const gridRef = useRef<AgGridReact<TableRow>>(null);
+  const gridApiRef = useRef<GridApi | null>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
 
-  // 新增行功能
-  const handleAddRow = useCallback(() => {
-    if (spreadsheetData.length === 0) return;
+  // 检测是否为科学计数法数值（字符串或数字）
+  const isScientificNotation = (value: any): boolean => {
+    if (typeof value === "string") {
+      // 检查字符串格式的科学计数法，如 "1.23e-5", "1.23E-5", "1.23e+5" 等
+      return /^[-+]?[0-9]*\.?[0-9]+[eE][-+]?[0-9]+$/.test(value.trim());
+    }
+    if (typeof value === "number") {
+      // 检查数字是否需要用科学计数法表示（绝对值很小或很大的数）
+      return (
+        (Math.abs(value) < 1e-3 && value !== 0) ||
+        Math.abs(value) >= 1e10 ||
+        (Math.abs(value) < 1 && value.toString().includes("e"))
+      );
+    }
+    return false;
+  };
 
-    const columnCount = spreadsheetData[0]?.length || 0;
-    const newRow = Array(columnCount)
-      .fill(null)
-      .map(() => ({ value: "" }));
+  // 格式化科学计数法数值
+  const formatScientificNotation = (value: any): string => {
+    // 明确检查 null、undefined 和空字符串
+    if (value === null || value === undefined || value === "") {
+      return "";
+    }
 
-    const newData = [...spreadsheetData, newRow];
+    // 对于数字 0，直接返回 "0"
+    if (value === 0 || value === "0") {
+      return "0";
+    }
 
-    setSpreadsheetData(newData);
-    const convertedRows = convertFromSpreadsheetData(newData);
-    setRows(convertedRows);
-    saveToHistory(newData);
-    setAlert({ type: "success", message: "新行已添加" });
-  }, [spreadsheetData, saveToHistory]);
+    // 尝试转换为数字
+    let numValue: number;
+    if (typeof value === "number") {
+      numValue = value;
+    } else if (typeof value === "string") {
+      // 处理字符串格式的科学计数法，如 "1.7079e-08"
+      const trimmed = value.trim();
+      // 检查是否是科学计数法字符串
+      if (/^[-+]?[0-9]*\.?[0-9]+[eE][-+]?[0-9]+$/.test(trimmed)) {
+        numValue = parseFloat(trimmed);
+      } else {
+        // 尝试普通解析
+        numValue = parseFloat(trimmed);
+      }
+    } else {
+      // 其他类型，尝试转换
+      numValue = Number(value);
+    }
 
-  // 键盘快捷键处理
-  useEffect(() => {
-    const handleKeyDown = (event: KeyboardEvent) => {
-      // 检查是否按下了Ctrl/Cmd键
-      const isCtrlOrCmd = event.ctrlKey || event.metaKey;
+    // 如果无法转换为有效数字，返回原始值的字符串形式
+    if (isNaN(numValue)) {
+      return String(value);
+    }
 
-      if (isCtrlOrCmd) {
-        switch (event.key.toLowerCase()) {
-          case "z":
-            if (event.shiftKey) {
-              // Ctrl+Shift+Z 重做
-              event.preventDefault();
-              handleRedo();
-            } else {
-              // Ctrl+Z 撤销
-              event.preventDefault();
-              handleUndo();
+    // 如果原值是科学计数法格式（字符串或数字），使用科学计数法显示
+    if (
+      isScientificNotation(value) ||
+      (Math.abs(numValue) < 1e-3 && numValue !== 0)
+    ) {
+      return numValue.toExponential();
+    }
+
+    // 对于普通数值，转换为字符串（保留适当精度）
+    return String(numValue);
+  };
+
+  // 检测列是否为数值列（包含科学计数法）
+  const isNumericColumn = (key: string): boolean => {
+    if (displayData.length === 0) return false;
+    // 检查前几行数据来判断列类型
+    const sampleSize = Math.min(10, displayData.length);
+    for (let i = 0; i < sampleSize; i++) {
+      const value = displayData[i][key];
+      // 明确检查：null、undefined 和空字符串跳过，但 0 是有效数值
+      if (value === null || value === undefined || value === "") {
+        continue;
+      }
+      // 如果是数字类型（包括 0），认为是数值列
+      if (typeof value === "number") {
+        return true;
+      }
+      // 如果是科学计数法字符串，认为是数值列
+      if (typeof value === "string" && isScientificNotation(value)) {
+        return true;
+      }
+      // 如果看起来像数字字符串，也检查
+      if (
+        typeof value === "string" &&
+        !isNaN(parseFloat(value)) &&
+        value.trim() !== ""
+      ) {
+        return true;
+      }
+    }
+    return false;
+  };
+
+  const columnDefs = useMemo<ColDef[]>(() => {
+    const keys = displayData.length > 0 ? Object.keys(displayData[0]) : [];
+    return keys.map((key) => {
+      const isNumeric = isNumericColumn(key);
+      return {
+        headerName: key,
+        field: key,
+        sortable: true,
+        filter: true,
+        resizable: true,
+        // 如果是数值列，添加值格式化器
+        ...(isNumeric && {
+          valueGetter: (params: any) => {
+            // 确保返回原始值，让 valueFormatter 处理格式化
+            return params.data?.[params.colDef.field];
+          },
+          valueFormatter: (params: any) => {
+            // 明确检查 null、undefined 和空字符串
+            if (
+              params.value === null ||
+              params.value === undefined ||
+              params.value === ""
+            ) {
+              return "";
             }
-            break;
-          case "y":
-            // Ctrl+Y 重做
-            event.preventDefault();
-            handleRedo();
-            break;
-          case "c":
-            // Ctrl+C 复制
-            event.preventDefault();
-            handleCopy();
-            break;
-          case "v":
-            // Ctrl+V 粘贴
-            event.preventDefault();
-            handlePaste();
-            break;
-        }
+            // 确保 0 值能正确显示
+            const formatted = formatScientificNotation(params.value);
+            // 如果格式化后为空字符串，返回原始值（可能是特殊情况）
+            return formatted || String(params.value);
+          },
+          // 确保排序时使用数值比较
+          comparator: (valueA: any, valueB: any) => {
+            const numA =
+              typeof valueA === "string" ? parseFloat(valueA) : valueA;
+            const numB =
+              typeof valueB === "string" ? parseFloat(valueB) : valueB;
+            if (isNaN(numA) && isNaN(numB)) return 0;
+            if (isNaN(numA)) return 1;
+            if (isNaN(numB)) return -1;
+            return numA - numB;
+          },
+        }),
+      };
+    });
+  }, [displayData]);
+
+  const defaultColDef = useMemo<ColDef>(
+    () => ({
+      sortable: true,
+      filter: true,
+      resizable: true,
+      editable: true,
+    }),
+    []
+  );
+
+  const autoSizeAll = useCallback(() => {
+    const api = gridApiRef.current;
+    if (!api) return;
+    if (typeof (api as any).autoSizeAllColumns === "function") {
+      (api as any).autoSizeAllColumns(false);
+    } else if (typeof (api as any).sizeColumnsToFit === "function") {
+      (api as any).sizeColumnsToFit();
+    }
+  }, []);
+
+  const handleGridReady = useCallback(
+    (params: GridReadyEvent) => {
+      gridApiRef.current = params.api;
+      autoSizeAll();
+    },
+    [autoSizeAll]
+  );
+
+  const handleFirstDataRendered = useCallback(
+    (_: FirstDataRenderedEvent) => {
+      autoSizeAll();
+    },
+    [autoSizeAll]
+  );
+
+  const emitRows = useCallback(() => {
+    if (!onDataChange || !gridRef.current) return;
+    const api = gridRef.current.api;
+    const newRows: TableRow[] = [];
+    api.forEachNode((node) => {
+      if (node.data) {
+        // 深度克隆数据，确保所有属性都是可写的
+        newRows.push(JSON.parse(JSON.stringify(node.data)));
+      }
+    });
+    onDataChange(newRows);
+  }, [onDataChange]);
+
+  const handleCellValueChanged = useCallback(
+    (_: CellValueChangedEvent) => {
+      emitRows();
+    },
+    [emitRows]
+  );
+
+  // 防止滚动穿透：当表格滚动到底部或顶部时，阻止滚动事件传递到父容器
+  useEffect(() => {
+    const container = containerRef.current;
+    if (!container) return;
+
+    // 查找 ag-grid 的实际滚动容器
+    const findScrollContainer = (): HTMLElement | null => {
+      // ag-grid 的滚动容器通常是 .ag-body-viewport 或 .ag-body-vertical-scroll-viewport
+      const agViewport = container.querySelector(
+        ".ag-body-viewport, .ag-body-vertical-scroll-viewport"
+      ) as HTMLElement;
+      return agViewport || container;
+    };
+
+    const handleWheel = (e: WheelEvent) => {
+      const scrollContainer = findScrollContainer();
+      if (!scrollContainer) return;
+
+      const { scrollTop, scrollHeight, clientHeight } = scrollContainer;
+
+      // 检查是否滚动到底部
+      const isAtBottom = scrollTop + clientHeight >= scrollHeight - 1;
+      // 检查是否滚动到顶部
+      const isAtTop = scrollTop <= 1;
+
+      // 如果向下滚动且已到底部，或向上滚动且已在顶部，阻止默认行为
+      if ((e.deltaY > 0 && isAtBottom) || (e.deltaY < 0 && isAtTop)) {
+        e.preventDefault();
+        e.stopPropagation();
+        return false;
       }
     };
 
-    // 监听剪贴板变化
-    const handleClipboardChange = async () => {
-      try {
-        const text = await navigator.clipboard.readText();
-        if (text) {
-          setCopiedData(text);
-        }
-      } catch (error) {
-        // 忽略剪贴板访问错误
+    // 监听 wheel 事件（被动监听，提高性能）
+    container.addEventListener("wheel", handleWheel, { passive: false });
+
+    // 也监听 ag-grid 容器的 wheel 事件
+    const checkAndAttach = () => {
+      const scrollContainer = findScrollContainer();
+      if (scrollContainer && scrollContainer !== container) {
+        scrollContainer.addEventListener("wheel", handleWheel, {
+          passive: false,
+        });
       }
     };
 
-    document.addEventListener("keydown", handleKeyDown);
-    document.addEventListener("paste", handleClipboardChange);
+    // 延迟检查，等待 ag-grid 渲染完成
+    const timeoutId = setTimeout(checkAndAttach, 100);
 
     return () => {
-      document.removeEventListener("keydown", handleKeyDown);
-      document.removeEventListener("paste", handleClipboardChange);
-    };
-  }, [handleUndo, handleRedo, handleCopy, handlePaste]);
-
-  // 处理文件上传
-  const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const file = event.target.files?.[0];
-    if (!file) return;
-
-    const reader = new FileReader();
-    reader.onload = (e) => {
-      try {
-        const data = new Uint8Array(e.target?.result as ArrayBuffer);
-        const workbook = XLSX.read(data, { type: "array" });
-        const sheetName = workbook.SheetNames[0];
-        const worksheet = workbook.Sheets[sheetName];
-        const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
-
-        if (jsonData.length === 0) {
-          setAlert({ type: "error", message: "文件为空或格式不正确" });
-          return;
-        }
-
-        // 转换数据格式
-        const headers = jsonData[0] as string[];
-        const dataRows = jsonData.slice(1) as any[][];
-
-        const newRows: TableRow[] = dataRows.map((row, index) => {
-          const newId = Math.max(...rows.map((r) => r.id), 0) + index + 1;
-          const rowData: any = { id: newId };
-
-          headers.forEach((header, colIndex) => {
-            const value = row[colIndex];
-            if (
-              header.toLowerCase().includes("name") ||
-              header.toLowerCase().includes("名称")
-            ) {
-              rowData.name = value || "";
-            } else if (
-              header.toLowerCase().includes("value") ||
-              header.toLowerCase().includes("数值")
-            ) {
-              rowData.value = Number(value) || 0;
-            } else if (
-              header.toLowerCase().includes("category") ||
-              header.toLowerCase().includes("分类")
-            ) {
-              rowData.category = value || "A";
-            } else {
-              rowData[header] = value;
-            }
-          });
-
-          // 确保必要字段存在
-          if (!rowData.name) rowData.name = `数据点${newId}`;
-          if (rowData.value === undefined) rowData.value = 0;
-          if (!rowData.category) rowData.category = "A";
-
-          return rowData;
-        });
-
-        setRows(newRows);
-        setAlert({
-          type: "success",
-          message: `成功导入 ${newRows.length} 行数据`,
-        });
-        setUploadDialogOpen(false);
-      } catch (error) {
-        setAlert({ type: "error", message: "文件解析失败，请检查文件格式" });
+      clearTimeout(timeoutId);
+      container.removeEventListener("wheel", handleWheel);
+      const scrollContainer = findScrollContainer();
+      if (scrollContainer && scrollContainer !== container) {
+        scrollContainer.removeEventListener("wheel", handleWheel);
       }
     };
-    reader.readAsArrayBuffer(file);
-  };
+  }, [displayData]);
 
-  // 导出数据
-  const handleExportData = () => {
-    // 将Spreadsheet数据转换为二维数组
-    const exportData = spreadsheetData.map((row) =>
-      row.map((cell) => cell?.value || "")
-    );
-
-    const worksheet = XLSX.utils.aoa_to_sheet(exportData);
-    const workbook = XLSX.utils.book_new();
-    XLSX.utils.book_append_sheet(workbook, worksheet, "数据表");
-    XLSX.writeFile(workbook, "数据表.xlsx");
-  };
+  useEffect(() => {
+    autoSizeAll();
+  }, [columnDefs, autoSizeAll]);
 
   return (
-    <Box>
-      {/* 标题和工具栏 */}
-      <Box sx={{ mb: 2 }}>
+    <Box sx={{ overflow: "auto" }}>
+      <Box
+        sx={{
+          mb: 2,
+          border: "1px solid",
+          borderColor: "divider",
+          borderRadius: 1,
+          p: 1,
+          position: "relative",
+        }}
+      >
         <Stack
-          direction="row"
-          justifyContent="space-between"
+          direction="column"
+          justifyContent="center"
           alignItems="center"
-          sx={{ mb: 2 }}
+          sx={{ mb: 4 }}
         >
-          <Typography variant="h6" fontWeight={600}>
+          <Typography variant="body1" fontWeight={600}>
             {title}
           </Typography>
-          <Chip label={`${rows.length} 行数据`} size="small" color="primary" />
         </Stack>
 
-        {/* 操作按钮 */}
-        <Stack direction="row" spacing={1} sx={{ mb: 2 }} flexWrap="wrap">
-          {/* 表格操作 */}
-          <Stack direction="row" spacing={1}>
-            <Button
-              variant="outlined"
-              startIcon={<Add />}
-              onClick={handleAddColumn}
-              size="small"
-            >
-              新增列
-            </Button>
-            <Button
-              variant="outlined"
-              startIcon={<Add />}
-              onClick={handleAddRow}
-              size="small"
-            >
-              新增行
-            </Button>
-          </Stack>
-
-          <Divider orientation="vertical" flexItem />
-
-          {/* 文件操作 */}
-          <Stack direction="row" spacing={1}>
-            <Button
-              variant="outlined"
-              startIcon={<FileUpload />}
-              onClick={() => setUploadDialogOpen(true)}
-              size="small"
-            >
-              导入文件
-            </Button>
-            <Button
-              variant="outlined"
-              startIcon={<Download />}
-              onClick={handleExportData}
-              size="small"
-            >
-              导出Excel
-            </Button>
-          </Stack>
-        </Stack>
-
-        {/* 提示信息 */}
-        {alert && (
-          <Alert
-            severity={alert.type}
-            onClose={() => setAlert(null)}
-            sx={{ mb: 2 }}
+        {dataTitle && (
+          <Typography
+            variant="body1"
+            align="left"
+            color="text.secondary"
+            sx={{ position: "absolute", left: 8, bottom: 8 }}
           >
-            {alert.message}
-          </Alert>
+            {dataTitle}
+          </Typography>
         )}
+
+        <Stack
+          direction="row"
+          spacing={1}
+          alignItems="center"
+          sx={{ position: "absolute", right: 8, bottom: 8 }}
+        >
+          <Chip
+            label={`${displayData.length} 行数据`}
+            size="small"
+            color="primary"
+          />
+          {data.length > maxDisplayRows && (
+            <Chip
+              label={`共${data.length}行`}
+              size="small"
+              color="secondary"
+              variant="outlined"
+            />
+          )}
+        </Stack>
       </Box>
 
-      {/* 数据表格 */}
-      <Paper sx={{ height: height, width: "100%", overflow: "hidden" }}>
+      <Paper
+        sx={{
+          height: height,
+          width: "100%",
+          overflow: "hidden",
+          borderRadius: 0,
+          bgcolor: "background.paper",
+          overscrollBehavior: "contain", // 防止滚动链传递到父容器
+        }}
+      >
         <Box
+          ref={containerRef}
+          className={
+            mode === "dark" ? "ag-theme-alpine-dark" : "ag-theme-alpine"
+          }
           sx={{
             height: "100%",
             width: "100%",
-            overflow: "auto",
-            "&::-webkit-scrollbar": {
-              width: "8px",
-              height: "8px",
-            },
-            "&::-webkit-scrollbar-track": {
-              backgroundColor: "#f1f1f1",
-              borderRadius: "4px",
-            },
-            "&::-webkit-scrollbar-thumb": {
-              backgroundColor: "#c1c1c1",
-              borderRadius: "4px",
-              "&:hover": {
-                backgroundColor: "#a8a8a8",
-              },
-            },
-            "& .spreadsheet-container": {
-              minWidth: "100%",
-              minHeight: "100%",
-              "& .Spreadsheet": {
-                minWidth: "100%",
-                minHeight: "100%",
-              },
-              "& .Spreadsheet__table": {
-                minWidth: "100%",
-                minHeight: "100%",
-                border: "1px solid #e0e0e0",
-                tableLayout: "auto",
-                width: "max-content",
-              },
-              "& .Spreadsheet__header": {
-                backgroundColor: "#f5f5f5",
-                fontWeight: 600,
-                borderBottom: "2px solid #e0e0e0",
-                position: "sticky",
-                top: 0,
-                zIndex: 1,
-              },
-              "& .Spreadsheet__cell": {
-                border: "1px solid #e0e0e0",
-                padding: "8px 12px",
-                fontSize: "14px",
-                minWidth: "120px",
-                maxWidth: "200px",
-                whiteSpace: "nowrap",
-                overflow: "hidden",
-                textOverflow: "ellipsis",
-                transition: "background-color 0.2s ease",
-              },
-              "& .Spreadsheet__cell--selected": {
-                backgroundColor: "#e3f2fd",
-                border: "2px solid #2196f3",
-              },
-              "& .Spreadsheet__cell:hover": {
-                backgroundColor: "#f5f5f5",
-              },
-              "& .Spreadsheet__cell input": {
-                width: "100%",
-                border: "none",
-                outline: "none",
-                background: "transparent",
-                fontSize: "14px",
-                padding: "0",
-              },
-            },
+            overscrollBehavior: "contain", // 防止滚动链传递到父容器
+            overflow: "auto", // 确保容器可滚动
           }}
         >
-          <Spreadsheet
-            data={spreadsheetData}
-            onChange={handleSpreadsheetChange}
-            className="spreadsheet-container"
+          <AgGridReact
+            ref={gridRef}
+            rowData={displayData}
+            columnDefs={columnDefs}
+            defaultColDef={defaultColDef}
+            theme="legacy"
+            stopEditingWhenCellsLoseFocus={true}
+            onGridReady={handleGridReady}
+            onFirstDataRendered={handleFirstDataRendered}
+            onCellValueChanged={handleCellValueChanged}
+            pagination={true}
           />
         </Box>
       </Paper>
-
-      {/* 文件上传对话框 */}
-      <Dialog
-        open={uploadDialogOpen}
-        onClose={() => setUploadDialogOpen(false)}
-        maxWidth="sm"
-        fullWidth
-      >
-        <DialogTitle>导入Excel文件</DialogTitle>
-        <DialogContent>
-          <Typography variant="body2" color="text.secondary" sx={{ mb: 2 }}>
-            支持 .xlsx, .xls 格式文件。请确保文件包含以下列：名称、数值、分类
-          </Typography>
-          <input
-            ref={fileInputRef}
-            type="file"
-            accept=".xlsx,.xls"
-            onChange={handleFileUpload}
-            style={{ display: "none" }}
-          />
-          <Button
-            variant="contained"
-            startIcon={<Upload />}
-            onClick={() => fileInputRef.current?.click()}
-            fullWidth
-          >
-            选择文件
-          </Button>
-        </DialogContent>
-        <DialogActions>
-          <Button onClick={() => setUploadDialogOpen(false)}>取消</Button>
-        </DialogActions>
-      </Dialog>
     </Box>
   );
 }

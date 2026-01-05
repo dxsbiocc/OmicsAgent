@@ -24,7 +24,9 @@ export default function ProtectedRoute({
 
   useEffect(() => {
     if (!isLoading && !isAuthenticated) {
-      router.push("/auth/login");
+      // 保存当前路径，登录后可以返回
+      const currentPath = window.location.pathname + window.location.search;
+      router.push(`/auth/login?redirect=${encodeURIComponent(currentPath)}`);
     }
   }, [isAuthenticated, isLoading, router]);
 

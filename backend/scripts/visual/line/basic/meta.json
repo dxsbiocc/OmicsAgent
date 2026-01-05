@@ -1,25 +1,133 @@
 {
-  "name": "Basic Line",
-  "description": "Render a basic line plot using ggplot2.",
-  "params_schema": {
-    "data": {"type": "string", "description": "CSV file path"},
-    "x_col": {"type": "string"},
-    "y_col": {"type": "string"},
-    "color_col": {"type": ["string", "null"]},
-    "point_size": {"type": "number"},
-    "width": {"type": "integer"},
-    "height": {"type": "integer"},
-    "title": {"type": "string"}
+  "name": "基础折线图",
+  "description": "显示数据随时间或顺序的变化趋势，适合表现增长、波动等动态过程。",
+  "params": {
+    "mapping": {
+      "x": {
+        "type": "string"
+      },
+      "y": {
+        "type": "string"
+      },
+      "alpha": {
+        "type": "number"
+      },
+      "colour": {
+        "type": "string"
+      },
+      "linetype": {
+        "type": "select",
+        "options": [
+          "blank",
+          "solid",
+          "dashed",
+          "dotted",
+          "dotdash",
+          "longdash",
+          "twodash"
+        ]
+      },
+      "linewidth": {
+        "type": "number"
+      },
+      "color": {
+        "type": "string"
+      }
+    },
+    "arrow": {
+      "type": "object",
+      "description": "Arrow specification, as created by grid::arrow()",
+      "properties": {
+        "angle": {
+          "type": "number",
+          "description": "Arrow angle in degrees",
+          "default": 30
+        },
+        "length": {
+          "type": "unit",
+          "description": "Arrow length",
+          "default": "0.25",
+          "unit": "inches"
+        },
+        "ends": {
+          "type": "select",
+          "description": "Which end of the line to draw arrow",
+          "options": [
+            "last",
+            "first",
+            "both"
+          ],
+          "default": "last"
+        },
+        "type": {
+          "type": "select",
+          "description": "Arrow type",
+          "options": [
+            "open",
+            "closed"
+          ],
+          "default": "open"
+        }
+      },
+      "default": null
+    },
+    "lineend": {
+      "type": "select",
+      "description": "Line end style",
+      "options": [
+        "round",
+        "butt",
+        "square"
+      ],
+      "default": "butt"
+    },
+    "linejoin": {
+      "type": "select",
+      "description": "Line join style",
+      "options": [
+        "round",
+        "mitre",
+        "bevel"
+      ],
+      "default": "round"
+    },
+    "linemitre": {
+      "type": "number",
+      "description": "Line mitre limit (number greater than 1)",
+      "default": 10
+    },
+    "show_legend": {
+      "type": "boolean",
+      "default": null
+    },
+    "orientation": {
+      "type": "select",
+      "options": [
+        "x",
+        "y"
+      ],
+      "default": null
+    }
   },
-  "defaults": {
-    "x_col": "x",
-    "y_col": "y",
-    "color_col": null,
-    "point_size": 2.0,
-    "width": 800,
-    "height": 600,
-    "title": "Basic Line"
-  }
+  "additional_params": {
+    "point_size": {
+      "type": "number"
+    },
+    "width": {
+      "type": "integer"
+    },
+    "height": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    },
+    "xlab": {
+      "type": "string"
+    },
+    "ylab": {
+      "type": "string"
+    }
+  },
+  "has_js": true
 }
-
-

@@ -1,0 +1,74 @@
+[
+  {
+    "year": "2001",
+    "Orange": 3,
+    "Tomato": 7,
+    "Apple": 1,
+    "Sakana": 4,
+    "Banana": 6,
+    "Iwashi": 8,
+    "Snappy Fish": 2,
+    "Lemon": 9,
+    "Pasta": 5
+  },
+  {
+    "year": "2002",
+    "Orange": 6,
+    "Tomato": 3,
+    "Apple": 5,
+    "Sakana": 4,
+    "Banana": 7,
+    "Iwashi": 8,
+    "Snappy Fish": 1,
+    "Lemon": 2,
+    "Pasta": 9
+  },
+  {
+    "year": "2003",
+    "Orange": 9,
+    "Tomato": 1,
+    "Apple": 4,
+    "Sakana": 6,
+    "Banana": 3,
+    "Iwashi": 2,
+    "Snappy Fish": 5,
+    "Lemon": 8,
+    "Pasta": 7
+  },
+  {
+    "year": "2004",
+    "Orange": 1,
+    "Tomato": 9,
+    "Apple": 6,
+    "Sakana": 4,
+    "Banana": 8,
+    "Iwashi": 7,
+    "Snappy Fish": 5,
+    "Lemon": 2,
+    "Pasta": 3
+  },
+  {
+    "year": "2005",
+    "Orange": 5,
+    "Tomato": 8,
+    "Apple": 6,
+    "Sakana": 7,
+    "Banana": 1,
+    "Iwashi": 9,
+    "Snappy Fish": 3,
+    "Lemon": 2,
+    "Pasta": 4
+  },
+  {
+    "year": "2006",
+    "Orange": 9,
+    "Tomato": 6,
+    "Apple": 5,
+    "Sakana": 1,
+    "Banana": 2,
+    "Iwashi": 3,
+    "Snappy Fish": 7,
+    "Lemon": 4,
+    "Pasta": 8
+  }
+]

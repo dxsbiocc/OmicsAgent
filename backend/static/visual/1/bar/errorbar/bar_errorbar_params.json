@@ -1,0 +1,96 @@
+{
+  "chart_type": "bar_errorbar",
+  "engine": "r",
+  "data": "/Users/dengxsh/Downloads/Work/OmicsAgent/backend/static/visual/1/bar/errorbar/bar_errorbar_data.json",
+  "ggplot2": {
+    "mapping": {
+      "x": "condition",
+      "y": "value",
+      "fill": "specie"
+    },
+    "layers": [
+      {
+        "type": "geom_bar",
+        "arguments": {
+          "stat": "summary",
+          "fun": "mean",
+          "position": {
+            "type": "position_dodge",
+            "arguments": {
+              "width": 0.9
+            }
+          },
+          "width": 0.7,
+          "colour": "grey30"
+        }
+      },
+      {
+        "type": "geom_errorbar",
+        "arguments": {
+          "stat": "summary",
+          "fun.data": "mean_se",
+          "position": {
+            "type": "position_dodge",
+            "arguments": {
+              "width": 0.9
+            }
+          },
+          "width": 0.2
+        }
+      },
+      {
+        "type": "geom_jitter",
+        "arguments": {
+          "position": {
+            "type": "position_jitterdodge",
+            "arguments": {
+              "jitter.width": 0.15,
+              "dodge.width": 0.9
+            }
+          },
+          "alpha": 0.7,
+          "size": 3
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#009392",
+            "#39b185",
+            "#9ccb86",
+            "#e9e29c",
+            "#eeb479",
+            "#e88471",
+            "#cf597e"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "",
+        "x": "",
+        "y": ""
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_prism"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.background": {
+            "type": "element_blank"
+          }
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  }
+}

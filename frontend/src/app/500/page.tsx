@@ -9,9 +9,11 @@ import { Box, Container, Typography, Button, Stack } from "@mui/material";
 import { Home, Refresh, ArrowBack, BugReport } from "@mui/icons-material";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
+import { useThemeContext } from "@/contexts/ThemeContext";
 
 export default function ServerErrorPage() {
   const router = useRouter();
+  const { mode } = useThemeContext();
 
   const handleGoHome = () => {
     router.push("/");
@@ -70,11 +72,10 @@ export default function ServerErrorPage() {
           }}
         >
           <Image
-            src="/images/plate/mushroom_8.svg"
-            alt="500 服务器错误蘑菇插图"
+            src="/icons/panda-crash.svg"
+            alt="500 服务器错误熊猫插图"
             fill
             style={{ objectFit: "contain" }}
-            priority
           />
         </Box>
 
@@ -100,7 +101,7 @@ export default function ServerErrorPage() {
             mb: 4,
           }}
         >
-          抱歉，服务器遇到了内部错误，小蘑菇正在紧急修复中。
+          抱歉，服务器遇到了内部错误，小熊猫正在紧急修复中。
           <br />
           请稍后再试，或者联系我们的技术支持团队。
         </Typography>
@@ -165,12 +166,18 @@ export default function ServerErrorPage() {
 
         <Box
           sx={{
-            backgroundColor: "error.50",
+            backgroundColor:
+              mode === "dark"
+                ? "rgba(211, 47, 47, 0.1)"
+                : "error.50",
             borderRadius: 2,
             p: 3,
             maxWidth: 600,
             border: "1px solid",
-            borderColor: "error.200",
+            borderColor:
+              mode === "dark"
+                ? "rgba(211, 47, 47, 0.3)"
+                : "error.200",
           }}
         >
           <Typography
@@ -208,7 +215,10 @@ export default function ServerErrorPage() {
                 color: "error.main",
                 borderColor: "error.main",
                 "&:hover": {
-                  backgroundColor: "error.50",
+                  backgroundColor:
+                    mode === "dark"
+                      ? "rgba(211, 47, 47, 0.2)"
+                      : "error.50",
                   borderColor: "error.dark",
                 },
               }}

@@ -1,0 +1,6 @@
+{
+    "name": "空间代谢组学分析",
+    "description": "空间代谢组学数据分析，整合空间位置信息和代谢物丰度数据，研究代谢物的空间分布模式。",
+    "type": "analysis",
+    "category": "metabolomics"
+}

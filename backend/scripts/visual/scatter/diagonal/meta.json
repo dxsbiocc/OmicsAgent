@@ -1,0 +1,108 @@
+{
+    "name": "对角线散点图",
+    "description": "对角线散点图用于展示两个变量之间的差异",
+    "ggplot2": {
+        "mapping": {
+            "x": "log2(WT)",
+            "y": "log2(KO)",
+            "colour": "group"
+        },
+        "layers": [
+            {
+                "type": "geom_point",
+                "arguments": {
+                    "size": 3,
+                    "alpha": 0.5,
+                    "show.legend": false
+                }
+            },
+            {
+                "type": "geom_label_repel",
+                "mapping": {
+                    "label": "symbol"
+                },
+                "arguments": {
+                    "top.k": 10,
+                    "max.overlaps": 2000,
+                    "show.legend": false
+                }
+            },
+            {
+                "type": "annotate",
+                "arguments": {
+                    "geom": "label",
+                    "x": [
+                        -5,
+                        10
+                    ],
+                    "y": [
+                        10,
+                        -5
+                    ],
+                    "label": [
+                        "Up",
+                        "Down"
+                    ],
+                    "size": [
+                        6,
+                        6
+                    ],
+                    "fill": [
+                        "#a16928",
+                        "#2887a1"
+                    ],
+                    "colour": [
+                        "#525e61",
+                        "#525e61"
+                    ],
+                    "alpha": [
+                        0.8,
+                        0.8
+                    ]
+                }
+            }
+        ],
+        "scales": [
+            {
+                "type": "scale_colour_manual",
+                "arguments": {
+                    "values": [
+                        "#a16928",
+                        "#edeac2",
+                        "#2887a1"
+                    ]
+                }
+            }
+        ],
+        "labs": {
+            "type": "labs",
+            "arguments": {
+                "title": "Yap1-KO",
+                "x": "WT",
+                "y": "KO"
+            }
+        },
+        "themes": [
+            {
+                "type": "theme_prism"
+            },
+            {
+                "type": "theme",
+                "arguments": {
+                    "plot.background": {
+                        "type": "element_blank"
+                    },
+                    "legend.title": {
+                        "type": "element_text",
+                        "arguments": {
+                            "size": 12
+                        }
+                    }
+                }
+            }
+        ],
+        "width": 800,
+        "height": 600
+    },
+    "has_js": false
+}

@@ -1,0 +1,81 @@
+{
+  "chart_type": "line_group",
+  "engine": "r",
+  "data": "/Users/dengxsh/Downloads/Work/OmicsAgent/backend/static/visual/1/line/group/line_group_data.csv",
+  "ggplot2": {
+    "mapping": {
+      "x": "day",
+      "y": "value",
+      "colour": "category"
+    },
+    "layers": [
+      {
+        "type": "geom_line",
+        "mapping": {
+          "group": "category"
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "colour": "white",
+          "size": 3
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "size": 2
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_colour_viridis_d"
+      },
+      {
+        "type": "scale_x_discrete",
+        "arguments": {
+          "limits": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Lines by Category",
+        "x": "Country",
+        "y": "Income"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_minimal"
+      },
+      {
+        "type": "theme",
+        "arguments": {
+          "plot.title": {
+            "type": "element_text",
+            "arguments": {
+              "hjust": 0.5,
+              "size": 14,
+              "face": "bold"
+            }
+          },
+          "legend.position": "bottom"
+        }
+      }
+    ],
+    "width": 800,
+    "height": 600
+  }
+}

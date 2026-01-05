@@ -1,0 +1,84 @@
+{
+  "name": "轮廓散点图",
+  "description": "轮廓散点图是一种特殊的散点图，适合展示多个类别的数值",
+  "ggplot2": {
+    "mapping": {
+      "x": "x",
+      "y": "y",
+      "fill": "cluster"
+    },
+    "layers": [
+      {
+        "type": "geom_vline",
+        "arguments": {
+          "xintercept": 0,
+          "linewidth": 0.2
+        }
+      },
+      {
+        "type": "geom_hline",
+        "arguments": {
+          "yintercept": 0,
+          "linewidth": 0.2
+        }
+      },
+      {
+        "type": "geom_point",
+        "arguments": {
+          "shape": 21,
+          "size": 4,
+          "alpha": 0.8
+        }
+      },
+      {
+        "type": "stat_chull",
+        "arguments": {
+          "geom": "polygon",
+          "alpha": 0.2
+        },
+        "mapping": {
+          "fill": "cluster",
+          "colour": "cluster"
+        }
+      }
+    ],
+    "scales": [
+      {
+        "type": "scale_fill_manual",
+        "arguments": {
+          "values": [
+            "#1CC7D0",
+            "#2DDE98",
+            "#FFC168"
+          ]
+        }
+      },
+      {
+        "type": "scale_colour_manual",
+        "arguments": {
+          "values": [
+            "#1cc7d0",
+            "#2dde98",
+            "#ffc168"
+          ]
+        }
+      }
+    ],
+    "labs": {
+      "type": "labs",
+      "arguments": {
+        "title": "Scatter Plot with Contours",
+        "x": "pc1",
+        "y": "pc2"
+      }
+    },
+    "themes": [
+      {
+        "type": "theme_minimal"
+      }
+    ],
+    "width": 800,
+    "height": 600
+  },
+  "has_js": false
+}

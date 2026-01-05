@@ -1,0 +1,33 @@
+{
+    "name": "bulk RNA-seq",
+    "description": "批量RNA测序数据分析，包括差异表达分析、功能富集分析、通路分析等。",
+    "type": "analysis",
+    "category": "transcriptomics",
+    "tools": [
+        {
+            "name": "differential_expression",
+            "title": "差异表达分析",
+            "description": "差异表达分析，包括差异表达基因的筛选、差异表达基因的富集分析、差异表达基因的通路分析等。"
+        },
+        {
+            "name": "functional_enrichment",
+            "title": "功能富集分析",
+            "description": "功能富集分析，包括差异表达基因的富集分析、差异表达基因的通路分析等。"
+        },
+        {
+            "name": "pathway_analysis",
+            "title": "通路分析",
+            "description": "通路分析，包括差异表达基因的通路分析等。"
+        },
+        {
+            "name": "immune_infiltration",
+            "title": "免疫浸润分析",
+            "description": "免疫浸润分析，包括免疫浸润基因的筛选、免疫浸润基因的富集分析、免疫浸润基因的通路分析等。"
+        },
+        {
+            "name": "drug_response",
+            "title": "药物响应分析",
+            "description": "药物响应分析，包括药物响应基因的筛选、药物响应基因的富集分析、药物响应基因的通路分析等。"
+        }
+    ]
+}
